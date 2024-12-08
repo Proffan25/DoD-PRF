@@ -1,5 +1,6 @@
-owner = ARN
-controller = ARN
-add_core = ARN
+owner = ARA
+controller = ARA
+add_core = ARA
+add_core = CAT
 trade_goods = grain
-life_rating = 33
+life_rating = 31

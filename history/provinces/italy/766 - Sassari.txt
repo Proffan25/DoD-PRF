@@ -1,13 +1,11 @@
-owner = ARN
-controller = ARN
-add_core = ARN
-add_core = SIC
-#add_core = ITA
-
+owner = ARA
+controller = ARA
+add_core = ARA
+add_core = SRD
+add_core = ITA
 trade_goods = grain
 life_rating = 35
 1861.1.1 = {
 	controller = ITA
 	owner = ITA
-	#add_core = ITA
 }

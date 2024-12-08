@@ -1,6 +1,14 @@
-owner = SCA
-controller = SCA
-naval_base = 1
-trade_goods = grain
+owner = NFL
+controller = NFL
+add_core = NFL
+add_core = MAT
+add_core = BTV
+add_core = SAF
+trade_goods = fish
+terrain = savanna
 life_rating = 35
-colonial = 2
+1861.1.1 = {
+	owner = POR
+	controller = POR
+	colonial = 2
+}

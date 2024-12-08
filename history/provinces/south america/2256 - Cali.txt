@@ -1,8 +1,9 @@
 owner = CLM
 controller = CLM
 add_core = CLM
+add_core = SAN
+add_core = INC
 add_core = GRA
-#add_core = GCO
-trade_goods = grain
+trade_goods = cattle
+terrain = montane_forest
 life_rating = 35
-

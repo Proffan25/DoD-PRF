@@ -1,8 +1,7 @@
 owner = SCA
 controller = SCA
 add_core = SCA
-#add_core = SCA
-trade_goods = fish
+trade_goods = cattle
 life_rating = 35
 naval_base = 1
 #state_building = {
@@ -15,4 +14,3 @@ naval_base = 1
 #	building = glass_factory
 #	upgrade = yes
 #}
-

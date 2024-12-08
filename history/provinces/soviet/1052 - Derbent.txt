@@ -1,7 +1,12 @@
-owner = ASK
-controller = ASK
+owner = AZB
+controller = AZB
 add_core = ASK
-add_core = CRI
+add_core = AZB
+add_core = RUS
+add_core = DAG
 trade_goods = fruit
 life_rating = 35
-
+1861.1.1 = {
+	owner = RUS
+	controller = RUS
+}

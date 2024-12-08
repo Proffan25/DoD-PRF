@@ -1,6 +1,6 @@
 owner = JOD
 controller = JOD
 add_core = JOD
-trade_goods = tea
+add_core = HND
+trade_goods = fruit
 life_rating = 32
-

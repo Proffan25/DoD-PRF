@@ -1,8 +1,8 @@
+owner = ADA
+controller = ADA
+add_core = ETH
+add_core = ADA
+add_core = AMT
+terrain = dryhills
 trade_goods = cattle
-life_rating = 25
-1861.1.1 = {
-	owner = ETH
-	controller = ETH
-	life_rating = 30
-}
-
+life_rating = 10

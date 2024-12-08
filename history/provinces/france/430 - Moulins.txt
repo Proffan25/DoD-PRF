@@ -1,6 +1,7 @@
-owner = DUA
-controller = DUA
+owner = BRG
+controller = BRG
+add_core = BRG
 add_core = FRA
-add_core = DUA
+fort = 1 
 trade_goods = coal
-life_rating = 37
+life_rating = 31

@@ -2,12 +2,14 @@ owner = TUR
 controller = TUR
 add_core = TUR
 add_core = SYR
-trade_goods = fruit
+add_core = LBN
+trade_goods = silk
 life_rating = 35
+terrain = hills
+
 1861.1.1 = {
 	controller = TUR 
 	owner = TUR
-	colonial = 0
 }
 1861.1.1 = {
 	state_building = {
@@ -16,4 +18,3 @@ life_rating = 35
 		upgrade = yes
 	}
 }
-

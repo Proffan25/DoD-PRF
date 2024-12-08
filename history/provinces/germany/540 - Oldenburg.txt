@@ -1,7 +1,7 @@
 owner = OLD
 controller = OLD
 add_core = OLD
-#add_core = GER
+add_core = GER
 trade_goods = fish
 life_rating = 40
 #state_building = {
@@ -12,4 +12,3 @@ life_rating = 40
 1861.1.1 = {
 	naval_base = 1 #Wilhelmshaven
 }
-

@@ -1,12 +1,11 @@
 capital = 926
 primary_culture = mashriqi
 culture = bedouin
-religion = animist
+religion = sunni
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_order
-literacy = 0.01
-civilized = no
+literacy = 0.28
 prestige = 10
 
 # Political reforms
@@ -28,6 +27,14 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions 
 school_reforms = no_schools
 
+# New Reforms
+conscription = two_year_draft
+debt_law = peonage
+penal_system = capital_punishment
+child_labor = child_labor_legal
+citizens_rights = primary_culture_only
+border_policy = open_borders
+
 ruling_party = BAB_conservative
 last_election = 1834.1.1
 upper_house = {
@@ -40,6 +47,8 @@ upper_house = {
 	communist = 0
 }
 
+set_country_flag = sunni_country
+
 # Technologies
 flintlock_rifles = 1
 post_napoleonic_thought = 1
@@ -48,10 +57,22 @@ no_standard = 1
 guild_based_production = 1
 classicism_n_early_romanticism = 1
 late_enlightenment_philosophy = 1
-water_wheel_power = 1
 
 #Inventions
 
 # Starting Consciousness
 consciousness = 2
 nonstate_consciousness = 1
+
+1861.1.1 = {
+# Technologies
+	post_napoleonic_thought = 1
+	flintlock_rifles = 1
+	bronze_muzzle_loaded_artillery = 1
+	no_standard = 1
+	guild_based_production = 1
+	classicism_n_early_romanticism = 1
+	late_enlightenment_philosophy = 1
+
+#Inventions
+}

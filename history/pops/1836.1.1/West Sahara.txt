@@ -1,127 +1,88 @@
 #Rio de Oro Region (20000) #see Mauritania.txt for balance of region
 #uncolonized in 1836  
-#Al Aiyun (12000/3000 POPS)  
+#Al Aiyun (12000/3000 POPS)  aguia el-Hamra
 1773 = {
-	aristocrats = {
-		culture = afro_asiatic
-		religion = animist
-		size = 10
-	}
+    aristocrats = {
+        culture = maures
+        religion = sunni
+        size = 30
+    }
 
-	clergymen = {
-		culture = afro_asiatic
-		religion = animist
-		size = 15
-	}
+    soldiers = {
+        culture = maures
+        religion = sunni
+        size = 75
+    }
+    clergymen = {
+        culture = maures
+        religion = sunni
+        size = 15
+    }
 
-	artisans = {
-		culture = afro_asiatic
-		religion = animist
-		size = 50
-	}
+    artisans = {
+        culture = maures
+        religion = sunni
+        size = 50
+    }
+    farmers = {
+        culture = maures
+        religion = sunni
+        size = 1200
+    }
 
-	soldiers = {
-		culture = afro_asiatic
-		religion = animist
-		size = 25
-	}
+    aristocrats = {
+        culture = tuareg
+        religion = sunni
+        size = 25
+    }
 
-	farmers = {
-		culture = afro_asiatic
-		religion = animist
-		size = 900
-	}
+    clergymen = {
+        culture = tuareg
+        religion = sunni
+        size = 50
+    }
 
-	aristocrats = {
-		culture = afro_asiatic
-		religion = animist
-		size = 25
-	}
+    artisans = {
+        culture = tuareg
+        religion = sunni
+        size = 100
+    }
 
-	clergymen = {
-		culture = afro_asiatic
-		religion = animist
-		size = 50
-	}
+    soldiers = {
+        culture = tuareg
+        religion = sunni
+        size = 25
+    }
 
-	artisans = {
-		culture = afro_asiatic
-		religion = animist
-		size = 100
-	}
-
-	soldiers = {
-		culture = afro_asiatic
-		religion = animist
-		size = 25
-	}
-
-	farmers = {
-		culture = afro_asiatic
-		religion = animist
-		size = 1800
-	}
+    farmers = {
+        culture = tuareg
+        religion = sunni
+        size = 1500
+    }
 }
 #Dahkla (8000/2000 POPS)  
 1774 = {
-	aristocrats = {
-		culture = afro_asiatic
-		religion = animist
-		size = 10
-	}
+    farmers = {
+        culture = tuareg
+        religion = sunni
+        size = 900
+    }
 
-	clergymen = {
-		culture = afro_asiatic
-		religion = animist
-		size = 15
-	}
+    clergymen = {
+        culture = maures
+        religion = sunni
+        size = 30
+    }
 
-	artisans = {
-		culture = afro_asiatic
-		religion = animist
-		size = 50
-	}
+    artisans = {
+        culture = maures
+        religion = sunni
+        size = 100
+    }
 
-	soldiers = {
-		culture = afro_asiatic
-		religion = animist
-		size = 25
-	}
-
-	farmers = {
-		culture = afro_asiatic
-		religion = animist
-		size = 900
-	}
-
-	aristocrats = {
-		culture = afro_asiatic
-		religion = animist
-		size = 10
-	}
-
-	clergymen = {
-		culture = afro_asiatic
-		religion = animist
-		size = 15
-	}
-
-	artisans = {
-		culture = afro_asiatic
-		religion = animist
-		size = 50
-	}
-
-	soldiers = {
-		culture = afro_asiatic
-		religion = animist
-		size = 25
-	}
-
-	farmers = {
-		culture = afro_asiatic
-		religion = animist
-		size = 900
-	}
-
+    farmers = {
+        culture = maures
+        religion = sunni
+        size = 900
+    }
 }

@@ -1,7 +1,5 @@
-owner = SCA
-controller = SCA
-add_core = PHL
+owner = TNG
+controller = TNG
+add_core = TON
 trade_goods = fish
 life_rating = 35
-colonial = 2
-

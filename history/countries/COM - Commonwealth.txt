@@ -1,13 +1,13 @@
 capital = 57
 primary_culture = anglo_canadian
 culture = french_canadian
-culture = british
 culture = australian
+culture = boer
 religion = animist
 government = hms_government
 plurality = 0.2
 nationalvalue = nv_productivity
-literacy = 0.01
+literacy = 0.6
 civilized = yes
 
 set_country_flag = new_world_nation
@@ -84,3 +84,5 @@ upper_house = {
 	socialist = 0
 	communist = 0
 }
+
+oob = "COM_oob.txt"

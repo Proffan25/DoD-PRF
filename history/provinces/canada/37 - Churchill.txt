@@ -1,13 +1,8 @@
 owner = VIN
 controller = VIN
 add_core = VIN
-
+add_core = ANI
 trade_goods = fish
-life_rating = 20
-1836.1.2 = {
-	remove_core = COM
-	owner = CAN
-	controller = CAN
-	add_core = CAN
-	colonial = 0
-}
+terrain = new_world_boreal
+life_rating = 10
+colonial = 2

@@ -1,9 +1,10 @@
-owner = CHI
-controller = CHI
+owner = MCK
+controller = MCK
 add_core = CHI
+add_core = MCK
 trade_goods = silk
 life_rating = 32
+
 1861.1.1 = {
 	fort = 1
 }
-

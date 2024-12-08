@@ -2,9 +2,5 @@ owner = NBG
 controller = NBG
 add_core = NBG
 add_core = VIN
-#add_core = NEN
 trade_goods = grain
 life_rating = 35
-railroad = 1
-1861.1.1 = { railroad = 3 }
-

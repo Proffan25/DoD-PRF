@@ -2,63 +2,64 @@
 #Under Portuguese Rule 1836
 #Sao Tome (16000/4000 POPS)
 1954 = {
-    aristocrats = {
-        culture = portuguese
-        religion = animist
-        size = 20
-    }
+	aristocrats = {
+		culture = castillian
+		religion = catholic
+		size = 20
+	}
 
-    clergymen = {
-        culture = portuguese
-        religion = animist
-        size = 5
-    }
+	clergymen = {
+		culture = castillian
+		religion = catholic
+		size = 5
+	}
 
-    bureaucrats = {
-        culture = portuguese
-        religion = animist
-        size = 25
-    }
+	bureaucrats = {
+		culture = castillian
+		religion = catholic
+		size = 5
+	}
 
-    artisans = {
-        culture = portuguese
-        religion = animist
-        size = 5
-    }
+	artisans = {
+		culture = castillian
+		religion = catholic
+		size = 5
+	}
 
-    soldiers = {
-        culture = portuguese
-        religion = animist
-        size = 5
-    }
+	soldiers = {
+		culture = castillian
+		religion = catholic
+		size = 5
+	}
 
-    clergymen = {
-        culture = niger_congo_a
-        religion = animist
-        size = 50
-    }
+	clergymen = {
+		culture = kreol
+		religion = catholic
+		size = 50
+	}
 
-    artisans = {
-        culture = niger_congo_a
-        religion = animist
-        size = 200
-    }
+	artisans = {
+		culture = kreol
+		religion = catholic
+		size = 200
+	}
 
-    soldiers = {
-        culture = niger_congo_a
-        religion = animist
-        size = 100
-    }
+	soldiers = {
+		culture = kreol
+		religion = catholic
+		size = 100
+	}
 
-    farmers = {
-        culture = niger_congo_a
-        religion = animist
-        size = 550
-    }
+	farmers = {
+		culture = kreol
+		religion = catholic
+		size = 550
+	}
 
-    slaves = {
-        culture = niger_congo_a
-        religion = animist
-        size = 3450
-    }
+	slaves = {
+		culture = forest_bantu
+		religion = animist
+		size = 3450
+	}
+
 }

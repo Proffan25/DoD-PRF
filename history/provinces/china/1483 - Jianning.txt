@@ -1,8 +1,7 @@
-owner = CHI
-controller = CHI
+owner = TAI
+controller = TAI
+add_core = TAI
 add_core = CHI
-#add_core = TPG
-#add_core = FJN
+add_core = TNG
 trade_goods = tea
-life_rating = 32
-
+life_rating = 35

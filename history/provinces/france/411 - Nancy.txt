@@ -1,31 +1,7 @@
 owner = BRG
 controller = BRG
 add_core = BRG
-trade_goods = iron
-life_rating = 37
-state_building = {
-	level = 1
-	building = steel_factory
-	upgrade = yes
-}
-state_building = {
-	level = 1
-	building = ammunition_factory
-	upgrade = yes
-}
-1861.1.1 = {
-	state_building = {
-		level = 2
-		building = steel_factory
-		upgrade = yes
-	}
-	state_building = {
-		level = 1
-		building = fertilizer_factory
-		upgrade = yes
-	}
-}
+add_core = LRR
+trade_goods = dye
+life_rating = 31
 1861.1.1 = { railroad = 3 }
-
-
-

@@ -1,9 +1,6 @@
-add_core = FIJ
+add_core = TUI
+owner = TUI
+controller = TUI
 trade_goods = fish
-life_rating = 20
-1861.1.1 = {
-	owner = ENG
-	controller = ENG
-	colonial = 2
-}
-
+life_rating = 15
+terrain = small_island

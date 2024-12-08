@@ -1,5 +1,6 @@
-owner = SCA
-controller = SCA
+owner = SPA
+controller = SPA
 trade_goods = coffee
 life_rating = 35
 colonial = 2
+terrain = mountain

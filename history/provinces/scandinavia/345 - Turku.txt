@@ -2,7 +2,6 @@ owner = SCA
 controller = SCA
 add_core = SCA
 add_core = FIN
-trade_goods = fish
-life_rating = 40
+trade_goods = grain
+life_rating = 35
 naval_base = 2
-

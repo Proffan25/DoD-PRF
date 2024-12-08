@@ -1,11 +1,7 @@
 owner = VIN
 controller = VIN
 add_core = VIN
-trade_goods = iron
+add_core = ANI
+trade_goods = grain
 life_rating = 35
-1861.1.1 = {
-	colony = 0
-	}
-
-
-
+colonial = 1

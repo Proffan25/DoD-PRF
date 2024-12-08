@@ -1,6 +1,9 @@
-owner = BRG
-controller = BRG
+owner = SUA
+controller = SUA
+add_core = SUA
+add_core = MAT
+add_core = ZUL
 add_core = BTV
-trade_goods = coal
+add_core = SAF
+trade_goods = grain
 life_rating = 35
-colonial = 2

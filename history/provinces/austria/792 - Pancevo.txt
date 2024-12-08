@@ -1,9 +1,7 @@
 owner = HUN
 controller = HUN
+add_core = SLA
 add_core = HUN
-add_core = SER
-add_core = WAL
-add_core = CRO
+add_core = YUG
 trade_goods = grain
 life_rating = 35
-

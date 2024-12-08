@@ -1,9 +1,7 @@
-
-trade_goods = sulphur
-life_rating = 25
-1861.1.1 = {
-	owner = TUR
-	controller = TUR
-	colonial = 2
-}
-
+owner = FRI
+controller = FRI
+add_core = FRI
+add_core = GER
+trade_goods = cattle
+life_rating = 40
+1861.1.1 = { railroad = 3 }

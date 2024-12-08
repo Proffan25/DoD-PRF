@@ -1,6 +1,6 @@
-owner =INC
+owner = INC
 controller = INC
 add_core = INC
 trade_goods = timber
-life_rating = 35
-
+terrain = savanna
+life_rating = 15

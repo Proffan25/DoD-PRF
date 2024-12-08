@@ -1,9 +1,6 @@
-owner = CHI
-controller = CHI
+owner = MCK
+controller = MCK
 add_core = CHI
-#add_core = SXI
-trade_goods = iron
+add_core = MCK
+trade_goods = wool
 life_rating = 32
-
-
-

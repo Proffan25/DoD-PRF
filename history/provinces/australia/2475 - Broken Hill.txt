@@ -2,4 +2,6 @@ owner = DNG
 controller = DNG
 add_core = DNG
 trade_goods = grain
-life_rating = 35
+terrain = savanna
+life_rating = 20
+colonial = 1

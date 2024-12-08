@@ -1,7 +1,7 @@
-owner = VEN
-controller = VEN
-add_core = VEN
+owner = ALB
+controller = ALB
+add_core = ALB
+add_core = TUR
 add_core = GRE
-trade_goods = coal
+trade_goods = wool
 life_rating = 35
-

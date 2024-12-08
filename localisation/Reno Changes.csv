@@ -33,11 +33,11 @@ internal_push;Increased Migration Push;;;;;;;;;x;;;;
 ship_focus;Ship Repair Speed;;;;;;;;;x;;;;
 militancy_and_reform_focus;Raise Reform Desire and Militancy;;;;;;;;;x;;;;
 mine_and_farm_bonus;Bonus Mining and Farming Efficiency;;;;;;;;;x;;;;
-promote_aristocrats;Encourage Aristocrats Tier 1;Encourager les aristocrates ;Aristokraten fˆrdern;;Potenciar aristÛcratas ;;;;;;;;;x;;;;
+promote_aristocrats;Encourage Landowners Tier 1;Encourager les aristocrates ;Aristokraten fˆrdern;;Potenciar aristÛcratas ;;;;;;;;;x;;;;
 promote_artisans;Encourage Artisans Tier 1;Encourager les artisans ;Handwerker fˆrdern;;Potenciar artesanos ;;;;;;;;;x;;;;
 promote_bureaucrats;Encourage Bureaucrats Tier 1;Encourager les bureaucrates ;BÅEokraten fˆrdern;;Potenciar burÛcratas ;;;;;;;;;x;;;;
 promote_capitalists;Encourage Capitalists Tier 1;Encourager les capitalistes ;Kapitalisten fˆrdern;;Potenciar capitalistas ;;;;;;;;;x;;;;
-promote_clergymen;Encourage Clergymen Tier 1;Encourager les membres du clergÅE;Geistliche fˆrdern;;Potenciar clÈrigos ;;;;;;;;;x;;;;
+promote_clergymen;Encourage Intellectuals Tier 1;Encourager les membres du clergÅE;Geistliche fˆrdern;;Potenciar clÈrigos ;;;;;;;;;x;;;;
 promote_clerks;Encourage Clerks Tier 1;Encourager les employÈs ;Angestellte fˆrdern;;Potenciar oficinistas ;;;;;;;;;x;;;;
 promote_craftsmen;Encourage Craftsmen Tier 1;Encourager les ouvriers ;Facharbeiter fˆrdern;;Potenciar obreros ;;;;;;;;;x;;;;
 promote_farmers;Encourage Farmers Tier 1;Encourager les fermiers ;Bauern fˆrdern;;Potenciar campesinos ;;;;;;;;;x;;;;
@@ -46,35 +46,35 @@ promote_officers;Encourage Officers Tier 1;Encourager les officiers ;Offiziere f
 promote_soldiers;Encourage Soldiers Tier 1;Encourager les soldats ;Soldaten fˆrdern;;Potenciar soldados ;;;;;;;;;x;;;;
 promote_bureaucrats_2;Encourage Bureaucrats Tier 2;;;;;;;;;x;;;;
 promote_capitalists_2;Encourage Capitalists Tier 2;;;;;;;;;x;;;;
-promote_clergymen_2;Encourage Clergymen Tier 2;;;;;;;;;x;;;;
+promote_clergymen_2;Encourage Intellectuals Tier 2;;;;;;;;;x;;;;
 promote_clerks_2;Encourage Clerks Tier 2;;;;;;;;;x;;;;
 promote_craftsmen_2;Encourage Craftsmen Tier 2;;;;;;;;;x;;;;
 promote_officers_2;Encourage Officers Tier 2;;;;;;;;;x;;;;
 promote_soldiers_2;Encourage Soldiers Tier 2;;;;;;;;;x;;;;
 promote_bureaucrats_3;Encourage Bureaucrats Tier 3;;;;;;;;;x;;;;
 promote_capitalists_3;Encourage Capitalists Tier 3;;;;;;;;;x;;;;
-promote_clergymen_3;Encourage Clergymen Tier 3;;;;;;;;;x;;;;
+promote_clergymen_3;Encourage Intellectuals Tier 3;;;;;;;;;x;;;;
 promote_clerks_3;Encourage Clerks Tier 3;;;;;;;;;x;;;;
 promote_craftsmen_3;Encourage Craftsmen Tier 3;;;;;;;;;x;;;;
 promote_officers_3;Encourage Officers Tier 3;;;;;;;;;x;;;;
 promote_soldiers_3;Encourage Soldiers Tier 3;;;;;;;;;x;;;;
 promote_bureaucrats_4;Encourage Bureaucrats Tier 4;;;;;;;;;x;;;;
 promote_capitalists_4;Encourage Capitalists Tier 4;;;;;;;;;x;;;;
-promote_clergymen_4;Encourage Clergymen Tier 4;;;;;;;;;x;;;;
+promote_clergymen_4;Encourage Intellectuals Tier 4;;;;;;;;;x;;;;
 promote_clerks_4;Encourage Clerks Tier 4;;;;;;;;;x;;;;
 promote_craftsmen_4;Encourage Craftsmen Tier 4;;;;;;;;;x;;;;
 promote_officers_4;Encourage Officers Tier 4;;;;;;;;;x;;;;
 promote_soldiers_4;Encourage Soldiers Tier 4;;;;;;;;;x;;;;
 promote_bureaucrats_5;Encourage Bureaucrats Tier 5;;;;;;;;;x;;;;
 promote_capitalists_5;Encourage Capitalists Tier 5;;;;;;;;;x;;;;
-promote_clergymen_5;Encourage Clergymen Tier 5;;;;;;;;;x;;;;
+promote_clergymen_5;Encourage Intellectuals Tier 5;;;;;;;;;x;;;;
 promote_clerks_5;Encourage Clerks Tier 5;;;;;;;;;x;;;;
 promote_craftsmen_5;Encourage Craftsmen Tier 5;;;;;;;;;x;;;;
 promote_officers_5;Encourage Officers Tier 5;;;;;;;;;x;;;;
 promote_soldiers_5;Encourage Soldiers Tier 5;;;;;;;;;x;;;;
 promote_bureaucrats_6;Encourage Bureaucrats Tier 6;;;;;;;;;x;;;;
 promote_capitalists_6;Encourage Capitalists Tier 6;;;;;;;;;x;;;;
-promote_clergymen_6;Encourage Clergymen Tier 6;;;;;;;;;x;;;;
+promote_clergymen_6;Encourage Intellectuals Tier 6;;;;;;;;;x;;;;
 promote_clerks_6;Encourage Clerks Tier 6;;;;;;;;;x;;;;
 promote_craftsmen_6;Encourage Craftsmen Tier 6;;;;;;;;;x;;;;
 promote_officers_6;Encourage Officers Tier 6;;;;;;;;;x;;;;
@@ -82,7 +82,7 @@ promote_soldiers_6;Encourage Soldiers Tier 6;;;;;;;;;x;;;;
 production_focus;Production ;Production ;Produktion;;ProducciÛn ;;;;;;;;;x;;;;
 automation_focus;Encourage Automotive Industry ;Encourager l'industrie automobile ;Automobilindustrie fˆrdern;;Potenciar industria automotriz ;;;;;;;;;x;;;;
 electrical_focus;Encourage Electrical Industry ;Encourager l'industrie Èlectrique ;Elektroindustrie fˆrdern;;Potenciar industria elÈctrica ;;;;;;;;;x;;;;
-chemical_focus;Encourage Chemical Industry ;Encourager l'industrie chimique ;Chemische Industrie fˆrdern;;Potenciar industria qu˙äica ;;;;;;;;;x;;;;
+chemical_focus;Encourage Chemical Industry ;Encourager l'industrie chimique ;Chemische Industrie fˆrdern;;Potenciar industria qu?ica ;;;;;;;;;x;;;;
 shipping_focus;Encourage Shipping Industry ;Encourager l'industrie navale ;Schifffahrtsindustrie fˆrdern;;Potenciar industria naval ;;;;;;;;;x;;;;
 textile_focus;Encourage Textile Industry ;Encourager l'industrie textile ;Textilindustrie fˆrdern;;Potenciar industria textil ;;;;;;;;;x;;;;
 wood_focus;Encourage Wood Industry ;Encourager l'industrie du bois ;Holzindustrie fˆrdern;;Potenciar industria maderera ;;;;;;;;;x;;;;
@@ -106,8 +106,6 @@ LRG;ßGLarge State Flag\nßWThis province is in a state that meets the following c
 HUG;ßGHuge State Flag\nßWThis province is in a state that meets the following criteria:\nßY1836 - 1870 ßWGreater than 1M POPs\nßY1870 - 1900 ßWGreater than 1.5M POPs\nßY1900+ ßWGreater than 2M POPs\n\nßRWarscore Costs (0.5x For Great Wars)\nßWThis province is in a state that has the following costs:\nßYAcquire Core: ßW32% Warscore\nßYAcquire State: ßW64% Warscore\nßYDemand Concession: ßW40% Warscore\nßYPlace in the Sun: ßW20% Warscore\nßYFree Peoples: ßW64% Warscore\nßYTake Capital: ßW66% Warscore;;;;;;;;;;;;;x
 STR;ßGDebug Tag;;;;;;;;;;;;;x
 STR_ADJ;Debug;;;;;;;;;;;;;x
-COM;The Commonwealth;;;;;;;;;;;;;x
-COM_ADJ;British;;;;;;;;;;;;;x
 #############################################;;;;;;;;;;;;;;x
 #New National Focuses;;;;;;;;;;;;;;x
 #############################################;;;;;;;;;;;;;;x
@@ -381,7 +379,7 @@ craftsmen_fix_cooldown_desc;Craftsmen Fix Cooldown is 10 years.;;;;;;;;;;;;;x,,,
 bureaucrats_fix_cooldown;Non-Accepted Bureaucrats Decision Cooldown;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;
 bureaucrats_fix_cooldown_desc;Non-Accepted Bureaucrats Decision Cooldown is 10 years.;;;;;;;;;;;;;x,,,,,,,,,,,,;;;;;;;;;;;
 anti_italy_title;Form Anti-Italy;;;;;;;;;;;;;X,,,,,,,,,,,,,,;;;;;;;;;;;
-anti_italy_desc;Our regional rivals are promoting pan-Italian nationalism in an attempt to legitimize the conquest of their neighbors! We must form a counter bloc to stop their clearly expansionist policy.
+anti_italy_desc;Our regional rivals are promoting pan-Italian nationalism in an attempt to legitimize the conquest of their neighbors! We must form a counter bloc to stop their clearly expansionist policy.;;;;;;;;;;;;;X,,,,,,,,,,,,,,;;;;;;;;;;;
 italy_victory_title;Italy Has Pervailed!;;;;;;;;;;;;;X,,,,,,,,,,,,,,;;;;;;;;;;;
 italy_victory_desc;The Italian peninsula has been united! No longer will pretender elements exist within Italy.;;;;;;;;;;;;;X,,,,,,,,,,,,,,;;;;;;;;;;;
 anti_italy_victory_title;Anti-Italy Has Prevailed!;;;;;;;;;;;;;X,,,,,,,,,,,,,,;;;;;;;;;;;
@@ -706,8 +704,6 @@ world_bank_funding_desc;World Bank Funding modifier to raise the precious metals
 #############################################;;;;;;;;;;;;;;x
 #Additional States;;;;;;;;;;;;;;x
 #############################################;;;;;;;;;;;;;;x
-CHI_1496;Hong Kong;;;;;;;;;;;;;x;;
-CHI_1498;Macao;;;;;;;;;;;;;x;;
 DEB_1;Debug Islands;;;;;;;;;;;;;x;;
 ALD_1700;Algiers;;;;;;;;;;;;;x;;
 TUR_923;Iraq;;;;;;;;;;;;;x;;
@@ -788,12 +784,12 @@ soldier_3;Soldier Bonus 3;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 soldier_4;Soldier Bonus 4;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 soldier_5;Soldier Bonus 5;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 soldier_6;Soldier Bonus 6;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-clergy_1;Clergymen Bonus 1;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-clergy_2;Clergymen Bonus 2;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-clergy_3;Clergymen Bonus 3;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-clergy_4;Clergymen Bonus 4;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-clergy_5;Clergymen Bonus 5;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-clergy_6;Clergymen Bonus 6;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+clergy_1;Intellectuals Bonus 1;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+clergy_2;Intellectuals Bonus 2;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+clergy_3;Intellectuals Bonus 3;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+clergy_4;Intellectuals Bonus 4;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+clergy_5;Intellectuals Bonus 5;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+clergy_6;Intellectuals Bonus 6;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 bureaucrat_1;Bureaucrat Bonus 1;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 bureaucrat_2;Bureaucrat Bonus 2;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 bureaucrat_3;Bureaucrat Bonus 3;;;;;;;;;;;;;;;;;;;;;;;x;;;;
@@ -818,25 +814,3 @@ capitalists_3;Capitalists Bonus 3;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 capitalists_4;Capitalists Bonus 4;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 capitalists_5;Capitalists Bonus 5;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 capitalists_6;Capitalists Bonus 6;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-#############################################;;;;;;;;;;;;;;x
-#Misc Shit;;;;;;;;;;;;;;x
-#############################################;;;;;;;;;;;;;;x
-world_bank_factory_desc;World Bank;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-GHO_exclusive;World Bank Debug Party;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-give_sanctions_title;Give Sanctions;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-give_sanctions_desc;Does what it says.;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-decrease_infamy_title;Decrease Infamy;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-decrease_infamy_desc;Does what it says.;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-increase_infamy_title;Increase Infamy;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-increase_infamy_desc;Does what it says.;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-Little Bighorn;Little Bighorn;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-Apache Raiders;Apache Raiders;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-Local native groups are raiding our settlements in $PROVINCENAME$;Local native groups are raiding our settlements in $PROVINCENAME$;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-Blast them!;Blast them!;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-Oh no!;Oh no!;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-Oh uh.;Oh uh.;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-Tech reform flag;Tech reform flag;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-Tech activation;Tech activation;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-Australopithecus africanus discovered!;Australopithecus africanus discovered!;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-is_dua;Is Dua Lipa;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-dual_path;Dual Path;;;;;;;;;;;;;;;;;;;;;;;x;;;;

@@ -1,8 +1,9 @@
 #Vaduz (20000/5000 POPS)
 3252 = {
-    farmers = {
-        culture = rheinish 
-        religion = animist
-        size = 5950
-    }
+	bankers = {
+		culture = polar_bears
+		religion = animist
+		size = 100000
+	}
 }
+

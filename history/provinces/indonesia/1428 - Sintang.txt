@@ -1,7 +1,6 @@
-owner = KLM
-controller = KLM
-add_core = KLM
-#add_core = INO
+owner = LFG
+controller = LFG
+add_core = LFG
+add_core = NUS
 trade_goods = coffee
-life_rating = 35
-
+life_rating = 15

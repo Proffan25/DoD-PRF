@@ -1,13 +1,13 @@
-owner = BRG
-controller = BRG
 add_core = BTV
+add_core = LWE
+
+add_core = SAF
+
 trade_goods = grain
-life_rating = 35
-colonial = 2
-1836.1.2 = {
-	remove_core = COM
-	owner = SAF
-	controller = SAF
+life_rating = 25
+terrain = semidesert
+1861.1.1 = {
+	owner = ENG
+	controller = ENG
 	add_core = SAF
-	colonial = 0
 }

@@ -1,11 +1,9 @@
-owner = SCA
-controller = SCA
-naval_base = 1
 trade_goods = grain
-life_rating = 35
-colonial = 1
+life_rating = 30
+colonial = 2
+terrain = small_island
 1861.1.1 = {
 	owner = FRA
 	controller = FRA
-	colonial = 2
+	naval_base = 1
 }

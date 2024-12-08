@@ -1,6 +1,9 @@
 owner = HYD
 controller = HYD
 add_core = HYD
-trade_goods = cotton
+add_core = DRA
+#add_core = VIJ
+add_core = ADR
+add_core = BHO
+trade_goods = grain
 life_rating = 32
-

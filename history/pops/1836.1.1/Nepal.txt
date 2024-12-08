@@ -4,102 +4,119 @@
 1326 = {
 	aristocrats = {
 		culture = nepali
-		religion = animist
+		religion = hindu
 		size = 2000
 	}
 
 	bureaucrats = {
 		culture = nepali
-		religion = animist
+		religion = hindu
 		size = 175
 	}
 
 	officers = {
 		culture = nepali
-		religion = animist
+		religion = hindu
 		size = 225
 	}
 
 	clergymen = {
 		culture = nepali
-		religion = animist
+		religion = hindu
 		size = 1100
 	}
 
 	artisans = {
 		culture = nepali
-		religion = animist
+		religion = hindu
 		size = 4050
 	}
 
 	soldiers = {
 		culture = nepali
-		religion = animist
-		size = 7000
+		religion = hindu
+		size= 3000
+
+	}
+
+	soldiers = {
+		culture = nepali
+		religion = hindu
+		size= 3000
+
+	}
+
+	soldiers = {
+		culture = nepali
+		religion = hindu
+		size= 1000
+
 	}
 
 	farmers = {
 		culture = nepali
-		religion = animist
+		religion = hindu
 		size = 86250
 	}
 
 	aristocrats = {
 		culture = tibetan
-		religion = animist
+		religion = gelugpa
 		size = 200
 	}
 
 	clergymen = {
 		culture = tibetan
-		religion = animist
+		religion = gelugpa
 		size = 100
 	}
 
 	artisans = {
 		culture = tibetan
-		religion = animist
+		religion = gelugpa
 		size = 475
 	}
 
 	soldiers = {
 		culture = tibetan
-		religion = animist
-		size = 100
+		religion = gelugpa
+		size= 100
+
 	}
 
 	farmers = {
 		culture = tibetan
-		religion = animist
+		religion = gelugpa
 		size = 10125
 	}
 
 	aristocrats = {
-		culture = nepali
+		culture = asian_minor
 		religion = animist
 		size = 400
 	}
 
 	clergymen = {
-		culture = nepali
+		culture = asian_minor
 		religion = animist
 		size = 225
 	}
 
 	artisans = {
-		culture = nepali
+		culture = asian_minor
 		religion = animist
 		size = 1050
 	}
 
 	soldiers = {
-		culture = nepali
+		culture = asian_minor
 		religion = animist
-		size = 200
+		size= 200
+
 	}
 
 	farmers = {
-		culture = nepali
+		culture = asian_minor
 		religion = animist
 		size = 21125
 	}
@@ -108,90 +125,93 @@
 1327 = {
 	aristocrats = {
 		culture = nepali
-		religion = animist
+		religion = hindu
 		size = 900
 	}
 
 	clergymen = {
 		culture = nepali
-		religion = animist
+		religion = hindu
 		size = 450
 	}
 
 	artisans = {
 		culture = nepali
-		religion = animist
+		religion = hindu
 		size = 2300
 	}
 
 	soldiers = {
 		culture = nepali
-		religion = animist
-		size = 1100
+		religion = hindu
+		size= 1100
+
 	}
 
 	farmers = {
 		culture = nepali
-		religion = animist
+		religion = hindu
 		size = 49250
 	}
 
 	aristocrats = {
 		culture = tibetan
-		religion = animist
+		religion = gelugpa
 		size = 700
 	}
 
 	clergymen = {
 		culture = tibetan
-		religion = animist
+		religion = gelugpa
 		size = 375
 	}
 
 	artisans = {
 		culture = tibetan
-		religion = animist
+		religion = gelugpa
 		size = 1850
 	}
 
 	soldiers = {
 		culture = tibetan
-		religion = animist
-		size = 350
+		religion = gelugpa
+		size= 350
+
 	}
 
 	farmers = {
 		culture = tibetan
-		religion = animist
+		religion = gelugpa
 		size = 33725
 	}
 
 	aristocrats = {
-		culture = nepali
+		culture = asian_minor
 		religion = animist
 		size = 350
 	}
 
 	clergymen = {
-		culture = nepali
+		culture = asian_minor
 		religion = animist
 		size = 200
 	}
 
 	artisans = {
-		culture = nepali
+		culture = asian_minor
 		religion = animist
 		size = 950
 	}
 
 	soldiers = {
-		culture = nepali
+		culture = asian_minor
 		religion = animist
-		size = 200
+		size= 200
+
 	}
 
 	farmers = {
-		culture = nepali
+		culture = asian_minor
 		religion = animist
 		size = 18300
 	}

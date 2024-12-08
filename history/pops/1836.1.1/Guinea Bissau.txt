@@ -2,103 +2,189 @@
 #Uncolonized in 1836/Portuguese trade post
 #Bissau (32000/8000 POPS)
 1877 = {
-	aristocrats = {
-		culture = portuguese
-		religion = animist
-		size = 10
-	}
 
 	clergymen = {
 		culture = portuguese
-		religion = animist
-		size = 15
-	}
-
-	bureaucrats = {
-		culture = portuguese
-		religion = animist
-		size = 5
+		religion = catholic
+		size = 100
 	}
 
 	artisans = {
 		culture = portuguese
-		religion = animist
-		size = 25
+		religion = catholic
+		size = 100
 	}
 
 	soldiers = {
 		culture = portuguese
-		religion = animist
-		size = 20
+		religion = catholic
+		size = 100
+	}
+	
+	farmers = {
+		culture = portuguese
+		religion = catholic
+		size = 100
 	}
 
+	aristocrats = {
+		culture = western_nigritic
+		religion = catholic
+		size = 100
+	}
+	
+	officers = {
+		culture = western_nigritic
+		religion = catholic
+		size = 100
+	}
+	
 	clergymen = {
-		culture = niger_congo_a
-		religion = animist
-		size = 50
+		culture = western_nigritic
+		religion = catholic
+		size = 100
 	}
 
 	artisans = {
-		culture = niger_congo_a
-		religion = animist
+		culture = western_nigritic
+		religion = catholic
 		size = 375
 	}
 
 	soldiers = {
-		culture = niger_congo_a
-		religion = animist
-		size = 75
+		culture = western_nigritic
+		religion = catholic
+		size = 100
 	}
 
 	farmers = {
-		culture = niger_congo_a
-		religion = animist
-		size = 5500
+		culture = western_nigritic
+		religion = catholic
+		size = 5300
 	}
 
 	slaves = {
-		culture = niger_congo_a
+		culture = western_nigritic
 		religion = animist
 		size = 2000
 	}
-}
-#Uncolonized in 1836/ruled by kingdom of Gabu
-#Gabu (76000/19000 POPS)
-1878 = {
-	aristocrats = {
-		culture = niger_congo_a
+	
+		aristocrats = {
+		culture = western_nigritic
 		religion = animist
-		size = 200
+		size = 300
 	}
-
-	clergymen = {
-		culture = niger_congo_a
+	
+	officers = {
+		culture = western_nigritic
 		religion = animist
-		size = 200
+		size = 100
+	}
+	
+	clergymen = {
+		culture = western_nigritic
+		religion = animist
+		size = 100
 	}
 
 	artisans = {
-		culture = niger_congo_a
+		culture = western_nigritic
 		religion = animist
-		size = 1100
+		size = 1000
 	}
 
 	soldiers = {
-		culture = niger_congo_a
+		culture = western_nigritic
 		religion = animist
-		size = 200
+		size = 3000
 	}
 
 	farmers = {
-		culture = niger_congo_a
+		culture = western_nigritic
 		religion = animist
-		size = 14400
+		size = 12048
+	}
+}
+#under the rule of Gabu in 1836
+#Gabu (152000/38000 POPS)
+1878 = {
+	aristocrats = {
+		culture = mande
+		religion = sunni
+		size = 500
+	}
+	
+	bureaucrats = {
+		culture = mande
+		religion = sunni
+		size = 100
+	}
+
+	clergymen = {
+		culture = mande
+		religion = sunni
+		size = 100
+	}
+
+	artisans = {
+		culture = mande
+		religion = sunni
+		size = 1000
+	}
+
+	soldiers = {
+		culture = mande
+		religion = sunni
+		size = 1100
+	}
+
+	farmers = {
+		culture = mande
+		religion = sunni
+		size = 3768
+	}
+	
+	
+	aristocrats = {
+		culture = fulbe
+		religion = sunni
+		size = 400
+	}
+	
+	bureaucrats = {
+		culture = fulbe
+		religion = sunni
+		size = 100
+	}
+
+	clergymen = {
+		culture = fulbe
+		religion = sunni
+		size = 100
+	}
+
+	artisans = {
+		culture = fulbe
+		religion = sunni
+		size = 1000
+	}
+
+	soldiers = {
+		culture = fulbe
+		religion = sunni
+		size = 1200
+	}
+
+	farmers = {
+		culture = fulbe
+		religion = sunni
+		size = 11129
 	}
 
 	slaves = {
-		culture = niger_congo_a
+		culture = western_nigritic
 		religion = animist
-		size = 3000
+		size = 2000
 	}
 
 }

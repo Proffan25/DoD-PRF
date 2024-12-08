@@ -1,13 +1,8 @@
-owner = BRG
-controller = BRG
+owner = LWE
+controller = LWE
+add_core = LWE
 add_core = BTV
+add_core = SAF
+add_core = XHO
 trade_goods = fruit
 life_rating = 35
-colonial = 2
-1836.1.2 = {
-	remove_core = COM
-	owner = SAF
-	controller = SAF
-	add_core = SAF
-	colonial = 0
-}

@@ -1,577 +1,605 @@
 #Abyssinia Region (2172000)
 #under the rule of Ethiopia in 1836
-#Gonder (452000/113000 POPS)
+#Gonder (632000/158000 POPS)
 1852 = {
 	aristocrats = {
-		culture = afro_asiatic
-		religion = animist
-		size = 1500
+		culture = amhara
+		religion = coptic
+		size = 2800
 	}
 
 	bureaucrats = {
-		culture = afro_asiatic
-		religion = animist
-		size = 325
+		culture = amhara
+		religion = coptic
+		size = 575
 	}
 
 	officers = {
-		culture = afro_asiatic
-		religion = animist
-		size = 300
+		culture = amhara
+		religion = coptic
+		size = 535
 	}
 
 	clergymen = {
-		culture = afro_asiatic
-		religion = animist
-		size = 825
+		culture = amhara
+		religion = coptic
+		size = 1685
 	}
 
 	artisans = {
-		culture = afro_asiatic
-		religion = animist
-		size = 4050
+		culture = amhara
+		religion = coptic
+		size = 7450
 	}
 
 	soldiers = {
-		culture = afro_asiatic
-		religion = animist
-		size = 1100
+		culture = amhara
+		religion = coptic
+		size= 3000
+
+	}
+
+	soldiers = {
+		culture = amhara
+		religion = coptic
+		size= 1000
+
 	}
 
 	farmers = {
-		culture = afro_asiatic
+		culture = amhara
+		religion = coptic
+		size = 12500
+	}
+
+	slaves = {
+		culture = amhara
+		religion = coptic
+		size = 16400
+	}
+
+	aristocrats = {
+		culture = amhara
+		religion = jewish
+		size = 130
+	}
+
+	clergymen = {
+		culture = amhara
+		religion = jewish
+		size = 175
+	}
+
+	artisans = {
+		culture = amhara
+		religion = jewish
+		size = 465
+	}
+
+	soldiers = {
+		culture = amhara
+		religion = jewish
+		size= 105
+
+	}
+
+	farmers = {
+		culture = amhara
+		religion = jewish
+		size = 4230
+	}
+
+	aristocrats = {
+		culture = oromo
 		religion = animist
+		size = 975
+	}
+
+	officers = {
+		culture = oromo
+		religion = animist
+		size = 310
+	}
+
+	clergymen = {
+		culture = oromo
+		religion = animist
+		size = 430
+	}
+
+	artisans = {
+		culture = oromo
+		religion = animist
+		size = 2350
+	}
+
+	farmers = {
+		culture = oromo
+		religion = animist
+		size = 41900
+	}
+
+	slaves = {
+		culture = oromo
+		religion = animist
+		size = 5800
+	}
+}
+#Debre Tabor (656000/164000 POPS)
+1853 = {
+	aristocrats = {
+		culture = amhara
+		religion = coptic
+		size = 1950
+	}
+
+	clergymen = {
+		culture = amhara
+		religion = coptic
+		size = 810
+	}
+
+	artisans = {
+		culture = amhara
+		religion = coptic
+		size = 3700
+	}
+
+	soldiers = {
+		culture = amhara
+		religion = coptic
+		size= 3000
+
+	}
+
+
+	soldiers = {
+		culture = amhara
+		religion = coptic
+		size= 3000
+
+	}
+
+	farmers = {
+		culture = amhara
+		religion = coptic
 		size = 65000
 	}
 
 	slaves = {
-		culture = afro_asiatic
-		religion = animist
-		size = 8000
+		culture = amhara
+		religion = coptic
+		size = 17000
 	}
 
 	aristocrats = {
-		culture = afro_asiatic
-		religion = animist
-		size = 50
-	}
-
-	clergymen = {
-		culture = afro_asiatic
-		religion = animist
-		size = 75
-	}
-
-	artisans = {
-		culture = afro_asiatic
-		religion = animist
-		size = 250
-	}
-
-	soldiers = {
-		culture = afro_asiatic
-		religion = animist
-		size = 25
-	}
-
-	farmers = {
-		culture = afro_asiatic
-		religion = animist
-		size = 2600
-	}
-
-	aristocrats = {
-		culture = afro_asiatic
-		religion = animist
-		size = 550
-	}
-
-	officers = {
-		culture = afro_asiatic
-		religion = animist
-		size = 250
-	}
-
-	clergymen = {
-		culture = afro_asiatic
-		religion = animist
-		size = 275
-	}
-
-	artisans = {
-		culture = afro_asiatic
-		religion = animist
-		size = 1175
-	}
-
-	soldiers = {
-		culture = afro_asiatic
-		religion = animist
-		size = 300
-	}
-
-	farmers = {
-		culture = afro_asiatic
-		religion = animist
-		size = 24450
-	}
-
-	slaves = {
-		culture = afro_asiatic
-		religion = animist
-		size = 2000
-	}
-}
-#Debre Tabor (468000/117000 POPS)
-1853 = {
-	aristocrats = {
-		culture = afro_asiatic
-		religion = animist
-		size = 1100
-	}
-
-	clergymen = {
-		culture = afro_asiatic
-		religion = animist
-		size = 500
-	}
-
-	artisans = {
-		culture = afro_asiatic
-		religion = animist
-		size = 2050
-	}
-
-	soldiers = {
-		culture = afro_asiatic
-		religion = animist
-		size = 1100
-	}
-
-	farmers = {
-		culture = afro_asiatic
-		religion = animist
-		size = 39450
-	}
-
-	slaves = {
-		culture = afro_asiatic
-		religion = animist
-		size = 7000
-	}
-
-	aristocrats = {
-		culture = afro_asiatic
-		religion = animist
-		size = 1300
-	}
-
-	clergymen = {
-		culture = afro_asiatic
-		religion = animist
-		size = 675
-	}
-
-	artisans = {
-		culture = afro_asiatic
-		religion = animist
-		size = 2750
-	}
-
-	soldiers = {
-		culture = afro_asiatic
-		religion = animist
-		size = 675
-	}
-
-	farmers = {
-		culture = afro_asiatic
-		religion = animist
-		size = 48600
-	}
-
-	slaves = {
-		culture = afro_asiatic
-		religion = animist
-		size = 12000
-	}
-}
-#Matamma (464000/116000 POPS)
-1854 = {
-	aristocrats = {
-		culture = afro_asiatic
-		religion = animist
-		size = 1025
-	}
-
-	clergymen = {
-		culture = afro_asiatic
-		religion = animist
-		size = 525
-	}
-
-	artisans = {
-		culture = afro_asiatic
-		religion = animist
-		size = 2100
-	}
-
-	soldiers = {
-		culture = afro_asiatic
-		religion = animist
-		size = 1100
-	}
-
-	farmers = {
-		culture = afro_asiatic
-		religion = animist
-		size = 43350
-	}
-
-	slaves = {
-		culture = afro_asiatic
-		religion = animist
-		size = 4000
-	}
-
-	aristocrats = {
-		culture = afro_asiatic
-		religion = animist
-		size = 100
-	}
-
-	clergymen = {
-		culture = afro_asiatic
-		religion = animist
-		size = 75
-	}
-
-	artisans = {
-		culture = afro_asiatic
-		religion = animist
-		size = 550
-	}
-
-	soldiers = {
-		culture = afro_asiatic
-		religion = animist
-		size = 100
-	}
-
-	farmers = {
-		culture = afro_asiatic
-		religion = animist
-		size = 8175
-	}
-
-	aristocrats = {
-		culture = afro_asiatic
-		religion = animist
-		size = 1050
-	}
-
-	clergymen = {
-		culture = afro_asiatic
-		religion = animist
-		size = 550
-	}
-
-	artisans = {
-		culture = afro_asiatic
-		religion = animist
-		size = 2225
-	}
-
-	soldiers = {
-		culture = afro_asiatic
-		religion = animist
-		size = 550
-	}
-
-	farmers = {
-		culture = afro_asiatic
-		religion = animist
-		size = 46600
-	}
-
-	slaves = {
-		culture = afro_asiatic
-		religion = animist
-		size = 4000
-	}
-}
-#Debre Markos (788000/197000 POPS)
-1855 = {
-	aristocrats = {
-		culture = afro_asiatic
-		religion = animist
-		size = 1050
-	}
-
-	clergymen = {
-		culture = afro_asiatic
-		religion = animist
-		size = 550
-	}
-
-	artisans = {
-		culture = afro_asiatic
+		culture = oromo
 		religion = animist
 		size = 2200
 	}
 
-	soldiers = {
-		culture = afro_asiatic
-		religion = animist
-		size = 1100
-	}
-
-	farmers = {
-		culture = afro_asiatic
-		religion = animist
-		size = 44200
-	}
-
-	slaves = {
-		culture = afro_asiatic
-		religion = animist
-		size = 5000
-	}
-
-	aristocrats = {
-		culture = afro_asiatic
-		religion = animist
-		size = 2800
-	}
-
 	clergymen = {
-		culture = afro_asiatic
+		culture = oromo
 		religion = animist
-		size = 1425
+		size = 1240
 	}
 
 	artisans = {
-		culture = afro_asiatic
+		culture = oromo
 		religion = animist
-		size = 5725
+		size = 5450
 	}
 
 	soldiers = {
-		culture = afro_asiatic
+		culture = oromo
 		religion = animist
-		size = 4025
+		size = 1750
 	}
 
 	farmers = {
-		culture = afro_asiatic
+		culture = oromo
 		religion = animist
-		size = 122025
+		size = 85950
 	}
 
 	slaves = {
-		culture = afro_asiatic
+		culture = oromo
 		religion = animist
-		size = 7000
+		size = 23500
+	}
+}
+#Matamma (652000/163000 POPS)
+1854 = {
+	aristocrats = {
+		culture = amhara
+		religion = coptic
+		size = 1995
+	}
+
+	clergymen = {
+		culture = amhara
+		religion = coptic
+		size = 915
+	}
+
+	artisans = {
+		culture = amhara
+		religion = coptic
+		size = 3800
+	}
+
+	soldiers = {
+		culture = amhara
+		religion = coptic
+		size= 3000
+	}
+
+	farmers = {
+		culture = amhara
+		religion = coptic
+		size = 76500
+	}
+
+	slaves = {
+		culture = amhara
+		religion = coptic
+		size = 7650
+	}
+
+	aristocrats = {
+		culture = amhara
+		religion = jewish
+		size = 185
+	}
+
+	clergymen = {
+		culture = amhara
+		religion = jewish
+		size = 160
+	}
+
+	artisans = {
+		culture = amhara
+		religion = jewish
+		size = 1105
+	}
+
+	soldiers = {
+		culture = amhara
+		religion = jewish
+		size= 350
+	}
+
+	farmers = {
+		culture = amhara
+		religion = jewish
+		size = 19600
+	}
+
+	aristocrats = {
+		culture = nubian
+		religion = sunni
+		size = 2000
+	}
+
+	clergymen = {
+		culture = nubian
+		religion = sunni
+		size = 890
+	}
+
+	artisans = {
+		culture = nubian
+		religion = sunni
+		size = 4010
+	}
+
+	soldiers = {
+		culture = nubian
+		religion = sunni
+		size= 1250
+
+	}
+
+	farmers = {
+		culture = nubian
+		religion = sunni
+		size = 72740
+	}
+
+	slaves = {
+		culture = luo
+		religion = animist
+		size = 5600
+	}
+}
+#Debre Markos (1100000/275000 POPS)
+1855 = {
+	aristocrats = {
+		culture = amhara
+		religion = coptic
+		size = 2150
+	}
+
+	clergymen = {
+		culture = amhara
+		religion = coptic
+		size = 940
+	}
+
+	artisans = {
+		culture = amhara
+		religion = coptic
+		size = 3850
+	}
+
+	soldiers = {
+		culture = amhara
+		religion = coptic
+		size= 3000
+
+	}
+
+	farmers = {
+		culture = amhara
+		religion = coptic
+		size = 78250
+	}
+
+	slaves = {
+		culture = amhara
+		religion = coptic
+		size = 13500
+	}
+
+	aristocrats = {
+		culture = oromo
+		religion = animist
+		size = 4750
+	}
+
+	clergymen = {
+		culture = oromo
+		religion = animist
+		size = 2640
+	}
+
+	artisans = {
+		culture = oromo
+		religion = animist
+		size = 10000
+	}
+
+	soldiers = {
+		culture = oromo
+		religion = animist
+		size= 3000
+
+	}
+
+
+	soldiers = {
+		culture = oromo
+		religion = animist
+		size= 3000
+	}
+
+	farmers = {
+		culture = oromo
+		religion = animist
+		size = 230500
+	}
+
+	slaves = {
+		culture = oromo
+		religion = animist
+		size = 14450
 	}
 }
 #Tigray Region (316000)
 #under the rule of Ethiopia in 1836
-#Aksum (140000/35000 POPS)
+#Aksum (196000/49000 POPS)
 1856 = {
 	aristocrats = {
-		culture = afro_asiatic
-		religion = animist
-		size = 575
+		culture = tigray
+		religion = coptic
+		size = 1050
 	}
 
 	bureaucrats = {
-		culture = afro_asiatic
-		religion = animist
-		size = 50
+		culture = tigray
+		religion = coptic
+		size = 125
 	}
 
 	officers = {
-		culture = afro_asiatic
-		religion = animist
-		size = 50
+		culture = tigray
+		religion = coptic
+		size = 115
 	}
 
 	clergymen = {
-		culture = afro_asiatic
-		religion = animist
-		size = 300
+		culture = tigray
+		religion = coptic
+		size = 530
 	}
 
 	artisans = {
-		culture = afro_asiatic
-		religion = animist
-		size = 1250
+		culture = tigray
+		religion = coptic
+		size = 2650
 	}
 
 	soldiers = {
-		culture = afro_asiatic
-		religion = animist
-		size = 1100
+		culture = tigray
+		religion = coptic
+		size= 3000
 	}
 
 	farmers = {
-		culture = afro_asiatic
-		religion = animist
-		size = 21775
+		culture = tigray
+		religion = coptic
+		size = 34785
 	}
 
 	slaves = {
-		culture = afro_asiatic
-		religion = animist
-		size = 5000
+		culture = tigray
+		religion = coptic
+		size = 10000
 	}
 
 	aristocrats = {
-		culture = afro_asiatic
-		religion = animist
-		size = 50
+		culture = oromo
+		religion = coptic
+		size = 105
 	}
 
 	officers = {
-		culture = afro_asiatic
-		religion = animist
-		size = 25
+		culture = oromo
+		religion = coptic
+		size = 55
 	}
 
 	clergymen = {
-		culture = afro_asiatic
-		religion = animist
-		size = 50
+		culture = oromo
+		religion = coptic
+		size = 120
 	}
 
 	artisans = {
-		culture = afro_asiatic
-		religion = animist
-		size = 200
+		culture = oromo
+		religion = coptic
+		size = 370
 	}
 
 	soldiers = {
-		culture = afro_asiatic
-		religion = animist
-		size = 50
+		culture = oromo
+		religion = coptic
+		size= 500
+
 	}
 
 	farmers = {
-		culture = afro_asiatic
-		religion = animist
-		size = 3625
+		culture = oromo
+		religion = coptic
+		size = 7575
 	}
 
 	slaves = {
-		culture = afro_asiatic
+		culture = oromo
+		religion = coptic
+		size = 940
+	}
+	slaves = {
+		culture = nilotic
 		religion = animist
-		size = 1100
+		size = 1400
 	}
 }
-#Antalo (128000/32000 POPS)
+#Antalo (180000/45000 POPS)
 1857 = {
 	aristocrats = {
-		culture = afro_asiatic
-		religion = animist
-		size = 500
+		culture = tigray
+		religion = coptic
+		size = 845
 	}
 
 	clergymen = {
-		culture = afro_asiatic
+		culture = tigray
+		religion = coptic
+		size = 425
+	}
+
+	artisans = {
+		culture = tigray
+		religion = coptic
+		size = 2150
+	}
+
+	soldiers = {
+		culture = tigray
+		religion = coptic
+		size= 3300
+
+	}
+
+	farmers = {
+		culture = tigray
+		religion = coptic
+		size = 33550
+	}
+
+	slaves = {
+		culture = tigray
+		religion = coptic
+		size = 11500
+	}
+
+	aristocrats = {
+		culture = oromo
+		religion = animist
+		size = 205
+	}
+
+	clergymen = {
+		culture = oromo
+		religion = animist
+		size = 190
+	}
+
+	artisans = {
+		culture = oromo
+		religion = animist
+		size = 545
+	}
+
+	soldiers = {
+		culture = oromo
 		religion = animist
 		size = 250
 	}
 
-	artisans = {
-		culture = afro_asiatic
-		religion = animist
-		size = 1050
-	}
-
-	soldiers = {
-		culture = afro_asiatic
-		religion = animist
-		size = 1100
-	}
-
 	farmers = {
-		culture = afro_asiatic
+		culture = oromo
 		religion = animist
-		size = 18200
-	}
-
-	slaves = {
-		culture = afro_asiatic
-		religion = animist
-		size = 5000
-	}
-
-	aristocrats = {
-		culture = afro_asiatic
-		religion = animist
-		size = 100
-	}
-
-	clergymen = {
-		culture = afro_asiatic
-		religion = animist
-		size = 75
-	}
-
-	artisans = {
-		culture = afro_asiatic
-		religion = animist
-		size = 300
-	}
-
-	soldiers = {
-		culture = afro_asiatic
-		religion = animist
-		size = 50
-	}
-
-	farmers = {
-		culture = afro_asiatic
-		religion = animist
-		size = 5475
+		size = 12550
 	}
 }
-#Awsa (48000/12000 POPS)
+#Awsa (68000/17000 POPS)
 1858 = {
 	aristocrats = {
-		culture = afro_asiatic
-		religion = animist
-		size = 225
+		culture = afar
+		religion = sunni
+		size = 400
 	}
 
 	clergymen = {
-		culture = afro_asiatic
-		religion = animist
-		size = 125
+		culture = afar
+		religion = sunni
+		size = 210
 	}
 
 	artisans = {
-		culture = afro_asiatic
-		religion = animist
-		size = 500
+		culture = afar
+		religion = sunni
+		size = 905
 	}
 
 	soldiers = {
-		culture = afro_asiatic
-		religion = animist
-		size = 125
+		culture = afar
+		religion = sunni
+		size= 500
 	}
 
 	farmers = {
-		culture = afro_asiatic
-		religion = animist
-		size = 9025
+		culture = afar
+		religion = sunni
+		size = 18935
 	}
-
 	slaves = {
-		culture = afro_asiatic
+		culture = cushitic
 		religion = animist
-		size = 2000
+		size = 4570
 	}
 }
 #Shoa Region (2068000)
@@ -579,465 +607,502 @@
 #Ankober (1236000/309000 POPS)
 1859 = {
 	aristocrats = {
-		culture = afro_asiatic
-		religion = animist
-		size = 4650
+		culture = amhara
+		religion = coptic
+		size = 15175
 	}
 
 	bureaucrats = {
-		culture = afro_asiatic
-		religion = animist
-		size = 225
+		culture = amhara
+		religion = coptic
+		size = 965
 	}
 
 	officers = {
-		culture = afro_asiatic
-		religion = animist
-		size = 275
-	}
-
-	clergymen = {
-		culture = afro_asiatic
-		religion = animist
-		size = 2375
-	}
-
-	artisans = {
-		culture = afro_asiatic
-		religion = animist
-		size = 9500
-	}
-
-	soldiers = {
-		culture = afro_asiatic
-		religion = animist
-		size = 10000
-	}
-
-	farmers = {
-		culture = afro_asiatic
-		religion = animist
-		size = 20975
-	}
-
-	slaves = {
-		culture = afro_asiatic
-		religion = animist
-		size = 9000
-	}
-
-	aristocrats = {
-		culture = afro_asiatic
-		religion = animist
-		size = 1350
-	}
-
-	bureaucrats = {
-		culture = afro_asiatic
-		religion = animist
-		size = 75
-	}
-
-	officers = {
-		culture = afro_asiatic
-		religion = animist
-		size = 250
-	}
-
-	clergymen = {
-		culture = afro_asiatic
-		religion = animist
-		size = 725
-	}
-
-	artisans = {
-		culture = afro_asiatic
-		religion = animist
-		size = 2875
-	}
-
-	soldiers = {
-		culture = afro_asiatic
-		religion = animist
-		size = 725
-	}
-
-	farmers = {
-		culture = afro_asiatic
-		religion = animist
-		size = 42075
-	}
-
-	slaves = {
-		culture = afro_asiatic
-		religion = animist
-		size = 24000
-	}
-}
-#Awasa (448000/112000 POPS)
-1860 = {
-	aristocrats = {
-		culture = afro_asiatic
-		religion = animist
-		size = 925
-	}
-
-	clergymen = {
-		culture = afro_asiatic
-		religion = animist
-		size = 475
-	}
-
-	artisans = {
-		culture = afro_asiatic
-		religion = animist
-		size = 1900
-	}
-
-	soldiers = {
-		culture = afro_asiatic
-		religion = animist
-		size = 475
-	}
-
-	farmers = {
-		culture = afro_asiatic
-		religion = animist
-		size = 40225
-	}
-
-	slaves = {
-		culture = afro_asiatic
-		religion = animist
-		size = 3000
-	}
-
-	aristocrats = {
-		culture = afro_asiatic
-		religion = animist
-		size = 1325
-	}
-
-	clergymen = {
-		culture = afro_asiatic
-		religion = animist
-		size = 675
-	}
-
-	artisans = {
-		culture = afro_asiatic
-		religion = animist
-		size = 2725
-	}
-
-	soldiers = {
-		culture = afro_asiatic
-		religion = animist
-		size = 1075
-	}
-
-	farmers = {
-		culture = afro_asiatic
-		religion = animist
-		size = 53300
-	}
-
-	slaves = {
-		culture = afro_asiatic
-		religion = animist
-		size = 9000
-	}
-}
-#Aselia (384000/96000POPS)
-1861 = {
-	aristocrats = {
-		culture = afro_asiatic
-		religion = animist
-		size = 600
-	}
-
-	clergymen = {
-		culture = afro_asiatic
-		religion = animist
+		culture = amhara
+		religion = coptic
 		size = 300
 	}
 
+	clergymen = {
+		culture = amhara
+		religion = coptic
+		size = 6550
+	}
+
 	artisans = {
-		culture = afro_asiatic
-		religion = animist
-		size = 1250
+		culture = amhara
+		religion = coptic
+		size = 10000
+	}
+	
+	artisans = {
+		culture = amhara
+		religion = coptic
+		size = 10000
+	}
+	
+	artisans = {
+		culture = amhara
+		religion = coptic
+		size = 4500
 	}
 
 	soldiers = {
-		culture = afro_asiatic
-		religion = animist
-		size = 325
+		culture = amhara
+		religion = coptic
+		size= 3000
+
+	}
+
+	soldiers = {
+		culture = amhara
+		religion = coptic
+		size= 3000
+
+	}
+
+	soldiers = {
+		culture = amhara
+		religion = coptic
+		size= 3000
+
+	}
+
+	soldiers = {
+		culture = amhara
+		religion = coptic
+		size= 3000
+
+	}
+	soldiers = {
+		culture = amhara
+		religion = coptic
+		size= 3000
+
 	}
 
 	farmers = {
-		culture = afro_asiatic
-		religion = animist
-		size = 26525
+		culture = amhara
+		religion = coptic
+		size = 78450
 	}
 
 	slaves = {
-		culture = afro_asiatic
-		religion = animist
-		size = 2000
+		culture = amhara
+		religion = coptic
+		size = 31800
 	}
 
 	aristocrats = {
-		culture = afro_asiatic
-		religion = animist
-		size = 1250
+		culture = oromo
+		religion = coptic
+		size = 4025
+	}
+
+	bureaucrats = {
+		culture = oromo
+		religion = coptic
+		size = 240
+	}
+
+	officers = {
+		culture = oromo
+		religion = coptic
+		size = 760
 	}
 
 	clergymen = {
-		culture = afro_asiatic
-		religion = animist
-		size = 650
+		culture = oromo
+		religion = coptic
+		size = 2330
 	}
 
 	artisans = {
-		culture = afro_asiatic
-		religion = animist
-		size = 2650
+		culture = oromo
+		religion = coptic
+		size = 10000
 	}
 
 	soldiers = {
-		culture = afro_asiatic
-		religion = animist
-		size = 650
+		culture = oromo
+		religion = coptic
+		size= 3000
+
 	}
 
 	farmers = {
-		culture = afro_asiatic
-		religion = animist
-		size = 49800
+		culture = oromo
+		religion = coptic
+		size = 16500
 	}
 
 	slaves = {
-		culture = afro_asiatic
-		religion = animist
-		size = 10000
+		culture = oromo
+		religion = coptic
+		size = 71210
+	}
+}	
+#Awasa (448000/115000 POPS)
+1860 = {
+	aristocrats = {
+		culture = amhara
+		religion = coptic
+		size = 1245
+	}
+
+	clergymen = {
+		culture = amhara
+		religion = coptic
+		size = 665
+	}
+
+	artisans = {
+		culture = amhara
+		religion = coptic
+		size = 2900
+	}
+
+	soldiers = {
+		culture = amhara
+		religion = coptic
+		size= 1500
+	}
+
+	farmers = {
+		culture = amhara
+		religion = coptic
+		size = 56225
+	}
+
+	slaves = {
+		culture = amhara
+		religion = coptic
+		size = 4750
+	}
+
+	aristocrats = {
+		culture = oromo
+		religion = coptic
+		size = 2025
+	}
+
+	clergymen = {
+		culture = oromo
+		religion = coptic
+		size = 895
+	}
+
+	artisans = {
+		culture = oromo
+		religion = coptic
+		size = 4225
+	}
+
+	farmers = {
+		culture = oromo
+		religion = coptic
+		size = 70650
+	}
+
+	slaves = {
+		culture = oromo
+		religion = coptic
+		size = 15300
+	}
+}
+#Aselia (384000/96000 POPS)
+1861 = {
+	aristocrats = {
+		culture = amhara
+		religion = coptic
+		size = 765
+	}
+
+	clergymen = {
+		culture = amhara
+		religion = coptic
+		size = 405
+	}
+
+	artisans = {
+		culture = amhara
+		religion = coptic
+		size = 2150
+	}
+
+	soldiers = {
+		culture = amhara
+		religion = coptic
+		size= 2000
+	}
+
+	farmers = {
+		culture = amhara
+		religion = coptic
+		size = 38525
+	}
+
+	slaves = {
+		culture = amhara
+		religion = coptic
+		size = 3500
+	}
+
+	aristocrats = {
+		culture = oromo
+		religion = coptic
+		size = 2050
+	}
+
+	clergymen = {
+		culture = oromo
+		religion = coptic
+		size = 790
+	}
+
+	artisans = {
+		culture = oromo
+		religion = coptic
+		size = 4150
+	}
+
+	soldiers = {
+		culture = oromo
+		religion = coptic
+		size= 2000
+	}
+
+	farmers = {
+		culture = oromo
+		religion = coptic
+		size = 62000
+	}
+
+	slaves = {
+		culture = oromo
+		religion = coptic
+		size = 17500
 	}
 }
 #Sidamo-Welega Region (1628000)
 #under the "rule" of Ethiopia in 1836
-#Bonga (368000/92000 POPS)
+#Bonga (516000/129000 POPS)
 1862 = {
 	aristocrats = {
-		culture = nilo_saharan
-		religion = animist
-		size = 1800
-	}
-
-	clergymen = {
-		culture = nilo_saharan
-		religion = animist
-		size = 925
-	}
-
-	artisans = {
-		culture = nilo_saharan
-		religion = animist
-		size = 3650
+		culture = wolayta
+		religion = coptic
+		size = 6700
 	}
 
 	soldiers = {
-		culture = nilo_saharan
-		religion = animist
-		size = 925
+		culture = wolayta
+		religion = coptic
+		size= 2500
 	}
 
 	farmers = {
-		culture = nilo_saharan
+		culture = wolayta
+		religion = coptic
+		size = 204500
+	}
+
+	clergymen = {
+		culture = wolayta
 		religion = animist
-		size = 71700
+		size = 730
+	}
+
+	farmers = {
+		culture = wolayta
+		religion = animist
+		size = 27800
 	}
 
 	slaves = {
-		culture = nilo_saharan
+		culture = kefficho
 		religion = animist
-		size = 13000
+		size = 31750
 	}
 }
-#Asosa (540000/135000 POPS)
+#Asosa (756000/189000 POPS)
 1863 = {
 	aristocrats = {
-		culture = nilo_saharan
-		religion = animist
+		culture = amhara
+		religion = coptic
+		size = 710
+	}
+
+	clergymen = {
+		culture = amhara
+		religion = coptic
 		size = 450
 	}
 
-	clergymen = {
-		culture = nilo_saharan
-		religion = animist
-		size = 250
-	}
-
 	artisans = {
-		culture = nilo_saharan
-		religion = animist
-		size = 1100
+		culture = amhara
+		religion = coptic
+		size = 2200
 	}
 
 	soldiers = {
-		culture = nilo_saharan
-		religion = animist
-		size = 250
+		culture = amhara
+		religion = coptic
+		size= 3000
 	}
 
 	farmers = {
-		culture = nilo_saharan
-		religion = animist
-		size = 18050
+		culture = amhara
+		religion = coptic
+		size = 31850
 	}
 
 	slaves = {
-		culture = nilo_saharan
-		religion = animist
-		size = 5000
+		culture = amhara
+		religion = coptic
+		size = 11500
 	}
 
 	aristocrats = {
-		culture = nilo_saharan
+		culture = oromo
 		religion = animist
-		size = 1350
+		size = 2850
 	}
 
 	clergymen = {
-		culture = nilo_saharan
+		culture = oromo
 		religion = animist
-		size = 725
+		size = 1005
 	}
 
 	artisans = {
-		culture = nilo_saharan
+		culture = oromo
 		religion = animist
-		size = 2875
+		size = 5750
 	}
 
 	soldiers = {
-		culture = nilo_saharan
+		culture = oromo
 		religion = animist
-		size = 725
+		size= 1000
 	}
 
 	farmers = {
-		culture = nilo_saharan
+		culture = oromo
 		religion = animist
-		size = 49725
+		size = 78500
 	}
 
 	slaves = {
-		culture = nilo_saharan
+		culture = oromo
 		religion = animist
-		size = 42600
+		size = 68425
 	}
 
 	aristocrats = {
-		culture = nilo_saharan
-		religion = animist
-		size = 750
+		culture = wolayta
+		religion = coptic
+		size = 1080
 	}
 
 	clergymen = {
-		culture = nilo_saharan
-		religion = animist
-		size = 375
+		culture = wolayta
+		religion = coptic
+		size = 675
 	}
 
 	artisans = {
-		culture = nilo_saharan
-		religion = animist
-		size = 1900
+		culture = wolayta
+		religion = coptic
+		size = 3150
 	}
 
 	soldiers = {
-		culture = nilo_saharan
-		religion = animist
-		size = 375
+		culture = wolayta
+		religion = coptic
+		size= 1500
+
 	}
 
 	farmers = {
-		culture = nilo_saharan
-		religion = animist
-		size = 34600
+		culture = wolayta
+		religion = coptic
+		size = 60750
 	}
 }
 #Negele (720000/180000 POPS)
 1864 = {
 	aristocrats = {
-		culture = nilo_saharan
+		culture = oromo
 		religion = animist
-		size = 875
+		size = 1175
 	}
 
 	clergymen = {
-		culture = nilo_saharan
+		culture = oromo
 		religion = animist
-		size = 450
+		size = 660
 	}
 
 	artisans = {
-		culture = nilo_saharan
+		culture = oromo
 		religion = animist
-		size = 1850
+		size = 2450
 	}
 
 	soldiers = {
-		culture = nilo_saharan
+		culture = oromo
 		religion = animist
-		size = 450
+		size= 2000
+
 	}
 
 	farmers = {
-		culture = nilo_saharan
+		culture = oromo
 		religion = animist
-		size = 35375
+		size = 48375
 	}
 
 	slaves = {
-		culture = nilo_saharan
+		culture = oromo
 		religion = animist
-		size = 7000
+		size = 12750
 	}
 
 	aristocrats = {
-		culture = nilo_saharan
-		religion = animist
-		size = 2625
+		culture = sidama
+		religion = coptic
+		size = 3325
 	}
 
 	clergymen = {
-		culture = nilo_saharan
-		religion = animist
-		size = 825
+		culture = sidama
+		religion = coptic
+		size = 1185
 	}
 
 	artisans = {
-		culture = nilo_saharan
-		religion = animist
-		size = 5350
+		culture = sidama
+		religion = coptic
+		size = 6950
 	}
 
 	soldiers = {
-		culture = nilo_saharan
-		religion = animist
-		size = 1350
+		culture = sidama
+		religion = coptic
+		size = 2000
 	}
 
 	farmers = {
-		culture = nilo_saharan
-		religion = animist
-		size = 103850
+		culture = sidama
+		religion = coptic
+		size = 169995
 	}
 
 	slaves = {
-		culture = nilo_saharan
+		culture = cushitic
 		religion = animist
-		size = 19000
+		size = 36700
 	}
 }
 #Ogaden Region (786000)
@@ -1045,278 +1110,309 @@
 #Harer (384000/96000 POPS)
 1865 = {
 	aristocrats = {
-		culture = afro_asiatic
-		religion = animist
-		size = 800
+		culture = harari
+		religion = sunni
+		size = 1210
 	}
 
 	bureaucrats = {
-		culture = afro_asiatic
-		religion = animist
-		size = 15
+		culture = harari
+		religion = sunni
+		size = 65
 	}
 
 	officers = {
-		culture = afro_asiatic
-		religion = animist
-		size = 10
+		culture = harari
+		religion = sunni
+		size = 45
 	}
 
 	clergymen = {
-		culture = afro_asiatic
-		religion = animist
-		size = 425
+		culture = harari
+		religion = sunni
+		size = 610
 	}
 
 	artisans = {
-		culture = afro_asiatic
-		religion = animist
-		size = 1675
+		culture = harari
+		religion = sunni
+		size = 3100
 	}
 
 	soldiers = {
-		culture = afro_asiatic
-		religion = animist
-		size = 400
+		culture = harari
+		religion = sunni
+		size= 3000
+
 	}
 
 	farmers = {
-		culture = afro_asiatic
-		religion = animist
-		size = 25675
+		culture = harari
+		religion = sunni
+		size = 40215
 	}
 
 	aristocrats = {
-		culture = afro_asiatic
-		religion = animist
-		size = 225
+		culture = oromo
+		religion = sunni
+		size = 405
 	}
 
 	clergymen = {
-		culture = afro_asiatic
-		religion = animist
-		size = 125
+		culture = oromo
+		religion = sunni
+		size = 235
 	}
 
 	artisans = {
-		culture = afro_asiatic
-		religion = animist
-		size = 525
+		culture = oromo
+		religion = sunni
+		size = 900
 	}
 
 	soldiers = {
-		culture = afro_asiatic
-		religion = animist
-		size = 125
+		culture = oromo
+		religion = sunni
+		size= 1000
 	}
 
 	farmers = {
-		culture = afro_asiatic
-		religion = animist
-		size = 1200
+		culture = oromo
+		religion = sunni
+		size = 3865
 	}
 
 	aristocrats = {
-		culture = afro_asiatic
-		religion = animist
-		size = 850
+		culture = somali
+		religion = sunni
+		size = 1150
 	}
 
 	clergymen = {
-		culture = afro_asiatic
-		religion = animist
-		size = 425
+		culture = somali
+		religion = sunni
+		size = 675
 	}
 
 	artisans = {
-		culture = afro_asiatic
-		religion = animist
-		size = 2150
+		culture = somali
+		religion = sunni
+		size = 4100
 	}
 
 	soldiers = {
-		culture = afro_asiatic
-		religion = animist
-		size = 425
+		culture = somali
+		religion = sunni
+		size= 1500
+
 	}
 
 	farmers = {
-		culture = afro_asiatic
-		religion = animist
-		size = 39350
+		culture = somali
+		religion = sunni
+		size = 63800
 	}
 
 	slaves = {
-		culture = afro_asiatic
+		culture = sidama
 		religion = animist
-		size = 11000
+		size = 19100
 	}
 }
-#uncolonized in 1836}
+
+#uncolonized in 1836
 #Goba (296000/74000 POPS)
 1866 = {
 	aristocrats = {
-		culture = afro_asiatic
-		religion = animist
-		size = 500
+		culture = sidama
+		religion = coptic
+		size = 700
 	}
 
 	clergymen = {
-		culture = afro_asiatic
-		religion = animist
-		size = 275
+		culture = sidama
+		religion = coptic
+		size = 365
 	}
 
 	artisans = {
-		culture = afro_asiatic
-		religion = animist
-		size = 1075
+		culture = sidama
+		religion = coptic
+		size = 1895
 	}
 
 	soldiers = {
-		culture = afro_asiatic
-		religion = animist
-		size = 275
+		culture = sidama
+		religion = coptic
+		size= 1000
 	}
 
 	farmers = {
-		culture = afro_asiatic
+		culture = sidama
+		religion = coptic
+		size = 27475
+	}
+
+	clergymen = {
+		culture = sidama
 		religion = animist
-		size = 19875
+		size = 170
+	}
+
+	artisans = {
+		culture = sidama
+		religion = animist
+		size = 700
+	}
+
+	soldiers = {
+		culture = sidama
+		religion = animist
+		size= 1500
+
+	}
+
+	farmers = {
+		culture = sidama
+		religion = animist
+		size = 8375
 	}
 
 	slaves = {
-		culture = afro_asiatic
+		culture = sidama
 		religion = animist
-		size = 5000
+		size = 7800
 	}
 
 	aristocrats = {
-		culture = afro_asiatic
-		religion = animist
-		size = 625
+		culture = oromo
+		religion = sunni
+		size = 775
 	}
 
 	clergymen = {
-		culture = afro_asiatic
-		religion = animist
-		size = 325
+		culture = oromo
+		religion = sunni
+		size = 525
 	}
 
 	artisans = {
-		culture = afro_asiatic
-		religion = animist
-		size = 1600
+		culture = oromo
+		religion = sunni
+		size = 2200
 	}
 
 	soldiers = {
-		culture = afro_asiatic
-		religion = animist
-		size = 325
+		culture = oromo
+		religion = sunni
+		size= 2500
+
 	}
 
 	farmers = {
-		culture = afro_asiatic
-		religion = animist
-		size = 29225
+		culture = oromo
+		religion = sunni
+		size = 39250
 	}
 
 	aristocrats = {
-		culture = afro_asiatic
-		religion = animist
-		size = 275
+		culture = somali
+		religion = sunni
+		size = 355
 	}
 
 	clergymen = {
-		culture = afro_asiatic
-		religion = animist
-		size = 150
+		culture = somali
+		religion = sunni
+		size = 240
 	}
 
 	artisans = {
-		culture = afro_asiatic
-		religion = animist
-		size = 750
+		culture = somali
+		religion = sunni
+		size = 890
 	}
 
 	soldiers = {
-		culture = afro_asiatic
-		religion = animist
-		size = 150
+		culture = somali
+		religion = sunni
+		size= 1500
 	}
 
 	farmers = {
-		culture = afro_asiatic
-		religion = animist
-		size = 13675
+		culture = somali
+		religion = sunni
+		size = 21775
 	}
 }
 #Werder (328000/82000 POPS)
 1867 = {
 	aristocrats = {
-		culture = afro_asiatic
-		religion = animist
-		size = 275
+		culture = oromo
+		religion = sunni
+		size = 385
 	}
 
 	clergymen = {
-		culture = afro_asiatic
-		religion = animist
-		size = 150
+		culture = oromo
+		religion = sunni
+		size = 250
 	}
 
 	artisans = {
-		culture = afro_asiatic
-		religion = animist
-		size = 750
+		culture = oromo
+		religion = sunni
+		size = 930
 	}
 
 	soldiers = {
-		culture = afro_asiatic
-		religion = animist
-		size = 150
+		culture = oromo
+		religion = sunni
+		size= 1000
+
 	}
 
 	farmers = {
-		culture = afro_asiatic
-		religion = animist
-		size = 13675
+		culture = oromo
+		religion = sunni
+		size = 20475
 	}
 
 	aristocrats = {
-		culture = afro_asiatic
-		religion = animist
-		size = 1300
+		culture = somali
+		religion = sunni
+		size = 2250
 	}
 
 	clergymen = {
-		culture = afro_asiatic
-		religion = animist
-		size = 775
+		culture = somali
+		religion = sunni
+		size = 965
 	}
 
 	artisans = {
-		culture = afro_asiatic
-		religion = animist
-		size = 2675
+		culture = somali
+		religion = sunni
+		size = 3675
 	}
 
 	soldiers = {
-		culture = afro_asiatic
-		religion = animist
-		size = 675
+		culture = somali
+		religion = sunni
+		size= 3000
+
 	}
 
 	farmers = {
-		culture = afro_asiatic
-		religion = animist
-		size = 57775
+		culture = somali
+		religion = sunni
+		size = 70650
 	}
 
 	slaves = {
-		culture = afro_asiatic
+		culture = sidama
 		religion = animist
-		size = 4000
+		size = 7150
 	}
 
 }

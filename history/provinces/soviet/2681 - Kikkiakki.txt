@@ -1,4 +1,6 @@
-
-trade_goods = timber
-life_rating = 15
-
+owner = TNG
+controller = TNG
+add_core = TNG
+trade_goods = tea
+terrain = plains
+life_rating = 35

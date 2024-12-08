@@ -1,6 +1,5 @@
 
+colonial = 1
 trade_goods = iron
-life_rating = 25
-
-
-
+terrain = montane_forest
+life_rating = 35

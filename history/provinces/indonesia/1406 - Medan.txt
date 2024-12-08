@@ -1,7 +1,6 @@
 owner = ATJ
 controller = ATJ
 add_core = ATJ
-#add_core = INO
+add_core = NUS
 trade_goods = tobacco
-life_rating = 35
-
+life_rating = 38

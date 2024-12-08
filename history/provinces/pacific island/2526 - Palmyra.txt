@@ -1,3 +1,6 @@
-trade_goods = sulphur
-life_rating = 15
-
+owner = HAW
+controller = HAW
+add_core = HAW
+terrain = coral_island
+life_rating = 10
+trade_goods = fish

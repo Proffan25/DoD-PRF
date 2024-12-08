@@ -1,7 +1,7 @@
 owner = LOM
 controller = LOM
 add_core = LOM
-#add_core = ITA
+add_core = ITA
 trade_goods = silk
 life_rating = 35
 1861.1.1 = {
@@ -9,4 +9,3 @@ life_rating = 35
 	controller = ITA
 }
 1861.1.1 = { railroad = 3 }
-

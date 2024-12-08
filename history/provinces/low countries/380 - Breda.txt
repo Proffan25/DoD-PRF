@@ -3,6 +3,5 @@ controller = BRG
 add_core = BRG
 add_core = NET
 trade_goods = cattle
-life_rating = 39
+life_rating = 35
 1861.1.1 = { railroad = 1 }
-

@@ -3,508 +3,472 @@
 #Colombo (400000/100000 POPS)
 1321 = {
 	aristocrats = {
-		culture = indo_aryan
-		religion = animist
+		culture = sinhala
+		religion = theravada
 		size = 800
 	}
 
 	bureaucrats = {
-		culture = indo_aryan
-		religion = animist
+		culture = sinhala
+		religion = theravada
 		size = 150
 	}
 
 	clergymen = {
-		culture = indo_aryan
-		religion = animist
+		culture = sinhala
+		religion = theravada
 		size = 750
 	}
 
 	artisans = {
-		culture = indo_aryan
-		religion = animist
+		culture = sinhala
+		religion = theravada
 		size = 800
 	}
 
 	soldiers = {
-		culture = indo_aryan
-		religion = animist
-		size = 750
+		culture = sinhala
+		religion = theravada
+		size= 750
+
 	}
 
 	farmers = {
-		culture = indo_aryan
-		religion = animist
+		culture = sinhala
+		religion = theravada
 		size = 67750
 	}
 
 	aristocrats = {
-		culture = indo_aryan
-		religion = animist
+		culture = tamil
+		religion = hindu
 		size = 125
 	}
 
 	bureaucrats = {
-		culture = indo_aryan
-		religion = animist
+		culture = tamil
+		religion = hindu
 		size = 100
 	}
 
 	clergymen = {
-		culture = indo_aryan
-		religion = animist
+		culture = tamil
+		religion = hindu
 		size = 125
 	}
 
 	artisans = {
-		culture = indo_aryan
-		religion = animist
+		culture = tamil
+		religion = hindu
 		size = 750
 	}
 
 	soldiers = {
-		culture = indo_aryan
-		religion = animist
-		size = 100
+		culture = tamil
+		religion = hindu
+		size= 100
+
 	}
 
 	labourers = {
-		culture = indo_aryan
-		religion = animist
+		culture = tamil
+		religion = hindu
 		size = 9800
 	}
 
 	clergymen = {
-		culture = indo_aryan
-		religion = animist
-		size = 50
+		culture = sinhala
+		religion = catholic
+		size = 75
 	}
 
 	artisans = {
-		culture = indo_aryan
-		religion = animist
-		size = 500
+		culture = sinhala
+		religion = catholic
+		size = 1250
 	}
 
 	soldiers = {
-		culture = indo_aryan
-		religion = animist
-		size = 50
+		culture = sinhala
+		religion = catholic
+		size= 75
 	}
 
 	labourers = {
-		culture = indo_aryan
-		religion = animist
-		size = 6400
-	}
-
-	clergymen = {
-		culture = indo_aryan
-		religion = animist
-		size = 25
-	}
-
-	artisans = {
-		culture = indo_aryan
-		religion = animist
-		size = 750
-	}
-
-	soldiers = {
-		culture = indo_aryan
-		religion = animist
-		size = 25
-	}
-
-	labourers = {
-		culture = indo_aryan
-		religion = animist
-		size = 1200
+		culture = sinhala
+		religion = catholic
+		size = 7600
 	}
 
 	aristocrats = {
 		culture = mashriqi
-		religion = animist
+		religion = sunni
 		size = 25
 	}
 
 	clergymen = {
 		culture = mashriqi
-		religion = animist
+		religion = sunni
 		size = 75
 	}
 
 	artisans = {
 		culture = mashriqi
-		religion = animist
+		religion = sunni
 		size = 1500
 	}
 
 	soldiers = {
 		culture = mashriqi
-		religion = animist
-		size = 25
+		religion = sunni
+		size= 25
+
 	}
 
 	labourers = {
 		culture = mashriqi
-		religion = animist
+		religion = sunni
 		size = 3375
 	}
 
 	aristocrats = {
 		culture = malay
-		religion = animist
+		religion = sunni
 		size = 25
 	}
 
 	clergymen = {
 		culture = malay
-		religion = animist
+		religion = sunni
 		size = 25
 	}
 
 	artisans = {
 		culture = malay
-		religion = animist
+		religion = sunni
 		size = 1100
 	}
 
 	soldiers = {
 		culture = malay
-		religion = animist
-		size = 50
+		religion = sunni
+		size= 50
+
 	}
 
 	farmers = {
 		culture = malay
-		religion = animist
+		religion = sunni
 		size = 1900
 	}
 
 	aristocrats = {
-		culture = british
-		religion = animist
+		culture = anglois
+		religion = protestant
 		size = 25
 	}
 
 	bureaucrats = {
-		culture = british
-		religion = animist
+		culture = anglois
+		religion = protestant
 		size = 50
 	}
 
 	clergymen = {
-		culture = british
-		religion = animist
+		culture = anglois
+		religion = protestant
 		size = 50
 	}
 
 	artisans = {
-		culture = british
-		religion = animist
+		culture = anglois
+		religion = protestant
 		size = 1100
 	}
 
 	soldiers = {
-		culture = british
-		religion = animist
-		size = 100
+		culture = anglois
+		religion = protestant
+		size= 100
+
 	}
 
 	farmers = {
-		culture = british
-		religion = animist
+		culture = anglois
+		religion = protestant
 		size = 675
 	}
 }
 #Jaffna (288000/72000 POPS)
 1322 = {
 	aristocrats = {
-		culture = dravidian
-		religion = animist
+		culture = sinhala
+		religion = theravada
 		size = 500
 	}
 
 	clergymen = {
-		culture = dravidian
-		religion = animist
+		culture = sinhala
+		religion = theravada
 		size = 500
 	}
 
 	artisans = {
-		culture = dravidian
-		religion = animist
+		culture = sinhala
+		religion = theravada
 		size = 4000
 	}
 
 	soldiers = {
-		culture = dravidian
-		religion = animist
-		size = 500
+		culture = sinhala
+		religion = theravada
+		size= 500
+
 	}
 
 	farmers = {
-		culture = dravidian
-		religion = animist
-		size = 42500
+		culture = sinhala
+		religion = theravada
+		size = 40000
 	}
 
 	aristocrats = {
-		culture = dravidian
-		religion = animist
+		culture = tamil
+		religion = hindu
 		size = 250
 	}
 
 	clergymen = {
-		culture = dravidian
-		religion = animist
+		culture = tamil
+		religion = hindu
 		size = 250
 	}
 
 	artisans = {
-		culture = dravidian
-		religion = animist
+		culture = tamil
+		religion = hindu
 		size = 2000
 	}
 
 	soldiers = {
-		culture = dravidian
-		religion = animist
-		size = 500
+		culture = tamil
+		religion = hindu
+		size= 500
+
 	}
 
 	labourers = {
-		culture = dravidian
-		religion = animist
-		size = 21000
+		culture = tamil
+		religion = hindu
+		size = 23500
 	}
 }
 #Kandy (304000/76000 POPS)
 1323 = {
 	aristocrats = {
-		culture = indo_aryan
-		religion = animist
+		culture = sinhala
+		religion = theravada
 		size = 750
 	}
 
 	clergymen = {
-		culture = indo_aryan
-		religion = animist
+		culture = sinhala
+		religion = theravada
 		size = 750
 	}
 
 	artisans = {
-		culture = indo_aryan
-		religion = animist
+		culture = sinhala
+		religion = theravada
 		size = 4000
 	}
 
 	soldiers = {
-		culture = indo_aryan
-		religion = animist
-		size = 750
+		culture = sinhala
+		religion = theravada
+		size= 750
+
 	}
 
 	farmers = {
-		culture = indo_aryan
-		religion = animist
+		culture = sinhala
+		religion = theravada
 		size = 69250
 	}
 }
 #Trincomalee (208000/52000 POPS)
 1324 = {
 	aristocrats = {
-		culture = dravidian
-		religion = animist
+		culture = sinhala
+		religion = theravada
 		size = 250
 	}
 
 	clergymen = {
-		culture = dravidian
-		religion = animist
+		culture = sinhala
+		religion = theravada
 		size = 225
 	}
 
 	artisans = {
-		culture = dravidian
-		religion = animist
+		culture = sinhala
+		religion = theravada
 		size = 500
 	}
 
 	soldiers = {
-		culture = dravidian
-		religion = animist
-		size = 200
+		culture = sinhala
+		religion = theravada
+		size= 200
+
 	}
 
 	farmers = {
-		culture = dravidian
-		religion = animist
-		size = 19825
+		culture = sinhala
+		religion = theravada
+		size = 18825
 	}
 
 	aristocrats = {
-		culture = dravidian
-		religion = animist
+		culture = tamil
+		religion = hindu
 		size = 250
 	}
 
 	clergymen = {
-		culture = dravidian
-		religion = animist
+		culture = tamil
+		religion = hindu
 		size = 250
 	}
 
 	artisans = {
-		culture = dravidian
-		religion = animist
+		culture = tamil
+		religion = hindu
 		size = 500
 	}
 
 	soldiers = {
-		culture = dravidian
-		religion = animist
-		size = 250
+		culture = tamil
+		religion = hindu
+		size= 250
+
 	}
 
 	labourers = {
-		culture = dravidian
-		religion = animist
-		size = 22750
+		culture = tamil
+		religion = hindu
+		size = 23750
 	}
-
 	clergymen = {
-		culture = dravidian
-		religion = animist
-		size = 25
+		culture = sinhala
+		religion = catholic
+		size = 75
 	}
 
 	artisans = {
-		culture = dravidian
-		religion = animist
-		size = 250
+		culture = sinhala
+		religion = catholic
+		size = 750
 	}
 
 	soldiers = {
-		culture = dravidian
-		religion = animist
-		size = 25
+		culture = sinhala
+		religion = catholic
+		size= 50
 	}
 
 	labourers = {
-		culture = dravidian
-		religion = animist
-		size = 700
-	}
-
-	clergymen = {
-		culture = dravidian
-		religion = animist
-		size = 50
-	}
-
-	artisans = {
-		culture = dravidian
-		religion = animist
-		size = 500
-	}
-
-	soldiers = {
-		culture = dravidian
-		religion = animist
-		size = 25
-	}
-
-	labourers = {
-		culture = dravidian
-		religion = animist
-		size = 1475
+		culture = sinhala
+		religion = catholic
+		size = 2175
 	}
 
 	clergymen = {
 		culture = malay
-		religion = animist
+		religion = sunni
 		size = 25
 	}
 
 	artisans = {
 		culture = malay
-		religion = animist
+		religion = sunni
 		size = 250
 	}
 
 	soldiers = {
 		culture = malay
-		religion = animist
-		size = 50
+		religion = sunni
+		size= 50
+
 	}
 
 	labourers = {
 		culture = malay
-		religion = animist
+		religion = sunni
 		size = 675
 	}
 
 	aristocrats = {
 		culture = mashriqi
-		religion = animist
+		religion = sunni
 		size = 25
 	}
 
 	clergymen = {
 		culture = mashriqi
-		religion = animist
+		religion = sunni
 		size = 50
 	}
 
 	artisans = {
 		culture = mashriqi
-		religion = animist
+		religion = sunni
 		size = 750
 	}
 
 	soldiers = {
 		culture = mashriqi
-		religion = animist
-		size = 25
+		religion = sunni
+		size= 25
+
 	}
 
 	labourers = {
 		culture = mashriqi
-		religion = animist
+		religion = sunni
 		size = 2150
 	}
 }
 #Maldives (24000/6000 POPS) #now independent
 1325 = {
 	aristocrats = {
-		culture = dravidian
-		religion = animist
+		culture = asian_minor
+		religion = sunni
 		size = 50
 	}
 
 	clergymen = {
-		culture = dravidian
-		religion = animist
+		culture = asian_minor
+		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = dravidian
-		religion = animist
+		culture = asian_minor
+		religion = sunni
 		size = 500
 	}
 
 	soldiers = {
-		culture = dravidian
-		religion = animist
-		size = 75
+		culture = asian_minor
+		religion = sunni
+		size= 75
+
 	}
 
 	farmers = {
-		culture = dravidian
-		religion = animist
+		culture = asian_minor
+		religion = sunni
 		size = 5325
 	}
 

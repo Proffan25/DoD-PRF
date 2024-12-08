@@ -1,9 +1,8 @@
-owner = BRG
-controller = BRG
-add_core = BRG
+owner = NET
+controller = NET
 add_core = NET
 trade_goods = cattle
-life_rating = 39
+life_rating = 36
 #state_building = {
 #	level = 1
 #	building = glass_factory

@@ -1,10 +1,8 @@
-owner = CHI
-controller = CHI
+owner = MCK
+controller = MCK
+add_core = MCK
+add_core = MIG
 add_core = CHI
-#add_core = HUI
+add_core = HUI
 trade_goods = tea
 life_rating = 32
-1861.1.1 = {
-	controller = REB
-}
-

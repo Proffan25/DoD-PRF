@@ -1,25 +1,21 @@
 capital = 2204
 primary_culture = central_american
-culture = north_andean
-religion = animist
+culture = granadan
+religion = catholic
 government = presidential_dictatorship
 plurality = 0.1
-nationalvalue = nv_productivity
-literacy = 0.01
+nationalvalue = nv_order
+literacy = 0.25
 civilized = yes
-is_releasable_vassal = no
 
-
-set_country_flag = new_world_nation
-set_country_flag = north_american_immigrant_nation
 
 # Political reforms
-slavery = no_slavery
+slavery = yes_slavery
 upper_house_composition = appointed
 vote_franschise = none_voting
-public_meetings = yes_meeting
+public_meetings = no_meeting
 press_rights = state_press
-trade_unions = non_socialist
+trade_unions = no_trade_unions
 voting_system = first_past_the_post
 political_parties = underground_parties
 
@@ -32,7 +28,17 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions 
 school_reforms = no_schools
 
-ruling_party = PNM_conservative
+#New Reforms
+conscription = two_year_draft
+debt_law = peonage
+penal_system = capital_punishment
+child_labor = child_labor_legalcitizens_rights = culture_voting_only
+border_policy = quota_immigration
+
+set_country_flag = catholic_country
+set_country_flag = new_world_nation
+
+ruling_party = AAA_reactionary_2
 upper_house = {
 	fascist = 0
 	liberal = 15
@@ -41,4 +47,12 @@ upper_house = {
 	anarcho_liberal = 3
 	socialist = 0
 	communist = 0
+}
+
+set_country_flag = new_world_nation
+
+1861.1.1 = {
+# Technologies
+
+#Inventions
 }

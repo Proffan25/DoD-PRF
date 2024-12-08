@@ -1,8 +1,6 @@
-owner = BRG
-controller = BRG
+owner = NET
+controller = NET
 add_core = JAV
-#add_core = INO
 trade_goods = tea
 life_rating = 35
 colonial = 2
-

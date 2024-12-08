@@ -1,10 +1,6 @@
 owner = VEN
 controller = VEN
-add_core = VEN
 add_core = CRO
-trade_goods = fruit
+add_core = YUG
+trade_goods = fish
 life_rating = 35
-1861.1.1 = {
-	naval_base = 1
-}
-

@@ -4,295 +4,253 @@
 #Auckland (17000/4250 POPS)
 2509 = {
     aristocrats = {
-        culture = qingqiuan
+        culture = maori
         religion = animist
-        size = 250
+        size = 450
+    }
+
+    bureaucrats = {
+        culture = maori
+        religion = animist
+        size = 22
+    }
+
+    officers = {
+        culture = maori
+        religion = animist
+        size = 12
     }
 
     clergymen = {
-        culture = qingqiuan
+        culture = maori
         religion = animist
-        size = 375
+        size = 225
     }
 
     artisans = {
-        culture = qingqiuan
+        culture = maori
         religion = animist
-        size = 1000
+        size = 600
     }
 
     soldiers = {
-        culture = qingqiuan
+        culture = maori
         religion = animist
-        size = 2000
+        size = 1125
     }
 
     farmers = {
-        culture = qingqiuan
+        culture = maori
         religion = animist
-        size = 17875
+        size = 11475
     }
 
-    farmers = {
-        culture = qingqiuan
+    soldiers = {
+        culture = aborigine
         religion = animist
-        size = 1250
+        size = 6
     }
 }
+
 #New Plymouth (8000/2000 POPS)
 2510 = {
-    aristocrats = {
-        culture = qingqiuan
-        religion = animist
-        size = 125
-    }
-
     clergymen = {
-        culture = qingqiuan
+        culture = maori
         religion = animist
-        size = 250
+        size = 150
     }
 
     artisans = {
-        culture = qingqiuan
+        culture = maori
         religion = animist
-        size = 500
-    }
-
-    soldiers = {
-        culture = qingqiuan
-        religion = animist
-        size = 1000
+        size = 300
     }
 
     farmers = {
-        culture = qingqiuan
+        culture = maori
         religion = animist
-        size = 8875
+        size = 5325
     }
 }
 #Napier (12000/3000 POPS)
 2511 = {
-    aristocrats = {
-        culture = qingqiuan
-        religion = animist
-        size = 125
-    }
-
     clergymen = {
-        culture = qingqiuan
+        culture = maori
         religion = animist
-        size = 375
+        size = 225
     }
 
     artisans = {
-        culture = qingqiuan
+        culture = maori
         religion = animist
-        size = 750
-    }
-
-    soldiers = {
-        culture = qingqiuan
-        religion = animist
-        size = 1500
+        size = 450
     }
 
     farmers = {
-        culture = qingqiuan
+        culture = maori
         religion = animist
-        size = 13375
+        size = 8025
     }
 }
 #Wellington (12000/3000 POPS)
 2512 = {
-    aristocrats = {
-        culture = qingqiuan
-        religion = animist
-        size = 125
-    }
-
     clergymen = {
-        culture = qingqiuan
+        culture = maori
         religion = animist
-        size = 375
+        size = 225
     }
 
     artisans = {
-        culture = qingqiuan
+        culture = maori
         religion = animist
-        size = 750
-    }
-
-    soldiers = {
-        culture = qingqiuan
-        religion = animist
-        size = 1500
+        size = 450
     }
 
     farmers = {
-        culture = qingqiuan
+        culture = maori
         religion = animist
-        size = 13375
+        size = 8025
     }
 }
 #Tauranga (12000/3000 POPS)
 2571 = {
-    aristocrats = {
-        culture = qingqiuan
-        religion = animist
-        size = 125
-    }
-
     clergymen = {
-        culture = qingqiuan
+        culture = maori
         religion = animist
-        size = 375
+        size = 225
     }
 
     artisans = {
-        culture = qingqiuan
+        culture = maori
         religion = animist
-        size = 750
-    }
-
-    soldiers = {
-        culture = qingqiuan
-        religion = animist
-        size = 1500
+        size = 450
     }
 
     farmers = {
-        culture = qingqiuan
+        culture = maori
         religion = animist
-        size = 13375
+        size = 8025
     }
 }
+
+#Kirikiriroa or Hamilton - Former Wake
+2524 = {
+
+	clergymen = {
+		culture = maori
+		religion = animist
+		size = 50
+	}
+
+	artisans = {
+		culture = maori
+		religion = animist
+		size = 50
+	}
+
+	soldiers = {
+		culture = maori
+		religion = animist
+		size = 75
+	}
+	
+	farmers = {
+		culture = maori
+		religion = animist
+		size = 1488
+	}
+}
+
 #South Island Region (24000)
 #Dunedin (4000/1000 POPS)
 2513 = {
     aristocrats = {
-        culture = qingqiuan
+        culture = maori
+        religion = animist
+        size = 70
+    }
+
+    clergymen = {
+        culture = maori
+        religion = animist
+        size = 25
+    }
+
+    artisans = {
+        culture = maori
         religion = animist
         size = 50
     }
 
-    clergymen = {
-        culture = qingqiuan
-        religion = animist
-        size = 125
-    }
-
-    artisans = {
-        culture = qingqiuan
-        religion = animist
-        size = 250
-    }
-
     soldiers = {
-        culture = qingqiuan
+        culture = maori
         religion = animist
-        size = 300
+        size = 155
     }
 
     farmers = {
-        culture = qingqiuan
+        culture = maori
         religion = animist
-        size = 4500
+        size = 900
     }
-}
+}	
 #Hokitikia (4000/1000 POPS)
 2514 = {
-    aristocrats = {
-        culture = qingqiuan
+    clergymen = {
+        culture = maori
+        religion = animist
+        size = 25
+    }
+
+    artisans = {
+        culture = maori
         religion = animist
         size = 50
     }
 
-    clergymen = {
-        culture = qingqiuan
-        religion = animist
-        size = 125
-    }
-
-    artisans = {
-        culture = qingqiuan
-        religion = animist
-        size = 250
-    }
-
-    soldiers = {
-        culture = qingqiuan
-        religion = animist
-        size = 300
-    }
-
     farmers = {
-        culture = qingqiuan
+        culture = maori
         religion = animist
-        size = 4500
+        size = 900
     }
 }
 #Christchurch (4000/1000 POPS)
 2515 = {
-    aristocrats = {
-        culture = qingqiuan
-        religion = animist
-        size = 125
-    }
-
     clergymen = {
-        culture = qingqiuan
+        culture = maori
         religion = animist
-        size = 250
+        size = 50
     }
 
     artisans = {
-        culture = qingqiuan
+        culture = maori
         religion = animist
-        size = 500
-    }
-
-    soldiers = {
-        culture = qingqiuan
-        religion = animist
-        size = 1000
+        size = 100
     }
 
     farmers = {
-        culture = qingqiuan
+        culture = maori
         religion = animist
-        size = 8875
+        size = 1775
     }
 }
 #Nelson (12000/3000 POPS)
 2516 = {
-    aristocrats = {
-        culture = qingqiuan
-        religion = animist
-        size = 125
-    }
-
     clergymen = {
-        culture = qingqiuan
+        culture = maori
         religion = animist
-        size = 375
+        size = 75
     }
 
     artisans = {
-        culture = qingqiuan
+        culture = maori
         religion = animist
-        size = 750
-    }
-
-    soldiers = {
-        culture = qingqiuan
-        religion = animist
-        size = 1500
+        size = 150
     }
 
     farmers = {
-        culture = qingqiuan
+        culture = maori
         religion = animist
-        size = 13375
+        size = 2675
     }
 }

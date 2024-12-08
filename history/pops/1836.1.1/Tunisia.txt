@@ -1,314 +1,305 @@
-#Tunisia Region (1392000)
-#under the rule of Tunisia in 1836
-#Tunis (488000/122000 POPS)
+#Tunisia Region (1392000)  
+#under the rule of Tunisia in 1836  
+#Tunis (488000/122000 POPS) 
 1725 = {
     aristocrats = {
+        culture = catalan
+        religion = catholic
+        size = 3000
+    }
+    officers = {
+        culture = catalan
+        religion = catholic
+        size = 120
+    }
+    soldiers = {
+        culture = south_italian
+        religion = catholic
+        size = 6000
+    }
+    clergymen = {
+        culture = catalan
+        religion = catholic
+        size = 500
+    }
+
+    artisans = {
+        culture = south_italian
+        religion = catholic
+        size = 3500
+    }
+
+    artisans = {
+        culture = catalan
+	religion = catholic
+        size = 2000
+    }
+
+    farmers = {
+        culture = south_italian
+        religion = catholic
+        size = 9000
+    }
+
+    farmers = {
+        culture = catalan
+        religion = catholic
+        size = 6000
+    }
+
+    artisans = {
         culture = maghrebi
-        religion = animist
-        size = 2136
+        religion = sunni
+        size = 12000
+    }
+
+    farmers = {
+        culture = maghrebi
+        religion = sunni
+        size = 52100
+    }
+
+    farmers = {
+        culture = zanj
+        religion = catholic
+        size = 5000
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 1000
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 18500
+    }
+
+    bureaucrats = {
+        culture = sephardic
+        religion = jewish
+        size = 500
+    }
+}
+#Bizerte (268000/67000 POPS) 
+1726 = {
+
+    clergymen = {
+        culture = maghrebi
+        religion = sunni
+        size = 540
+    }
+
+    artisans = {
+        culture = maghrebi
+        religion = sunni
+        size = 2600
+    }
+
+    farmers = {
+        culture = maghrebi
+        religion = sunni
+        size = 46860
+    }
+
+    slaves = {
+        culture = zanj
+        religion = catholic
+        size = 2000
+    }
+    clergymen = {
+        culture = catalan
+        religion = catholic
+        size = 135
+    }
+
+    artisans = {
+        culture = catalan
+        religion = catholic
+        size = 650
+    }
+
+    farmers = {
+        culture = catalan
+        religion = catholic
+        size = 4715
+    }
+
+    farmers = {
+        culture = south_italian
+        religion = catholic
+        size = 9000
+    }
+
+    bureaucrats = {
+        culture = catalan
+        religion = catholic
+        size = 350
+    }
+}
+#Gafsa (112000/28000 POPS) 
+1727 = {
+    aristocrats = {
+        culture = maghrebi
+        religion = sunni
+        size = 800
+    }
+
+    clergymen = {
+        culture = maghrebi
+        religion = sunni
+        size = 275
+    }
+
+    artisans = {
+        culture = maghrebi
+        religion = sunni
+        size = 1250
     }
 
     bureaucrats = {
         culture = maghrebi
-        religion = animist
-        size = 317
+        religion = sunni
+        size = 150
     }
 
     officers = {
         culture = maghrebi
-        religion = animist
-        size = 295
-    }
-
-    clergymen = {
-        culture = maghrebi
-        religion = animist
-        size = 1091
-    }
-
-    artisans = {
-        culture = maghrebi
-        religion = animist
-        size = 9095
-    }
-
-    artisans = {
-        culture = maghrebi
-        religion = animist
-        size = 9095
-    }
-
-    artisans = {
-        culture = maghrebi
-        religion = animist
-        size = 6821
+        religion = sunni
+        size = 200
     }
 
     soldiers = {
         culture = maghrebi
-        religion = animist
-        size = 5457
+        religion = sunni
+        size = 16200
     }
 
     farmers = {
         culture = maghrebi
-        religion = animist
-        size = 69508
+        religion = sunni
+        size = 22025
     }
 
     slaves = {
-        culture = afro_asiatic
+        culture = zanj
         religion = animist
-        size = 4547
-    }
-
-    clergymen = {
-        culture = sephardic
-        religion = animist
-        size = 67
-    }
-
-    artisans = {
-        culture = sephardic
-        religion = animist
-        size = 3387
-    }
-
-    artisans = {
-        culture = south_italian
-        religion = animist
-        size = 454
-    }
-
-    artisans = {
-        culture = south_italian
-        religion = animist
-        size = 499
+        size = 35000
     }
 }
-#Bizerte (268000/67000 POPS)
-1726 = {
-    aristocrats = {
-        culture = maghrebi
-        religion = animist
-        size = 1136
-    }
-
-    clergymen = {
-        culture = maghrebi
-        religion = animist
-        size = 613
-    }
-
-    artisans = {
-        culture = maghrebi
-        religion = animist
-        size = 2955
-    }
-
-    soldiers = {
-        culture = maghrebi
-        religion = animist
-        size = 1500
-    }
-
-    farmers = {
-        culture = maghrebi
-        religion = animist
-        size = 53273
-    }
-
-    slaves = {
-        culture = afro_asiatic
-        religion = animist
-        size = 1819
-    }
-
-    clergymen = {
-        culture = sephardic
-        religion = animist
-        size = 4
-    }
-
-    artisans = {
-        culture = sephardic
-        religion = animist
-        size = 222
-    }
-}
-#Gafsa (112000/28000 POPS)
-1727 = {
-    aristocrats = {
-        culture = maghrebi
-        religion = animist
-        size = 382
-    }
-
-    clergymen = {
-        culture = maghrebi
-        religion = animist
-        size = 233
-    }
-
-    artisans = {
-        culture = maghrebi
-        religion = animist
-        size = 1062
-    }
-
-    soldiers = {
-        culture = maghrebi
-        religion = animist
-        size = 935
-    }
-
-    farmers = {
-        culture = maghrebi
-        religion = animist
-        size = 18721
-    }
-
-    slaves = {
-        culture = maghrebi
-        religion = animist
-        size = 2550
-    }
-}
-#Kairouan (228000/57000 POPS)
+#Kairouan (228000/57000 POPS) 
 1728 = {
-    aristocrats = {
-        culture = maghrebi
-        religion = animist
-        size = 743
-    }
-
     clergymen = {
         culture = maghrebi
-        religion = animist
-        size = 340
+        religion = sunni
+        size = 320
     }
 
     artisans = {
         culture = maghrebi
-        religion = animist
-        size = 1912
-    }
-
-    soldiers = {
-        culture = maghrebi
-        religion = animist
-        size = 935
+        religion = sunni
+        size = 1800
     }
 
     farmers = {
         culture = maghrebi
-        religion = animist
-        size = 34191
+        religion = sunni
+        size = 32180
     }
 
     slaves = {
-        culture = maghrebi
+        culture = zanj
         religion = animist
-        size = 10200
+        size = 12000
     }
 
     clergymen = {
-        culture = maghrebi
-        religion = animist
-        size = 4
+        culture = catalan
+        religion = catholic
+        size = 80
     }
 
     artisans = {
-        culture = maghrebi
-        religion = animist
-        size = 208
+        culture = catalan
+        religion = catholic
+        size = 450
+    }
+
+    farmers = {
+        culture = catalan
+        religion = catholic
+        size = 8045
     }
 }
-#Tozeur (96000/24000 POPS)
+#Tozeur (96000/24000 POPS) 
 1729 = {
-    aristocrats = {
-        culture = maghrebi
-        religion = animist
-        size = 297
-    }
-
     clergymen = {
         culture = maghrebi
-        religion = animist
-        size = 170
+        religion = sunni
+        size = 200
     }
 
     artisans = {
         culture = maghrebi
-        religion = animist
-        size = 807
-    }
-
-    soldiers = {
-        culture = maghrebi
-        religion = animist
-        size = 170
+        religion = sunni
+        size = 950
     }
 
     farmers = {
         culture = maghrebi
-        religion = animist
-        size = 14705
+        religion = sunni
+        size = 17300
     }
 
     slaves = {
-        culture = maghrebi
+        culture = zanj
         religion = animist
-        size = 4250
+        size = 5000
     }
 }
-#Gabes (200000/50000 POPS)
+#Gabes (200000/50000 POPS) 
 1730 = {
-    aristocrats = {
-        culture = maghrebi
-        religion = animist
-        size = 765
-    }
-
     clergymen = {
         culture = maghrebi
-        religion = animist
-        size = 340
+        religion = sunni
+        size = 320
     }
 
     artisans = {
         culture = maghrebi
-        religion = animist
-        size = 1933
-    }
-
-    soldiers = {
-        culture = maghrebi
-        religion = animist
-        size = 935
+        religion = sunni
+        size = 1820
     }
 
     farmers = {
         culture = maghrebi
-        religion = animist
-        size = 34701
+        religion = sunni
+        size = 32660
     }
 
     slaves = {
-        culture = maghrebi
+        culture = zanj
         religion = animist
-        size = 3400
+        size = 4000
     }
 
     clergymen = {
-        culture = maghrebi
-        religion = animist
-        size = 8
+        culture = catalan
+        religion = catholic
+        size = 80
     }
 
     artisans = {
-        culture = maghrebi
-        religion = animist
-        size = 416
+        culture = catalan
+        religion = catholic
+        size = 455
+    }
+
+    farmers = {
+        culture = catalan
+        religion = catholic
+        size = 8165
     }
 }

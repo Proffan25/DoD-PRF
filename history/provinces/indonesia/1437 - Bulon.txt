@@ -1,8 +1,6 @@
-owner = SLW
-controller = SLW
-add_core = SLW
-#add_core = INO
+owner = MKS
+controller = MKS
+add_core = MKS
+add_core = NUS
 trade_goods = fish
-life_rating = 35
-
-
+life_rating = 30

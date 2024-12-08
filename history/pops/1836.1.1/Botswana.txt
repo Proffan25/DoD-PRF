@@ -1,253 +1,307 @@
-#Bechuanaland Region (76000) #see South Africa.txt for balance of region
+#Bechuanaland Region (76000) #see South Africa.txt for balance of region 
 #uncolonized in 1836/dominated by the Tswana in 1836
-#Gaborone (28000/7000 POPS)
+#Gaborone (28000/7000 POPS) 
 2074 = {
     aristocrats = {
-        culture = boer
-        religion = animist
-        size = 137
+        culture = afro_south_african
+        religion = protestant
+        size = 570
     }
 
     clergymen = {
-        culture = boer
+        culture = tswana
         religion = animist
-        size = 82
+        size = 75
     }
 
     artisans = {
-        culture = boer
+        culture = tswana
         religion = animist
-        size = 385
+        size = 350
     }
 
     soldiers = {
-        culture = boer
-        religion = animist
-        size = 82
+        culture = afro_south_african
+        religion = protestant
+        size = 7500
     }
 
     farmers = {
-        culture = boer
+        culture = tswana
         religion = animist
-        size = 7012
+        size = 6375
+    }
+
+    clergymen = {
+        culture = afro_south_african
+        religion = protestant
+        size = 500
+    }
+
+    artisans = {
+        culture = afro_south_african
+        religion = protestant
+        size = 689
+    }
+
+    farmers = {
+        culture = afro_south_african
+        religion = protestant
+        size = 12000
+    }
+
+    aristocrats = {
+        culture = nguni
+        religion = animist
+        size = 250
+    }
+
+    aristocrats = {
+        culture = shona
+        religion = animist
+        size = 50
+    }
+
+    soldiers = {
+        culture = nguni
+        religion = animist
+        size = 150
+    }
+
+    soldiers = {
+        culture = shona
+        religion = animist
+        size = 25
+    }
+
+    soldiers = {
+        culture = sotho
+        religion = animist
+        size = 25
+    }
+
+    bureaucrats = {
+        culture = nguni
+        religion = animist
+        size = 5
     }
 }
-#Nokaneng (12000/3000 POPS)
+#Nokaneng (12000/3000 POPS) 
 2076 = {
-    aristocrats = {
-        culture = boer
-        religion = animist
-        size = 16
-    }
-
     clergymen = {
-        culture = boer
+        culture = tswana
         religion = animist
-        size = 27
+        size = 25
     }
 
     artisans = {
-        culture = boer
+        culture = tswana
         religion = animist
-        size = 55
-    }
-
-    soldiers = {
-        culture = boer
-        religion = animist
-        size = 11
+        size = 50
     }
 
     farmers = {
-        culture = boer
+        culture = tswana
         religion = animist
-        size = 990
-    }
-
-    aristocrats = {
-        culture = boer
-        religion = animist
-        size = 27
+        size = 900
     }
 
     clergymen = {
-        culture = boer
+        culture = herero
         religion = animist
-        size = 55
+        size = 50
     }
 
     artisans = {
-        culture = boer
+        culture = herero
         religion = animist
-        size = 110
-    }
-
-    soldiers = {
-        culture = boer
-        religion = animist
-        size = 27
+        size = 100
     }
 
     farmers = {
-        culture = boer
+        culture = herero
         religion = animist
-        size = 1980
+        size = 1800
+    }
+
+    officers = {
+        culture = herero
+        religion = animist
+        size = 20
+    }
+
+    bureaucrats = {
+        culture = herero
+        religion = animist
+        size = 20
+    }
+
+    clergymen = {
+        culture = afro_south_african
+        religion = protestant
+        size = 250
+    }
+
+    artisans = {
+        culture = afro_south_african
+        religion = protestant
+        size = 300
+    }
+
+    farmers = {
+        culture = afro_south_african
+        religion = protestant
+        size = 4000
     }
 }
-#Tshabong (12000/3000 POPS)
+#Tshabong (12000/3000 POPS) 
 2077 = {
-    aristocrats = {
-        culture = boer
-        religion = animist
-        size = 27
-    }
-
     clergymen = {
-        culture = boer
+        culture = tswana
         religion = animist
-        size = 55
+        size = 50
     }
 
     artisans = {
-        culture = boer
+        culture = tswana
         religion = animist
-        size = 110
-    }
-
-    soldiers = {
-        culture = boer
-        religion = animist
-        size = 27
+        size = 100
     }
 
     farmers = {
-        culture = boer
+        culture = tswana
         religion = animist
-        size = 1980
-    }
-
-    aristocrats = {
-        culture = boer
-        religion = animist
-        size = 16
+        size = 1800
     }
 
     clergymen = {
-        culture = boer
+        culture = khoisan
         religion = animist
-        size = 27
+        size = 25
     }
 
     artisans = {
-        culture = boer
+        culture = khoisan
         religion = animist
-        size = 55
-    }
-
-    soldiers = {
-        culture = boer
-        religion = animist
-        size = 11
+        size = 50
     }
 
     farmers = {
-        culture = boer
+        culture = khoisan
         religion = animist
-        size = 990
+        size = 900
+    }
+
+    clergymen = {
+        culture = afro_south_african
+        religion = protestant
+        size = 75
+    }
+
+    artisans = {
+        culture = afro_south_african
+        religion = protestant
+        size = 150
+    }
+
+    farmers = {
+        culture = afro_south_african
+        religion = protestant
+        size = 4500
     }
 }
-#Mochidi (16000/4000 POPS)
+#Mochidi (16000/4000 POPS) 
 2574 = {
-    aristocrats = {
-        culture = boer
-        religion = animist
-        size = 55
-    }
-
     clergymen = {
-        culture = boer
+        culture = tswana
         religion = animist
-        size = 55
+        size = 50
     }
 
     artisans = {
-        culture = boer
+        culture = tswana
         religion = animist
-        size = 220
-    }
-
-    soldiers = {
-        culture = boer
-        religion = animist
-        size = 55
+        size = 200
     }
 
     farmers = {
-        culture = boer
+        culture = tswana
         religion = animist
-        size = 4015
+        size = 3650
+    }
+
+    clergymen = {
+        culture = afro_south_african
+        religion = protestant
+        size = 50
+    }
+
+    artisans = {
+        culture = afro_south_african
+        religion = protestant
+        size = 200
+    }
+
+    farmers = {
+        culture = afro_south_african
+        religion = protestant
+        size = 5000
     }
 }
-#uncolonized in 1836/dominated by the Ndebele in 1836
-#Serowe (8000/2000 POPS)
+#under the rule of Matabele in 1836
+#Serowe (16000/4000 POPS) 
 2075 = {
-    aristocrats = {
-        culture = boer
-        religion = animist
-        size = 16
-    }
-
     clergymen = {
-        culture = boer
+        culture = nguni
         religion = animist
-        size = 16
+        size = 30
     }
 
     artisans = {
-        culture = boer
+        culture = nguni
         religion = animist
-        size = 55
-    }
-
-    soldiers = {
-        culture = boer
-        religion = animist
-        size = 22
+        size = 100
     }
 
     farmers = {
-        culture = boer
+        culture = nguni
         religion = animist
-        size = 990
-    }
-
-    aristocrats = {
-        culture = boer
-        religion = animist
-        size = 16
+        size = 1800
     }
 
     clergymen = {
-        culture = boer
+        culture = tswana
         religion = animist
-        size = 27
+        size = 50
     }
 
     artisans = {
-        culture = boer
+        culture = tswana
         religion = animist
-        size = 55
-    }
-
-    soldiers = {
-        culture = boer
-        religion = animist
-        size = 11
+        size = 100
     }
 
     farmers = {
-        culture = boer
+        culture = tswana
         religion = animist
-        size = 990
+        size = 1800
+    }
+
+    clergymen = {
+        culture = afro_south_african
+        religion = protestant
+        size = 90
+    }
+
+    artisans = {
+        culture = afro_south_african
+        religion = protestant
+        size = 200
+    }
+
+    farmers = {
+        culture = afro_south_african
+        religion = protestant
+        size = 2800
     }
 }

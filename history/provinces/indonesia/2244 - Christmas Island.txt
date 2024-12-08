@@ -1,3 +1,10 @@
-trade_goods = sulphur
+owner = SPA
+controller = SPA
+colonial = 1
+trade_goods = fish
 life_rating = 15
-
+terrain = coral_island
+1861.1.1 = {
+	owner = ENG
+	controller = ENG
+}

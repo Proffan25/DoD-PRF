@@ -1,12 +1,11 @@
-owner = NEJ
-controller = NEJ
+owner = YEM
+controller = YEM
+add_core = YEM
 add_core = NEJ
-trade_goods = cattle
+trade_goods = fish
 life_rating = 35
-1861.1.1 = {
+1861.1.1 = { 
 	owner = ENG
 	controller = ENG
-	colonial = 2
-	naval_base = 1
+	naval_base = 1 
 }
-

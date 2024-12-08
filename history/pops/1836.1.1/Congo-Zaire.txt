@@ -3,57 +3,55 @@
 #Kinshasa (1408000/352000 POPS)
 1982 = {
 	aristocrats = {
-		culture = bantu
+		culture = bakongo
 		religion = animist
 		size = 6175
 	}
 	
 	bureaucrats = {
-		culture = bantu
+		culture = bakongo
 		religion = animist
 		size = 700
 	}
 
 	clergymen = {
-		culture = bantu
+		culture = bakongo
 		religion = animist
 		size = 3575
 	}
 
 	artisans = {
-		culture = bantu
+		culture = bakongo
 		religion = animist
 		size = 10000
 	}
 	
 	artisans = {
-		culture = bantu
+		culture = bakongo
 		religion = animist
 		size = 4025
 	}
 
 	soldiers = {
-		culture = bantu
+		culture = bakongo
 		religion = animist
 		size = 3000
-
 	}
 
 	soldiers = {
-		culture = bantu
+		culture = bakongo
 		religion = animist
 		size = 575
-
 	}
 
 	farmers = {
-		culture = bantu
+		culture = bakongo
 		religion = animist
-		size = 246950
+		size = 446950
 	}
 
 	slaves = {
-		culture = bantu
+		culture = bakongo
 		religion = animist
 		size = 77000
 	}
@@ -61,40 +59,39 @@
 #Boma (396000/99000 POPS)
 1983 = {
 	aristocrats = {
-		culture = bantu
+		culture = bakongo
 		religion = animist
 		size = 640
 	}
 
 	clergymen = {
-		culture = bantu
+		culture = bakongo
 		religion = animist
 		size = 365
 	}
 
 	artisans = {
-		culture = bantu
+		culture = bakongo
 		religion = animist
-		size = 4375
+		size = 1375
 	}
 
 	soldiers = {
-		culture = bantu
+		culture = bakongo
 		religion = animist
 		size = 1100
-
 	}
 
 	farmers = {
-		culture = bantu
+		culture = bakongo
 		religion = animist
-		size = 74250
+		size = 349250
 	}
 
 	slaves = {
-		culture = bantu
+		culture = bakongo
 		religion = animist
-		size = 20000
+		size = 10000
 	}
 }
 #Kasai Region (5456000)
@@ -102,225 +99,212 @@
 #Kananga (2024000/506000 POPS)
 1984 = {
 	aristocrats = {
-		culture = bantu
+		culture = lunda
 		religion = animist
 		size = 275
 	}
 
 	clergymen = {
-		culture = bantu
+		culture = lunda
 		religion = animist
 		size = 180
 	}
 
 	artisans = {
-		culture = bantu
+		culture = lunda
 		religion = animist
 		size = 730
 	}
 
 	soldiers = {
-		culture = bantu
+		culture = lunda
 		religion = animist
 		size = 550
-
 	}
 
 	farmers = {
-		culture = bantu
+		culture = lunda
 		religion = animist
-		size = 16875
+		size = 8875
 	}
 
 	aristocrats = {
-		culture = bantu
+		culture = kuba
 		religion = animist
 		size = 2290
 	}
 
 	clergymen = {
-		culture = bantu
+		culture = kuba
 		religion = animist
 		size = 1465
 	}
 
 	artisans = {
-		culture = bantu
+		culture = kuba
 		religion = animist
 		size = 6050
 	}
 
 	soldiers = {
-		culture = bantu
+		culture = kuba
 		religion = animist
 		size = 3000
-
 	}
 
 	soldiers = {
-		culture = bantu
+		culture = kuba
 		religion = animist
 		size = 1675
-
 	}
 
 	farmers = {
-		culture = bantu
+		culture = kuba
 		religion = animist
 		size = 132660
 	}
 
 	slaves = {
-		culture = bantu
+		culture = south_forest_bantu
 		religion = animist
-		size = 50300
+		size = 40300
 	}
 }
 #Kumbana (1364000/341000 POPS)
 1985 = {
 	aristocrats = {
-		culture = bantu
+		culture = lunda
 		religion = animist
 		size = 1100
 	}
 
 	clergymen = {
-		culture = bantu
+		culture = lunda
 		religion = animist
 		size = 550
 	}
 
 	artisans = {
-		culture = bantu
+		culture = lunda
 		religion = animist
 		size = 2380
 	}
 
 	soldiers = {
-		culture = bantu
+		culture = lunda
 		religion = animist
 		size = 1925
-
 	}
 
 	farmers = {
-		culture = bantu
+		culture = lunda
 		religion = animist
-		size = 79660
-	}
-
-	slaves = {
-		culture = bantu
-		religion = animist
-		size = 3000
+		size = 86660
 	}
 
 	aristocrats = {
-		culture = bantu
+		culture = chokwe
 		religion = animist
 		size = 1100
 	}
 
 	clergymen = {
-		culture = bantu
+		culture = chokwe
 		religion = animist
 		size = 550
 	}
 
 	artisans = {
-		culture = bantu
+		culture = chokwe
 		religion = animist
 		size = 2750
 	}
 
 	soldiers = {
-		culture = bantu
+		culture = chokwe
 		religion = animist
 		size = 1650
-
 	}
 
 	farmers = {
-		culture = bantu
+		culture = chokwe
 		religion = animist
-		size = 73140
+		size = 100140
 	}
 
 	slaves = {
-		culture = bantu
+		culture = kavango
 		religion = animist
-		size = 20300
+		size = 17300
 	}
 }
 #under the rule of Luba in 1836
 #Lusambo (2068000/517000 POPS)
 1986 = {
 	aristocrats = {
-		culture = bantu
+		culture = luba
 		religion = animist
 		size = 1100
 	}
 	
 	clergymen = {
-		culture = bantu
+		culture = luba
 		religion = animist
 		size = 550
 	}
 
 	artisans = {
-		culture = bantu
+		culture = luba
 		religion = animist
 		size = 2380
 	}
 
 	soldiers = {
-		culture = bantu
+		culture = luba
 		religion = animist
 		size = 1925
-
 	}
 
 	farmers = {
-		culture = bantu
+		culture = luba
 		religion = animist
-		size = 41990
+		size = 31990
 	}
 
 	aristocrats = {
-		culture = bantu
+		culture = kuba
 		religion = animist
 		size = 2200
 	}
 
 	clergymen = {
-		culture = bantu
+		culture = kuba
 		religion = animist
 		size = 1100
 	}
 
 	artisans = {
-		culture = bantu
+		culture = kuba
 		religion = animist
 		size = 5680
 	}
 
 	soldiers = {
-		culture = bantu
+		culture = kuba
 		religion = animist
 		size = 1575
-
 	}
 
 	farmers = {
-		culture = bantu
+		culture = kuba
 		religion = animist
-		size = 108490
+		size = 103490
 	}
 
 	slaves = {
-		culture = bantu
+		culture = south_forest_bantu
 		religion = animist
-		size = 27000
+		size = 22000
 	}
 }
 #Katanga Region (9156400)
@@ -328,94 +312,91 @@
 #Bunkeya (4888400/1222100 POPS)
 1987 = {
 	aristocrats = {
-		culture = bantu
+		culture = lunda
 		religion = animist
 		size = 7150
 	}
 
 	bureaucrats = {
-		culture = bantu
+		culture = lunda
 		religion = animist
 		size = 75
 	}
 
 	officers = {
-		culture = bantu
+		culture = lunda
 		religion = animist
 		size = 290
 	}
 
 	clergymen = {
-		culture = bantu
+		culture = lunda
 		religion = animist
 		size = 3575
 	}
 
 	artisans = {
-		culture = bantu
+		culture = lunda
 		religion = animist
 		size = 10000
 	}
 	
 	artisans = {
-		culture = bantu
+		culture = lunda
 		religion = animist
 		size = 4390
 	}
 
 	soldiers = {
-		culture = bantu
+		culture = lunda
 		religion = animist
 		size = 3000
-
 	}
 
 	soldiers = {
-		culture = bantu
+		culture = lunda
 		religion = animist
 		size = 1030
-
 	}
 
 	farmers = {
-		culture = bantu
+		culture = lunda
 		religion = animist
-		size = 297180
+		size = 307180
 	}
 
 	aristocrats = {
-		culture = bantu
+		culture = south_forest_bantu
 		religion = animist
 		size = 920
 	}
 
 	clergymen = {
-		culture = bantu
+		culture = south_forest_bantu
 		religion = animist
 		size = 460
 	}
 
 	artisans = {
-		culture = bantu
+		culture = south_forest_bantu
 		religion = animist
 		size = 2380
 	}
 
 	soldiers = {
-		culture = bantu
+		culture = south_forest_bantu
 		religion = animist
 		size = 1375
-
 	}
 
 	farmers = {
-		culture = bantu
+		culture = south_forest_bantu
 		religion = animist
-		size = 43450
+		size = 83450
 	}
 
 	slaves = {
-		culture = bantu
+		culture = chokwe
 		religion = animist
 		size = 33000
 	}
@@ -424,140 +405,136 @@
 #Mussumba (1188000/297000 POPS)
 1988 = {
 	aristocrats = {
-		culture = bantu
+		culture = lunda
 		religion = animist
 		size = 1100
 	}
 
 	clergymen = {
-		culture = bantu
+		culture = lunda
 		religion = animist
 		size = 640
 	}
 
 	artisans = {
-		culture = bantu
+		culture = lunda
 		religion = animist
 		size = 2475
 	}
 
 	soldiers = {
-		culture = bantu
+		culture = lunda
 		religion = animist
 		size = 1925
-
 	}
 
 	farmers = {
-		culture = bantu
+		culture = lunda
 		religion = animist
-		size = 35475
+		size = 65475
 	}
 
 	aristocrats = {
-		culture = bantu
+		culture = luba
 		religion = animist
 		size = 640
 	}
 
 	clergymen = {
-		culture = bantu
+		culture = luba
 		religion = animist
 		size = 370
 	}
 
 	artisans = {
-		culture = bantu
+		culture = luba
 		religion = animist
 		size = 1830
 	}
 
 	soldiers = {
-		culture = bantu
+		culture = luba
 		religion = animist
 		size = 1100
-
 	}
 
 	farmers = {
-		culture = bantu
+		culture = luba
 		religion = animist
-		size = 33460
+		size = 83460
 	}
 
 	slaves = {
-		culture = bantu
+		culture = chokwe
 		religion = animist
-		size = 22000
+		size = 42000
 	}
 }
 #under the rule of Luba in 1836
 #Munza (3080000/770000 POPS)
 1989 = {
 	aristocrats = {
-		culture = bantu
+		culture = luba
 		religion = animist
 		size = 4030
 	}
 
 	clergymen = {
-		culture = bantu
+		culture = luba
 		religion = animist
 		size = 1830
 	}
 
 	artisans = {
-		culture = bantu
+		culture = luba
 		religion = animist
 		size = 7520
 	}
 
 	soldiers = {
-		culture = bantu
+		culture = luba
 		religion = animist
 		size = 2775
-
 	}
 
 	farmers = {
-		culture = bantu
+		culture = luba
 		religion = animist
-		size = 124390
+		size = 144390
 	}
 
 	aristocrats = {
-		culture = bantu
-		religion = animist
+		culture = kingwana
+		religion = sunni
 		size = 1280
 	}
 
 	clergymen = {
-		culture = bantu
-		religion = animist
+		culture = kingwana
+		religion = sunni
 		size = 730
 	}
 
 	artisans = {
-		culture = bantu
-		religion = animist
+		culture = kingwana
+		religion = sunni
 		size = 3480
 	}
 
 	soldiers = {
-		culture = bantu
+		culture = kingwana
 		religion = animist
 		size = 2200
-
 	}
 
 	farmers = {
-		culture = bantu
+		culture = kingwana
 		religion = animist
-		size = 63070
+		size = 43070
 	}
 
 	slaves = {
-		culture = bantu
+		culture = kingwana
 		religion = animist
 		size = 47670
 	}
@@ -567,147 +544,149 @@
 #Nyangwe (1144000/286000 POPS)
 1990 = {
 	aristocrats = {
-		culture = bantu
+		culture = luba
 		religion = animist
 		size = 825
 	}
 
 	clergymen = {
-		culture = bantu
+		culture = luba
 		religion = animist
 		size = 460
 	}
 
 	artisans = {
-		culture = bantu
+		culture = luba
 		religion = animist
 		size = 1925
 	}
 
 	soldiers = {
-		culture = bantu
+		culture = luba
 		religion = animist
 		size = 1375
-
 	}
 
 	farmers = {
-		culture = bantu
+		culture = luba
 		religion = animist
-		size = 39330
+		size = 49330
 	}
 
 	aristocrats = {
-		culture = bantu
-		religion = animist
+		culture = kingwana
+		religion = sunni
 		size = 920
 	}
 
 	clergymen = {
-		culture = bantu
-		religion = animist
+		culture = kingwana
+		religion = sunni
 		size = 460
 	}
 
 	artisans = {
-		culture = bantu
-		religion = animist
+		culture = kingwana
+		religion = sunni
 		size = 2380
 	}
 
 	soldiers = {
-		culture = bantu
+		culture = kingwana
 		religion = animist
 		size = 1375
-
 	}
 
 	farmers = {
-		culture = bantu
+		culture = kingwana
 		religion = animist
-		size = 53450
+		size = 83450
 	}
 
 	slaves = {
-		culture = bantu
+		culture = forest_bantu
 		religion = animist
-		size = 19670
+		size = 64670
 	}
 }
 #Uvira (836000/209000 POPS)
 1991 = {
 	aristocrats = {
-		culture = bantu
-		religion = animist
+		culture = kingwana
+		religion = sunni
 		size = 1375
 	}
 
 	clergymen = {
-		culture = bantu
-		religion = animist
+		culture = kingwana
+		religion = sunni
 		size = 730
 	}
 
 	artisans = {
-		culture = bantu
-		religion = animist
+		culture = kingwana
+		religion = sunni
 		size = 2840
 	}
 
 	soldiers = {
-		culture = bantu
-		religion = animist
+		culture = kingwana
+		religion = sunni
 		size = 2200
-
 	}
 
 	farmers = {
-		culture = bantu
+		culture = kingwana
+		religion = sunni
+		size = 449320
+	}
+	
+	farmers = {
+		culture = ruanda
 		religion = animist
-		size = 59320
+		size = 89320
 	}
 
 	slaves = {
-		culture = bantu
+		culture = forest_bantu
 		religion = animist
-		size = 19670
+		size = 14670
 	}
 }
 #Basoko (1324400/331100 POPS)
 1992 = {
 	aristocrats = {
-		culture = bantu
+		culture = mongo
 		religion = animist
 		size = 2110
 	}
 
 	clergymen = {
-		culture = bantu
+		culture = mongo
 		religion = animist
 		size = 1100
 	}
 
 	artisans = {
-		culture = bantu
+		culture = mongo
 		religion = animist
 		size = 4400
 	}
 
 	soldiers = {
-		culture = bantu
+		culture = mongo
 		religion = animist
 		size = 1100
-
 	}
 
 	farmers = {
-		culture = bantu
+		culture = mongo
 		religion = animist
-		size = 85990
+		size = 145990
 	}
 
 	slaves = {
-		culture = bantu
+		culture = forest_bantu
 		religion = animist
 		size = 25670
 	}
@@ -717,116 +696,119 @@
 #Irebu (660000/165000 POPS)
 1993 = {
 	aristocrats = {
-		culture = bantu
+		culture = mongo
 		religion = animist
 		size = 1100
 	}
 
 	clergymen = {
-		culture = bantu
+		culture = mongo
 		religion = animist
 		size = 550
 	}
 
 	artisans = {
-		culture = bantu
+		culture = mongo
 		religion = animist
 		size = 2200
 	}
 
 	soldiers = {
-		culture = bantu
+		culture = mongo
 		religion = animist
 		size = 1650
-
 	}
 
 	farmers = {
-		culture = bantu
+		culture = mongo
 		religion = animist
-		size = 59690
+		size = 169690
 	}
 
 	slaves = {
-		culture = bantu
+		culture = forest_bantu
 		religion = animist
-		size = 15000
+		size = 10000
 	}
 }
 #Nsheng (660000/165000 POPS)
 1994 = {
 	aristocrats = {
-		culture = bantu
+		culture = kuba
 		religion = animist
 		size = 1100
 	}
 
 	clergymen = {
-		culture = bantu
+		culture = kuba
 		religion = animist
 		size = 550
 	}
 
 	artisans = {
-		culture = bantu
+		culture = kuba
 		religion = animist
 		size = 2200
 	}
 
 	soldiers = {
-		culture = bantu
+		culture = kuba
 		religion = animist
 		size = 1650
-
 	}
 
 	farmers = {
-		culture = bantu
+		culture = kuba
 		religion = animist
-		size = 59690
+		size = 169690
+	}
+	
+	farmers = {
+		culture = mongo
+		religion = animist
+		size = 60000
 	}
 
 	slaves = {
-		culture = bantu
+		culture = forest_bantu
 		religion = animist
-		size = 15000
+		size = 10000
 	}
 }
 #Gemena (1232000/308000 POPS)
 1995 = {
 	aristocrats = {
-		culture = niger_congo_a
+		culture = mongo
 		religion = animist
 		size = 2000
 	}
 
 	clergymen = {
-		culture = niger_congo_a
+		culture = mongo
 		religion = animist
 		size = 1100
 	}
 
 	artisans = {
-		culture = niger_congo_a
+		culture = mongo
 		religion = animist
 		size = 4125
 	}
 
 	soldiers = {
-		culture = niger_congo_a
+		culture = mongo
 		religion = animist
 		size = 1100
-
 	}
 
 	farmers = {
-		culture = niger_congo_a
+		culture = mongo
 		religion = animist
-		size = 79750
+		size = 149750
 	}
 
 	slaves = {
-		culture = niger_congo_a
+		culture = ubangian
 		religion = animist
 		size = 14670
 	}
@@ -836,151 +818,164 @@
 #Kisangani (1716000/429000 POPS)
 1996 = {
 	aristocrats = {
-		culture = niger_congo_a
+		culture = lendu
 		religion = animist
 		size = 2840
 	}
 
 	clergymen = {
-		culture = niger_congo_a
+		culture = lendu
 		religion = animist
 		size = 1470
 	}
 
 	artisans = {
-		culture = niger_congo_a
+		culture = lendu
 		religion = animist
 		size = 5775
 	}
 
 	soldiers = {
-		culture = niger_congo_a
+		culture = lendu
 		religion = animist
 		size = 1470
-
 	}
 
 	farmers = {
-		culture = niger_congo_a
+		culture = lendu
 		religion = animist
-		size = 122120
+		size = 132120
 	}
 
 	slaves = {
-		culture = niger_congo_a
+		culture = kingwana
 		religion = animist
-		size = 39330
+		size = 49330
 	}
 }
 #uncolonized in 1836/under the domination of the Azande
 #Mungbane (836000/209000 POPS)
 1997 = {
 	aristocrats = {
-		culture = niger_congo_a
+		culture = azande
 		religion = animist
 		size = 640
 	}
 
 	clergymen = {
-		culture = niger_congo_a
+		culture = azande
 		religion = animist
 		size = 370
 	}
 
 	artisans = {
-		culture = niger_congo_a
+		culture = azande
 		religion = animist
 		size = 1375
 	}
 
 	soldiers = {
-		culture = niger_congo_a
+		culture = azande
 		religion = animist
 		size = 1100
-
 	}
 
 	farmers = {
-		culture = niger_congo_a
+		culture = azande
 		religion = animist
 		size = 32920
 	}
 
 	aristocrats = {
-		culture = niger_congo_a
+		culture = lendu
 		religion = animist
 		size = 640
 	}
 
 	clergymen = {
-		culture = niger_congo_a
+		culture = lendu
 		religion = animist
 		size = 370
 	}
 
 	artisans = {
-		culture = niger_congo_a
+		culture = lendu
 		religion = animist
 		size = 1830
 	}
 
 	soldiers = {
-		culture = niger_congo_a
+		culture = lendu
 		religion = animist
 		size = 1100
-
 	}
 
 	farmers = {
-		culture = niger_congo_a
+		culture = lendu
 		religion = animist
-		size = 40460
+		size = 193460
+	}
+	
+	farmers = {
+		culture = luo
+		religion = animist
+		size = 35345
+	}
+	
+	farmers = {
+		culture = ruanda
+		religion = animist
+		size = 27435
 	}
 
 	slaves = {
-		culture = niger_congo_a
+		culture = forest_bantu
 		religion = animist
-		size = 10330
+		size = 7330
 	}
 }
 #Baramo (1188000/297000 POPS)
 1998 = {
 	aristocrats = {
-		culture = niger_congo_a
+		culture = azande
 		religion = animist
 		size = 1925
 	}
 
 	clergymen = {
-		culture = niger_congo_a
+		culture = azande
 		religion = animist
 		size = 1100
 	}
 
 	artisans = {
-		culture = niger_congo_a
+		culture = azande
 		religion = animist
 		size = 4950
 	}
 
 	soldiers = {
-		culture = niger_congo_a
+		culture = azande
 		religion = animist
 		size = 3000
-
 	}
 
 	soldiers = {
-		culture = niger_congo_a
+		culture = azande
 		religion = animist
-		size = 25
-
+		size = 100
 	}
 
 	farmers = {
-		culture = niger_congo_a
+		culture = azande
 		religion = animist
-		size = 90110
+		size = 180110
+	}
+	
+	farmers = {
+		culture = luo
+		religion = animist
+		size = 10000
 	}
 
 }

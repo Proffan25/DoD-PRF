@@ -1,13 +1,14 @@
-owner = BRG
-controller = BRG
+owner = XHO
+controller = XHO
+add_core = XHO
 add_core = BTV
+add_core = SAF
 trade_goods = wool
 life_rating = 35
-colonial = 2
-1836.1.2 = {
-	remove_core = COM
-	owner = SAF
-	controller = SAF
+1861.1.1 = {
+	owner = ENG
+	controller = ENG
 	add_core = SAF
-	colonial = 0
+	add_core = ENG
+	colonial = 2
 }
