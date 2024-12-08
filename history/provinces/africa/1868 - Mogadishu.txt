@@ -1,12 +1,6 @@
-owner = OMA
-controller = OMA
-add_core = OMA
+owner = AJU
+controller = AJU
+add_core = AJU
 trade_goods = cattle
+terrain = savanna
 life_rating = 35
-1861.1.1 = {
-	owner = ZAN
-	controller = ZAN
-	add_core = ZAN
-}
-
-

@@ -1,10 +1,11 @@
 owner = SWI
 controller = SWI
 add_core = SWI
+add_core = GER
 trade_goods = iron
-life_rating = 39
-railroad = 1
+life_rating = 34
 fort = 1
+
 state_building = {
 	level = 1
 	building = fabric_factory
@@ -12,26 +13,14 @@ state_building = {
 }
 state_building = {
 	level = 1
-	building = lumber_mill
+	building = liquor_distillery
 	upgrade = yes
 }
-1861.1.1 = { 
-	railroad = 1
-	fort = 2 
+1861.1.1 = { railroad = 1 }
+1861.1.1 = {
 	state_building = {
 		level = 1
-		building = regular_clothes_factory
-		upgrade = yes
-	}
-	state_building = {
-		level = 1
-		building = canned_food_factory
-		upgrade = yes
-	}
-	state_building = {
-		level = 1
-		building = small_arms_factory
+		building = luxury_clothes_factory
 		upgrade = yes
 	}
 }
-

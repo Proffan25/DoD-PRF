@@ -1,7 +1,6 @@
-owner = TUR
-controller = TUR
-add_core = TUR
-add_core = ARM
-trade_goods = coal
+owner = AZB
+controller = AZB
+add_core = AZB
+add_core = GEO
+trade_goods = fish
 life_rating = 35
-

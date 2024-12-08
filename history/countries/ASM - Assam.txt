@@ -1,13 +1,10 @@
 capital = 1258
-primary_culture = asian_minor
-religion = animist
+primary_culture = assamese
+religion = hindu
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_order
-literacy = 0.01
-non_state_culture_literacy = 0
-
-set_country_flag = has_lapsed
+literacy = 0.02
 
 # Political reforms
 slavery = no_slavery
@@ -16,9 +13,8 @@ vote_franschise = none_voting
 public_meetings = no_meeting
 press_rights = state_press
 trade_unions = no_trade_unions
-voting_system = jefferson_method
+voting_system = first_past_the_post
 political_parties = underground_parties
-
 
 # Social Reforms
 wage_reform = no_minimum_wage
@@ -28,6 +24,15 @@ health_care = no_health_care
 unemployment_subsidies = no_subsidies
 pensions = no_pensions
 school_reforms = no_schools
+
+#New Reforms
+conscription = no_draft
+debt_law = serfdom
+penal_system = capital_punishment
+child_labor = child_labor_legalcitizens_rights = primary_culture_only
+border_policy = open_borders
+
+set_country_flag = hindu_country
 
 ruling_party = ASM_conservative
 upper_house = {
@@ -40,10 +45,6 @@ upper_house = {
 	communist = 0
 }
 
-# Technologies
-late_enlightenment_philosophy = 1
-private_banks = 1
-early_classical_theory_and_critique = 1
-
 # Inventions
-
+#bottling_process = yes
+modern_winemaking = yes

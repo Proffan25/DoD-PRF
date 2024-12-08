@@ -1,13 +1,5 @@
-owner = DNG
-controller = DNG
 add_core = DNG
 trade_goods = grain
+terrain = savanna
 life_rating = 20
-
-1836.1.2 = {
-	remove_core = COM
-	owner = AST
-	controller = AST
-	add_core = AST
-	colonial = 0
-}
+colonial = 1

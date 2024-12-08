@@ -1,7 +1,5 @@
-owner = EGY
-controller = EGY
-add_core = EGY
-trade_goods = timber
-life_rating = 30
-
-
+owner = FUN
+controller = FUN
+add_core = FUN
+trade_goods = cattle
+life_rating = 34

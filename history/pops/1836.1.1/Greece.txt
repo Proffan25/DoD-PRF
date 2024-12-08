@@ -3,43 +3,43 @@
 #Salonika (304000/76000 POPS) #now part of Greece
 805 = {
     aristocrats = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 1800
     }
 
     bureaucrats = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 8750
     }
 
     officers = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 325
     }
 
     clergymen = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 250
     }
 
     artisans = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 4500
     }
 
     soldiers = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 100
     }
 
     farmers = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 13875
     }
@@ -117,7 +117,7 @@
     }
 
     craftsmen = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 500
     }
@@ -125,31 +125,31 @@
 #Polygyros (100000/25000 POPS) #now part of Greece
 822 = {
     aristocrats = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 400
     }
 
     clergymen = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 100
     }
 
     artisans = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 750
     }
 
     soldiers = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 50
     }
 
     farmers = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 7650
     }
@@ -203,7 +203,7 @@
     }
 
     craftsmen = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 50
     }
@@ -211,31 +211,31 @@
 #Kavala (160000/40000 POPS) #now part of Greece
 823 = {
     aristocrats = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 850
     }
 
     clergymen = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 125
     }
 
     artisans = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 800
     }
 
     soldiers = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 125
     }
 
     farmers = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 9750
     }
@@ -307,7 +307,7 @@
     }
 
     craftsmen = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 50
     }
@@ -359,31 +359,31 @@
     }
 
     aristocrats = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 475
     }
 
     clergymen = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 100
     }
 
     artisans = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 800
     }
 
     soldiers = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 50
     }
 
     farmers = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 9475
     }
@@ -395,7 +395,7 @@
     }
 
     craftsmen = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 50
     }
@@ -427,25 +427,25 @@
     }
 
     aristocrats = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 350
     }
 
     clergymen = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 75
     }
 
     artisans = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 875
     }
 
     farmers = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 1675
     }
@@ -457,7 +457,7 @@
     }
 
     craftsmen = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 25
     }
@@ -507,25 +507,25 @@
     }
 
     aristocrats = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 750
     }
 
     clergymen = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 75
     }
 
     artisans = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 850
     }
 
     farmers = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 5275
     }
@@ -537,7 +537,7 @@
     }
 
     craftsmen = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 50
     }
@@ -547,37 +547,37 @@
 #Janina (504000/126000 POPS)
 824 = {
     aristocrats = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 325
     }
 
     bureaucrats = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 625
     }
 
     officers = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 250
     }
 
     clergymen = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 500
     }
 
     farmers = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 150
     }
@@ -675,31 +675,31 @@
 #Arta (220000/55000 POPS)
 825 = {
     aristocrats = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 750
     }
 
     clergymen = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 25
     }
 
     artisans = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 675
     }
 
     soldiers = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 50
     }
 
     farmers = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 500
     }
@@ -829,31 +829,31 @@
 #Xanthi (72000/18000 POPS)
 829 = {
     aristocrats = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 425
     }
 
     clergymen = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 75
     }
 
     artisans = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 400
     }
 
     soldiers = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 75
     }
 
     farmers = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 5875
     }
@@ -895,7 +895,7 @@
     }
 
     craftsmen = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 50
     }
@@ -909,31 +909,31 @@
 #Dedeagatch (72000/18000 POPS)
 830 = {
     aristocrats = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 450
     }
 
     clergymen = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 75
     }
 
     artisans = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 400
     }
 
     soldiers = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 75
     }
 
     farmers = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 6825
     }
@@ -981,7 +981,7 @@
     }
 
     craftsmen = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 75
     }
@@ -997,43 +997,43 @@
 #Larisa (140000/35000 POPS)
 831 = {
     aristocrats = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 600
     }
 
     bureaucrats = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 750
     }
 
     officers = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 100
     }
 
     clergymen = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 750
     }
 
     soldiers = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 50
     }
 
     farmers = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 3950
     }
@@ -1077,31 +1077,31 @@
 #Volos (224000/56000 POPS)
 832 = {
     aristocrats = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 1150
     }
 
     clergymen = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 75
     }
 
     artisans = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 1300
     }
 
     soldiers = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 50
     }
 
     farmers = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 6225
     }
@@ -1139,25 +1139,25 @@
 #Trikala (44000/11000 POPS)
 833 = {
     aristocrats = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 200
     }
 
     clergymen = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 25
     }
 
     artisans = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 200
     }
 
     farmers = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 475
     }
@@ -1486,37 +1486,37 @@
 #Chios (68000/17000 POPS)
 843 = {
     aristocrats = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 150
     }
 
     bureaucrats = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 250
     }
 
     officers = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 50
     }
 
     clergymen = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 25
     }
 
     artisans = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 600
     }
 
     farmers = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 775
     }
@@ -1548,25 +1548,25 @@
 #Mytilene (44000/11000 POPS)
 844 = {
     aristocrats = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 100
     }
 
     clergymen = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 25
     }
 
     artisans = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 250
     }
 
     farmers = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 525
     }
@@ -1598,25 +1598,25 @@
 #Rhodes (32000/8000 POPS)
 846 = {
     aristocrats = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 75
     }
 
     clergymen = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 100
     }
 
     farmers = {
-        culture = greek
+        culture = turkish
         religion = animist
         size = 1775
     }
@@ -1662,124 +1662,124 @@
 #Hania (72000/18000 POPS)
 847 = {
     aristocrats = {
-        culture = greek
+        culture = turkish
         religion = animist
-        size = 604
+        size = 375
     }
 
     bureaucrats = {
-        culture = greek
+        culture = turkish
         religion = animist
-        size = 80
+        size = 50
     }
 
     officers = {
-        culture = greek
+        culture = turkish
         religion = animist
-        size = 80
+        size = 50
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = animist
+        size = 75
+    }
+
+    artisans = {
+        culture = turkish
+        religion = animist
+        size = 1300
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = animist
+        size = 100
+    }
+
+    farmers = {
+        culture = turkish
+        religion = animist
+        size = 5950
     }
 
     clergymen = {
         culture = greek
         religion = animist
-        size = 119
+        size = 100
     }
 
     artisans = {
         culture = greek
         religion = animist
-        size = 2099
+        size = 1175
     }
 
     soldiers = {
         culture = greek
         religion = animist
-        size = 161
+        size = 100
     }
 
     farmers = {
         culture = greek
         religion = animist
-        size = 9609
-    }
-
-    clergymen = {
-        culture = greek
-        religion = animist
-        size = 161
-    }
-
-    artisans = {
-        culture = greek
-        religion = animist
-        size = 1896
-    }
-
-    soldiers = {
-        culture = greek
-        religion = animist
-        size = 161
-    }
-
-    farmers = {
-        culture = greek
-        religion = animist
-        size = 14089
+        size = 8725
     }
 }
 #Iraklion (68000/17000 POPS)
 848 = {
     aristocrats = {
-        culture = greek
+        culture = turkish
         religion = animist
-        size = 565
+        size = 350
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = animist
+        size = 75
+    }
+
+    artisans = {
+        culture = turkish
+        religion = animist
+        size = 550
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = animist
+        size = 100
+    }
+
+    farmers = {
+        culture = turkish
+        religion = animist
+        size = 5925
     }
 
     clergymen = {
         culture = greek
         religion = animist
-        size = 119
+        size = 100
     }
 
     artisans = {
         culture = greek
         religion = animist
-        size = 888
+        size = 425
     }
 
     soldiers = {
         culture = greek
         religion = animist
-        size = 161
+        size = 100
     }
 
     farmers = {
         culture = greek
         religion = animist
-        size = 9567
-    }
-
-    clergymen = {
-        culture = greek
-        religion = animist
-        size = 161
-    }
-
-    artisans = {
-        culture = greek
-        religion = animist
-        size = 685
-    }
-
-    soldiers = {
-        culture = greek
-        religion = animist
-        size = 161
-    }
-
-    farmers = {
-        culture = greek
-        religion = animist
-        size = 15139
+        size = 9375
     }
 }

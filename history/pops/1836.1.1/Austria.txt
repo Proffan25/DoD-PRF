@@ -1,626 +1,554 @@
 #Tirol Region (556000) #see Italy.txt for balance of Region
-#under the rule of Austria in 1836
+#under the rule of Austria in 1836  
 #Innsbruck (236000/59000 POPS)
 612 = {
     aristocrats = {
         culture = south_german
-        religion = animist
-        size = 1518
+        religion = catholic
+        size = 750
     }
 
     bureaucrats = {
         culture = south_german
-        religion = animist
-        size = 6834
+        religion = catholic
+        size = 675
     }
+
+	craftsmen = {
+        culture = south_german
+        religion = catholic
+		size = 4000
+	}
+  
+  capitalists = {
+        culture = south_german
+        religion = catholic
+		size = 20
+	}
+  
+  clerks = {
+        culture = south_german
+        religion = catholic
+		size = 300
+	}
 
     officers = {
         culture = south_german
-        religion = animist
-        size = 506
+        religion = catholic
+        size = 250
     }
 
     clergymen = {
         culture = south_german
-        religion = animist
-        size = 1113
+        religion = catholic
+        size = 550
     }
 
     artisans = {
         culture = south_german
-        religion = animist
-        size = 5568
+        religion = catholic
+        size = 2750
     }
 
     soldiers = {
         culture = south_german
-        religion = animist
-        size = 3341
+        religion = catholic
+        size = 1000
     }
 
     farmers = {
         culture = south_german
-        religion = animist
-        size = 107982
+        religion = catholic
+        size = 53325
     }
 }
 #Salzburg (136000/34000 POPS)
 613 = {
     aristocrats = {
         culture = south_german
-        religion = animist
-        size = 550
+        religion = catholic
+        size = 450
     }
 
     clergymen = {
         culture = south_german
-        religion = animist
-        size = 796
+        religion = catholic
+        size = 650
+    }
+
+    bureaucrats = {
+        culture = south_german
+        religion = catholic
+        size = 20
+    }
+
+    officers = {
+        culture = south_german
+        religion = catholic
+        size = 50
     }
 
     artisans = {
         culture = south_german
-        religion = animist
-        size = 3994
+        religion = catholic
+        size = 3250
     }
 
     soldiers = {
         culture = south_german
-        religion = animist
-        size = 854
+        religion = catholic
+        size = 2500
     }
 
     farmers = {
         culture = south_german
-        religion = animist
-        size = 35625
+        religion = catholic
+        size = 28975
     }
 }
 #Bregenz (132000/33000 POPS)
 614 = {
     aristocrats = {
         culture = south_german
-        religion = animist
-        size = 810
+        religion = catholic
+        size = 400
     }
 
     clergymen = {
         culture = south_german
-        religion = animist
-        size = 607
+        religion = catholic
+        size = 300
     }
 
     artisans = {
         culture = south_german
-        religion = animist
-        size = 3037
+        religion = catholic
+        size = 1500
     }
 
     soldiers = {
         culture = south_german
-        religion = animist
-        size = 3341
+        religion = catholic
+        size = 1000
     }
 
     farmers = {
         culture = south_german
-        religion = animist
-        size = 60142
+        religion = catholic
+        size = 29700
     }
 }
 #Lienz (52000/13000 POPS)
 615 = {
     aristocrats = {
         culture = south_german
-        religion = animist
-        size = 354
+        religion = catholic
+        size = 425
     }
 
     clergymen = {
         culture = south_german
-        religion = animist
-        size = 252
+        religion = catholic
+        size = 125
+    }
+
+    bureaucrats = {
+        culture = south_german
+        religion = catholic
+        size = 100
+    }
+
+    officers = {
+        culture = south_german
+        religion = catholic
+        size = 49
     }
 
     artisans = {
         culture = south_german
-        religion = animist
-        size = 1215
+        religion = catholic
+        size = 600
     }
 
     soldiers = {
         culture = south_german
-        religion = animist
-        size = 378
+        religion = catholic
+        size = 1075
     }
 
     farmers = {
         culture = south_german
-        religion = animist
-        size = 24249
+        religion = catholic
+        size = 11975
+    }
+
+    artisans = {
+        culture = south_german
+        religion = catholic
+        size = 150
+    }
+
+    farmers = {
+        culture = south_german
+        religion = catholic
+        size = 2395
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = catholic
+        size = 3350
     }
 }
 #Carinthia-Styria Region (736000) #see Slovenia.txt for balance of Region
-#under the rule of Austria in 1836
+#under the rule of Austria in 1836  
 #Graz (380000/95000 POPS)
 616 = {
     aristocrats = {
         culture = south_german
-        religion = animist
-        size = 1904
+        religion = catholic
+        size = 1550
     }
 
     bureaucrats = {
         culture = south_german
-        religion = animist
-        size = 3225
+        religion = catholic
+        size = 525
     }
 
     officers = {
         culture = south_german
-        religion = animist
-        size = 336
+        religion = catholic
+        size = 275
     }
 
     clergymen = {
         culture = south_german
-        religion = animist
-        size = 1257
-    }
-
-    craftsmen = {
-        culture = south_german
-        religion = animist
-        size = 1843
+        religion = catholic
+        size = 1025
     }
 
     artisans = {
         culture = south_german
-        religion = animist
-        size = 12295
-    }
+        religion = catholic
+        size = 10000
+    } 
+
+	  craftsmen = {
+        culture = south_german
+        religion = catholic
+		    size = 2000
+  	}
+
+	  craftsmen = {
+        culture = slovene
+        religion = catholic
+		    size = 2000
+  	}
+  
+    capitalists = {
+        culture = south_german
+        religion = catholic
+	    	size = 30
+	  }
+  
+    clerks = {
+        culture = south_german
+        religion = catholic
+		    size = 200
+	  }
 
     soldiers = {
         culture = south_german
-        religion = animist
-        size = 893
+        religion = catholic
+        size = 5130
     }
 
     farmers = {
         culture = south_german
-        religion = animist
-        size = 97227
+        religion = catholic
+        size = 80675
+    }
+
+    soldiers = {
+        culture = slovene
+        religion = catholic
+        size = 600
     }
 }
 #Judenburg (168000/42000 POPS)
 617 = {
-    aristocrats = {
-        culture = south_german
-        religion = animist
-        size = 859
-    }
-
     clergymen = {
         culture = south_german
-        religion = animist
-        size = 550
+        religion = catholic
+        size = 450
     }
 
     artisans = {
         culture = south_german
-        religion = animist
-        size = 2764
-    }
-
-    soldiers = {
-        culture = south_german
-        religion = animist
-        size = 2457
+        religion = catholic
+        size = 2250
     }
 
     farmers = {
         culture = south_german
-        religion = animist
-        size = 146906
+        religion = catholic
+        size = 38150
     }
 }
 #Klagenfurt (188000/47000 POPS)
 618 = {
-    aristocrats = {
-        culture = south_german
-        religion = animist
-        size = 550
-    }
-
     clergymen = {
         culture = south_german
-        religion = animist
-        size = 398
+        religion = catholic
+        size = 325
     }
 
     artisans = {
         culture = south_german
-        religion = animist
-        size = 1904
-    }
-
-    soldiers = {
-        culture = south_german
-        religion = animist
-        size = 854
+        religion = catholic
+        size = 1550
     }
 
     farmers = {
         culture = south_german
-        religion = animist
-        size = 31568
+        religion = catholic
+        size = 25675
     }
 
     clergymen = {
         culture = slovene
-        religion = animist
-        size = 213
+        religion = catholic
+        size = 175
     }
 
     artisans = {
         culture = slovene
-        religion = animist
-        size = 1166
-    }
-
-    soldiers = {
-        culture = slovene
-        religion = animist
-        size = 154
+        religion = catholic
+        size = 950
     }
 
     farmers = {
         culture = slovene
-        religion = animist
-        size = 20500
+        religion = catholic
+        size = 16675
     }
 }
-#Austria Region (2000000)
-#under the rule of Austria in 1836
+#Austria Region (2000000) 
+#under the rule of Austria in 1836  
 #Vienna (1084000/271000 POPS)
 619 = {
     aristocrats = {
         culture = south_german
-        religion = animist
-        size = 5223
+        religion = catholic
+        size = 8175
     }
 
     bureaucrats = {
         culture = south_german
-        religion = animist
-        size = 8606
+        religion = catholic
+        size = 1400
     }
+
+    capitalists = {
+        culture = south_german
+        religion = catholic
+        size = 300
+    }
+
+	  craftsmen = {
+        culture = south_german
+        religion = catholic
+	    	size = 40000
+	  }
+  
+    clerks = {
+        culture = south_german
+        religion = catholic
+		    size = 7000
+  	}
 
     officers = {
         culture = south_german
-        religion = animist
-        size = 736
+        religion = catholic
+        size = 850
     }
 
     clergymen = {
         culture = south_german
-        religion = animist
-        size = 3380
+        religion = catholic
+        size = 2750
     }
 
     artisans = {
         culture = south_german
-        religion = animist
-        size = 12295
-    }
-
-    artisans = {
-        culture = south_german
-        religion = animist
-        size = 12295
-    }
-
-    artisans = {
-        culture = south_german
-        religion = animist
-        size = 12295
-    }
-
-    artisans = {
-        culture = south_german
-        religion = animist
-        size = 12295
-    }
-
-    artisans = {
-        culture = south_german
-        religion = animist
-        size = 12295
-    }
-
-    artisans = {
-        culture = south_german
-        religion = animist
-        size = 1965
-    }
-
-    clerks = {
-        culture = south_german
-        religion = animist
-        size = 58
-    }
-
-    craftsmen = {
-        culture = south_german
-        religion = animist
-        size = 93322
+        religion = catholic
+        size = 57500
     }
 
     soldiers = {
         culture = south_german
-        religion = animist
-        size = 7779
+        religion = catholic
+        size = 9310
     }
 
     farmers = {
         culture = south_german
-        religion = animist
-        size = 143244
+        religion = catholic
+        size = 194550
+    }
+
+    clergymen = {
+        culture = czech
+        religion = catholic
+        size = 50
+    }
+
+    artisans = {
+        culture = czech
+        religion = catholic
+        size = 5950
+    }
+
+    clergymen = {
+        culture = hungarian
+        religion = catholic
+        size = 20
+    }
+
+    artisans = {
+        culture = hungarian
+        religion = catholic
+        size = 980
     }
 
     clergymen = {
         culture = south_german
-        religion = animist
-        size = 121
-    }
-
-    craftsmen = {
-        culture = south_german
-        religion = animist
-        size = 121
+        religion = jewish
+        size = 5
     }
 
     artisans = {
         culture = south_german
-        religion = animist
-        size = 7252
-    }
-
-    clergymen = {
-        culture = south_german
-        religion = animist
-        size = 121
-    }
-
-    artisans = {
-        culture = south_german
-        religion = animist
-        size = 1105
-    }
-
-    clergymen = {
-        culture = south_german
-        religion = animist
-        size = 121
-    }
-
-    artisans = {
-        culture = south_german
-        religion = animist
-        size = 490
-    }
-
-    craftsmen = {
-        culture = south_german
-        religion = animist
-        size = 121
+        religion = jewish
+        size = 495
     }
 }
 #Sankt Polten (88000/22000 POPS)
 620 = {
-    aristocrats = {
-        culture = south_german
-        religion = animist
-        size = 459
-    }
-
-    bureaucrats = {
-        culture = south_german
-        religion = animist
-        size = 3687
-    }
-
     clergymen = {
         culture = south_german
-        religion = animist
-        size = 304
+        religion = catholic
+        size = 250
     }
 
     artisans = {
         culture = south_german
-        religion = animist
-        size = 1350
-    }
-
-    craftsmen = {
-        culture = south_german
-        religion = animist
-        size = 121
-    }
-
-    soldiers = {
-        culture = south_german
-        religion = animist
-        size = 1879
+        religion = catholic
+        size = 1200
     }
 
     farmers = {
         culture = south_german
-        religion = animist
-        size = 74496
+        religion = catholic
+        size = 19925
     }
 }
 #Krems (240000/60000 POPS)
 621 = {
-    aristocrats = {
-        culture = south_german
-        religion = animist
-        size = 1135
-    }
-
     clergymen = {
         culture = south_german
-        religion = animist
-        size = 766
+        religion = catholic
+        size = 625
     }
 
     artisans = {
         culture = south_german
-        religion = animist
-        size = 3687
-    }
-
-    craftsmen = {
-        culture = south_german
-        religion = animist
-        size = 121
-    }
-
-    soldiers = {
-        culture = south_german
-        religion = animist
-        size = 504
+        religion = catholic
+        size = 3100
     }
 
     farmers = {
         culture = south_german
-        religion = animist
-        size = 67256
+        religion = catholic
+        size = 54700
     }
 }
 #Linz (588000/147000 POPS)
 622 = {
-    aristocrats = {
-        culture = south_german
-        religion = animist
-        size = 2827
-    }
-
     clergymen = {
         culture = south_german
-        religion = animist
-        size = 3933
+        religion = catholic
+        size = 3200
     }
 
     artisans = {
         culture = south_german
-        religion = animist
-        size = 9404
-    }
-
-    craftsmen = {
-        culture = south_german
-        religion = animist
-        size = 244
-    }
-
-    soldiers = {
-        culture = south_german
-        religion = animist
-        size = 1204
+        religion = catholic
+        size = 7650
     }
 
     farmers = {
         culture = south_german
-        religion = animist
-        size = 164394
+        religion = catholic
+        size = 133900
     }
 }
 #Odenburg Region (196000) #see Hungary.txt for balance of region
 #under the rule of Austria in 1836
 #Eisenstadt (196000/49000 POPS)
 624 = {
-    aristocrats = {
-        culture = south_german
-        religion = animist
-        size = 859
-    }
-
     clergymen = {
         culture = south_german
-        religion = animist
-        size = 583
+        religion = catholic
+        size = 475
     }
 
     artisans = {
         culture = south_german
-        religion = animist
-        size = 2887
-    }
-
-    craftsmen = {
-        culture = south_german
-        religion = animist
-        size = 121
-    }
-
-    soldiers = {
-        culture = south_german
-        religion = animist
-        size = 854
+        religion = catholic
+        size = 2450
     }
 
     farmers = {
         culture = south_german
-        religion = animist
-        size = 50872
+        religion = catholic
+        size = 41375
     }
 
     clergymen = {
-        culture = south_german
-        religion = animist
-        size = 121
+        culture = hungarian
+        religion = catholic
+        size = 60
     }
 
     artisans = {
-        culture = south_german
-        religion = animist
-        size = 183
-    }
-
-    craftsmen = {
-        culture = south_german
-        religion = animist
-        size = 121
+        culture = hungarian
+        religion = catholic
+        size = 150
     }
 
     farmers = {
-        culture = south_german
-        religion = animist
-        size = 3255
+        culture = hungarian
+        religion = catholic
+        size = 2765
     }
 
     clergymen = {
-        culture = south_german
-        religion = animist
-        size = 121
+        culture = hungarian
+        religion = protestant
+        size = 35
     }
 
     artisans = {
-        culture = south_german
-        religion = animist
-        size = 183
-    }
-
-    craftsmen = {
-        culture = south_german
-        religion = animist
-        size = 121
+        culture = hungarian
+        religion = protestant
+        size = 150
     }
 
     farmers = {
-        culture = south_german
-        religion = animist
-        size = 2026
+        culture = hungarian
+        religion = protestant
+        size = 1790
     }
 }

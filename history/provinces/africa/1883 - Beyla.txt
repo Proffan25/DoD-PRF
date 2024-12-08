@@ -1,5 +1,3 @@
-trade_goods = iron
+add_core = WTT
+trade_goods = timber
 life_rating = 15
-
-
-

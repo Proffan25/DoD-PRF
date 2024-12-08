@@ -1,9 +1,7 @@
-owner = CHI
-controller = CHI
+owner = TAI
+controller = TAI   
+add_core = TAI
+add_core = DAX
 add_core = CHI
-#add_core = SZC
-#add_core = TPG
-#add_core = YNN
-trade_goods = wool
+trade_goods = fruit
 life_rating = 32
-

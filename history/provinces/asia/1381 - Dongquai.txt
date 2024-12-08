@@ -1,6 +1,5 @@
-owner = DAI
-controller = DAI
-add_core = DAI
-trade_goods = tea
-life_rating = 35
-
+owner = CHP
+controller = CHP
+add_core = CHP
+trade_goods = cotton
+life_rating = 34

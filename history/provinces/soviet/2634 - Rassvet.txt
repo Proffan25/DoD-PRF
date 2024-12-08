@@ -1,4 +1,6 @@
-
+owner = AIN
+controller = AIN
+add_core = AIN
 trade_goods = fish
-life_rating = 15
-
+terrain = montane_tundra
+life_rating = 10

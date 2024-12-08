@@ -1,13 +1,11 @@
 owner = AFG
 controller = AFG
-add_core = AFG
 add_core = PNJ
-#add_core = HND
+add_core = HND
 trade_goods = cotton
-life_rating = 35
+life_rating = 32
 1861.1.1 = {
 	owner = ENG
 	controller = ENG
 	colonial = 2
 }
-

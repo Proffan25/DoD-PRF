@@ -1,6 +1,6 @@
-owner = NEJ
-controller = NEJ
+owner = YEM
+controller = YEM
+add_core = YEM
 add_core = NEJ
 trade_goods = grain
 life_rating = 35
-

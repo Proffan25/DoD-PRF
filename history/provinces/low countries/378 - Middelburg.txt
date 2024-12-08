@@ -3,5 +3,4 @@ controller = BRG
 add_core = BRG
 add_core = NET
 trade_goods = fish
-life_rating = 39
-naval_base = 2
+life_rating = 35

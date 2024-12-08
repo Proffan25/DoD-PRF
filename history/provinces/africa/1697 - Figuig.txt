@@ -1,6 +1,6 @@
-owner = SPA
-controller = SPA
-add_core = MOR
-trade_goods = fruit
-life_rating = 35
-colonial = 2
+owner = MGH
+controller = MGH
+add_core = MGH
+terrain = semidesert
+trade_goods = wool
+life_rating = 31

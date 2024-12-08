@@ -1,9 +1,7 @@
-owner = SCA
-controller = SCA
-add_core = SCA
+owner = KRL
+controller = KRL
+add_core = KRL
 add_core = LAT
-#add_core = UBD
-#add_core = PLC
+naval_base = 1 
 trade_goods = cattle
 life_rating = 35
-

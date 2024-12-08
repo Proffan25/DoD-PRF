@@ -1,8 +1,6 @@
 owner = SCA
 controller = SCA
 add_core = SCA
-trade_goods = iron
-life_rating = 35
-
-
-
+trade_goods = fish
+terrain = montane_tundra
+life_rating = 20

@@ -1,761 +1,682 @@
 #Holland & Zeeland Region - 1353000
 #Amsterdam (464000/116000 POPS)
 375 = {
-    clergymen = {
-        culture = ashkenazi
-        religion = animist
-        size = 165
-    }
+	clergymen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 875
+	}
 
-    clerks = {
-        culture = ashkenazi
-        religion = animist
-        size = 165
-    }
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 10000
+	}
 
-    craftsmen = {
-        culture = ashkenazi
-        religion = animist
-        size = 1485
-    }
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 7100
+	}
 
-    artisans = {
-        culture = ashkenazi
-        religion = animist
-        size = 9735
-    }
+	aristocrats = {
+		culture = dutch
+		religion = protestant
+		size = 2500
+	}
 
-    aristocrats = {
-        culture = dutch
-        religion = animist
-        size = 825
-    }
+	aristocrats = {
+		culture = burgundian
+		religion = protestant
+		size = 1050
+	}
 
-    officers = {
-        culture = dutch
-        religion = animist
-        size = 82
-    }
+	officers = {
+		culture = dutch
+		religion = protestant
+		size = 750
+	}
 
-    bureaucrats = {
-        culture = dutch
-        religion = animist
-        size = 13200
-    }
+	bureaucrats = {
+		culture = dutch
+		religion = protestant
+		size = 3600
+	}
 
-    clergymen = {
-        culture = dutch
-        religion = animist
-        size = 907
-    }
+	capitalists = {
+		culture = dutch
+		religion = protestant
+		size = 560
+	}
 
-    artisans = {
-        culture = dutch
-        religion = animist
-        size = 16500
-    }
+	clergymen = {
+		culture = dutch
+		religion = protestant
+		size = 2850
+	}
 
-    artisans = {
-        culture = dutch
-        religion = animist
-        size = 16500
-    }
+	artisans = {
+		culture = dutch
+		religion = protestant
+		size = 10000
+	}
+	
+	artisans = {
+		culture = dutch
+		religion = protestant
+		size = 10000
+	}
+	
+	artisans = {
+		culture = dutch
+		religion = protestant
+		size = 10000
+	}
+	
+	artisans = {
+		culture = dutch
+		religion = protestant
+		size = 10000
+	}
 
-    artisans = {
-        culture = dutch
-        religion = animist
-        size = 16500
-    }
+	artisans = {
+		culture = dutch
+		religion = catholic
+		size = 9500
+	}
 
-    artisans = {
-        culture = dutch
-        religion = animist
-        size = 15015
-    }
+	artisans = {
+		culture = burgundian
+		religion = protestant
+		size = 5400
+	}
+	
+	clerks = {
+		culture = dutch
+		religion = protestant
+		size = 7000
+	}
 
-    clerks = {
-        culture = dutch
-        religion = animist
-        size = 165
-    }
+	craftsmen = {
+		culture = dutch
+		religion = protestant
+		size = 53000
+	}
 
-    craftsmen = {
-        culture = dutch
-        religion = animist
-        size = 6435
-    }
+	craftsmen = {
+		culture = burgundian
+		religion = protestant
+		size = 9325
+	}
 
-    soldiers = {
-        culture = dutch
-        religion = animist
-        size = 1815
-    }
+	soldiers = {
+		culture = dutch
+		religion = protestant
+		size= 3000
 
-    farmers = {
-        culture = dutch
-        religion = animist
-        size = 97680
-    }
+	}
 
-    craftsmen = {
-        culture = dutch
-        religion = animist
-        size = 165
-    }
 
-    artisans = {
-        culture = dutch
-        religion = animist
-        size = 4785
-    }
+	soldiers = {
+		culture = dutch
+		religion = protestant
+		size= 3000
+
+	}
+
+	soldiers = {
+		culture = burgundian
+		religion = protestant
+		size = 2100
+	}
+
+	farmers = {
+		culture = dutch
+		religion = protestant
+		size = 61300
+	}
 }
 #Rotterdam (567000/141750 POPS)
 376 = {
-    aristocrats = {
-        culture = dutch
-        religion = animist
-        size = 1237
-    }
+	aristocrats = {
+		culture = dutch
+		religion = protestant
+		size = 750
+	}
 
-    clergymen = {
-        culture = dutch
-        religion = animist
-        size = 1030
-    }
+	clergymen = {
+		culture = dutch
+		religion = protestant
+		size = 625
+	}
 
-    artisans = {
-        culture = dutch
-        religion = animist
-        size = 16500
-    }
+	artisans = {
+		culture = dutch
+		religion = protestant
+		size = 10000
+	}
+	
+	artisans = {
+		culture = dutch
+		religion = protestant
+		size = 10000
+	}
+	
+	artisans = {
+		culture = dutch
+		religion = protestant
+		size = 6600
+	}
 
-    artisans = {
-        culture = dutch
-        religion = animist
-        size = 11055
-    }
+	soldiers = {
+		culture = dutch
+		religion = protestant
+		size= 2250
 
-    craftsmen = {
-        culture = dutch
-        religion = animist
-        size = 77000
-    }
+	}
 
-    soldiers = {
-        culture = dutch
-        religion = animist
-        size = 2062
-    }
+	farmers = {
+		culture = dutch
+		religion = protestant
+		size = 108125
+	}
 
-    farmers = {
-        culture = dutch
-        religion = animist
-        size = 128905
-    }
-
-    craftsmen = {
-        culture = ashkenazi
-        religion = animist
-        size = 330
-    }
-
-    artisans = {
-        culture = ashkenazi
-        religion = animist
-        size = 2145
-    }
-
-    artisans = {
-        culture = dutch
-        religion = animist
-        size = 1815
-    }
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 3500
+	}
 }
 #Utrecht (152000/38000 POPS)
 377 = {
-    aristocrats = {
-        culture = dutch
-        religion = animist
-        size = 495
-    }
+	aristocrats = {
+		culture = dutch
+		religion = protestant
+		size = 800
+	}
 
-    clergymen = {
-        culture = dutch
-        religion = animist
-        size = 365
-    }
+	aristocrats = {
+		culture = burgundian
+		religion = protestant
+		size = 100
+	}
 
-    artisans = {
-        culture = dutch
-        religion = animist
-        size = 16500
-    }
+	clergymen = {
+		culture = dutch
+		religion = protestant
+		size = 1275
+	}
 
-    artisans = {
-        culture = dutch
-        religion = animist
-        size = 1650
-    }
+	clergymen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 200
+	}
 
-    craftsmen = {
-        culture = dutch
-        religion = animist
-        size = 1650
-    }
+	artisans = {
+		culture = dutch
+		religion = protestant
+		size = 10000
+	}
+	
+	artisans = {
+		culture = dutch
+		religion = protestant
+		size = 10000
+	}
 
-    soldiers = {
-        culture = dutch
-        religion = animist
-        size = 1815
-    }
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 7000
+	}
 
-    farmers = {
-        culture = dutch
-        religion = animist
-        size = 40465
-    }
+	soldiers = {
+		culture = dutch
+		religion = protestant
+		size= 3000
+
+	}
+
+	soldiers = {
+		culture = burgundian
+		religion = protestant
+		size = 2100
+	}
+
+	farmers = {
+		culture = dutch
+		religion = protestant
+		size = 78525
+	}
+
+	farmers = {
+		culture = burgundian
+		religion = protestant
+		size = 13650
+	}
 }
 #Middelburg (170000/42500 POPS)
 378 = {
-    aristocrats = {
-        culture = dutch
-        religion = animist
-        size = 495
-    }
+	aristocrats = {
+		culture = dutch
+		religion = protestant
+		size = 600
+	}
 
-    clergymen = {
-        culture = dutch
-        religion = animist
-        size = 330
-    }
+	clergymen = {
+		culture = dutch
+		religion = protestant
+		size = 800
+	}
 
-    artisans = {
-        culture = dutch
-        religion = animist
-        size = 2805
-    }
+	artisans = {
+		culture = dutch
+		religion = protestant
+		size = 8850
+	}
+  
+	craftsmen = {
+		culture = dutch
+		religion = protestant
+		size = 5000
+	}
+  
+  capitalists = {
+		culture = dutch
+		religion = protestant
+		size = 80
+	}
+  
+  clerks = {
+		culture = dutch
+		religion = protestant
+		size = 1000
+	}  
+  
 
-    soldiers = {
-        culture = dutch
-        religion = animist
-        size = 1815
-    }
+	soldiers = {
+		culture = dutch
+		religion = protestant
+		size= 2100
 
-    farmers = {
-        culture = dutch
-        religion = animist
-        size = 61545
-    }
+	}
 
-    artisans = {
-        culture = dutch
-        religion = animist
-        size = 247
-    }
+	farmers = {
+		culture = dutch
+		religion = protestant
+		size = 56400
+	}
 
-    farmers = {
-        culture = dutch
-        religion = animist
-        size = 1815
-    }
 }
 #Limburg-Gelderland Region - 979400
 #Eindhoven (230000/57500 POPS)
 379 = {
-    artisans = {
-        culture = ashkenazi
-        religion = animist
-        size = 412
-    }
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 250
+	}
 
-    aristocrats = {
-        culture = dutch
-        religion = animist
-        size = 660
-    }
+	aristocrats = {
+		culture = dutch
+		religion = protestant
+		size = 1400
+	}
 
-    officers = {
-        culture = dutch
-        religion = animist
-        size = 82
-    }
+	officers = {
+		culture = dutch
+		religion = protestant
+		size = 30
+	}
 
-    bureaucrats = {
-        culture = dutch
-        religion = animist
-        size = 825
-    }
+	bureaucrats = {
+		culture = dutch
+		religion = protestant
+		size = 800
+	}
 
-    clergymen = {
-        culture = dutch
-        religion = animist
-        size = 495
-    }
+	clergymen = {
+		culture = dutch
+		religion = protestant
+		size = 850
+	}
 
-    artisans = {
-        culture = dutch
-        religion = animist
-        size = 3547
-    }
+	artisans = {
+		culture = dutch
+		religion = protestant
+		size = 3300
+	}
 
-    soldiers = {
-        culture = dutch
-        religion = animist
-        size = 1815
-    }
+	soldiers = {
+		culture = dutch
+		religion = protestant
+		size= 3000
 
-    farmers = {
-        culture = dutch
-        religion = animist
-        size = 179575
-    }
+	}
 
-    clergymen = {
-        culture = dutch
-        religion = animist
-        size = 82
-    }
+	soldiers = {
+		culture = dutch
+		religion = protestant
+		size= 100
 
-    artisans = {
-        culture = dutch
-        religion = animist
-        size = 247
-    }
+	}
 
-    farmers = {
-        culture = dutch
-        religion = animist
-        size = 4950
-    }
+	farmers = {
+		culture = dutch
+		religion = protestant
+		size = 53500
+	}
 }
 #Breda (173200/43300 POPS)
 380 = {
-    aristocrats = {
-        culture = dutch
-        religion = animist
-        size = 495
-    }
+	aristocrats = {
+		culture = dutch
+		religion = protestant
+		size = 500
+	}
 
-    clergymen = {
-        culture = dutch
-        religion = animist
-        size = 330
-    }
+	clergymen = {
+		culture = dutch
+		religion = protestant
+		size = 400
+	}
 
-    artisans = {
-        culture = dutch
-        religion = animist
-        size = 6187
-    }
+	artisans = {
+		culture = dutch
+		religion = protestant
+		size = 3750
+	}
 
-    soldiers = {
-        culture = dutch
-        religion = animist
-        size = 1815
-    }
+	soldiers = {
+		culture = dutch
+		religion = protestant
+		size= 1100
 
-    labourers = {
-        culture = dutch
-        religion = animist
-        size = 57282
-    }
+	}
+
+	labourers = {
+		culture = dutch
+		religion = protestant
+		size = 35050
+	}
 }
-#Maastricht (164200/41050 POPS)
+#Maastricht/Limburg (164200/41050 POPS)
 381 = {
-    aristocrats = {
-        culture = dutch
-        religion = animist
-        size = 495
-    }
+	aristocrats = {
+		culture = dutch
+		religion = protestant
+		size = 300
+	}
 
-    clergymen = {
-        culture = dutch
-        religion = animist
-        size = 330
-    }
+	clergymen = {
+		culture = dutch
+		religion = protestant
+		size = 400
+	}
 
-    artisans = {
-        culture = dutch
-        religion = animist
-        size = 6600
-    }
+	artisans = {
+		culture = dutch
+		religion = protestant
+		size = 5000
+	}
 
-    clerks = {
-        culture = dutch
-        religion = animist
-        size = 330
-    }
-
-    craftsmen = {
-        culture = dutch
-        religion = animist
-        size = 6600
-    }
-
-    soldiers = {
-        culture = dutch
-        religion = animist
-        size = 1815
-    }
-
-    farmers = {
-        culture = dutch
-        religion = animist
-        size = 50077
-    }
-
-    farmers = {
-        culture = dutch
-        religion = animist
-        size = 1815
-    }
+	farmers = {
+		culture = dutch
+		religion = protestant
+		size = 35750
+	}
 }
 #Arnhem (412000/103000 POPS)
 382 = {
-    artisans = {
-        culture = ashkenazi
-        religion = animist
-        size = 412
-    }
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 500
+	}
 
-    aristocrats = {
-        culture = dutch
-        religion = animist
-        size = 632
-    }
+	aristocrats = {
+		culture = dutch
+		religion = protestant
+		size = 850
+	}
+	
+	bureaucrats = {
+		culture = dutch
+		religion = protestant
+		size = 600
+	}
 
-    bureaucrats = {
-        culture = dutch
-        religion = animist
-        size = 605
-    }
+	clergymen = {
+		culture = dutch
+		religion = protestant
+		size = 1100
+	}
 
-    clergymen = {
-        culture = dutch
-        religion = animist
-        size = 412
-    }
+	artisans = {
+		culture = dutch
+		religion = protestant
+		size = 6150
+	}
 
-    artisans = {
-        culture = dutch
-        religion = animist
-        size = 2475
-    }
+	soldiers = {
+		culture = dutch
+		religion = protestant
+		size= 1400
 
-    craftsmen = {
-        culture = dutch
-        religion = animist
-        size = 2475
-    }
+	}
 
-    soldiers = {
-        culture = dutch
-        religion = animist
-        size = 907
-    }
+	farmers = {
+		culture = dutch
+		religion = protestant
+		size = 96350
+	}
 
-    farmers = {
-        culture = dutch
-        religion = animist
-        size = 33577
-    }
+	clergymen = {
+		culture = rheinish
+		religion = protestant
+		size = 50
+	}
 
-    clergymen = {
-        culture = rheinish
-        religion = animist
-        size = 44
-    }
+	artisans = {
+		culture = rheinish
+		religion = protestant
+		size = 250
+	}
 
-    craftsmen = {
-        culture = rheinish
-        religion = animist
-        size = 209
-    }
+	farmers = {
+		culture = rheinish
+		religion = protestant
+		size = 3200
+	}
 
-    farmers = {
-        culture = rheinish
-        religion = animist
-        size = 2640
-    }
-}
-3257 = {
-    artisans = {
-        culture = ashkenazi
-        religion = animist
-        size = 412
-    }
-
-    aristocrats = {
-        culture = dutch
-        religion = animist
-        size = 632
-    }
-
-    bureaucrats = {
-        culture = dutch
-        religion = animist
-        size = 605
-    }
-
-    clergymen = {
-        culture = dutch
-        religion = animist
-        size = 412
-    }
-
-    artisans = {
-        culture = dutch
-        religion = animist
-        size = 2475
-    }
-
-    craftsmen = {
-        culture = dutch
-        religion = animist
-        size = 2475
-    }
-
-    soldiers = {
-        culture = dutch
-        religion = animist
-        size = 907
-    }
-
-    farmers = {
-        culture = dutch
-        religion = animist
-        size = 33577
-    }
-
-    clergymen = {
-        culture = rheinish
-        religion = animist
-        size = 44
-    }
-
-    craftsmen = {
-        culture = rheinish
-        religion = animist
-        size = 209
-    }
-
-    farmers = {
-        culture = rheinish
-        religion = animist
-        size = 2640
-    }
 }
 #Friesland-Groningen Region : 713800
 #Groningen (186600/46650 POPS)
 383 = {
-    artisans = {
-        culture = ashkenazi
-        religion = animist
-        size = 412
-    }
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 250
+	}
 
-    aristocrats = {
-        culture = dutch
-        religion = animist
-        size = 495
-    }
+	aristocrats = {
+		culture = dutch
+		religion = protestant
+		size = 300
+	}
 
-    officers = {
-        culture = dutch
-        religion = animist
-        size = 247
-    }
+	officers = {
+		culture = dutch
+		religion = protestant
+		size = 150
+	}
 
-    bureaucrats = {
-        culture = dutch
-        religion = animist
-        size = 6600
-    }
+	bureaucrats = {
+		culture = dutch
+		religion = protestant
+		size = 800
+	}
 
-    clergymen = {
-        culture = dutch
-        religion = animist
-        size = 330
-    }
+	clergymen = {
+		culture = dutch
+		religion = protestant
+		size = 200
+	}
 
-    artisans = {
-        culture = dutch
-        religion = animist
-        size = 11550
-    }
+	artisans = {
+		culture = dutch
+		religion = protestant
+		size = 7000
+	}
 
-    soldiers = {
-        culture = dutch
-        religion = animist
-        size = 6600
-    }
+	soldiers = {
+		culture = dutch
+		religion = protestant
+		size= 3000
 
-    farmers = {
-        culture = dutch
-        religion = animist
-        size = 58492
-    }
+	}
 
-    labourers = {
-        culture = rheinish
-        religion = animist
-        size = 1815
-    }
+	soldiers = {
+		culture = dutch
+		religion = protestant
+		size= 1000
+
+	}
+
+	farmers = {
+		culture = dutch
+		religion = protestant
+		size = 35450
+	}
+
+	labourers = {
+		culture = rheinish
+		religion = protestant
+		size = 1100
+	}
 }
 #Zwolle (238000/59500 POPS)
 384 = {
-    aristocrats = {
-        culture = dutch
-        religion = animist
-        size = 412
-    }
+	aristocrats = {
+		culture = dutch
+		religion = protestant
+		size = 500
+	}
 
-    clergymen = {
-        culture = dutch
-        religion = animist
-        size = 247
-    }
+	clergymen = {
+		culture = dutch
+		religion = protestant
+		size = 500
+	}
 
-    artisans = {
-        culture = dutch
-        religion = animist
-        size = 3217
-    }
+	artisans = {
+		culture = dutch
+		religion = protestant
+		size = 3900
+	}
 
-    soldiers = {
-        culture = dutch
-        religion = animist
-        size = 907
-    }
+	soldiers = {
+		culture = dutch
+		religion = protestant
+		size= 3000
 
-    farmers = {
-        culture = dutch
-        religion = animist
-        size = 35310
-    }
+	}
 
-    artisans = {
-        culture = rheinish
-        religion = animist
-        size = 82
-    }
+	soldiers = {
+		culture = dutch
+		religion = protestant
+		size= 100
 
-    farmers = {
-        culture = rheinish
-        religion = animist
-        size = 742
-    }
-}
-3256 = {
-    aristocrats = {
-        culture = dutch
-        religion = animist
-        size = 412
-    }
+	}
 
-    clergymen = {
-        culture = dutch
-        religion = animist
-        size = 247
-    }
+	farmers = {
+		culture = dutch
+		religion = protestant
+		size = 40800
+	}
 
-    artisans = {
-        culture = dutch
-        religion = animist
-        size = 3217
-    }
+	artisans = {
+		culture = rheinish
+		religion = protestant
+		size = 100
+	}
 
-    soldiers = {
-        culture = dutch
-        religion = animist
-        size = 907
-    }
-
-    farmers = {
-        culture = dutch
-        religion = animist
-        size = 35310
-    }
-
-    artisans = {
-        culture = rheinish
-        religion = animist
-        size = 82
-    }
-
-    farmers = {
-        culture = rheinish
-        religion = animist
-        size = 742
-    }
+	farmers = {
+		culture = rheinish
+		religion = protestant
+		size = 900
+	}
 }
 #Leeuwarden (209200/52300 POPS)
 385 = {
-    aristocrats = {
-        culture = dutch
-        religion = animist
-        size = 495
-    }
+	aristocrats = {
+		culture = dutch
+		religion = protestant
+		size = 300
+	}
 
-    clergymen = {
-        culture = dutch
-        religion = animist
-        size = 453
-    }
+	clergymen = {
+		culture = dutch
+		religion = protestant
+		size = 375
+	}
 
-    artisans = {
-        culture = dutch
-        religion = animist
-        size = 9900
-    }
+	artisans = {
+		culture = dutch
+		religion = protestant
+		size = 6000
+	}
 
-    soldiers = {
-        culture = dutch
-        religion = animist
-        size = 1815
-    }
+	soldiers = {
+		culture = dutch
+		religion = protestant
+		size= 2100
 
-    farmers = {
-        culture = dutch
-        religion = animist
-        size = 73795
-    }
+	}
+
+	farmers = {
+		culture = dutch
+		religion = protestant
+		size = 43725
+	}
 }
 #Assen (80000/20000 POPS)
 386 = {
-    aristocrats = {
-        culture = dutch
-        religion = animist
-        size = 247
-    }
+	aristocrats = {
+		culture = dutch
+		religion = protestant
+		size = 150
+	}
 
-    clergymen = {
-        culture = dutch
-        religion = animist
-        size = 165
-    }
+	clergymen = {
+		culture = dutch
+		religion = protestant
+		size = 100
+	}
 
-    artisans = {
-        culture = dutch
-        religion = animist
-        size = 1815
-    }
+	artisans = {
+		culture = dutch
+		religion = protestant
+		size = 1100
+	}
 
-    soldiers = {
-        culture = dutch
-        religion = animist
-        size = 1815
-    }
+	soldiers = {
+		culture = dutch
+		religion = protestant
+		size= 1100
 
-    farmers = {
-        culture = dutch
-        religion = animist
-        size = 27637
-    }
+	}
 
-    farmers = {
-        culture = rheinish
-        religion = animist
-        size = 1815
-    }
+	farmers = {
+		culture = dutch
+		religion = protestant
+		size = 16750
+	}
+
+	farmers = {
+		culture = rheinish
+		religion = protestant
+		size = 1100
+	}
 }

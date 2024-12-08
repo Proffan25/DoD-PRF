@@ -1,6 +1,5 @@
-owner = ARN
-controller = ARN
-add_core = ARN
+owner = SIC
+controller = SIC
 add_core = SIC
 #add_core = ITA
 

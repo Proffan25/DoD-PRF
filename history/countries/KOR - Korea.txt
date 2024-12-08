@@ -1,23 +1,24 @@
 capital = 1624
 primary_culture = korean
-religion = animist
+religion = mahayana
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_order
-literacy = 0.01
+literacy = 0.38
 civilized = yes
+prestige = 5
 
-#Political Reforms
-slavery = yes_slavery
+# Political reforms
+slavery = no_slavery
 upper_house_composition = appointed
 vote_franschise = none_voting
-public_meetings = no_meeting
+public_meetings = yes_meeting
 press_rights = state_press
 trade_unions = no_trade_unions
-voting_system = jefferson_method
+voting_system = first_past_the_post
 political_parties = underground_parties
 
-#Social Reforms
+# Social Reforms
 wage_reform = no_minimum_wage
 work_hours = no_work_hour_limit
 safety_regulations = no_safety
@@ -26,7 +27,17 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions 
 school_reforms = no_schools
 
-ruling_party = KOR_reactionary
+# New Reforms
+conscription = two_year_draft
+debt_law = debtors_prisons
+penal_system = capital_punishment
+child_labor = child_labor_legal
+citizens_rights = culture_voting_only
+border_policy = closed_borders
+
+set_country_flag = mahayana_country
+
+ruling_party = AAA_conservative_3
 upper_house = {
 	fascist = 0
 	liberal = 18
@@ -37,34 +48,49 @@ upper_house = {
 	communist = 0
 }
 
+govt_flag = {
+	government = absolute_monarchy
+	flag = theocracy
+}
+
+
+# Technologies
+early_classical_theory_and_critique = 1
+late_enlightenment_philosophy = 1
+enlightenment_thought = 1
+private_banks = 1
+bronze_muzzle_loaded_artillery = 1
+flintlock_rifles = 1
+no_standard = 1
+military_staff_system = 1
+post_napoleonic_thought = 1
+introspectionism = 1
+army_command_principle = 1
+malthusian_thought = 1
+basic_chemistry = 1
+freedom_of_trade = 1
+
 # Starting Consciousness
 consciousness = 0
 nonstate_consciousness = 0
 
-post_napoleonic_thought = 1
-flintlock_rifles = 1
-bronze_muzzle_loaded_artillery = 1
-military_staff_system = 1
-army_command_principle = 1
-post_nelsonian_thought = 1
-clipper_design = 1
-naval_design_bureaus = 1
-alphabetic_flag_signaling = 1
-the_command_principle = 1
-classicism_n_early_romanticism = 1
-late_enlightenment_philosophy = 1
-malthusian_thought = 1
-enlightenment_thought = 1
-introspectionism = 1
-private_banks = 1
-stock_exchange = 1
-no_standard = 1
-early_classical_theory_and_critique = 1
-freedom_of_trade = 1
-guild_based_production = 1
-water_wheel_power = 1
-publishing_industry = 1
-mechanized_mining = 1
-basic_chemistry = 1
+# Inventions
+#bottling_process = yes
+modern_winemaking = yes
 
 oob = "KOR_oob.txt"
+1861.1.1 = {
+	oob = "/1861/KOR_oob.txt"
+	literacy = 0.09
+	non_state_culture_literacy = 0.05
+
+	foreign_weapons = yes_foreign_weapons
+	foreign_officers = yes_foreign_officers
+	admin_reform = yes_admin_reform
+	land_reform = yes_land_reform
+
+	# Technologies
+	flintlock_rifles = 1
+	military_staff_system = 1
+}
+

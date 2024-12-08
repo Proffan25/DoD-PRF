@@ -1,245 +1,274 @@
-#Eritrea Region (180000)
-#under the rule of Egypt in 1836
-#Massawa (28000/7000 POPS)
+#Eritrea Region (180000) 
+#under the rule of Egypt in 1836  
+#Massawa (28000/7000 POPS)  
 1849 = {
-    aristocrats = {
-        culture = afro_asiatic
-        religion = animist
-        size = 57
-    }
+	aristocrats = {
+		culture = tigray
+		religion = sunni
+		size = 100
+	}
 
-    clergymen = {
-        culture = afro_asiatic
-        religion = animist
-        size = 86
-    }
+	clergymen = {
+		culture = tigray
+		religion = sunni
+		size = 165
+	}
 
-    artisans = {
-        culture = afro_asiatic
-        religion = animist
-        size = 172
-    }
+	artisans = {
+		culture = tigray
+		religion = sunni
+		size = 235
+	}
 
-    soldiers = {
-        culture = afro_asiatic
-        religion = animist
-        size = 28
-    }
+	soldiers = {
+		culture = tigray
+		religion = sunni
+		size= 500
+	}
 
-    farmers = {
-        culture = afro_asiatic
-        religion = animist
-        size = 3105
-    }
+	farmers = {
+		culture = tigray
+		religion = sunni
+		size = 4950
+	}
 
-    bureaucrats = {
-        culture = misri
-        religion = animist
-        size = 5
-    }
+	bureaucrats = {
+		culture = misri
+		religion = sunni
+		size = 30
+	}
 
-    soldiers = {
-        culture = misri
-        religion = animist
-        size = 23
-    }
+	soldiers = {
+		culture = misri
+		religion = sunni
+		size= 200
+	}
 
-    aristocrats = {
-        culture = misri
-        religion = animist
-        size = 86
-    }
+	aristocrats = {
+		culture = bedouin
+		religion = sunni
+		size = 170
+	}
 
-    clergymen = {
-        culture = misri
-        religion = animist
-        size = 86
-    }
+	clergymen = {
+		culture = bedouin
+		religion = sunni
+		size = 195
+	}
 
-    artisans = {
-        culture = misri
-        religion = animist
-        size = 230
-    }
+	artisans = {
+		culture = bedouin
+		religion = sunni
+		size = 555
+	}
 
-    soldiers = {
-        culture = misri
-        religion = animist
-        size = 28
-    }
+	soldiers = {
+		culture = bedouin
+		religion = sunni
+		size= 900
+	}
 
-    farmers = {
-        culture = misri
-        religion = animist
-        size = 4140
-    }
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 7100
+	}
 }
-#Assab (44000/11000 POPS)
+#Assab (44000/11000 POPS)  
 1851 = {
-    aristocrats = {
-        culture = afro_asiatic
-        religion = animist
-        size = 143
-    }
+	aristocrats = {
+		culture = tigray
+		religion = sunni
+		size = 250
+	}
 
-    clergymen = {
-        culture = afro_asiatic
-        religion = animist
-        size = 86
-    }
+	clergymen = {
+		culture = tigray
+		religion = sunni
+		size = 195
+	}
 
-    artisans = {
-        culture = afro_asiatic
-        religion = animist
-        size = 402
-    }
+	artisans = {
+		culture = tigray
+		religion = sunni
+		size = 740
+	}
 
-    soldiers = {
-        culture = afro_asiatic
-        religion = animist
-        size = 86
-    }
+	soldiers = {
+		culture = tigray
+		religion = sunni
+		size= 750
+	}
 
-    farmers = {
-        culture = afro_asiatic
-        religion = animist
-        size = 7331
-    }
+	farmers = {
+		culture = tigray
+		religion = sunni
+		size = 10275
+	}
 
-    aristocrats = {
-        culture = afro_asiatic
-        religion = animist
-        size = 86
-    }
+	aristocrats = {
+		culture = afar
+		religion = sunni
+		size = 165
+	}
 
-    clergymen = {
-        culture = afro_asiatic
-        religion = animist
-        size = 86
-    }
+	clergymen = {
+		culture = afar
+		religion = sunni
+		size = 200
+	}
 
-    artisans = {
-        culture = afro_asiatic
-        religion = animist
-        size = 230
-    }
+	artisans = {
+		culture = afar
+		religion = sunni
+		size = 510
+	}
 
-    soldiers = {
-        culture = afro_asiatic
-        religion = animist
-        size = 57
-    }
+	soldiers = {
+		culture = afar
+		religion = sunni
+		size= 500
+	}
 
-    farmers = {
-        culture = afro_asiatic
-        religion = animist
-        size = 4140
-    }
+	farmers = {
+		culture = afar
+		religion = sunni
+		size = 7000
+	}
 }
-#under the rule of Ethiopia in 1836
-#Asmara (80000/20000 POPS)
+#under the rule of Ethiopia in 1836  
+#Asmara (80000/20000 POPS)  
 1848 = {
-    aristocrats = {
-        culture = afro_asiatic
-        religion = animist
-        size = 258
-    }
+	aristocrats = {
+		culture = tigray
+		religion = coptic
+		size = 450
+	}
 
-    bureaucrats = {
-        culture = afro_asiatic
-        religion = animist
-        size = 17
-    }
+	bureaucrats = {
+		culture = tigray
+		religion = coptic
+		size = 75
+	}
 
-    officers = {
-        culture = afro_asiatic
-        religion = animist
-        size = 28
-    }
+	officers = {
+		culture = tigray
+		religion = coptic
+		size = 125
+	}
 
-    clergymen = {
-        culture = afro_asiatic
-        religion = animist
-        size = 143
-    }
+	clergymen = {
+		culture = tigray
+		religion = coptic
+		size = 285
+	}
 
-    artisans = {
-        culture = afro_asiatic
-        religion = animist
-        size = 690
-    }
+	artisans = {
+		culture = tigray
+		religion = coptic
+		size = 1250
+	}
 
-    soldiers = {
-        culture = afro_asiatic
-        religion = animist
-        size = 143
-    }
+	soldiers = {
+		culture = tigray
+		religion = coptic
+		size = 1500
+	}
 
-    farmers = {
-        culture = afro_asiatic
-        religion = animist
-        size = 12448
-    }
+	farmers = {
+		culture = tigray
+		religion = coptic
+		size = 38925
+	}
 
-    aristocrats = {
-        culture = afro_asiatic
-        religion = animist
-        size = 172
-    }
+	aristocrats = {
+		culture = tigray
+		religion = sunni
+		size = 340
+	}
 
-    clergymen = {
-        culture = afro_asiatic
-        religion = animist
-        size = 86
-    }
+	clergymen = {
+		culture = tigray
+		religion = sunni
+		size = 219
+	}
 
-    artisans = {
-        culture = afro_asiatic
-        religion = animist
-        size = 460
-    }
+	artisans = {
+		culture = tigray
+		religion = sunni
+		size = 1000
+	}
 
-    soldiers = {
-        culture = afro_asiatic
-        religion = animist
-        size = 86
-    }
+	soldiers = {
+		culture = tigray
+		religion = sunni
+		size= 750
+	}
 
-    farmers = {
-        culture = afro_asiatic
-        religion = animist
-        size = 8395
-    }
+	farmers = {
+		culture = tigray
+		religion = sunni
+		size = 20430
+	}
+	slaves = {
+		culture = cushitic
+		religion = sunni
+		size = 500
+	}
 }
-#Akordat (28000/7000 POPS)
+#Akordat (28000/7000 POPS)  
 1850 = {
-    aristocrats = {
-        culture = afro_asiatic
-        religion = animist
-        size = 143
-    }
+	aristocrats = {
+		culture = tigray
+		religion = coptic
+		size = 250
+	}
 
-    clergymen = {
-        culture = afro_asiatic
-        religion = animist
-        size = 86
-    }
+	clergymen = {
+		culture = tigray
+		religion = coptic
+		size = 210
+	}
 
-    artisans = {
-        culture = afro_asiatic
-        religion = animist
-        size = 402
-    }
+	artisans = {
+		culture = tigray
+		religion = coptic
+		size = 1350
+	}
 
-    soldiers = {
-        culture = afro_asiatic
-        religion = animist
-        size = 86
-    }
+	soldiers = {
+		culture = tigray
+		religion = coptic
+		size= 750
+	}
 
-    farmers = {
-        culture = afro_asiatic
-        religion = animist
-        size = 7331
-    }
+	farmers = {
+		culture = tigray
+		religion = coptic
+		size = 32575
+	}
+
+	clergymen = {
+		culture = beja
+		religion = sunni
+		size = 80
+	}
+
+	farmers = {
+		culture = beja
+		religion = sunni
+		size = 6300
+	}
+
+	clergymen = {
+		culture = nubian
+		religion = sunni
+		size = 60
+	}
+
+	farmers = {
+		culture = nubian
+		religion = sunni
+		size = 4050
+	}
 }

@@ -1,9 +1,9 @@
 owner = DUA
 controller = DUA
 add_core = DUA
-add_core = FRA
+add_core = OCC
 trade_goods = fruit
-life_rating = 33
+life_rating = 31
 #state_building = {
 #	level = 1
 #	building = winery
@@ -20,4 +20,3 @@ life_rating = 33
 	railroad = 3 
 	naval_base = 1
 }
-

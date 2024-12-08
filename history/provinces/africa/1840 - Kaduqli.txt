@@ -1,7 +1,7 @@
-owner = EGY
-controller = EGY
-add_core = EGY
+owner = DAR
+controller = DAR
+add_core = DAR
+add_core = FUN
 trade_goods = wool
-life_rating = 30
-
-
+terrain = semidesert
+life_rating = 32

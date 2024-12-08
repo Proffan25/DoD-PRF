@@ -1,1339 +1,1485 @@
+#http://pages.uoregon.edu/caguirre/Ramirez_Agentes.pdf
+#41,000 registered slaves in 1821, that means 10250 slave pops.
 #Loreto Region (96000)
 #Ruled by Peru 1836
 #Iquitos (60000/15000 POPS)
 2286 = {
-    aristocrats = {
-        culture = quechua
-        religion = animist
-        size = 175
-    }
+	aristocrats = {
+		culture = granadan
+		religion = catholic
+		size = 75
+	}
 
-    bureaucrats = {
-        culture = quechua
-        religion = animist
-        size = 9
-    }
+	bureaucrats = {
+		culture = granadan
+		religion = catholic
+		size = 5
+	}
 
-    officers = {
-        culture = quechua
-        religion = animist
-        size = 9
-    }
+	officers = {
+		culture = granadan
+		religion = catholic
+		size = 5
+	}
 
-    clergymen = {
-        culture = quechua
-        religion = animist
-        size = 175
-    }
+	clergymen = {
+		culture = granadan
+		religion = catholic
+		size = 75
+	}
 
-    artisans = {
-        culture = quechua
-        religion = animist
-        size = 352
-    }
+	artisans = {
+		culture = granadan
+		religion = catholic
+		size = 150
+	}
 
-    soldiers = {
-        culture = quechua
-        religion = animist
-        size = 71
-    }
+	soldiers = {
+		culture = granadan
+		religion = catholic
+		size= 25
 
-    farmers = {
-        culture = quechua
-        religion = animist
-        size = 6304
-    }
+	}
 
-    clergymen = {
-        culture = quechua
-        religion = animist
-        size = 57
-    }
+	farmers = {
+		culture = granadan
+		religion = catholic
+		size = 2665
+	}
 
-    artisans = {
-        culture = quechua
-        religion = animist
-        size = 235
-    }
+	clergymen = {
+		culture = quechua
+		religion = inti
+		size = 25
+	}
 
-    soldiers = {
-        culture = quechua
-        religion = animist
-        size = 71
-    }
+	artisans = {
+		culture = quechua
+		religion = inti
+		size = 100
+	}
 
-    farmers = {
-        culture = quechua
-        religion = animist
-        size = 2011
-    }
+	soldiers = {
+		culture = quechua
+		religion = inti
+		size= 25
 
-    aristocrats = {
-        culture = quechua
-        religion = animist
-        size = 412
-    }
+	}
 
-    clergymen = {
-        culture = quechua
-        religion = animist
-        size = 235
-    }
+	farmers = {
+		culture = quechua
+		religion = inti
+		size = 850
+	}
 
-    artisans = {
-        culture = quechua
-        religion = animist
-        size = 1183
-    }
+	aristocrats = {
+		culture = amazonian_native
+		religion = animist
+		size = 175
+	}
 
-    soldiers = {
-        culture = quechua
-        religion = animist
-        size = 293
-    }
+	clergymen = {
+		culture = amazonian_native
+		religion = animist
+		size = 100
+	}
 
-    farmers = {
-        culture = quechua
-        religion = animist
-        size = 21590
-    }
+	artisans = {
+		culture = amazonian_native
+		religion = animist
+		size = 500
+	}
+
+	soldiers = {
+		culture = amazonian_native
+		religion = animist
+		size= 100
+
+	}
+
+	farmers = {
+		culture = amazonian_native
+		religion = animist
+		size = 9125
+	}
 }
 #"Ruled" by Ecuador 1836
 #Yurimagues (12000/3000 POPS)
 2287 = {
-    aristocrats = {
-        culture = quechua
-        religion = animist
-        size = 117
-    }
+	aristocrats = {
+		culture = amazonian_native
+		religion = animist
+		size = 50
+	}
 
-    clergymen = {
-        culture = quechua
-        religion = animist
-        size = 175
-    }
+	clergymen = {
+		culture = amazonian_native
+		religion = animist
+		size = 75
+	}
 
-    artisans = {
-        culture = quechua
-        religion = animist
-        size = 352
-    }
+	artisans = {
+		culture = amazonian_native
+		religion = animist
+		size = 150
+	}
 
-    soldiers = {
-        culture = quechua
-        religion = animist
-        size = 71
-    }
+	soldiers = {
+		culture = amazonian_native
+		religion = animist
+		size= 25
 
-    farmers = {
-        culture = quechua
-        religion = animist
-        size = 6388
-    }
+	}
+
+	farmers = {
+		culture = amazonian_native
+		religion = animist
+		size = 2700
+	}
 }
 #Yuncos (12000/3000 POPS)
 2288 = {
-    aristocrats = {
-        culture = quechua
-        religion = animist
-        size = 117
-    }
+	aristocrats = {
+		culture = amazonian_native
+		religion = animist
+		size = 50
+	}
 
-    clergymen = {
-        culture = quechua
-        religion = animist
-        size = 175
-    }
+	clergymen = {
+		culture = amazonian_native
+		religion = animist
+		size = 75
+	}
 
-    artisans = {
-        culture = quechua
-        religion = animist
-        size = 352
-    }
+	artisans = {
+		culture = amazonian_native
+		religion = animist
+		size = 150
+	}
 
-    soldiers = {
-        culture = quechua
-        religion = animist
-        size = 71
-    }
+	soldiers = {
+		culture = amazonian_native
+		religion = animist
+		size= 25
 
-    farmers = {
-        culture = quechua
-        religion = animist
-        size = 6388
-    }
+	}
+
+	farmers = {
+		culture = amazonian_native
+		religion = animist
+		size = 2700
+	}
 }
 #Puca Urco (12000/3000 POPS)
 2289 = {
-    aristocrats = {
-        culture = quechua
-        religion = animist
-        size = 283
-    }
+	aristocrats = {
+		culture = amazonian_native
+		religion = animist
+		size = 50
+	}
 
-    clergymen = {
-        culture = quechua
-        religion = animist
-        size = 425
-    }
+	clergymen = {
+		culture = amazonian_native
+		religion = animist
+		size = 75
+	}
 
-    artisans = {
-        culture = quechua
-        religion = animist
-        size = 858
-    }
+	artisans = {
+		culture = amazonian_native
+		religion = animist
+		size = 150
+	}
 
-    soldiers = {
-        culture = quechua
-        religion = animist
-        size = 171
-    }
+	soldiers = {
+		culture = amazonian_native
+		religion = animist
+		size= 25
 
-    farmers = {
-        culture = quechua
-        religion = animist
-        size = 15595
-    }
+	}
+
+	farmers = {
+		culture = amazonian_native
+		religion = animist
+		size = 2700
+	}
 }
 #Cajamarca Region (296000)
 #Ruled by Peru 1836
 #Cajamarca (144000/38000 POPS)
 2290 = {
-    aristocrats = {
-        culture = quechua
-        religion = animist
-        size = 1891
-    }
+	aristocrats = {
+		culture = granadan
+		religion = catholic
+		size = 800
+	}
 
-    bureaucrats = {
-        culture = quechua
-        religion = animist
-        size = 235
-    }
+	bureaucrats = {
+		culture = granadan
+		religion = catholic
+		size = 100
+	}
 
-    officers = {
-        culture = quechua
-        religion = animist
-        size = 175
-    }
+	officers = {
+		culture = granadan
+		religion = catholic
+		size = 75
+	}
 
-    clergymen = {
-        culture = quechua
-        religion = animist
-        size = 590
-    }
+	clergymen = {
+		culture = granadan
+		religion = catholic
+		size = 250
+	}
 
-    artisans = {
-        culture = quechua
-        religion = animist
-        size = 1418
-    }
+	artisans = {
+		culture = granadan
+		religion = catholic
+		size = 600
+	}
 
-    soldiers = {
-        culture = quechua
-        religion = animist
-        size = 365
-    }
+	soldiers = {
+		culture = granadan
+		religion = catholic
+		size= 1125
 
-    farmers = {
-        culture = quechua
-        religion = animist
-        size = 23781
-    }
+	}
 
-    clergymen = {
-        culture = quechua
-        religion = animist
-        size = 292
-    }
+	farmers = {
+		culture = granadan
+		religion = catholic
+		size = 14050
+	}
 
-    artisans = {
-        culture = quechua
-        religion = animist
-        size = 3074
-    }
+	clergymen = {
+		culture = quechua
+		religion = inti
+		size = 125
+	}
 
-    soldiers = {
-        culture = quechua
-        religion = animist
-        size = 737
-    }
+	artisans = {
+		culture = quechua
+		religion = catholic
+		size = 1300
+	}
 
-    farmers = {
-        culture = quechua
-        religion = animist
-        size = 57561
-    }
+	soldiers = {
+		culture = quechua
+		religion = inti
+		size= 250
+
+	}
+
+	farmers = {
+		culture = quechua
+		religion = catholic
+		size = 10000
+	}
+
+	slaves = {
+		culture = quechua
+		religion = inti
+		size = 9325
+	}
 }
 #Piura (60000/15000 POPS)
 2291 = {
-    aristocrats = {
-        culture = quechua
-        religion = animist
-        size = 768
-    }
+	aristocrats = {
+		culture = granadan
+		religion = catholic
+		size = 325
+	}
 
-    clergymen = {
-        culture = quechua
-        religion = animist
-        size = 235
-    }
+	clergymen = {
+		culture = granadan
+		religion = catholic
+		size = 100
+	}
 
-    artisans = {
-        culture = quechua
-        religion = animist
-        size = 352
-    }
+	artisans = {
+		culture = granadan
+		religion = catholic
+		size = 150
+	}
 
-    soldiers = {
-        culture = quechua
-        religion = animist
-        size = 146
-    }
+	soldiers = {
+		culture = granadan
+		religion = catholic
+		size= 50
 
-    farmers = {
-        culture = quechua
-        religion = animist
-        size = 5618
-    }
+	}
 
-    clergymen = {
-        culture = quechua
-        religion = animist
-        size = 175
-    }
+	farmers = {
+		culture = granadan
+		religion = catholic
+		size = 2375
+	}
 
-    artisans = {
-        culture = quechua
-        religion = animist
-        size = 1183
-    }
+	clergymen = {
+		culture = quechua
+		religion = inti
+		size = 75
+	}
 
-    soldiers = {
-        culture = quechua
-        religion = animist
-        size = 293
-    }
+	artisans = {
+		culture = quechua
+		religion = catholic
+		size = 500
+	}
 
-    farmers = {
-        culture = quechua
-        religion = animist
-        size = 23664
-    }
+	soldiers = {
+		culture = quechua
+		religion = inti
+		size= 100
 
-    clergymen = {
-        culture = quechua
-        religion = animist
-        size = 57
-    }
+	}
 
-    artisans = {
-        culture = quechua
-        religion = animist
-        size = 235
-    }
+	farmers = {
+		culture = quechua
+		religion = catholic
+		size = 5000
+	}
 
-    soldiers = {
-        culture = quechua
-        religion = animist
-        size = 71
-    }
+	slaves = {
+		culture = quechua
+		religion = inti
+		size = 5000
+	}
 
-    farmers = {
-        culture = quechua
-        religion = animist
-        size = 2601
-    }
+	clergymen = {
+		culture = afro_latino
+		religion = catholic
+		size = 25
+	}
 
-    slaves = {
-        culture = quechua
-        religion = animist
-        size = 1773
-    }
+	artisans = {
+		culture = afro_latino
+		religion = catholic
+		size = 100
+	}
+
+	soldiers = {
+		culture = afro_latino
+		religion = catholic
+		size= 25
+
+	}
+
+	farmers = {
+		culture = afro_latino
+		religion = catholic
+		size = 1100
+	}
+
+	slaves = {
+		culture = afro_latino
+		religion = catholic
+		size = 750
+	}
 }
 #Trujillo (68000/17000 POPS)
 2292 = {
-    aristocrats = {
-        culture = quechua
-        religion = animist
-        size = 885
-    }
+	aristocrats = {
+		culture = granadan
+		religion = catholic
+		size = 375
+	}
 
-    clergymen = {
-        culture = quechua
-        religion = animist
-        size = 292
-    }
+	clergymen = {
+		culture = granadan
+		religion = catholic
+		size = 125
+	}
 
-    artisans = {
-        culture = quechua
-        religion = animist
-        size = 708
-    }
+	artisans = {
+		culture = granadan
+		religion = catholic
+		size = 300
+	}
 
-    soldiers = {
-        culture = quechua
-        religion = animist
-        size = 218
-    }
+	soldiers = {
+		culture = granadan
+		religion = catholic
+		size= 75
 
-    farmers = {
-        culture = quechua
-        religion = animist
-        size = 12007
-    }
+	}
 
-    clergymen = {
-        culture = quechua
-        religion = animist
-        size = 175
-    }
+	farmers = {
+		culture = granadan
+		religion = catholic
+		size = 5075
+	}
 
-    artisans = {
-        culture = quechua
-        religion = animist
-        size = 1063
-    }
+	clergymen = {
+		culture = quechua
+		religion = inti
+		size = 75
+	}
 
-    soldiers = {
-        culture = quechua
-        religion = animist
-        size = 293
-    }
+	artisans = {
+		culture = quechua
+		religion = catholic
+		size = 450
+	}
 
-    farmers = {
-        culture = quechua
-        religion = animist
-        size = 19816
-    }
+	soldiers = {
+		culture = quechua
+		religion = inti
+		size= 100
 
-    clergymen = {
-        culture = quechua
-        religion = animist
-        size = 57
-    }
+	}
 
-    artisans = {
-        culture = quechua
-        religion = animist
-        size = 235
-    }
+	farmers = {
+		culture = quechua
+		religion = catholic
+		size = 4150
+	}
 
-    soldiers = {
-        culture = quechua
-        religion = animist
-        size = 71
-    }
+	slaves = {
+		culture = quechua
+		religion = inti
+		size = 4225
+	}
 
-    farmers = {
-        culture = quechua
-        religion = animist
-        size = 2601
-    }
+	clergymen = {
+		culture = afro_latino
+		religion = catholic
+		size = 25
+	}
 
-    slaves = {
-        culture = quechua
-        religion = animist
-        size = 1773
-    }
+	artisans = {
+		culture = afro_latino
+		religion = catholic
+		size = 100
+	}
+
+	soldiers = {
+		culture = afro_latino
+		religion = catholic
+		size= 25
+
+	}
+
+	farmers = {
+		culture = afro_latino
+		religion = catholic
+		size = 100
+	}
+
+	slaves = {
+		culture = afro_latino
+		religion = catholic
+		size = 1750
+	}
 }
 #Moyobamba (24000/6000 POPS)
 2294 = {
-    aristocrats = {
-        culture = quechua
-        religion = animist
-        size = 117
-    }
+	aristocrats = {
+		culture = granadan
+		religion = catholic
+		size = 50
+	}
 
-    clergymen = {
-        culture = quechua
-        religion = animist
-        size = 175
-    }
+	clergymen = {
+		culture = granadan
+		religion = catholic
+		size = 75
+	}
 
-    artisans = {
-        culture = quechua
-        religion = animist
-        size = 235
-    }
+	artisans = {
+		culture = granadan
+		religion = catholic
+		size = 100
+	}
 
-    soldiers = {
-        culture = quechua
-        religion = animist
-        size = 71
-    }
+	soldiers = {
+		culture = granadan
+		religion = catholic
+		size= 25
 
-    farmers = {
-        culture = quechua
-        religion = animist
-        size = 4140
-    }
+	}
 
-    clergymen = {
-        culture = quechua
-        religion = animist
-        size = 57
-    }
+	farmers = {
+		culture = granadan
+		religion = catholic
+		size = 1750
+	}
 
-    artisans = {
-        culture = quechua
-        religion = animist
-        size = 117
-    }
+	clergymen = {
+		culture = quechua
+		religion = inti
+		size = 25
+	}
 
-    soldiers = {
-        culture = quechua
-        religion = animist
-        size = 26
-    }
+	artisans = {
+		culture = quechua
+		religion = inti
+		size = 50
+	}
 
-    farmers = {
-        culture = quechua
-        religion = animist
-        size = 2162
-    }
+	soldiers = {
+		culture = quechua
+		religion = inti
+		size= 10
 
-    aristocrats = {
-        culture = quechua
-        religion = animist
-        size = 117
-    }
+	}
 
-    clergymen = {
-        culture = quechua
-        religion = animist
-        size = 175
-    }
+	farmers = {
+		culture = quechua
+		religion = inti
+		size = 915
+	}
 
-    artisans = {
-        culture = quechua
-        religion = animist
-        size = 352
-    }
+	aristocrats = {
+		culture = amazonian_native
+		religion = animist
+		size = 50
+	}
 
-    soldiers = {
-        culture = quechua
-        religion = animist
-        size = 71
-    }
+	clergymen = {
+		culture = amazonian_native
+		religion = animist
+		size = 75
+	}
 
-    farmers = {
-        culture = quechua
-        religion = animist
-        size = 6388
-    }
+	artisans = {
+		culture = amazonian_native
+		religion = animist
+		size = 150
+	}
+
+	soldiers = {
+		culture = amazonian_native
+		religion = animist
+		size= 25
+
+	}
+
+	farmers = {
+		culture = amazonian_native
+		religion = animist
+		size = 2700
+	}
 }
 #Junin Region (204000)
 #Ruled by Peru 1836
 #Huanuco (36000/9000 POPS)
 2293 = {
-    aristocrats = {
-        culture = quechua
-        religion = animist
-        size = 472
-    }
+	aristocrats = {
+		culture = granadan
+		religion = catholic
+		size = 200
+	}
 
-    clergymen = {
-        culture = quechua
-        religion = animist
-        size = 117
-    }
+	clergymen = {
+		culture = granadan
+		religion = catholic
+		size = 50
+	}
 
-    artisans = {
-        culture = quechua
-        religion = animist
-        size = 235
-    }
+	artisans = {
+		culture = granadan
+		religion = catholic
+		size = 100
+	}
 
-    soldiers = {
-        culture = quechua
-        religion = animist
-        size = 71
-    }
+	soldiers = {
+		culture = granadan
+		religion = catholic
+		size= 25
 
-    farmers = {
-        culture = quechua
-        religion = animist
-        size = 3842
-    }
+	}
 
-    clergymen = {
-        culture = quechua
-        religion = animist
-        size = 175
-    }
+	farmers = {
+		culture = granadan
+		religion = catholic
+		size = 1625
+	}
 
-    artisans = {
-        culture = quechua
-        religion = animist
-        size = 828
-    }
+	clergymen = {
+		culture = quechua
+		religion = inti
+		size = 75
+	}
 
-    soldiers = {
-        culture = quechua
-        religion = animist
-        size = 218
-    }
+	artisans = {
+		culture = quechua
+		religion = catholic
+		size = 350
+	}
 
-    farmers = {
-        culture = quechua
-        religion = animist
-        size = 15381
-    }
+	soldiers = {
+		culture = quechua
+		religion = inti
+		size= 75
+
+	}
+
+	farmers = {
+		culture = quechua
+		religion = catholic
+		size = 3200
+	}
+
+	slaves = {
+		culture = quechua
+		religion = inti
+		size = 3300
+	}
 }
 #Jauja (60000/15000 POPS)
 2296 = {
-    aristocrats = {
-        culture = quechua
-        religion = animist
-        size = 768
-    }
+	aristocrats = {
+		culture = granadan
+		religion = catholic
+		size = 325
+	}
 
-    clergymen = {
-        culture = quechua
-        religion = animist
-        size = 175
-    }
+	clergymen = {
+		culture = granadan
+		religion = catholic
+		size = 75
+	}
 
-    artisans = {
-        culture = quechua
-        religion = animist
-        size = 235
-    }
+	artisans = {
+		culture = granadan
+		religion = catholic
+		size = 100
+	}
 
-    soldiers = {
-        culture = quechua
-        religion = animist
-        size = 71
-    }
+	soldiers = {
+		culture = granadan
+		religion = catholic
+		size= 25
 
-    farmers = {
-        culture = quechua
-        religion = animist
-        size = 3489
-    }
+	}
 
-    clergymen = {
-        culture = quechua
-        religion = animist
-        size = 117
-    }
+	farmers = {
+		culture = granadan
+		religion = catholic
+		size = 1475
+	}
 
-    artisans = {
-        culture = quechua
-        religion = animist
-        size = 1536
-    }
+	clergymen = {
+		culture = quechua
+		religion = inti
+		size = 50
+	}
 
-    soldiers = {
-        culture = quechua
-        religion = animist
-        size = 365
-    }
+	artisans = {
+		culture = quechua
+		religion = catholic
+		size = 650
+	}
 
-    farmers = {
-        culture = quechua
-        religion = animist
-        size = 28809
-    }
+	soldiers = {
+		culture = quechua
+		religion = inti
+		size= 125
+
+	}
+
+	farmers = {
+		culture = quechua
+		religion = catholic
+		size = 12175
+	}
 }
 #Ayacucho (108000/27000 POPS)
 2299 = {
-    aristocrats = {
-        culture = quechua
-        religion = animist
-        size = 1358
-    }
+	aristocrats = {
+		culture = granadan
+		religion = catholic
+		size = 575
+	}
 
-    bureaucrats = {
-        culture = quechua
-        religion = animist
-        size = 175
-    }
+	bureaucrats = {
+		culture = granadan
+		religion = catholic
+		size = 75
+	}
 
-    officers = {
-        culture = quechua
-        religion = animist
-        size = 117
-    }
+	officers = {
+		culture = granadan
+		religion = catholic
+		size = 50
+	}
 
-    clergymen = {
-        culture = quechua
-        religion = animist
-        size = 412
-    }
+	clergymen = {
+		culture = granadan
+		religion = catholic
+		size = 175
+	}
 
-    artisans = {
-        culture = quechua
-        religion = animist
-        size = 472
-    }
+	artisans = {
+		culture = granadan
+		religion = catholic
+		size = 200
+	}
 
-    soldiers = {
-        culture = quechua
-        religion = animist
-        size = 146
-    }
+	soldiers = {
+		culture = granadan
+		religion = catholic
+		size= 50
 
-    farmers = {
-        culture = quechua
-        religion = animist
-        size = 6801
-    }
+	}
 
-    clergymen = {
-        culture = quechua
-        religion = animist
-        size = 235
-    }
+	farmers = {
+		culture = granadan
+		religion = catholic
+		size = 2875
+	}
 
-    artisans = {
-        culture = quechua
-        religion = animist
-        size = 2719
-    }
+	clergymen = {
+		culture = quechua
+		religion = inti
+		size = 100
+	}
 
-    soldiers = {
-        culture = quechua
-        religion = animist
-        size = 662
-    }
+	artisans = {
+		culture = quechua
+		religion = inti
+		size = 1150
+	}
 
-    farmers = {
-        culture = quechua
-        religion = animist
-        size = 50935
-    }
+	soldiers = {
+		culture = quechua
+		religion = inti
+		size= 225
+
+	}
+
+	farmers = {
+		culture = quechua
+		religion = inti
+		size = 20525
+	}
+
+	slaves = {
+		culture = quechua
+		religion = inti	
+		size = 21000
+	}
 }
 #Lima Region (484000)
 #Ruled by Peru 1836
 #Lima (324000/81000 POPS)
 2295 = {
-    aristocrats = {
-        culture = quechua
-        religion = animist
-        size = 3962
-    }
+	aristocrats = {
+		culture = granadan
+		religion = catholic
+		size = 1675
+	}
 
-    bureaucrats = {
-        culture = quechua
-        religion = animist
-        size = 472
-    }
+	bureaucrats = {
+		culture = granadan
+		religion = catholic
+		size = 200
+	}
 
-    officers = {
-        culture = quechua
-        religion = animist
-        size = 352
-    }
+	officers = {
+		culture = granadan
+		religion = catholic
+		size = 150
+	}
 
-    clergymen = {
-        culture = quechua
-        religion = animist
-        size = 1656
-    }
+	clergymen = {
+		culture = granadan
+		religion = catholic
+		size = 700
+	}
+	
+	artisans = {
+		culture = granadan
+		religion = catholic
+		size = 2200
+	}
 
-    artisans = {
-        culture = quechua
-        religion = animist
-        size = 23664
-    }
+	soldiers = {
+		culture = granadan
+		religion = catholic
+		size= 2000
+	}
 
-    artisans = {
-        culture = quechua
-        religion = animist
-        size = 5205
-    }
+	farmers = {
+		culture = granadan
+		religion = catholic
+		size = 7075
+	}
 
-    soldiers = {
-        culture = quechua
-        religion = animist
-        size = 34800
-    }
+	clergymen = {
+		culture = quechua
+		religion = inti
+		size = 75
+	}
 
-    farmers = {
-        culture = quechua
-        religion = animist
-        size = 99564
-    }
+	artisans = {
+		culture = quechua
+		religion = catholic
+		size = 800
+	}
 
-    clergymen = {
-        culture = quechua
-        religion = animist
-        size = 175
-    }
+	soldiers = {
+		culture = quechua
+		religion = inti
+		size= 175
 
-    artisans = {
-        culture = quechua
-        religion = animist
-        size = 1891
-    }
+	}
 
-    soldiers = {
-        culture = quechua
-        religion = animist
-        size = 515
-    }
+	farmers = {
+		culture = quechua
+		religion = catholic
+		size = 7450
+	}
 
-    farmers = {
-        culture = quechua
-        religion = animist
-        size = 35376
-    }
 
-    clergymen = {
-        culture = quechua
-        religion = animist
-        size = 117
-    }
+	slaves = {
+		culture = quechua
+		religion = inti
+		size = 7500
+	}
 
-    artisans = {
-        culture = quechua
-        religion = animist
-        size = 4732
-    }
+	clergymen = {
+		culture = afro_latino
+		religion = catholic
+		size = 50
+	}
 
-    soldiers = {
-        culture = quechua
-        religion = animist
-        size = 146
-    }
+	artisans = {
+		culture = afro_latino
+		religion = catholic
+		size = 2000
+	}
 
-    farmers = {
-        culture = quechua
-        religion = animist
-        size = 3312
-    }
+	soldiers = {
+		culture = afro_latino
+		religion = catholic
+		size= 50
 
-    slaves = {
-        culture = quechua
-        religion = animist
-        size = 3549
-    }
+	}
+
+	farmers = {
+		culture = afro_latino
+		religion = catholic
+		size = 1400
+	}
+
+	slaves = {
+		culture = afro_latino
+		religion = catholic
+		size = 1500
+	}
 }
 #Ica (60000/15000 POPS)
 2297 = {
-    aristocrats = {
-        culture = quechua
-        religion = animist
-        size = 768
-    }
+	aristocrats = {
+		culture = granadan
+		religion = catholic
+		size = 325
+	}
 
-    clergymen = {
-        culture = quechua
-        religion = animist
-        size = 175
-    }
+	clergymen = {
+		culture = granadan
+		religion = catholic
+		size = 75
+	}
 
-    artisans = {
-        culture = quechua
-        religion = animist
-        size = 472
-    }
+	artisans = {
+		culture = granadan
+		religion = catholic
+		size = 200
+	}
 
-    soldiers = {
-        culture = quechua
-        religion = animist
-        size = 146
-    }
+	soldiers = {
+		culture = granadan
+		religion = catholic
+		size= 50
 
-    farmers = {
-        culture = quechua
-        religion = animist
-        size = 7927
-    }
+	}
 
-    clergymen = {
-        culture = quechua
-        religion = animist
-        size = 117
-    }
+	farmers = {
+		culture = granadan
+		religion = catholic
+		size = 7350
+	}
 
-    artisans = {
-        culture = quechua
-        religion = animist
-        size = 1183
-    }
+	clergymen = {
+		culture = quechua
+		religion = inti
+		size = 50
+	}
 
-    soldiers = {
-        culture = quechua
-        religion = animist
-        size = 293
-    }
+	artisans = {
+		culture = quechua
+		religion = inti
+		size = 500
+	}
 
-    farmers = {
-        culture = quechua
-        religion = animist
-        size = 23781
-    }
+	soldiers = {
+		culture = quechua
+		religion = inti
+		size= 100
 
-    clergymen = {
-        culture = quechua
-        religion = animist
-        size = 57
-    }
+	}
 
-    artisans = {
-        culture = quechua
-        religion = animist
-        size = 117
-    }
+	farmers = {
+		culture = quechua
+		religion = inti
+		size = 10050
+	}
 
-    soldiers = {
-        culture = quechua
-        religion = animist
-        size = 71
-    }
+	slaves = {
+		culture = quechua
+		religion = inti
+		size = 10000
+	}
 
-    farmers = {
-        culture = quechua
-        religion = animist
-        size = 1183
-    }
+	clergymen = {
+		culture = afro_latino
+		religion = catholic
+		size = 25
+	}
 
-    slaves = {
-        culture = quechua
-        religion = animist
-        size = 945
-    }
+	artisans = {
+		culture = afro_latino
+		religion = catholic
+		size = 50
+	}
+
+	soldiers = {
+		culture = afro_latino
+		religion = catholic
+		size= 25
+
+	}
+
+	farmers = {
+		culture = afro_latino
+		religion = catholic
+		size = 500
+	}
+
+	slaves = {
+		culture = afro_latino
+		religion = catholic
+		size = 400
+	}
 }
 #Huaraz (100000/25000 POPS)
 2298 = {
-    aristocrats = {
-        culture = quechua
-        religion = animist
-        size = 1240
-    }
+	aristocrats = {
+		culture = granadan
+		religion = catholic
+		size = 525
+	}
 
-    clergymen = {
-        culture = quechua
-        religion = animist
-        size = 352
-    }
+	clergymen = {
+		culture = granadan
+		religion = catholic
+		size = 150
+	}
 
-    artisans = {
-        culture = quechua
-        religion = animist
-        size = 708
-    }
+	artisans = {
+		culture = granadan
+		religion = catholic
+		size = 300
+	}
 
-    soldiers = {
-        culture = quechua
-        religion = animist
-        size = 218
-    }
+	soldiers = {
+		culture = granadan
+		religion = catholic
+		size= 75
 
-    farmers = {
-        culture = quechua
-        religion = animist
-        size = 11712
-    }
+	}
 
-    clergymen = {
-        culture = quechua
-        religion = animist
-        size = 175
-    }
+	farmers = {
+		culture = granadan
+		religion = catholic
+		size = 4950
+	}
 
-    artisans = {
-        culture = quechua
-        religion = animist
-        size = 2011
-    }
+	clergymen = {
+		culture = quechua
+		religion = inti
+		size = 75
+	}
 
-    soldiers = {
-        culture = quechua
-        religion = animist
-        size = 515
-    }
+	artisans = {
+		culture = quechua
+		religion = catholic
+		size = 850
+	}
 
-    farmers = {
-        culture = quechua
-        religion = animist
-        size = 37624
-    }
+	soldiers = {
+		culture = quechua
+		religion = inti
+		size= 175
 
-    clergymen = {
-        culture = quechua
-        religion = animist
-        size = 57
-    }
+	}
 
-    artisans = {
-        culture = quechua
-        religion = animist
-        size = 235
-    }
+	farmers = {
+		culture = quechua
+		religion = catholic
+		size = 7000
+	}
 
-    soldiers = {
-        culture = quechua
-        religion = animist
-        size = 71
-    }
+	slaves = {
+		culture = quechua
+		religion = inti
+		size = 8900
+	}
 
-    farmers = {
-        culture = quechua
-        religion = animist
-        size = 2601
-    }
+	clergymen = {
+		culture = afro_latino
+		religion = catholic
+		size = 25
+	}
 
-    slaves = {
-        culture = quechua
-        religion = animist
-        size = 1773
-    }
+	artisans = {
+		culture = afro_latino
+		religion = catholic
+		size = 100
+	}
+
+	soldiers = {
+		culture = afro_latino
+		religion = catholic
+		size= 25
+
+	}
+
+	farmers = {
+		culture = afro_latino
+		religion = catholic
+		size = 100
+	}
+
+	slaves = {
+		culture = afro_latino
+		religion = catholic
+		size = 1750
+	}
 }
 #Ucayali Region (32000)
 #Ruled by Peru 1836
 #Pucallpa (20000/5000 POPS)
 2300 = {
-    aristocrats = {
-        culture = quechua
-        religion = animist
-        size = 31
-    }
+	aristocrats = {
+		culture = granadan
+		religion = catholic
+		size = 14
+	}
 
-    bureaucrats = {
-        culture = quechua
-        religion = animist
-        size = 0
-    }
+	bureaucrats = {
+		culture = granadan
+		religion = catholic
+		size = 1
+	}
 
-    clergymen = {
-        culture = quechua
-        religion = animist
-        size = 57
-    }
+	clergymen = {
+		culture = granadan
+		religion = catholic
+		size = 25
+	}
 
-    artisans = {
-        culture = quechua
-        religion = animist
-        size = 117
-    }
+	artisans = {
+		culture = granadan
+		religion = catholic
+		size = 50
+	}
 
-    soldiers = {
-        culture = quechua
-        religion = animist
-        size = 26
-    }
+	soldiers = {
+		culture = granadan
+		religion = catholic
+		size= 10
 
-    farmers = {
-        culture = quechua
-        religion = animist
-        size = 2128
-    }
+	}
 
-    aristocrats = {
-        culture = quechua
-        religion = animist
-        size = 175
-    }
+	farmers = {
+		culture = granadan
+		religion = catholic
+		size = 900
+	}
 
-    clergymen = {
-        culture = quechua
-        religion = animist
-        size = 117
-    }
+	aristocrats = {
+		culture = amazonian_native
+		religion = animist
+		size = 75
+	}
 
-    artisans = {
-        culture = quechua
-        religion = animist
-        size = 472
-    }
+	clergymen = {
+		culture = amazonian_native
+		religion = animist
+		size = 50
+	}
 
-    soldiers = {
-        culture = quechua
-        religion = animist
-        size = 146
-    }
+	artisans = {
+		culture = amazonian_native
+		religion = animist
+		size = 200
+	}
 
-    farmers = {
-        culture = quechua
-        religion = animist
-        size = 8575
-    }
+	soldiers = {
+		culture = amazonian_native
+		religion = animist
+		size= 50
+
+	}
+
+	farmers = {
+		culture = amazonian_native
+		religion = animist
+		size = 36225
+	}
 }
 #Puerto Maldonado (12000/3000 POPS)
 2301 = {
-    aristocrats = {
-        culture = quechua
-        religion = animist
-        size = 117
-    }
+	aristocrats = {
+		culture = amazonian_native
+		religion = animist
+		size = 50
+	}
 
-    clergymen = {
-        culture = quechua
-        religion = animist
-        size = 175
-    }
+	clergymen = {
+		culture = amazonian_native
+		religion = animist
+		size = 75
+	}
 
-    artisans = {
-        culture = quechua
-        religion = animist
-        size = 352
-    }
+	artisans = {
+		culture = amazonian_native
+		religion = animist
+		size = 150
+	}
 
-    soldiers = {
-        culture = quechua
-        religion = animist
-        size = 71
-    }
+	soldiers = {
+		culture = amazonian_native
+		religion = animist
+		size= 25
 
-    farmers = {
-        culture = quechua
-        religion = animist
-        size = 6388
-    }
+	}
+
+	farmers = {
+		culture = amazonian_native
+		religion = animist
+		size = 2700
+	}
 }
 #Cusco Region (404000)
 #Ruled by Peru 1836
 #Cusco (228000/57000 POPS)
 2302 = {
-    aristocrats = {
-        culture = quechua
-        religion = animist
-        size = 2719
-    }
+	aristocrats = {
+		culture = granadan
+		religion = catholic
+		size = 1150
+	}
 
-    bureaucrats = {
-        culture = quechua
-        religion = animist
-        size = 292
-    }
+	bureaucrats = {
+		culture = granadan
+		religion = catholic
+		size = 125
+	}
 
-    officers = {
-        culture = quechua
-        religion = animist
-        size = 235
-    }
+	officers = {
+		culture = granadan
+		religion = catholic
+		size = 100
+	}
 
-    clergymen = {
-        culture = quechua
-        religion = animist
-        size = 885
-    }
+	clergymen = {
+		culture = granadan
+		religion = catholic
+		size = 375
+	}
 
-    artisans = {
-        culture = quechua
-        religion = animist
-        size = 1773
-    }
+	artisans = {
+		culture = granadan
+		religion = catholic
+		size = 750
+	}
 
-    soldiers = {
-        culture = quechua
-        religion = animist
-        size = 3251
-    }
+	soldiers = {
+		culture = granadan
+		religion = catholic
+		size= 1100
 
-    farmers = {
-        culture = quechua
-        religion = animist
-        size = 27506
-    }
+	}
 
-    clergymen = {
-        culture = quechua
-        religion = animist
-        size = 472
-    }
+	farmers = {
+		culture = granadan
+		religion = catholic
+		size = 11625
+	}
 
-    artisans = {
-        culture = quechua
-        religion = animist
-        size = 4968
-    }
+	aristocrats = {
+		culture = quechua
+		religion = inti
+		size = 1000
+	}
 
-    soldiers = {
-        culture = quechua
-        religion = animist
-        size = 1253
-    }
+	bureaucrats = {
+		culture = quechua
+		religion = inti
+		size = 1400
+	}
 
-    farmers = {
-        culture = quechua
-        religion = animist
-        size = 92937
-    }
+	officers = {
+		culture = quechua
+		religion = inti
+		size = 400
+	}
+
+	clergymen = {
+		culture = quechua
+		religion = inti
+		size = 1200
+	}
+
+	artisans = {
+		culture = quechua
+		religion = inti
+		size = 10000
+	}
+
+	artisans = {
+		culture = quechua
+		religion = inti
+		size = 10000
+	}
+
+	artisans = {
+		culture = quechua
+		religion = inti
+		size = 2000
+	}
+
+	soldiers = {
+		culture = quechua
+		religion = inti
+		size = 3000
+	}
+
+	soldiers = {
+		culture = quechua
+		religion = inti
+		size = 900
+	}
+
+	farmers = {
+		culture = quechua
+		religion = inti
+		size = 89275
+	}
+
+	slaves = {
+		culture = quechua
+		religion = inti	
+		size = 39200
+	}
 }
 #Puno (104000/26000 POPS)
 2303 = {
-    aristocrats = {
-        culture = quechua
-        religion = animist
-        size = 1358
-    }
+	aristocrats = {
+		culture = granadan
+		religion = catholic
+		size = 575
+	}
 
-    clergymen = {
-        culture = quechua
-        religion = animist
-        size = 352
-    }
+	clergymen = {
+		culture = granadan
+		religion = catholic
+		size = 150
+	}
 
-    artisans = {
-        culture = quechua
-        religion = animist
-        size = 352
-    }
+	artisans = {
+		culture = granadan
+		religion = catholic
+		size = 150
+	}
 
-    soldiers = {
-        culture = quechua
-        religion = animist
-        size = 146
-    }
+	soldiers = {
+		culture = granadan
+		religion = catholic
+		size= 50
 
-    farmers = {
-        culture = quechua
-        religion = animist
-        size = 4908
-    }
+	}
 
-    clergymen = {
-        culture = quechua
-        religion = animist
-        size = 235
-    }
+	farmers = {
+		culture = granadan
+		religion = catholic
+		size = 2075
+	}
 
-    artisans = {
-        culture = quechua
-        religion = animist
-        size = 2719
-    }
+	clergymen = {
+		culture = quechua
+		religion = inti
+		size = 100
+	}
 
-    soldiers = {
-        culture = quechua
-        religion = animist
-        size = 737
-    }
+	artisans = {
+		culture = quechua
+		religion = inti
+		size = 1150
+	}
 
-    farmers = {
-        culture = quechua
-        religion = animist
-        size = 50877
-    }
+	soldiers = {
+		culture = quechua
+		religion = inti
+		size= 250
+
+	}
+
+	farmers = {
+		culture = quechua
+		religion = inti
+		size = 21500
+	}
+
+	slaves = {
+		culture = quechua
+		religion = inti
+		size = 20000
+	}
 }
 #Arequipa (72000/18000 POPS)
 2304 = {
-    aristocrats = {
-        culture = quechua
-        religion = animist
-        size = 885
-    }
+	aristocrats = {
+		culture = granadan
+		religion = catholic
+		size = 375
+	}
 
-    clergymen = {
-        culture = quechua
-        religion = animist
-        size = 292
-    }
+	clergymen = {
+		culture = granadan
+		religion = catholic
+		size = 125
+	}
 
-    artisans = {
-        culture = quechua
-        religion = animist
-        size = 472
-    }
+	artisans = {
+		culture = granadan
+		religion = catholic
+		size = 200
+	}
 
-    soldiers = {
-        culture = quechua
-        religion = animist
-        size = 146
-    }
+	soldiers = {
+		culture = granadan
+		religion = catholic
+		size= 1050
 
-    farmers = {
-        culture = quechua
-        religion = animist
-        size = 7689
-    }
+	}
 
-    clergymen = {
-        culture = quechua
-        religion = animist
-        size = 117
-    }
+	farmers = {
+		culture = granadan
+		religion = catholic
+		size = 3250
+	}
 
-    artisans = {
-        culture = quechua
-        religion = animist
-        size = 1656
-    }
+	clergymen = {
+		culture = quechua
+		religion = inti
+		size = 50
+	}
 
-    soldiers = {
-        culture = quechua
-        religion = animist
-        size = 440
-    }
+	artisans = {
+		culture = quechua
+		religion = inti
+		size = 700
+	}
 
-    farmers = {
-        culture = quechua
-        religion = animist
-        size = 30998
-    }
+	soldiers = {
+		culture = quechua
+		religion = inti
+		size= 150
+
+	}
+
+	farmers = {
+		culture = quechua
+		religion = catholic
+		size = 23100
+	}
+
+	slaves = {
+		culture = quechua
+		religion = inti
+		size = 22100
+	}
 }
 #Atacama Region (100000) #see Chile.txt for balance of Region
 #Ruled by Peru 1836
 #Tacna (100000/25000 POPS)
 2578 = {
-    aristocrats = {
-        culture = quechua
-        religion = animist
-        size = 1300
-    }
+	aristocrats = {
+		culture = granadan
+		religion = catholic
+		size = 550
+	}
 
-    bureaucrats = {
-        culture = quechua
-        religion = animist
-        size = 57
-    }
+	bureaucrats = {
+		culture = granadan
+		religion = catholic
+		size = 25
+	}
 
-    officers = {
-        culture = quechua
-        religion = animist
-        size = 117
-    }
+	officers = {
+		culture = granadan
+		religion = catholic
+		size = 50
+	}
 
-    clergymen = {
-        culture = quechua
-        religion = animist
-        size = 352
-    }
+	clergymen = {
+		culture = granadan
+		religion = catholic
+		size = 150
+	}
 
-    artisans = {
-        culture = quechua
-        religion = animist
-        size = 590
-    }
+	artisans = {
+		culture = granadan
+		religion = catholic
+		size = 250
+	}
 
-    soldiers = {
-        culture = quechua
-        religion = animist
-        size = 146
-    }
+	soldiers = {
+		culture = granadan
+		religion = catholic
+		size= 50
 
-    farmers = {
-        culture = quechua
-        religion = animist
-        size = 9285
-    }
+	}
 
-    clergymen = {
-        culture = quechua
-        religion = animist
-        size = 235
-    }
+	farmers = {
+		culture = granadan
+		religion = catholic
+		size = 3925
+	}
 
-    artisans = {
-        culture = quechua
-        religion = animist
-        size = 2601
-    }
+	clergymen = {
+		culture = quechua
+		religion = inti
+		size = 100
+	}
 
-    soldiers = {
-        culture = quechua
-        religion = animist
-        size = 590
-    }
+	artisans = {
+		culture = quechua
+		religion = inti
+		size = 1100
+	}
 
-    farmers = {
-        culture = quechua
-        religion = animist
-        size = 44251
-    }
+	soldiers = {
+		culture = quechua
+		religion = inti
+		size= 200
+
+	}
+
+	farmers = {
+		culture = quechua
+		religion = inti
+		size = 28700
+	}
+
+	slaves = {
+		culture = quechua
+		religion = inti	
+		size = 10000
+	}
 }

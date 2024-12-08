@@ -1,8 +1,5 @@
-
-trade_goods = timber
-life_rating = 25
-1836.1.2 = {
-	remove_core = COM
-	add_core = CAN
-}
-
+owner = VEN
+controller = VEN
+add_core = VEN
+trade_goods = iron
+life_rating = 35

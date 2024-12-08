@@ -3,5 +3,14 @@ controller = BRG
 add_core = BRG
 add_core = NET
 trade_goods = coal
-life_rating = 39
-
+life_rating = 35
+state_building = {
+	level = 2 
+	building = clipper_shipyard
+	upgrade = yes
+}
+state_building = {
+	level = 2
+	building = glass_factory
+	upgrade = yes
+}

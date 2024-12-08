@@ -1,14 +1,10 @@
 owner = DNG
 controller = DNG
 add_core = DNG
-
-
-trade_goods = fruit
-life_rating = 35
-1836.1.2 = {
-	remove_core = COM
-	owner = CAN
-	controller = CAN
-	add_core = CAN
+trade_goods = grain
+life_rating = 30
+1861.1.1 = {
+	owner = ENG
+	controller = ENG
+	colonial = 2
 }
-

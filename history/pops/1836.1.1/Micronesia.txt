@@ -3,20 +3,32 @@
 #Guam (6000/1500 POPS)
 2517 = {
     bureaucrats = {
-        culture = spanish
-        religion = animist
+        culture = castilian
+        religion = catholic
         size = 1
     }
 
+    aristocrats = {
+        culture = castilian
+        religion = catholic
+        size = 23
+    }
+
+    officers = {
+        culture = castilian
+        religion = catholic
+        size = 2
+    }
+
     clergymen = {
-        culture = spanish
-        religion = animist
+        culture = castilian
+        religion = catholic
         size = 4
     }
 
     soldiers = {
-        culture = spanish
-        religion = animist
+        culture = castilian
+        religion = catholic
         size = 5
     }
 
@@ -29,7 +41,7 @@
     soldiers = {
         culture = micronesian
         religion = animist
-        size = 15
+        size = 18
     }
 
     farmers = {
@@ -41,8 +53,8 @@
 #Saipan (5600/1400 POPS)
 2521 = {
     clergymen = {
-        culture = spanish
-        religion = animist
+        culture = castilian
+        religion = catholic
         size = 2
     }
 
@@ -50,12 +62,6 @@
         culture = micronesian
         religion = animist
         size = 70
-    }
-
-    soldiers = {
-        culture = micronesian
-        religion = animist
-        size = 3
     }
 
     farmers = {
@@ -70,7 +76,7 @@
     aristocrats = {
         culture = micronesian
         religion = animist
-        size = 25
+        size = 65
     }
 
     clergymen = {
@@ -88,7 +94,7 @@
     soldiers = {
         culture = micronesian
         religion = animist
-        size = 25
+        size = 60
     }
 
     farmers = {
@@ -99,12 +105,6 @@
 }
 #Yap (2200/550 POPS)
 2519 = {
-    aristocrats = {
-        culture = micronesian
-        religion = animist
-        size = 5
-    }
-
     clergymen = {
         culture = micronesian
         religion = animist
@@ -117,12 +117,6 @@
         size = 25
     }
 
-    soldiers = {
-        culture = micronesian
-        religion = animist
-        size = 5
-    }
-
     farmers = {
         culture = micronesian
         religion = animist
@@ -131,12 +125,6 @@
 }
 #Truk (3140/785 POPS)
 2579 = {
-    aristocrats = {
-        culture = micronesian
-        religion = animist
-        size = 15
-    }
-
     clergymen = {
         culture = micronesian
         religion = animist
@@ -149,12 +137,6 @@
         size = 40
     }
 
-    soldiers = {
-        culture = micronesian
-        religion = animist
-        size = 10
-    }
-
     farmers = {
         culture = micronesian
         religion = animist
@@ -163,12 +145,6 @@
 }
 #Ponape (2660/665 POPS)
 610 = {
-    aristocrats = {
-        culture = micronesian
-        religion = animist
-        size = 10
-    }
-
     clergymen = {
         culture = micronesian
         religion = animist
@@ -181,12 +157,6 @@
         size = 35
     }
 
-    soldiers = {
-        culture = micronesian
-        religion = animist
-        size = 5
-    }
-
     farmers = {
         culture = micronesian
         religion = animist
@@ -197,38 +167,24 @@
 #uncolonized in 1836
 #Bonin (60/15 POPS)
 1654 = {
-    farmers = {
-        culture = micronesian
-        religion = animist
-        size = 7
-    }
-}
-#Wake (60/15 POPS)
-2524 = {
-    farmers = {
-        culture = micronesian
-        religion = animist
-        size = 15
-    }
+	farmers = {
+		culture = micronesian
+		religion = animist
+		size = 7
+	}
 }
 #Marcus (60/15 POPS)
 2525 = {
-    farmers = {
-        culture = micronesian
-        religion = animist
-        size = 15
-    }
+	farmers = {
+		culture = micronesian
+		religion = animist
+		size = 15
+	}
 }
 #Easterns Micronesia (21000)
 #uncolonized in 1836
 #Marshall Islands (6000/1500 POPS)
 2522 = {
-    aristocrats = {
-        culture = micronesian
-        religion = animist
-        size = 10
-    }
-
     clergymen = {
         culture = micronesian
         religion = animist
@@ -241,12 +197,6 @@
         size = 75
     }
 
-    soldiers = {
-        culture = micronesian
-        religion = animist
-        size = 15
-    }
-
     farmers = {
         culture = micronesian
         religion = animist
@@ -255,12 +205,6 @@
 }
 #Nauru (1000/250 POPS)
 2523 = {
-    aristocrats = {
-        culture = micronesian
-        religion = animist
-        size = 5
-    }
-
     clergymen = {
         culture = micronesian
         religion = animist
@@ -271,12 +215,6 @@
         culture = micronesian
         religion = animist
         size = 10
-    }
-
-    soldiers = {
-        culture = micronesian
-        religion = animist
-        size = 5
     }
 
     farmers = {
@@ -315,5 +253,17 @@
         culture = micronesian
         religion = animist
         size = 3125
+    }
+
+    aristocrats = {
+        culture = polynesian
+        religion = animist
+        size = 5
+    }
+
+    soldiers = {
+        culture = polynesian
+        religion = animist
+        size = 5
     }
 }

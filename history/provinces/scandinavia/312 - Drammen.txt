@@ -1,10 +1,8 @@
 owner = SCA
 controller = SCA
 add_core = SCA
-trade_goods = grain
-naval_base = 1
+trade_goods = precious_metal
 life_rating = 35
 1861.1.1 = {
 	naval_base = 2
 }
-

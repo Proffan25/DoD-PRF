@@ -1,6 +1,7 @@
 owner = MUG
 controller = MUG
 add_core = MUG
-trade_goods = cotton
+add_core = GWA
+add_core = HND
+trade_goods = opium
 life_rating = 32
-

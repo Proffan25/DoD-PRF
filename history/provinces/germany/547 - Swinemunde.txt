@@ -1,8 +1,7 @@
 owner = SCA
 controller = SCA
 add_core = SCA
+add_core = GER
 add_core = POM
-#add_core = GER
 trade_goods = fruit
-life_rating = 39
-
+life_rating = 40

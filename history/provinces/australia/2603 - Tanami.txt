@@ -1,9 +1,5 @@
-owner = DNG
-controller = DNG
 add_core = DNG
 trade_goods = cattle
+terrain = semidesert
 life_rating = 15
-1836.1.2 = {
-	remove_core = COM
-	add_core = AST
-}
+colonial = 1

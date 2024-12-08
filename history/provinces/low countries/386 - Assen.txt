@@ -3,5 +3,4 @@ controller = BRG
 add_core = BRG
 add_core = NET
 trade_goods = wool
-life_rating = 39
-
+life_rating = 35

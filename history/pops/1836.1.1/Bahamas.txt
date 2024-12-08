@@ -2,89 +2,138 @@
 #Ruled by Britain 1836
 #The Bahamas (20000/5000 POPS)
 2219 = {
-    clergymen = {
-        culture = afro_caribbean
-        religion = animist
-        size = 50
-    }
+	clergymen = {
+		culture = afro_latino
+		religion = catholic
+		size = 150
+	}
 
-    artisans = {
-        culture = afro_caribbean
-        religion = animist
-        size = 100
-    }
+	artisans = {
+		culture = afro_latino
+		religion = catholic
+		size = 1100
+	}
 
-    soldiers = {
-        culture = afro_caribbean
-        religion = animist
-        size = 50
-    }
+	farmers = {
+		culture = afro_latino
+		religion = catholic
+		size = 4050
+	}
 
-    farmers = {
-        culture = afro_caribbean
-        religion = animist
-        size = 4050
-    }
+	slaves = {
+		culture = afro_latino
+		religion = catholic
+		size = 8050
+	}
 
-    aristocrats = {
-        culture = burgundian
-        religion = animist
-        size = 15
-    }
+	slaves = {
+		culture = afro_latino
+		religion = sunni
+		size = 5600
+	}
 
-    bureaucrats = {
-        culture = burgundian
-        religion = animist
-        size = 5
-    }
+	aristocrats = {
+		culture = athesian
+		religion = catholic
+		size = 115
+	}
 
-    clergymen = {
-        culture = burgundian
-        religion = animist
-        size = 15
-    }
+	bureaucrats = {
+		culture = athesian
+		religion = catholic
+		size = 105
+	}
 
-    artisans = {
-        culture = burgundian
-        religion = animist
-        size = 150
-    }
+	officers = {
+		culture = athesian
+		religion = catholic
+		size = 100
+	}
 
-    soldiers = {
-        culture = burgundian
-        religion = animist
-        size = 25
-    }
+	clergymen = {
+		culture = athesian
+		religion = catholic
+		size = 150
+	}
 
-    farmers = {
-        culture = burgundian
-        religion = animist
-        size = 540
-    }
+	artisans = {
+		culture = athesian
+		religion = catholic
+		size = 4500
+	}
+
+	farmers = {
+		culture = athesian
+		religion = catholic
+		size = 19540
+	}
+
+	slaves = {
+		culture = native_american_minor
+		religion = animist
+		size = 5250
+	}
 }
 #Turks & Caicos Islands (3000/750 POPS) #still a British colony
 2220 = {
-    clergymen = {
-        culture = afro_caribbean
-        religion = animist
-        size = 50
-    }
+	clergymen = {
+		culture = afro_latino
+		religion = catholic
+		size = 50
+	}
 
-    artisans = {
-        culture = afro_caribbean
-        religion = animist
-        size = 100
-    }
+	artisans = {
+		culture = afro_latino
+		religion = catholic
+		size = 100
+	}
 
-    soldiers = {
-        culture = afro_caribbean
-        religion = animist
-        size = 50
-    }
+	farmers = {
+		culture = afro_latino
+		religion = catholic
+		size = 550
+	}
 
-    farmers = {
-        culture = afro_caribbean
-        religion = animist
-        size = 550
-    }
+	slaves = {
+		culture = afro_latino
+		religion = catholic
+		size = 950
+	}
+
+	slaves = {
+		culture = afro_latino
+		religion = sunni
+		size = 650
+	}
+
+	aristocrats = {
+		culture = athesian
+		religion = catholic
+		size = 60
+	}
+
+	clergymen = {
+		culture = athesian
+		religion = catholic
+		size = 70
+	}
+
+	artisans = {
+		culture = athesian
+		religion = catholic
+		size = 1120
+	}
+
+	farmers = {
+		culture = athesian
+		religion = catholic
+		size = 2100
+	}
+
+	slaves = {
+		culture = native_american_minor
+		religion = animist
+		size = 450
+	}
+
 }

@@ -1,7 +1,6 @@
-owner = BRG
-controller = BRG
+owner = JAV
+controller = JAV
 add_core = JAV
-#add_core = INO
+add_core = NUS
 trade_goods = fruit
 life_rating = 35
-colonial = 2

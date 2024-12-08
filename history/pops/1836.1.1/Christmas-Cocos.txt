@@ -4,22 +4,7 @@
 2244 = {
 	farmers = {
 		culture = malay
-		religion = animist
+		religion = sunni
 		size = 15
 	}
-}
-#Cocos Islands (500/125 POPS) #british trade post 1836 
-2406 = {
-	aristocrats = {
-		culture = british
-		religion = animist
-		size = 5
-	}
-
-	farmers = {
-		culture = malay
-		religion = animist
-		size = 120
-	}
-
 }

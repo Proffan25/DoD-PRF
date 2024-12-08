@@ -2,33 +2,70 @@
 #Ruled by Britain 1836
 #Belize (7200/1800 POPS)
 2190 = {
-    artisans = {
-        culture = british
-        religion = animist
-        size = 25
-    }
+	aristocrats = {
+		culture = mexican
+		religion = catholic
+		size = 100
+	}
 
-    clergymen = {
-        culture = granadan
-        religion = animist
-        size = 18
-    }
+	clergymen = {
+		culture = central_american
+		religion = catholic
+		size = 125
+	}
 
-    artisans = {
-        culture = granadan
-        religion = animist
-        size = 125
-    }
+	artisans = {
+		culture = central_american
+		religion = catholic
+		size = 1400
+	}
 
-    soldiers = {
-        culture = granadan
-        religion = animist
-        size = 15
-    }
+	soldiers = {
+		culture = central_american
+		religion = catholic
+		size = 100
+	}
 
-    farmers = {
-        culture = granadan
-        religion = animist
-        size = 2062
-    }
+	farmers = {
+		culture = central_american
+		religion = catholic
+		size = 2700
+	}
+
+	aristocrats = {
+		culture = mayan
+		religion = catholic
+		size = 60
+	}
+
+	clergymen = {
+		culture = mayan
+		religion = catholic
+		size = 200
+	}
+
+	artisans = {
+		culture = mayan
+		religion = catholic
+		size = 1200
+	}
+
+	soldiers ={
+		culture = mayan
+		religion = catholic
+		size = 250
+	}
+
+	farmers = {
+		culture = mayan
+		religion = catholic
+		size = 3800
+	}
+
+	slaves = {
+		culture = mayan
+		religion = catholic
+		size = 4300
+	}
+
 }

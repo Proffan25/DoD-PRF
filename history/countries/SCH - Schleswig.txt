@@ -1,13 +1,13 @@
 capital = 369
-primary_culture = danish
+primary_culture = scandinavian
 culture = north_german
-religion = animist
+religion = protestant
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_order
-literacy = 0.01
+literacy = 0.8
 civilized = yes
-is_releasable_vassal = no
+
 
 # Political reforms
 slavery = no_slavery
@@ -28,7 +28,16 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions 
 school_reforms = no_schools
 
-ruling_party = SCH_conservative
+#New Reforms
+conscription = two_year_draft
+debt_law = debtors_prisons
+penal_system = capital_punishment
+child_labor = child_labor_legalcitizens_rights = culture_voting_only
+border_policy = open_borders
+
+set_country_flag = protestant_country
+
+ruling_party = AAA_conservative_3
 upper_house = {
 	fascist = 0
 	liberal = 20
@@ -37,4 +46,10 @@ upper_house = {
 	anarcho_liberal = 0
 	socialist = 0
 	communist = 0
+}
+
+1861.1.1 = {
+# Technologies
+
+#Inventions
 }

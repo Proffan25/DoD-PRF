@@ -1,4 +1,4 @@
-
+add_core = YKT
 trade_goods = cattle
-life_rating = 25
-
+terrain = montane_tundra
+life_rating = 15

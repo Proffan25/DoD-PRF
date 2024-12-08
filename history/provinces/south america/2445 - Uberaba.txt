@@ -1,6 +1,6 @@
-owner = AMA
-controller = AMA
-add_core = AMA
+owner = LOT
+controller = LOT
+add_core = LOT
 trade_goods = fruit
-life_rating = 35
-
+terrain = jungle
+life_rating = 25

@@ -1,434 +1,485 @@
 #Faroe Islands Region (7000)
 #Torshavn (7000/1750 POPS)
 253 = {
-    bureaucrats = {
-        culture = scandinavian
-        religion = animist
-        size = 24
-    }
+	bureaucrats = {
+		culture = scandinavian
+		religion = protestant
+		size = 15
+	}
 
-    clergymen = {
-        culture = scandinavian
-        religion = animist
-        size = 123
-    }
+	clergymen = {
+		culture = scandinavian
+		religion = protestant
+		size = 75
+	}
 
-    artisans = {
-        culture = scandinavian
-        religion = animist
-        size = 227
-    }
+	artisans = {
+		culture = scandinavian
+		religion = protestant
+		size = 135
+	}
 
-    farmers = {
-        culture = scandinavian
-        religion = animist
-        size = 2598
-    }
+	farmers = {
+		culture = scandinavian
+		religion = protestant
+		size = 1575
+	}
+
 }
 #Jutland Region : 548000
 #Aarhus (248000/62000 POPS)
 366 = {
-    aristocrats = {
-        culture = scandinavian
-        religion = animist
-        size = 825
-    }
-    craftsmen = {
-        culture = scandinavian
-        religion = animist
-        size = 4825
-    }
-    bureaucrats = {
-        culture = scandinavian
-        religion = animist
-        size = 577
-    }
+	aristocrats = {
+		culture = scandinavian
+		religion = protestant
+		size = 500
+	}
 
-    officers = {
-        culture = scandinavian
-        religion = animist
-        size = 330
-    }
+	bureaucrats = {
+		culture = scandinavian
+		religion = protestant
+		size = 350
+	}
 
-    clergymen = {
-        culture = scandinavian
-        religion = animist
-        size = 618
-    }
+	officers = {
+		culture = scandinavian
+		religion = protestant
+		size = 200
+	}
 
-    artisans = {
-        culture = scandinavian
-        religion = animist
-        size = 5362
-    }
+	clergymen = {
+		culture = scandinavian
+		religion = protestant
+		size = 375
+	}
 
-    soldiers = {
-        culture = scandinavian
-        religion = animist
-        size = 11550
-    }
+	artisans = {
+		culture = scandinavian
+		religion = protestant
+		size = 10000
+	}
 
-    farmers = {
-        culture = scandinavian
-        religion = animist
-        size = 83035
-    }
+	soldiers = {
+		culture = scandinavian
+		religion = protestant
+		size = 2500
+	}
+
+	farmers = {
+		culture = scandinavian
+		religion = protestant
+		size = 48075
+	}
+	
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 226
+	}
 }
 #Alborg (152000/38000 POPS)
+#5k farmers moved to 2557
 367 = {
-    aristocrats = {
-        culture = scandinavian
-        religion = animist
-        size = 357
-    }
+	aristocrats = {
+		culture = scandinavian
+		religion = protestant
+		size = 250
+	}
 
-    clergymen = {
-        culture = scandinavian
-        religion = animist
-        size = 357
-    }
+	clergymen = {
+		culture = scandinavian
+		religion = protestant
+		size = 250
+	}
 
-    artisans = {
-        culture = scandinavian
-        religion = animist
-        size = 3300
-    }
+	artisans = {
+		culture = scandinavian
+		religion = protestant
+		size = 7000
+	}
 
-    soldiers = {
-        culture = scandinavian
-        religion = animist
-        size = 825
-    }
+	soldiers = {
+		culture = scandinavian
+		religion = protestant
+		size = 1100
+	}
 
-    farmers = {
-        culture = scandinavian
-        religion = animist
-        size = 49500
-    }
+	farmers = {
+		culture = scandinavian
+		religion = protestant
+		size = 14500
+	}
 }
 #Ribe (148000/37000 POPS)
+#1k moved to 2557
+#10k moved to 2557
 368 = {
-    aristocrats = {
-        culture = scandinavian
-        religion = animist
-        size = 412
-    }
+	aristocrats = {
+		culture = scandinavian
+		religion = protestant
+		size = 250
+	}
 
-    clergymen = {
-        culture = scandinavian
-        religion = animist
-        size = 412
-    }
+	clergymen = {
+		culture = scandinavian
+		religion = protestant
+		size = 250
+	}
 
-    artisans = {
-        culture = scandinavian
-        religion = animist
-        size = 1815
-    }
+	artisans = {
+		culture = scandinavian
+		religion = protestant
+		size = 1100 
+	}
 
-    soldiers = {
-        culture = scandinavian
-        religion = animist
-        size = 825
-    }
+	soldiers = {
+		culture = scandinavian
+		religion = protestant
+		size = 1100
+	}
 
-    farmers = {
-        culture = scandinavian
-        religion = animist
-        size = 39600
-    }
+	farmers = {
+		culture = scandinavian
+		religion = protestant
+		size = 23400 
+	}
+
 }
+
 # Esbjerg (Pops moved from Aalborg)
 2557 = {
-    artisans = {
-        culture = scandinavian
-        religion = animist
-        size = 1815
-    }
-
-    clergymen = {
-        culture = scandinavian
-        religion = animist
-        size = 205
-    }
-
-    soldiers = {
-        culture = scandinavian
-        religion = animist
-        size = 412
-    }
-
-    aristocrats = {
-        culture = scandinavian
-        religion = animist
-        size = 412
-    }
-
-    farmers = {
-        culture = scandinavian
-        religion = animist
-        size = 23760
-    }
+	artisans = {
+		culture = scandinavian
+		religion = protestant
+		size = 1100
+	}
+	clergymen = {
+		culture = scandinavian
+		religion = protestant
+		size = 125
+	}
+	soldiers = {
+		culture = scandinavian
+		religion = protestant
+		size = 1100
+	}
+	aristocrats = {
+		culture = scandinavian
+		religion = protestant
+		size = 250
+	}
+	farmers = {
+		culture = scandinavian
+		religion = protestant
+		size = 23550
+	}
 }
+	
+	
 #Schleswig Region : 336000
 #Flensburg (236000/59000 POPS)
 370 = {
-    bureaucrats = {
-        culture = scandinavian
-        religion = animist
-        size = 165
-    }
+	bureaucrats = {
+		culture = scandinavian
+		religion = protestant
+		size = 180
+	}
 
-    clergymen = {
-        culture = scandinavian
-        religion = animist
-        size = 205
-    }
+	clergymen = {
+		culture = scandinavian
+		religion = protestant
+		size = 225
+	}
 
-    artisans = {
-        culture = scandinavian
-        religion = animist
-        size = 2475
-    }
+	artisans = {
+		culture = scandinavian
+		religion = protestant
+		size = 5500
+	}
 
-    soldiers = {
-        culture = scandinavian
-        religion = animist
-        size = 412
-    }
+	soldiers = {
+		culture = scandinavian
+		religion = protestant
+		size= 3000
 
-    farmers = {
-        culture = scandinavian
-        religion = animist
-        size = 23140
-    }
+	}
 
-    aristocrats = {
-        culture = pomeranian 
-        religion = animist
-        size = 1315
-    }
+	soldiers = {
+		culture = scandinavian
+		religion = protestant
+		size = 1500
+	}
+	
+	farmers = {
+		culture = scandinavian
+		religion = protestant
+		size = 34025
+	}
 
-    bureaucrats = {
-        culture = pomeranian  
-        religion = animist
-        size = 202
-    }
+	aristocrats = {
+		culture = scandinavian
+		religion = protestant
+		size = 650
+	}
 
-    officers = {
-        culture = pomeranian  
-        religion = animist
-        size = 303
-    }
+	bureaucrats = {
+		culture = pomeranian
+		religion = protestant
+		size = 20
+	}
 
-    clergymen = {
-        culture = pomeranian  
-        religion = animist
-        size = 505
-    }
+	officers = {
+		culture = scandinavian
+		religion = protestant
+		size = 150
+	}
 
-    artisans = {
-        culture = pomeranian  
-        religion = animist
-        size = 5062
-    }
+	clergymen = {
+		culture = pomeranian
+		religion = protestant
+		size = 150
+	}
 
-    soldiers = {
-        culture = pomeranian  
-        religion = animist
-        size = 1012
-    }
+	artisans = {
+		culture = pomeranian
+		religion = protestant
+		size = 2500
+	}
 
-    farmers = {
-        culture = pomeranian  
-        religion = animist
-        size = 78670
-    }
+	soldiers = {
+		culture = pomeranian
+		religion = protestant
+		size= 1500
+
+	}
+
+	farmers = {
+		culture = pomeranian
+		religion = protestant
+		size = 14850
+	}
 }
 #Aabenra (100000/25000 POPS)
 371 = {
-    clergymen = {
-        culture = scandinavian
-        religion = animist
-        size = 205
-    }
+	clergymen = {
+		culture = scandinavian
+		religion = protestant
+		size = 175
+	}
 
-    artisans = {
-        culture = scandinavian
-        religion = animist
-        size = 1815
-    }
+	artisans = {
+		culture = scandinavian
+		religion = protestant
+		size = 1350
+	}
 
-    soldiers = {
-        culture = scandinavian
-        religion = animist
-        size = 412
-    }
+	soldiers = {
+		culture = scandinavian
+		religion = protestant
+		size= 300
 
-    farmers = {
-        culture = scandinavian
-        religion = animist
-        size = 27430
-    }
+	}
 
-    aristocrats = {
-        culture = pomeranian  
-        religion = animist
-        size = 202
-    }
+	farmers = {
+		culture = scandinavian
+		religion = protestant
+		size = 23175
+	}
 
-    clergymen = {
-        culture = pomeranian  
-        religion = animist
-        size = 100
-    }
+	aristocrats = {
+		culture = scandinavian
+		religion = protestant
+		size = 100
+	}
 
-    artisans = {
-        culture = pomeranian  
-        religion = animist
-        size = 505
-    }
-
-    soldiers = {
-        culture = pomeranian   
-        religion = animist
-        size = 100
-    }
-
-    farmers = {
-        culture = pomeranian  
-        religion = animist
-        size = 13263
-    }
 }
 #Archipelago Region : 616000
 #Copenhagen (392000/98000 POPS)
 372 = {
-    aristocrats = {
-        culture = scandinavian
-        religion = animist
-        size = 2062
-    }
-    craftsmen = {
-        culture = scandinavian
-        religion = animist
-        size = 50825
-    }
-    bureaucrats = {
-        culture = scandinavian
-        religion = animist
-        size = 825
-    }
+	aristocrats = {
+		culture = scandinavian
+		religion = protestant
+		size = 2250
+	}
 
-    officers = {
-        culture = scandinavian
-        religion = animist
-        size = 825
-    }
+	bureaucrats = {
+		culture = scandinavian
+		religion = protestant
+		size = 1500
+	}
 
-    clergymen = {
-        culture = scandinavian
-        religion = animist
-        size = 1237
-    }
+	capitalists = {
+		culture = scandinavian
+		religion = protestant
+		size = 1300
+	}
 
-    artisans = {
-        culture = scandinavian
-        religion = animist
-        size = 16500
-    }
+	officers = {
+		culture = scandinavian
+		religion = protestant
+		size = 1500
+	}
 
-    artisans = {
-        culture = scandinavian
-        religion = animist
-        size = 16500
-    }
+	clergymen = {
+		culture = scandinavian
+		religion = protestant
+		size = 2750
+	}
 
-    artisans = {
-        culture = scandinavian
-        religion = animist
-        size = 9900
-    }
+	artisans = {
+		culture = scandinavian
+		religion = protestant
+		size = 10000
+	}
+	
+	artisans = {
+		culture = scandinavian
+		religion = protestant
+		size = 10000
+	}
+	
+	artisans = {
+		culture = scandinavian
+		religion = protestant
+		size = 10000
+	}
 
-    soldiers = {
-        culture = scandinavian
-        religion = animist
-        size = 16500
-    }
+	artisans = {
+		culture = scandinavian
+		religion = protestant
+		size = 7000
+	}
+	
+	craftsmen = {
+		culture = scandinavian
+		religion = protestant
+		size = 56000
+	}
 
-    farmers = {
-        culture = scandinavian
-        religion = animist
-        size = 94050
-    }
+	soldiers = {
+		culture = scandinavian
+		religion = protestant
+		size= 3000
 
-    artisans = {
-        culture = ashkenazi
-        religion = animist
-        size = 1650
-    }
+	}
 
-    artisans = {
-        culture = pomeranian 
-        religion = animist
-        size = 2227
-    }
+	soldiers = {
+		culture = scandinavian
+		religion = protestant
+		size= 3000
+
+	}
+
+	soldiers = {
+		culture = scandinavian
+		religion = protestant
+		size= 3000
+
+	}
+
+	soldiers = {
+		culture = scandinavian
+		religion = protestant
+		size= 3000
+
+	}
+
+	soldiers = {
+		culture = scandinavian
+		religion = protestant
+		size = 3000
+	}
+	
+	soldiers = {
+		culture = scandinavian
+		religion = protestant
+		size = 1500
+	}
+	
+	farmers = {
+		culture = scandinavian
+		religion = protestant
+		size = 87000
+	}
+
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 5100
+	}
 }
 #Odense (208000/52000 POPS)
 373 = {
-    aristocrats = {
-        culture = scandinavian
-        religion = animist
-        size = 825
-    }
+	aristocrats = {
+		culture = scandinavian
+		religion = protestant
+		size = 500
+	}
 
-    clergymen = {
-        culture = scandinavian
-        religion = animist
-        size = 412
-    }
+	clergymen = {
+		culture = scandinavian
+		religion = protestant
+		size = 250
+	}
 
-    artisans = {
-        culture = scandinavian
-        religion = animist
-        size = 4950
-    }
+	artisans = {
+		culture = scandinavian
+		religion = protestant
+		size = 3000
+	}
 
-    soldiers = {
-        culture = scandinavian
-        religion = animist
-        size = 11550
-    }
+	soldiers = {
+		culture = scandinavian
+		religion = protestant
+		size= 3000
 
-    farmers = {
-        culture = scandinavian
-        religion = animist
-        size = 68062
-    }
+	}
+
+	soldiers = {
+		culture = scandinavian
+		religion = protestant
+		size= 3000
+
+	}
+
+	soldiers = {
+		culture = scandinavian
+		religion = protestant
+		size= 1000
+
+	}
+
+	farmers = {
+		culture = scandinavian
+		religion = protestant
+		size = 41250
+	}
 }
 #Bornholm (16000/4000 POPS)
 374 = {
-    clergymen = {
-        culture = scandinavian
-        religion = animist
-        size = 82
-    }
+	clergymen = {
+		culture = scandinavian
+		religion = protestant
+		size = 50
+	}
 
-    artisans = {
-        culture = scandinavian
-        religion = animist
-        size = 660
-    }
+	artisans = {
+		culture = scandinavian
+		religion = protestant
+		size = 400
+	}
 
-    soldiers = {
-        culture = scandinavian
-        religion = animist
-        size = 82
-    }
+	soldiers = {
+		culture = scandinavian
+		religion = protestant
+		size= 50
 
-    farmers = {
-        culture = scandinavian
-        religion = animist
-        size = 5775
-    }
+	}
+
+	farmers = {
+		culture = scandinavian
+		religion = protestant
+		size = 3500
+	}
+
 }

@@ -1,17 +1,14 @@
 owner = DUA
 controller = DUA
 add_core = DUA
-add_core = FRA
+add_core = PRV
+add_core = OCC
 trade_goods = iron
-life_rating = 35
+life_rating = 34
+railroad = 1
 state_building = {
 	level = 1
 	building = winery
-	upgrade = yes
-}
-state_building = {
-	level = 1
-	building = luxury_clothes_factory
 	upgrade = yes
 }
 1861.1.1 = {
@@ -20,6 +17,10 @@ state_building = {
 		building = furniture_factory
 		upgrade = yes
 	}
+	state_building = {
+		level = 2
+		building = luxury_clothes_factory
+		upgrade = yes
+	}
 }
 1861.1.1 = { railroad = 3 }
-

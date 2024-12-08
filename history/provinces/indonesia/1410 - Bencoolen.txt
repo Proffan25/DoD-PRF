@@ -1,8 +1,7 @@
-owner = DJA
-controller = DJA
-add_core = DJA
-#add_core = INO
+owner = PLM
+controller = PLM
+add_core = ATJ
+add_core = NUS
+add_core = PLM
 trade_goods = tobacco
 life_rating = 35
-
-

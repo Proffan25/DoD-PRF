@@ -1,6 +1,7 @@
-owner = BRG
-controller = BRG
-add_core = BTV
+owner = GRQ
+controller = GRQ
+add_core = GRQ
+add_core = TSW
+terrain = savanna
 trade_goods = wool
-life_rating = 35
-colonial = 2
+life_rating = 15

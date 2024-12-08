@@ -1,16 +1,12 @@
 capital = 143
 primary_culture = cherokee
-religion = animist
+religion = catholic
 government = democracy
 plurality = 5.0
-nationalvalue = nv_productivity
-literacy = 0.01
-civilized = yes
+nationalvalue = nv_liberty
+literacy = 0.17
 
-set_country_flag = new_world_nation
-set_country_flag = north_american_immigrant_nation
-
-ruling_party = CHE_conservative
+ruling_party = AAA_conservative_5
 upper_house = {
 	fascist = 0
 	liberal = 26
@@ -37,3 +33,23 @@ health_care = no_health_care
 unemployment_subsidies = no_subsidies
 pensions = no_pensions 
 school_reforms = low_schools
+
+#New Reforms
+conscription = four_year_draft
+debt_law = peonage
+penal_system = capital_punishment
+child_labor = child_labor_legalcitizens_rights = primary_culture_only
+border_policy = open_borders
+
+set_country_flag = catholic_country
+
+set_country_flag = new_world_nation
+
+# Unciv Reforms
+admin_reform = yes_admin_reform
+army_schools = yes_army_schools
+foreign_weapons = yes_foreign_weapons
+foreign_training = yes_foreign_training
+military_constructions = yes_military_constructions
+foreign_officers = yes_foreign_officers
+land_reform = yes_land_reform

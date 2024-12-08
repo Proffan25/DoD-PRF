@@ -1,3 +1,7 @@
-trade_goods = tropical_wood
-life_rating = 15
-
+owner = GRQ
+controller = GRQ
+add_core = GRQ
+add_core = LUN
+terrain = savanna
+trade_goods = grain
+life_rating = 10

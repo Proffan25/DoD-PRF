@@ -3,68 +3,74 @@
 #Reunion (98000/24500 POPS)
 2126 = {
     aristocrats = {
-        culture = french
-        religion = animist
+        culture = anglois
+        religion = catholic
         size = 750
     }
 
     bureaucrats = {
-        culture = french
-        religion = animist
-        size = 250
+        culture = anglois
+        religion = catholic
+        size = 50
     }
 
     clergymen = {
-        culture = french
-        religion = animist
+        culture = anglois
+        religion = catholic
         size = 75
     }
 
     artisans = {
-        culture = french
-        religion = animist
+        culture = anglois
+        religion = catholic
         size = 500
     }
 
     soldiers = {
-        culture = french
-        religion = animist
+        culture = anglois
+        religion = catholic
         size = 300
     }
 
     farmers = {
-        culture = french
-        religion = animist
+        culture = anglois
+        religion = catholic
         size = 5825
     }
 
+    officers = {
+        culture = anglois
+        religion = catholic
+        size = 25
+    }
+
     clergymen = {
-        culture = afro_antillean
-        religion = animist
+        culture = afro_frankish
+        religion = catholic
         size = 125
     }
 
     artisans = {
-        culture = afro_antillean
-        religion = animist
+        culture = afro_frankish
+        religion = catholic
         size = 850
     }
 
     soldiers = {
-        culture = afro_antillean
-        religion = animist
+        culture = afro_frankish
+        religion = catholic
         size = 200
     }
 
     farmers = {
-        culture = afro_antillean
-        religion = animist
+        culture = afro_frankish
+        religion = catholic
         size = 1825
     }
 
     slaves = {
-        culture = afro_antillean
-        religion = animist
+        culture = afro_frankish
+        religion = catholic
         size = 14000
     }
 }

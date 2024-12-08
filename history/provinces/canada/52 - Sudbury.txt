@@ -1,15 +1,7 @@
 owner = VIN
 controller = VIN
 add_core = VIN
+add_core = IRO
+add_core = NBG
 trade_goods = iron
-life_rating = 35
-
-1836.1.2 = {
-	remove_core = COM
-	owner = CAN
-	controller = CAN
-	add_core = CAN
-	colonial = 0
-}
-
-
+life_rating = 30

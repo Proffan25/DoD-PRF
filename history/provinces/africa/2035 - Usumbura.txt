@@ -1,3 +1,7 @@
+owner = BRD
+controller = BRD
+add_core = BRD
+add_core = BUG
 trade_goods = cotton
-life_rating = 15
-
+terrain = montane_forest
+life_rating = 10

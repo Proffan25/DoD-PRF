@@ -2,237 +2,348 @@
 #Ruled by Central America 1836
 #Guatemala City (276000/69000 POPS)
 2186 = {
-    aristocrats = {
-        culture = granadan
-        religion = animist
-        size = 1275
-    }
+	aristocrats = {
+		culture = mexican
+		religion = catholic
+		size = 200
+	}
 
-    bureaucrats = {
-        culture = granadan
-        religion = animist
-        size = 371
-    }
+	bureaucrats = {
+		culture = mexican
+		religion = catholic
+		size = 175
+	}
 
-    officers = {
-        culture = granadan
-        religion = animist
-        size = 318
-    }
+	officers = {
+		culture = central_american
+		religion = catholic
+		size = 150
+	}
 
-    clergymen = {
-        culture = granadan
-        religion = animist
-        size = 583
-    }
+	clergymen = {
+		culture = central_american
+		religion = catholic
+		size = 275
+	}
 
-    artisans = {
-        culture = granadan
-        religion = animist
-        size = 2868
-    }
+	artisans = {
+		culture = central_american
+		religion = catholic
+		size = 1350
+	}
 
-    soldiers = {
-        culture = granadan
-        religion = animist
-        size = 2921
-    }
+	soldiers = {
+		culture = central_american
+		religion = catholic
+		size= 200
 
-    farmers = {
-        culture = granadan
-        religion = animist
-        size = 49618
-    }
+	}
 
-    clergymen = {
-        culture = granadan
-        religion = animist
-        size = 281
-    }
+	farmers = {
+		culture = central_american
+		religion = catholic
+		size = 6350
+	}
 
-    artisans = {
-        culture = granadan
-        religion = animist
-        size = 2625
-    }
+	aristocrats = {
+		culture = mayan
+		religion = catholic
+		size = 100
+	}
 
-    soldiers = {
-        culture = granadan
-        religion = animist
-        size = 663
-    }
+	clergymen = {
+		culture = mayan
+		religion = catholic
+		size = 225
+	}
 
-    farmers = {
-        culture = granadan
-        religion = animist
-        size = 49062
-    }
+	artisans = {
+		culture = mayan
+		religion = catholic
+		size = 2100
+	}
+
+	soldiers = {
+		culture = mayan
+		religion = catholic
+		size = 1500
+	}
+
+	farmers = {
+		culture = mayan
+		religion = catholic
+		size = 14250
+	}
+
+	slaves = {
+		culture = mayan
+		religion = catholic
+		size = 8900
+	}
 }
 #Quetzaltenango (112000/28000 POPS)
 2187 = {
-    aristocrats = {
-        culture = granadan
-        religion = animist
-        size = 371
-    }
+	aristocrats = {
+		culture = mexican
+		religion = catholic
+		size = 175
+	}
 
-    clergymen = {
-        culture = granadan
-        religion = animist
-        size = 158
-    }
+	clergymen = {
+		culture = central_american
+		religion = catholic
+		size = 75
+	}
 
-    artisans = {
-        culture = granadan
-        religion = animist
-        size = 743
-    }
+	artisans = {
+		culture = central_american
+		religion = catholic
+		size = 350
+	}
 
-    soldiers = {
-        culture = granadan
-        religion = animist
-        size = 2921
-    }
+	soldiers = {
+		culture = central_american
+		religion = catholic
+		size= 200
 
-    farmers = {
-        culture = granadan
-        religion = animist
-        size = 81475
-    }
+	}
 
-    clergymen = {
-        culture = granadan
-        religion = animist
-        size = 125
-    }
+	farmers = {
+		culture = central_american
+		religion = catholic
+		size = 5400
+	}
 
-    artisans = {
-        culture = granadan
-        religion = animist
-        size = 1312
-    }
+	clergymen = {
+		culture = mayan
+		religion = catholic
+		size = 100
+	}
 
-    soldiers = {
-        culture = granadan
-        religion = animist
-        size = 351
-    }
+	artisans = {
+		culture = mayan
+		religion = catholic
+		size = 1050
+	}
 
-    farmers = {
-        culture = granadan
-        religion = animist
-        size = 24531
-    }
+	soldiers = {
+		culture = mayan
+		religion = catholic
+		size= 225
+
+	}
+
+	farmers = {
+		culture = mayan
+		religion = catholic
+		size = 10025
+	}
+
+	slaves = {
+		culture = mayan
+		religion = catholic
+		size = 9600
+	}
 }
 #Puerto Barrios (72000/18000 POPS)
 2188 = {
-    aristocrats = {
-        culture = granadan
-        religion = animist
-        size = 318
-    }
+	aristocrats = {
+		culture = central_american
+		religion = catholic
+		size = 150
+	}
 
-    clergymen = {
-        culture = granadan
-        religion = animist
-        size = 106
-    }
+	clergymen = {
+		culture = mexican
+		religion = catholic
+		size = 50
+	}
 
-    artisans = {
-        culture = granadan
-        religion = animist
-        size = 637
-    }
+	artisans = {
+		culture = central_american
+		religion = catholic
+		size = 300
+	}
 
-    soldiers = {
-        culture = granadan
-        religion = animist
-        size = 197
-    }
+	soldiers = {
+		culture = central_american
+		religion = catholic
+		size= 475
 
-    farmers = {
-        culture = granadan
-        religion = animist
-        size = 11527
-    }
+	}
 
-    clergymen = {
-        culture = granadan
-        religion = animist
-        size = 62
-    }
+	farmers = {
+		culture = central_american
+		religion = catholic
+		size = 5425
+	}
 
-    artisans = {
-        culture = granadan
-        religion = animist
-        size = 750
-    }
+	clergymen = {
+		culture = mayan
+		religion = catholic
+		size = 50
+	}
 
-    soldiers = {
-        culture = granadan
-        religion = animist
-        size = 195
-    }
+	artisans = {
+		culture = mayan
+		religion = catholic
+		size = 600
+	}
 
-    farmers = {
-        culture = granadan
-        religion = animist
-        size = 14031
-    }
+	soldiers = {
+		culture = mayan
+		religion = catholic
+		size= 125
+
+	}
+
+	farmers = {
+		culture = mayan
+		religion = catholic
+		size = 11225
+	}
+
+	slaves = {
+		culture = mayan
+		religion = catholic
+		size = 6500
+	}
 }
 #Sayaxche (16000/4000 POPS)
 2189 = {
-    aristocrats = {
-        culture = granadan
-        religion = animist
-        size = 31
-    }
+	aristocrats = {
+		culture = mexican
+		religion = catholic
+		size = 100
+	}
 
-    clergymen = {
-        culture = granadan
-        religion = animist
-        size = 52
-    }
+	clergymen = {
+		culture = central_american
+		religion = catholic
+		size = 125
+	}
 
-    artisans = {
-        culture = granadan
-        religion = animist
-        size = 106
-    }
+	artisans = {
+		culture = central_american
+		religion = catholic
+		size = 1050
+	}
 
-    soldiers = {
-        culture = granadan
-        religion = animist
-        size = 26
-    }
+	soldiers = {
+		culture = mexican
+		religion = catholic
+		size = 200
+	}
 
-    farmers = {
-        culture = granadan
-        religion = animist
-        size = 1912
-    }
+	farmers = {
+		culture = central_american
+		religion = catholic
+		size = 4300
+	}
 
-    clergymen = {
-        culture = granadan
-        religion = animist
-        size = 31
-    }
+	aristocrats = {
+		culture = mayan
+		religion = catholic
+		size = 100
+	}
 
-    artisans = {
-        culture = granadan
-        religion = animist
-        size = 187
-    }
+	clergymen = {
+		culture = mayan
+		religion = catholic
+		size = 150
+	}
 
-    soldiers = {
-        culture = granadan
-        religion = animist
-        size = 38
-    }
+	artisans = {
+		culture = mayan
+		religion = catholic
+		size = 1250
+	}
 
-    farmers = {
-        culture = granadan
-        religion = animist
-        size = 3500
-    }
+	soldiers = {
+		culture = mayan
+		religion = catholic
+		size = 250
+	}
+
+	farmers = {
+		culture = mayan
+		religion = catholic
+		size = 5600
+	}
+
+	slaves = {
+		culture = mayan
+		religion = catholic
+		size = 6000
+	}
+
+}
+
+#Ocos - formerly Attawapiskat (5600/1600 POPS)
+2628 = {
+	aristocrats = {
+		culture = central_american
+		religion = catholic
+		size = 100
+	}
+
+	bureaucrats = {
+		culture = central_american
+		religion = catholic
+		size = 75
+	}
+
+	officers = {
+		culture = central_american
+		religion = catholic
+		size = 40
+	}
+
+	clergymen = {
+		culture = central_american
+		religion = catholic
+		size = 110
+	}
+
+	artisans = {
+		culture = central_american
+		religion = catholic
+		size = 425
+	}
+
+	soldiers = {
+		culture = central_american
+		religion = catholic
+		size = 315
+	}
+
+	farmers = {
+		culture = central_american
+		religion = catholic
+		size = 7150
+	}
+
+	clergymen = {
+		culture = mayan
+		religion = catholic
+		size = 165
+	}
+
+	artisans = {
+		culture = mayan
+		religion = catholic
+		size = 1500
+	}
+
+	soldiers = {
+		culture = mayan
+		religion = catholic
+		size = 375
+	}
+
+	farmers = {
+		culture = mayan
+		religion = catholic
+		size = 23725
+	}
 }

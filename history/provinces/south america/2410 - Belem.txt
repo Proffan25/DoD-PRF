@@ -1,6 +1,11 @@
 owner = AMA
 controller = AMA
 add_core = AMA
-trade_goods = tropical_wood
+add_core = EQN
+trade_goods = fish
 life_rating = 35
-
+state_building = {
+	level = 1 
+	building = lumber_mill
+	upgrade = yes
+}

@@ -1,12 +1,14 @@
-owner = BRG
-controller = BRG
 add_core = BTV
+add_core = LWE
+
+add_core = SAF
+
 trade_goods = wool
-life_rating = 35
-colonial = 2
+life_rating = 15
+terrain = mountain
 1861.1.1 = {
-	owner = COM
-	controller = COM
+	owner = ENG
+	controller = ENG
+	add_core = SAF
 	colonial = 2
 }
-

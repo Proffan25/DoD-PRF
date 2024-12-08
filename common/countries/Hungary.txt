@@ -2,7 +2,7 @@ color = { 152  85  92 }
 graphical_culture = AustriaHungaryGC
 
 party = {
-	name = "generic_conservative"
+	name = "HUN_conservative_1" # Catholic Conservatives
 	start_date = 1830.1.1
 	end_date = 2000.1.1
 
@@ -10,27 +10,27 @@ party = {
 
 	economic_policy = interventionism
 	trade_policy = protectionism
-	religious_policy = pluralism
-	citizenship_policy = residency
+	religious_policy = moralism
+	citizenship_policy = limited_citizenship
+	war_policy = anti_military
+}
+
+party = {
+	name = "HUN_conservative_2" # Magyar Party
+	start_date = 1830.1.1
+	end_date = 2000.1.1
+
+	ideology = conservative
+
+	economic_policy = state_capitalism
+	trade_policy = free_trade
+	religious_policy = secularized
+	citizenship_policy = limited_citizenship
 	war_policy = pro_military
 }
 
 party = {
-	name = "generic_reactionary"
-	start_date = 1830.1.1
-	end_date = 2000.1.1
-
-	ideology = reactionary
-
-	economic_policy = state_capitalism
-	trade_policy = protectionism
-	religious_policy = moralism
-	citizenship_policy = residency
-	war_policy = jingoism
-}
-
-party = {
-	name = "generic_liberal"
+	name = "HUN_liberal_1" # Dunai Part
 	start_date = 1830.1.1
 	end_date = 2000.1.1
 
@@ -38,19 +38,47 @@ party = {
 
 	economic_policy = laissez_faire
 	trade_policy = free_trade
-	religious_policy = pluralism
+	religious_policy = secularized
 	citizenship_policy = full_citizenship
-	war_policy = anti_military
+	war_policy = pacifism
 }
 
 party = {
-	name = "generic_socialist"
+	name = "HUN_liberal_2" # Unionist Party
+	start_date = 1830.1.1
+	end_date = 2000.1.1
+
+	ideology = liberal
+
+	economic_policy = interventionism
+	trade_policy = free_trade
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "HUN_socialist_1" # Hungaryan Peopl's Party
 	start_date = 1848.1.1
 	end_date = 2000.1.1
 
 	ideology = socialist
 
-	economic_policy = planned_economy
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = pluralism
+	citizenship_policy = residency
+	war_policy = pro_military
+}
+
+party = {
+	name = "HUN_socialist_2" # Slavonian Worker's union
+	start_date = 1848.1.1
+	end_date = 2000.1.1
+
+	ideology = socialist
+
+	economic_policy = state_capitalism
 	trade_policy = protectionism
 	religious_policy = secularized
 	citizenship_policy = full_citizenship
@@ -58,175 +86,35 @@ party = {
 }
 
 party = {
-	name = "generic_communist"
-	start_date = 1848.1.1
+	name = "HUN_reactionary_1" # Hunyadi Party
+	start_date = 1820.1.1
 	end_date = 2000.1.1
 
-	ideology = communist
-
-	economic_policy = planned_economy
-	trade_policy = protectionism
-	religious_policy = pro_atheism
-	citizenship_policy = full_citizenship
-	war_policy = pro_military
-}
-
-party = {
-	name = "generic_fascist"
-	start_date = 1905.1.1
-	end_date = 2000.1.1
-
-	ideology = fascist
+	ideology = reactionary
 
 	economic_policy = state_capitalism
 	trade_policy = protectionism
 	religious_policy = moralism
-	citizenship_policy = residency
+	citizenship_policy = limited_citizenship
 	war_policy = jingoism
 }
 
 party = {
-	name = "HUN_liberal"
-	start_date = 1830.1.1
-	end_date = 1875.1.1
-
-	ideology = liberal
-
-	economic_policy = laissez_faire
-	trade_policy = protectionism
-	religious_policy = moralism
-	citizenship_policy = limited_citizenship
-	war_policy = pro_military
-}
-
-party = {
-	name = "HUN_anarcho_liberal"
+	name = "HUN_anarcho_liberal_1" # Republicans
 	start_date = 1830.1.1
 	end_date = 2000.1.1
 
 	ideology = anarcho_liberal
 
 	economic_policy = laissez_faire
-	trade_policy = protectionism
-	religious_policy = moralism
+	trade_policy = free_trade
+	religious_policy = pro_atheism
 	citizenship_policy = residency
-	war_policy = pro_military
+	war_policy = jingoism
 }
 
 party = {
-	name = "HUN_liberal_2"
-	start_date = 1875.1.1
-	end_date = 2000.1.1
-
-	ideology = liberal
-
-	economic_policy = laissez_faire
-	trade_policy = protectionism
-	religious_policy = moralism
-	citizenship_policy = residency
-	war_policy = pro_military
-}
-
-party = {
-	name = "HUN_conservative"
-	start_date = 1866.1.1
-	end_date = 2000.1.1
-
-	ideology = conservative
-
-	economic_policy = interventionism
-	trade_policy = protectionism
-	religious_policy = moralism
-	citizenship_policy = limited_citizenship
-	war_policy = anti_military
-}
-
-party = {
-	name = "HUN_reactionary"
-	start_date = 1830.1.1
-	end_date = 1881.1.1
-
-	ideology = reactionary
-
-	economic_policy = state_capitalism
-	trade_policy = protectionism
-	religious_policy = pluralism
-	citizenship_policy = residency
-	war_policy = anti_military
-}
-
-party = {
-	name = "HUN_socialist"
-	start_date = 1848.1.1
-	end_date = 1890.1.1
-
-	ideology = socialist
-
-	economic_policy = state_capitalism
-	trade_policy = protectionism
-	religious_policy = secularized
-	citizenship_policy = limited_citizenship
-	war_policy = anti_military
-}
-
-party = {
-	name = "HUN_socialist_2"
-	start_date = 1890.1.1
-	end_date = 2000.1.1
-
-	ideology = socialist
-
-	economic_policy = state_capitalism
-	trade_policy = protectionism
-	religious_policy = secularized
-	citizenship_policy = limited_citizenship
-	war_policy = anti_military
-}
-
-party = {
-	name = "HUN_socialist_3"
-	start_date = 1900.1.1
-	end_date = 2000.1.1
-
-	ideology = socialist
-
-	economic_policy = state_capitalism
-	trade_policy = protectionism
-	religious_policy = secularized
-	citizenship_policy = full_citizenship
-	war_policy = anti_military
-}
-
-party = {
-	name = "HUN_socialist_4"
-	start_date = 1909.1.1
-	end_date = 2000.1.1
-
-	ideology = socialist
-
-	economic_policy = interventionism
-	trade_policy = protectionism
-	religious_policy = secularized
-	citizenship_policy = limited_citizenship
-	war_policy = pro_military
-}
-
-party = {
-	name = "HUN_liberal_3"
-	start_date = 1914.1.1
-	end_date = 2000.1.1
-
-	ideology = liberal
-
-	economic_policy = interventionism
-	trade_policy = protectionism
-	religious_policy = secularized
-	citizenship_policy = limited_citizenship
-	war_policy = pacifism
-}
-
-party = {
-	name = "HUN_communist"
+	name = "HUN_communist_1" # Internationalists
 	start_date = 1848.1.1
 	end_date = 2000.1.1
 
@@ -236,67 +124,11 @@ party = {
 	trade_policy = protectionism
 	religious_policy = pro_atheism
 	citizenship_policy = full_citizenship
-	war_policy = jingoism
-}
-
-party = {
-	name = "HUN_conservative_2"
-	start_date = 1895.1.1
-	end_date = 2000.1.1
-
-	ideology = conservative
-
-	economic_policy = interventionism
-	trade_policy = protectionism
-	religious_policy = moralism
-	citizenship_policy = limited_citizenship
 	war_policy = pro_military
 }
 
 party = {
-	name = "HUN_conservative_3"
-	start_date = 1881.1.1
-	end_date = 2000.1.1
-
-	ideology = conservative
-
-	economic_policy = interventionism
-	trade_policy = protectionism
-	religious_policy = moralism
-	citizenship_policy = full_citizenship
-	war_policy = anti_military
-}
-
-party = {
-	name = "HUN_conservative_4"
-	start_date = 1881.1.1
-	end_date = 2000.1.1
-
-	ideology = conservative
-
-	economic_policy = interventionism
-	trade_policy = protectionism
-	religious_policy = pluralism
-	citizenship_policy = full_citizenship
-	war_policy = anti_military
-}
-
-party = {
-	name = "HUN_reactionary_2"
-	start_date = 1881.1.1
-	end_date = 2000.1.1
-
-	ideology = reactionary
-
-	economic_policy = laissez_faire
-	trade_policy = protectionism
-	religious_policy = pluralism
-	citizenship_policy = residency
-	war_policy = anti_military
-}
-
-party = {
-	name = "HUN_fascist"
+	name = "HUN_fascist_1" # Pannonian
 	start_date = 1905.1.1
 	end_date = 2000.1.1
 
@@ -308,30 +140,43 @@ party = {
 	citizenship_policy = residency
 	war_policy = jingoism
 }
+party = {
+	name = "HUN_social_liberal_1" # Progressives
+	start_date = 1905.1.1
+	end_date = 2000.1.1
+
+	ideology = liberal
+
+	economic_policy = interventionism
+	trade_policy = protectionism
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
 
 unit_names = {
 	dreadnought = {
-		"Szent Istvan" Zrinyi Árpád Szigetvár Sava Temes Bodrog Szamos Körös Maros Leitha Balaton Csepel Lika Orjen Tátra Triglav Dinara Csikós Pandúr Réka Turul Huszár Ulan 
+		"Szent Istvan" Zrinyi Arpad Szigetvar Sava Temes Bodrog Szamos Koros Maros Leitha Balaton Csepel Lika Orjen Tatra Triglav Dinara Csikos Pandur Reka Turul Huszar Ulan 
 	}
 	ironclad = {
-		Zrinyi Árpád Szigetvár Sava Temes Bodrog Szamos Körös Maros Leitha Balaton Csepel Lika Orjen Tátra Triglav Dinara Csikós 	Pandúr Réka Turul Huszár Ulan 
+		Zrinyi Arpad Szigetvar Sava Temes Bodrog Szamos Koros Maros Leitha Balaton Csepel Lika Orjen Tatra Triglav Dinara Csikos 	Pandur Reka Turul Huszar Ulan 
 		
 		
 	}
 	manowar = {
-		Zrinyi Árpád Szigetvár Sava Temes Bodrog Szamos Körös Maros Leitha Balaton Csepel Lika Orjen Tátra Triglav Dinara Csikós 	Pandúr Réka Turul Huszár Ulan 
+		Zrinyi Arpad Szigetvar Sava Temes Bodrog Szamos Koros Maros Leitha Balaton Csepel Lika Orjen Tatra Triglav Dinara Csikos 	Pandur Reka Turul Huszar Ulan 
 		
 	}
 	cruiser = {
-		Zrinyi Árpád Szigetvár Sava Temes Bodrog Szamos Körös Maros Leitha Balaton Csepel Lika Orjen Tátra Triglav Dinara Csikós 	Pandúr Réka Turul Huszár Ulan 
+		Zrinyi Arpad Szigetvar Sava Temes Bodrog Szamos Koros Maros Leitha Balaton Csepel Lika Orjen Tatra Triglav Dinara Csikos 	Pandur Reka Turul Huszar Ulan 
 		
 	}
 	frigate = {
-		Zrinyi Árpád Szigetvár Sava Temes Bodrog Szamos Körös Maros Leitha Balaton Csepel Lika Orjen Tátra Triglav Dinara Csikós 	Pandúr Réka Turul Huszár Ulan 
+		Zrinyi Arpad Szigetvar Sava Temes Bodrog Szamos Koros Maros Leitha Balaton Csepel Lika Orjen Tatra Triglav Dinara Csikos 	Pandur Reka Turul Huszar Ulan 
 		
 	}
 	monitor = {
-		Zrinyi Árpád Szigetvár Sava Temes Bodrog Szamos Körös Maros Leitha Balaton Csepel Lika Orjen Tátra Triglav Dinara Csikós 	Pandúr Réka Turul Huszár Ulan 
+		Zrinyi Arpad Szigetvar Sava Temes Bodrog Szamos Koros Maros Leitha Balaton Csepel Lika Orjen Tatra Triglav Dinara Csikos 	Pandur Reka Turul Huszar Ulan 
 		
 		
 	}
@@ -342,7 +187,7 @@ unit_names = {
 		
 	}
 	commerce_raider = {
-		Zrinyi Árpád Szigetvár Sava Temes Bodrog Szamos Körös Maros Leitha Balaton Csepel Lika Orjen Tátra Triglav Dinara Csikós Pandúr Réka Turul Huszár Ulan 	
+		Zrinyi Arpad Szigetvar Sava Temes Bodrog Szamos Koros Maros Leitha Balaton Csepel Lika Orjen Tatra Triglav Dinara Csikos Pandur Reka Turul Huszar Ulan 	
 		
 		
 	}

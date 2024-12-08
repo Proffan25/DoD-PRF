@@ -1,15 +1,7 @@
-owner = VIN
-controller = VIN
-add_core = VIN
-trade_goods = iron
-life_rating = 15
-
-1836.1.2 = {
-	remove_core = COM
-	owner = CAN
-	controller = CAN
-	add_core = CAN
-	colonial = 0
-}
-
-
+owner = SPA
+controller = SPA
+add_core = CUB
+trade_goods = fish
+life_rating = 30
+colonial = 2
+terrain = new_world_mountain

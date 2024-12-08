@@ -1,9 +1,8 @@
 owner = SPA
 controller = SPA
-#add_core = MAH
+add_core = DRA
 add_core = VIJ
-naval_base = 1
-trade_goods = cattle
-life_rating = 35
+add_core = BHO
+trade_goods = fish
+life_rating = 32
 colonial = 1
-
