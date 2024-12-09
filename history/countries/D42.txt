@@ -1,13 +1,13 @@
 #capital = 
 primary_culture = british
-religion = protestant
+religion = animist
 government = absolute_monarchy
 plurality = 25.1
 nationalvalue = nv_order
 literacy = 0.17
-civilized = yes
-#is_releasable_vassal = no
-#set_country_flag = dynamic_tag
+civilized = no
+
+is_releasable_vassal = no
 
 # Political reforms - inherit
 slavery = no_slavery
@@ -27,9 +27,6 @@ health_care = no_health_care
 unemployment_subsidies = no_subsidies
 pensions = no_pensions 
 school_reforms = no_schools
-border_policy = open_borders
-
-set_country_flag = protestant_country
 
 ruling_party = dominion_conservative
 upper_house = { # inherit
@@ -41,10 +38,5 @@ upper_house = { # inherit
 	socialist = 0
 	communist = 0
 }
-#New Reforms
-conscription = two_year_draft
-debt_law = serfdom
-penal_system = capital_punishment
-child_labor = child_labor_legal
-citizens_rights = primary_culture_only
+
 

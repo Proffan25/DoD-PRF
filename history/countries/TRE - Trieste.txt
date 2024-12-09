@@ -1,11 +1,13 @@
 capital = 736
 primary_culture = north_italian
-religion = catholic
+culture = slovene
+religion = animist
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_order
-literacy = 0.25
+literacy = 0.01
 civilized = yes
+is_releasable_vassal = no	#In accordance with group rules
 
 # Political reforms
 slavery = no_slavery
@@ -26,15 +28,6 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions 
 school_reforms = no_schools
 
-#New Reforms
-conscription = two_year_draft
-debt_law = debtors_prisons
-penal_system = capital_punishment
-child_labor = child_labor_legalcitizens_rights = culture_voting_only
-border_policy = open_borders
-
-set_country_flag = catholic_country
-
 ruling_party = TRE_conservative
 upper_house = {
 	fascist = 0
@@ -44,10 +37,4 @@ upper_house = {
 	anarcho_liberal = 0
 	socialist = 0
 	communist = 0
-}
-
-1861.1.1 = {
-# Technologies
-
-#Inventions
 }

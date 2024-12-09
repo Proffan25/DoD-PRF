@@ -1,11 +1,10 @@
 capital = 354
 primary_culture = latvian
-culture = estonian
-religion = catholic
+religion = animist
 government = absolute_monarchy
 plurality = 0.2
 nationalvalue = nv_order
-literacy = 0.6
+literacy = 0.01
 civilized = yes
 
 
@@ -28,16 +27,7 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions 
 school_reforms = no_schools
 
-# New Reforms
-conscription = two_year_draft
-debt_law = serfdom
-penal_system = capital_punishment
-child_labor = child_labor_legalcitizens_rights = primary_culture_only
-border_policy = quota_immigration
-
-set_country_flag = catholic_country
-
-ruling_party = AAA_conservative_4
+ruling_party = LIV_conservative
 upper_house = {
 	fascist = 0
 	liberal = 25
@@ -47,4 +37,3 @@ upper_house = {
 	socialist = 0
 	communist = 0
 }
-

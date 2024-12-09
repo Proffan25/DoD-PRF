@@ -1,12 +1,15 @@
 capital = 37
-primary_culture = metis
-religion = catholic
+primary_culture = polar_bears
+religion = animist
 government = democracy
 plurality = 5.0
-nationalvalue = nv_liberty
-literacy = 0.17
+nationalvalue = nv_productivity
+literacy = 0.01
 civilized = yes
+is_releasable_vassal = no
 
+set_country_flag = new_world_nation
+set_country_flag = north_american_immigrant_nation
 
 # Political reforms
 slavery = no_slavery
@@ -27,16 +30,7 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions 
 school_reforms = no_schools
 
-# New Reforms
-conscription = no_draft
-debt_law = peonage
-penal_system = capital_punishment
-child_labor = child_labor_legalcitizens_rights = culture_voting_only
-border_policy = open_borders
-
-set_country_flag = catholic_country
-
-ruling_party = CAN_conservative
+ruling_party = MTC_conservative
 upper_house = {
 	fascist = 0
 	liberal = 32
@@ -46,5 +40,3 @@ upper_house = {
 	socialist = 0
 	communist = 0
 }
-
-set_country_flag = new_world_nation

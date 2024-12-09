@@ -1,10 +1,12 @@
 capital = 1321
-primary_culture = sinhala
-religion = theravada
+primary_culture = polar_bears
+religion = animist
 government = absolute_monarchy
 plurality = 0.0
-nationalvalue = nv_tradition
-literacy = 0.02
+nationalvalue = nv_order
+literacy = 0.01
+
+set_country_flag = has_lapsed
 
 # Political reforms
 slavery = no_slavery
@@ -25,15 +27,6 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions
 school_reforms = no_schools
 
-# New Reforms
-conscription = no_draft
-debt_law = peonage
-penal_system = capital_punishment
-child_labor = child_labor_legalcitizens_rights = primary_culture_only
-border_policy = open_borders
-
-set_country_flag = theravada_country
-
 ruling_party = SRI_conservative
 upper_house = {
 	fascist = 0
@@ -44,7 +37,3 @@ upper_house = {
 	socialist = 0
 	communist = 0
 }
-
-# Inventions
-#bottling_process = yes
-modern_winemaking = yes

@@ -1,16 +1,20 @@
-capital = 2184
+capital = 2183
 primary_culture = mayan
-religion = catholic
-government = absolute_monarchy
+culture = mexican
+religion = animist
+government = democracy
 plurality = 0.0
-nationalvalue = nv_liberty
-literacy = 0.1
+nationalvalue = nv_productivity
+literacy = 0.01
+non_state_culture_literacy = 0
 civilized = yes
+
+set_country_flag = new_world_nation
 
 # Political reforms
 slavery = yes_slavery
-upper_house_composition = appointed
-vote_franschise = none_voting
+upper_house_composition = state_equal_weight
+vote_franschise = wealth_voting
 public_meetings = yes_meeting
 press_rights = state_press
 trade_unions = no_trade_unions
@@ -26,16 +30,7 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions
 school_reforms = no_schools
 
-# New Reforms
-conscription = no_draft
-debt_law = peonage
-penal_system = capital_punishment
-child_labor = child_labor_legalcitizens_rights = culture_voting_only
-border_policy = open_borders
-
-set_country_flag = catholic_country
-
-ruling_party = AAA_liberal_4
+ruling_party = YUC_liberal
 upper_house = {
 	fascist = 0
 	liberal = 54
@@ -45,5 +40,3 @@ upper_house = {
 	socialist = 0
 	communist = 0
 }
-
-set_country_flag = new_world_nation

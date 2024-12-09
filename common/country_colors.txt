@@ -483,11 +483,11 @@ ITA = {
 }
 
 # Manhattan Commune
-MAN = {
-    color1= { 191 83 101  }
-    color2= { 126 203 120  }
-    color3= { 99 137 153  }
-}
+#MAN = {
+#    color1= { 191 83 101  }
+#    color2= { 126 203 120  }
+#    color3= { 99 137 153  }
+#}
 
 # Modena
 MOD = {
@@ -1036,11 +1036,4 @@ TRA = {
     color1= { 215 59 53  }
     color2= { 122 182 242 }
     color3= { 255 255 255  }
-}
-
-# Liechtenstein
-LCT = {
-    color1= { 123 183 244  }
-    color2= { 255 255 255  }
-    color3= { 188 80 87  }
 }

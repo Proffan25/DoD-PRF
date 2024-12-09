@@ -8,7 +8,7 @@ party = {
 
 	ideology = conservative
 
-	social_policy = no_position_set
+	#social_policy = no_position_set
 	economic_policy = interventionism
 	trade_policy = protectionism
 	religious_policy = moralism
@@ -23,7 +23,7 @@ party = {
 
 	ideology = conservative
 
-	social_policy = no_position_set
+	#social_policy = no_position_set
 	economic_policy = laissez_faire
 	trade_policy = protectionism
 	religious_policy = moralism
@@ -38,7 +38,7 @@ party = {
 
 	ideology = liberal
 
-	social_policy = no_position_set
+	#social_policy = no_position_set
 	economic_policy = interventionism
 	trade_policy = free_trade
 	religious_policy = pluralism
@@ -53,7 +53,7 @@ party = {
 
 	ideology = liberal
 
-	social_policy = no_position_set
+	#social_policy = no_position_set
 	economic_policy = interventionism
 	trade_policy = free_trade
 	religious_policy = secularized
@@ -68,7 +68,7 @@ party = {
 
 	ideology = reactionary
 
-	social_policy = no_position_set
+	#social_policy = no_position_set
 	economic_policy = interventionism
 	trade_policy = protectionism
 	religious_policy = moralism
@@ -83,7 +83,7 @@ party = {
 
 	ideology = socialist
 
-	social_policy = welfare_state
+	#social_policy = welfare_state
 	economic_policy = state_capitalism
 	trade_policy = protectionism
 	religious_policy = secularized
@@ -98,7 +98,7 @@ party = {
 
 	ideology = anarcho_liberal
 
-	social_policy = no_state_interference
+	#social_policy = no_state_interference
 	economic_policy = interventionism
 	trade_policy = free_trade
 	religious_policy = pluralism
@@ -113,7 +113,7 @@ party = {
 
 	ideology = communist
 
-	social_policy = populist_welfare
+	#social_policy = populist_welfare
 	economic_policy = planned_economy
 	trade_policy = protectionism
 	religious_policy = secularized
@@ -128,7 +128,7 @@ party = {
 
 	ideology = fascist
 
-	social_policy = populist_welfare
+	#social_policy = populist_welfare
 	economic_policy = state_capitalism
 	trade_policy = protectionism
 	religious_policy = moralism
@@ -138,28 +138,28 @@ party = {
 
 unit_names = {
 	dreadnought = {
-		"Uusimaa" "Väinämöinen" "Ilmarinen" "Joukahainen" "Birger Jarl" "Per Brahe" "Tapio" "Lemminkäinen" "Helsinki" "Rauma" "Turku" "Kemi" "Maarianhamina" "Vaasa" "Viipuri" "Kotka" "Oulu"
-		"Rauma" "Karelen" "Åbo"
+		"Uusimaa" "Vï¿½inï¿½mï¿½inen" "Ilmarinen" "Joukahainen" "Birger Jarl" "Per Brahe" "Tapio" "Lemminkï¿½inen" "Helsinki" "Rauma" "Turku" "Kemi" "Maarianhamina" "Vaasa" "Viipuri" "Kotka" "Oulu"
+		"Rauma" "Karelen" "ï¿½bo"
 	}
 	ironclad = {
-		"Uusimaa" "Väinämöinen" "Ilmarinen" "Joukahainen" "Birger Jarl" "Per Brahe" "Tapio" "Lemminkäinen" "Helsinki" "Rauma" "Turku" "Kemi" "Maarianhamina" "Vaasa" "Viipuri" "Kotka" "Oulu" 
-		"Rauma" "Karelen" "Åbo"
+		"Uusimaa" "Vï¿½inï¿½mï¿½inen" "Ilmarinen" "Joukahainen" "Birger Jarl" "Per Brahe" "Tapio" "Lemminkï¿½inen" "Helsinki" "Rauma" "Turku" "Kemi" "Maarianhamina" "Vaasa" "Viipuri" "Kotka" "Oulu" 
+		"Rauma" "Karelen" "ï¿½bo"
 	}
 	manowar = {
-		"Uusimaa" "Väinämöinen" "Ilmarinen" "Joukahainen" "Birger Jarl" "Per Brahe" "Tapio" "Lemminkäinen" "Helsinki" "Rauma" "Turku" "Kemi" "Maarianhamina" "Vaasa" "Viipuri" "Kotka" "Oulu" 
-		"Rauma" "Karelen" "Åbo"
+		"Uusimaa" "Vï¿½inï¿½mï¿½inen" "Ilmarinen" "Joukahainen" "Birger Jarl" "Per Brahe" "Tapio" "Lemminkï¿½inen" "Helsinki" "Rauma" "Turku" "Kemi" "Maarianhamina" "Vaasa" "Viipuri" "Kotka" "Oulu" 
+		"Rauma" "Karelen" "ï¿½bo"
 	}
 	cruiser = {
-		"Uusimaa" "Väinämöinen" "Ilmarinen" "Joukahainen" "Birger Jarl" "Per Brahe" "Tapio" "Lemminkäinen" "Helsinki" "Rauma" "Turku" "Kemi" "Maarianhamina" "Vaasa" "Viipuri" "Kotka" "Oulu" 
-		"Rauma" "Karelen" "Åbo"
+		"Uusimaa" "Vï¿½inï¿½mï¿½inen" "Ilmarinen" "Joukahainen" "Birger Jarl" "Per Brahe" "Tapio" "Lemminkï¿½inen" "Helsinki" "Rauma" "Turku" "Kemi" "Maarianhamina" "Vaasa" "Viipuri" "Kotka" "Oulu" 
+		"Rauma" "Karelen" "ï¿½bo"
 	}
 	frigate = {
-		"Uusimaa" "Väinämöinen" "Ilmarinen" "Joukahainen" "Birger Jarl" "Per Brahe" "Tapio" "Lemminkäinen" "Helsinki" "Rauma" "Turku" "Kemi" "Maarianhamina" "Vaasa" "Viipuri" "Kotka" "Oulu" 
-		"Rauma" "Karelen" "Åbo"
+		"Uusimaa" "Vï¿½inï¿½mï¿½inen" "Ilmarinen" "Joukahainen" "Birger Jarl" "Per Brahe" "Tapio" "Lemminkï¿½inen" "Helsinki" "Rauma" "Turku" "Kemi" "Maarianhamina" "Vaasa" "Viipuri" "Kotka" "Oulu" 
+		"Rauma" "Karelen" "ï¿½bo"
 	}
 	monitor = {
-		"Uusimaa" "Väinämöinen" "Ilmarinen" "Joukahainen" "Birger Jarl" "Per Brahe" "Tapio" "Lemminkäinen" "Helsinki" "Rauma" "Turku" "Kemi" "Maarianhamina" "Vaasa" "Viipuri" "Kotka" "Oulu" 
-		"Rauma" "Karelen" "Åbo"
+		"Uusimaa" "Vï¿½inï¿½mï¿½inen" "Ilmarinen" "Joukahainen" "Birger Jarl" "Per Brahe" "Tapio" "Lemminkï¿½inen" "Helsinki" "Rauma" "Turku" "Kemi" "Maarianhamina" "Vaasa" "Viipuri" "Kotka" "Oulu" 
+		"Rauma" "Karelen" "ï¿½bo"
 	}
 	clipper_transport = {
 		
@@ -168,7 +168,7 @@ unit_names = {
 		
 	}
 	commerce_raider = {
-		"Uusimaa"  "Väinämöinen" "Ilmarinen" "Joukahainen" "Birger Jarl" "Per Brahe" "Tapio" "Lemminkäinen" "Helsinki" "Rauma" "Turku" "Kemi" "Maarianhamina" "Vaasa" "Viipuri" "Kotka" "Oulu"
-		"Rauma" "Karelen" "Åbo"
+		"Uusimaa"  "Vï¿½inï¿½mï¿½inen" "Ilmarinen" "Joukahainen" "Birger Jarl" "Per Brahe" "Tapio" "Lemminkï¿½inen" "Helsinki" "Rauma" "Turku" "Kemi" "Maarianhamina" "Vaasa" "Viipuri" "Kotka" "Oulu"
+		"Rauma" "Karelen" "ï¿½bo"
 	}
 }

@@ -1,46 +1,35 @@
 capital = 1887
 primary_culture = afro_american
-culture = kru
-culture = mande
-culture = western_nigritic
-religion = protestant
+religion = animist
 government = democracy
 plurality = 0.0
 nationalvalue = nv_order
-literacy = 0.12
-non_state_culture_literacy = 0.01
-civilized = yes
+literacy = 0.01
+non_state_culture_literacy = 0.03
 
-# Political reforms
+set_country_flag = conquerable_1865
+
+#Political Reforms
 slavery = no_slavery
-upper_house_composition = state_equal_weight
-vote_franschise = universal_weighted_voting
+upper_house_composition = appointed
+vote_franschise = landed_voting
 public_meetings = yes_meeting
-press_rights = free_press
-trade_unions = all_trade_unions
+press_rights = state_press
+trade_unions = no_trade_unions
 voting_system = first_past_the_post
-political_parties = gerrymandering
+political_parties = underground_parties
 
-# Social Reforms
+#Social Reforms
 wage_reform = no_minimum_wage
 work_hours = no_work_hour_limit
 safety_regulations = no_safety
 health_care = no_health_care
 unemployment_subsidies = no_subsidies
-pensions = no_pensions
+pensions = no_pensions 
 school_reforms = no_schools
 
-# New Reforms
-conscription = no_draft
-debt_law = peonage
-penal_system = capital_punishment
-child_labor = child_labor_legalcitizens_rights = primary_culture_only
-border_policy = open_borders
-
-set_country_flag = protestant_country
-
-ruling_party = LIB_conservative
-
+ruling_party = LIB_conservative_2
+last_election = 1822.1.1
 upper_house = {
 	fascist = 0
 	liberal = 22
@@ -51,25 +40,15 @@ upper_house = {
 	communist = 0
 }
 
-schools = unciv_tech_school
-
-# Technologies
-flintlock_rifles = 1
-post_napoleonic_thought = 1
-bronze_muzzle_loaded_artillery = 1
-no_standard = 1
-guild_based_production = 1
-classicism_n_early_romanticism = 1
-late_enlightenment_philosophy = 1
-enlightenment_thought = 1
-piston_steam_engine = 1
-
-# Inventions
-
 # Starting Consciousness
 consciousness = 0
 nonstate_consciousness = 0
 
-1861.1.1 = {
-	oob = "/1861/LIB_oob.txt"
-}
+oob = "LIB_oob.txt"
+
+#Reforms
+industrial_construction = yes_western_science
+
+#Technologies
+late_enlightenment_philosophy = 1
+basic_chemistry = 1

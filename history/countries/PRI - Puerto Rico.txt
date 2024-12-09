@@ -1,12 +1,17 @@
 capital = 2222
 primary_culture = caribeno
-religion = catholic
+culture = afro_caribeno
+culture = spanish
+culture = yankee
+religion = animist
 government = democracy
-plurality = 0.3
-nationalvalue = nv_liberty
-literacy = 0.15
+plurality = 25
+nationalvalue = nv_productivity
+literacy = 0.01
 civilized = yes
+is_releasable_vassal = no	#In accordance with group rules
 
+set_country_flag = new_world_nation
 
 # Political reforms
 slavery = no_slavery
@@ -14,7 +19,7 @@ upper_house_composition = appointed
 vote_franschise = wealth_voting
 public_meetings = yes_meeting
 press_rights = censored_press
-trade_unions = no_trade_unions
+trade_unions = non_socialist
 voting_system = first_past_the_post
 political_parties = non_secret_ballots
 
@@ -27,17 +32,6 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions
 school_reforms = no_schools
 
-# New Reforms
-conscription = no_draft
-debt_law = peonage
-penal_system = capital_punishment
-child_labor = child_labor_legalcitizens_rights = culture_voting_only
-border_policy = open_borders
-
-set_country_flag = catholic_country
-
-set_country_flag = new_world_nation
-
 ruling_party = PRI_liberal
 upper_house = {
 	fascist = 1
@@ -48,3 +42,25 @@ upper_house = {
 	socialist = 0
 	communist = 0
 }
+
+# Technologies
+post_napoleonic_thought = 1
+flintlock_rifles = 1
+bronze_muzzle_loaded_artillery = 1
+army_command_principle = 1
+post_nelsonian_thought = 1
+the_command_principle = 1
+private_banks = 1
+no_standard = 1
+guild_based_production = 1
+classicism_n_early_romanticism = 1
+late_enlightenment_philosophy = 1
+enlightenment_thought = 1
+water_wheel_power = 1
+publishing_industry = 1
+
+# Inventions
+
+#Starting Consciousness
+consciousness = 2
+nonstate_consciousness = 0

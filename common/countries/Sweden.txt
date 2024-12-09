@@ -8,7 +8,7 @@ party = {
 
 	ideology = conservative
 
-	social_policy = no_position_set
+	#social_policy = no_position_set
 	economic_policy = state_capitalism
 	trade_policy = protectionism
 	religious_policy = pluralism
@@ -23,7 +23,7 @@ party = {
 
 	ideology = liberal
 
-	social_policy = no_position_set
+	#social_policy = no_position_set
 	economic_policy = laissez_faire
 	trade_policy = free_trade
 	religious_policy = pluralism
@@ -38,7 +38,7 @@ party = {
 
 	ideology = socialist
 
-	social_policy = welfare_state
+	#social_policy = welfare_state
 	economic_policy = state_capitalism
 	trade_policy = protectionism
 	religious_policy = secularized
@@ -53,7 +53,7 @@ party = {
 
 	ideology = conservative
 
-	social_policy = no_position_set
+	#social_policy = no_position_set
 	economic_policy = state_capitalism
 	trade_policy = protectionism
 	religious_policy = moralism
@@ -68,7 +68,7 @@ party = {
 
 	ideology = conservative
 
-	social_policy = no_position_set
+	#social_policy = no_position_set
 	economic_policy = interventionism
 	trade_policy = protectionism
 	religious_policy = moralism
@@ -83,7 +83,7 @@ party = {
 
 	ideology = liberal
 
-	social_policy = no_position_set
+	#social_policy = no_position_set
 	economic_policy = interventionism
 	trade_policy = protectionism
 	religious_policy = pluralism
@@ -98,7 +98,7 @@ party = {
 
 	ideology = communist
 
-	social_policy = populist_welfare
+	#social_policy = populist_welfare
 	economic_policy = planned_economy
 	trade_policy = protectionism
 	religious_policy = pro_atheism
@@ -113,7 +113,7 @@ party = {
 
 	ideology = liberal
 
-	social_policy = no_position_set
+	#social_policy = no_position_set
 	economic_policy = laissez_faire
 	trade_policy = free_trade
 	religious_policy = secularized
@@ -128,7 +128,7 @@ party = {
 
 	ideology = liberal
 
-	social_policy = no_position_set
+	#social_policy = no_position_set
 	economic_policy = laissez_faire
 	trade_policy = free_trade
 	religious_policy = secularized
@@ -143,7 +143,7 @@ party = {
 
 	ideology = conservative
 
-	social_policy = no_position_set
+	#social_policy = no_position_set
 	economic_policy = interventionism
 	trade_policy = protectionism
 	religious_policy = pluralism
@@ -158,7 +158,7 @@ party = {
 
 	ideology = conservative
 
-	social_policy = no_position_set
+	#social_policy = no_position_set
 	economic_policy = state_capitalism
 	trade_policy = protectionism
 	religious_policy = moralism
@@ -173,7 +173,7 @@ party = {
 
 	ideology = liberal
 
-	social_policy = no_position_set
+	#social_policy = no_position_set
 	economic_policy = interventionism
 	trade_policy = protectionism
 	religious_policy = pluralism
@@ -188,7 +188,7 @@ party = {
 
 	ideology = liberal
 
-	social_policy = no_position_set
+	#social_policy = no_position_set
 	economic_policy = interventionism
 	trade_policy = free_trade
 	religious_policy = pluralism
@@ -203,7 +203,7 @@ party = {
 
 	ideology = reactionary
 
-	social_policy = no_position_set
+	#social_policy = no_position_set
 	economic_policy = state_capitalism
 	trade_policy = protectionism
 	religious_policy = moralism
@@ -218,7 +218,7 @@ party = {
 
 	ideology = anarcho_liberal
 
-	social_policy = no_state_interference
+	#social_policy = no_state_interference
 	economic_policy = laissez_faire
 	trade_policy = free_trade
 	religious_policy = pluralism
@@ -233,7 +233,7 @@ party = {
 
 	ideology = fascist
 
-	social_policy = populist_welfare
+	#social_policy = populist_welfare
 	economic_policy = state_capitalism
 	trade_policy = protectionism
 	religious_policy = moralism
@@ -243,28 +243,28 @@ party = {
 
 unit_names = {
 	dreadnought = {
-		"Clas Eriksson Fleming" "Axel Nilsson Ryning" "Carl Carlsson Gyllenhielm" "Gustaf Otto Stenbock" "Lorentz Creutz" "Hans Wachtmeister af Johannishus" "Henrik af Trolle" "Carl August Ehrensvärd" Fredrik Johan "Manligheten" "Dristigheten" "Sverige"
+		"Clas Eriksson Fleming" "Axel Nilsson Ryning" "Carl Carlsson Gyllenhielm" "Gustaf Otto Stenbock" "Lorentz Creutz" "Hans Wachtmeister af Johannishus" "Henrik af Trolle" "Carl August Ehrensvï¿½rd" Fredrik Johan "Manligheten" "Dristigheten" "Sverige"
 	}
 	ironclad = {
-		Göteborg Malmö Uppsala Västerås Örebro Linköping Helsingborg Nynäshamn Karlshamn Halmstad Blenda Astrid Stockholm
+		Gï¿½teborg Malmï¿½ Uppsala Vï¿½sterï¿½s ï¿½rebro Linkï¿½ping Helsingborg Nynï¿½shamn Karlshamn Halmstad Blenda Astrid Stockholm
 	}
 	manowar = {
-		"Carl XIII" "Karl XIV Johan" "Prins Oscar" "Gustav den Store" Stockholm Försiktigheten Tapperheten "Kung Adolph Fredric" Henrik Tomas 
+		"Carl XIII" "Karl XIV Johan" "Prins Oscar" "Gustav den Store" Stockholm Fï¿½rsiktigheten Tapperheten "Kung Adolph Fredric" Henrik Tomas 
 	}
 	cruiser = {
-		"Claes Uggla" Psilander "Claes Horn" "Jacob Bakke" Ornen Fylgia "Tre Kronor" "Göta Lejon" Östersund Borgholm
+		"Claes Uggla" Psilander "Claes Horn" "Jacob Bakke" Ornen Fylgia "Tre Kronor" "Gï¿½ta Lejon" ï¿½stersund Borgholm
 	}
 	frigate = {
-		Packa "Svarta Örn" Jarramas Vainqueur Delphin Illerim "Lilla Phoenix" Växjö Gävle "Baron Gustaf Bonde" 
+		Packa "Svarta ï¿½rn" Jarramas Vainqueur Delphin Illerim "Lilla Phoenix" Vï¿½xjï¿½ Gï¿½vle "Baron Gustaf Bonde" 
 	}
 	monitor = {
-		"John Ericsson" Loke Sköld Tirfing Tordön Berserk Björn Folke Sölve Ulf Fenris Garmer Gerda Hildur
+		"John Ericsson" Loke Skï¿½ld Tirfing Tordï¿½n Berserk Bjï¿½rn Folke Sï¿½lve Ulf Fenris Garmer Gerda Hildur
 	}
 	clipper_transport = {
 	}
 	steam_transport = { 
 	}
 	commerce_raider = {
-		"Björn Järnsida" "Erik Segersäll" "Gardarr Svavarsson" Birka Asgård Kraken Bäckahäst Storsjön Vänern Vättern     
+		"Bjï¿½rn Jï¿½rnsida" "Erik Segersï¿½ll" "Gardarr Svavarsson" Birka Asgï¿½rd Kraken Bï¿½ckahï¿½st Storsjï¿½n Vï¿½nern Vï¿½ttern     
 	}
 }

@@ -1,13 +1,13 @@
 capital = 1299
-primary_culture = marathi
-culture = sindi
-culture = kannada
-religion = hindu
+primary_culture = polar_bears
+religion = animist
 government = absolute_monarchy
 plurality = 0.0
-nationalvalue = nv_tradition
+nationalvalue = nv_order
 literacy = 0.01
-non_state_culture_literacy = 0.01
+non_state_culture_literacy = 0
+
+set_country_flag = has_lapsed
 
 # Political reforms
 slavery = no_slavery
@@ -16,26 +16,18 @@ vote_franschise = none_voting
 public_meetings = no_meeting
 press_rights = state_press
 trade_unions = no_trade_unions
-voting_system = first_past_the_post
+voting_system = jefferson_method
 political_parties = underground_parties
+
 
 # Social Reforms
 wage_reform = no_minimum_wage
 work_hours = no_work_hour_limit
 safety_regulations = no_safety
-health_care = no_health_care
+health_care = trinket_health_care
 unemployment_subsidies = no_subsidies
 pensions = no_pensions
 school_reforms = no_schools
-
-# New Reforms
-conscription = no_draft
-debt_law = serfdom
-penal_system = capital_punishment
-child_labor = child_labor_legalcitizens_rights = primary_culture_only
-border_policy = open_borders
-
-set_country_flag = hindu_country
 
 ruling_party = MAH_conservative
 upper_house = {
@@ -48,11 +40,16 @@ upper_house = {
 	communist = 0
 }
 
-# Inventions
-#bottling_process = yes
-modern_winemaking = yes
-
+foreign_training = yes_foreign_training
 foreign_weapons = yes_foreign_weapons
+army_schools = yes_army_schools
 
 # Technologies
+military_staff_system = 1
 flintlock_rifles = 1
+bronze_muzzle_loaded_artillery = 1
+late_enlightenment_philosophy = 1
+private_banks = 1
+early_classical_theory_and_critique = 1
+
+# Inventions

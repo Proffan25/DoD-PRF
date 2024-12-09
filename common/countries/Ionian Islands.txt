@@ -8,7 +8,7 @@ party = {
 
 	ideology = conservative
 
-	social_policy = no_position_set
+	#social_policy = no_position_set
 	economic_policy = laissez_faire
 	trade_policy = free_trade
 	religious_policy = pluralism
@@ -23,7 +23,7 @@ party = {
 
 	ideology = liberal
 
-	social_policy = no_position_set
+	#social_policy = no_position_set
 	economic_policy = interventionism
 	trade_policy = protectionism
 	religious_policy = pluralism
@@ -38,7 +38,7 @@ party = {
 
 	ideology = conservative
 
-	social_policy = no_position_set
+	#social_policy = no_position_set
 	economic_policy = interventionism
 	trade_policy = protectionism
 	religious_policy = pluralism
@@ -53,7 +53,7 @@ party = {
 
 	ideology = reactionary
 
-	social_policy = no_position_set
+	#social_policy = no_position_set
 	economic_policy = state_capitalism
 	trade_policy = protectionism
 	religious_policy = moralism
@@ -68,7 +68,7 @@ party = {
 
 	ideology = anarcho_liberal
 
-	social_policy = no_state_interference
+	#social_policy = no_state_interference
 	economic_policy = laissez_faire
 	trade_policy = free_trade
 	religious_policy = pro_atheism
@@ -83,7 +83,7 @@ party = {
 
 	ideology = socialist
 
-	social_policy = welfare_state
+	#social_policy = welfare_state
 	economic_policy = planned_economy
 	trade_policy = protectionism
 	religious_policy = secularized
@@ -98,7 +98,7 @@ party = {
 
 	ideology = communist
 
-	social_policy = populist_welfare
+	#social_policy = populist_welfare
 	economic_policy = planned_economy
 	trade_policy = protectionism
 	religious_policy = pro_atheism
@@ -113,7 +113,7 @@ party = {
 
 	ideology = fascist
 
-	social_policy = populist_welfare
+	#social_policy = populist_welfare
 	economic_policy = state_capitalism
 	trade_policy = protectionism
 	religious_policy = moralism
@@ -123,28 +123,28 @@ party = {
 
 unit_names = {
 	dreadnought = {
-		"Ioannis Kapodistrias" Kolokotronis "Rigas Feraios" "Athanasios Diakos" "Filiki Eteria" Corfù Cephalonia Cerigo Ithaca Paxò 
+		"Ioannis Kapodistrias" Kolokotronis "Rigas Feraios" "Athanasios Diakos" "Filiki Eteria" Corfï¿½ Cephalonia Cerigo Ithaca Paxï¿½ 
 		"Santa Maura" Zante Argostoli Kythira Vathy Gaios Lefkada Zakynthos "St. Mikaelos" "St. Georgios" 
 	}
 	ironclad = {
-		"Ioannis Kapodistrias" Kolokotronis "Rigas Feraios" "Athanasios Diakos" "Filiki Eteria" Corfù Cephalonia Cerigo Ithaca Paxò 
+		"Ioannis Kapodistrias" Kolokotronis "Rigas Feraios" "Athanasios Diakos" "Filiki Eteria" Corfï¿½ Cephalonia Cerigo Ithaca Paxï¿½ 
 		"Santa Maura" Zante Argostoli Kythira Vathy Gaios Lefkada Zakynthos "St. Mikaelos" "St. Georgios" 
 		
 	}
 	manowar = {
-		"Ioannis Kapodistrias" Kolokotronis "Rigas Feraios" "Athanasios Diakos" "Filiki Eteria" Corfù Cephalonia Cerigo Ithaca Paxò 
+		"Ioannis Kapodistrias" Kolokotronis "Rigas Feraios" "Athanasios Diakos" "Filiki Eteria" Corfï¿½ Cephalonia Cerigo Ithaca Paxï¿½ 
 		"Santa Maura" Zante Argostoli Kythira Vathy Gaios Lefkada Zakynthos "St. Mikaelos" "St. Georgios" 
 	}
 	cruiser = {
-		"Ioannis Kapodistrias" Kolokotronis "Rigas Feraios" "Athanasios Diakos" "Filiki Eteria" Corfù Cephalonia Cerigo Ithaca Paxò 
+		"Ioannis Kapodistrias" Kolokotronis "Rigas Feraios" "Athanasios Diakos" "Filiki Eteria" Corfï¿½ Cephalonia Cerigo Ithaca Paxï¿½ 
 		"Santa Maura" Zante Argostoli Kythira Vathy Gaios Lefkada Zakynthos "St. Mikaelos" "St. Georgios" 
 	}
 	frigate = {
-		"Ioannis Kapodistrias" Kolokotronis "Rigas Feraios" "Athanasios Diakos" "Filiki Eteria" Corfù Cephalonia Cerigo Ithaca Paxò 
+		"Ioannis Kapodistrias" Kolokotronis "Rigas Feraios" "Athanasios Diakos" "Filiki Eteria" Corfï¿½ Cephalonia Cerigo Ithaca Paxï¿½ 
 		"Santa Maura" Zante Argostoli Kythira Vathy Gaios Lefkada Zakynthos "St. Mikaelos" "St. Georgios" 
 	}
 	monitor = {
-		"Ioannis Kapodistrias" Kolokotronis "Rigas Feraios" "Athanasios Diakos" "Filiki Eteria" Corfù Cephalonia Cerigo Ithaca Paxò 
+		"Ioannis Kapodistrias" Kolokotronis "Rigas Feraios" "Athanasios Diakos" "Filiki Eteria" Corfï¿½ Cephalonia Cerigo Ithaca Paxï¿½ 
 		"Santa Maura" Zante Argostoli Kythira Vathy Gaios Lefkada Zakynthos "St. Mikaelos" "St. Georgios" 
 	}
 	clipper_transport = {
@@ -154,7 +154,7 @@ unit_names = {
 		
 	}
 	commerce_raider = {
-		"Ioannis Kapodistrias" Kolokotronis "Rigas Feraios" "Athanasios Diakos" "Filiki Eteria" Corfù Cephalonia Cerigo Ithaca Paxò 
+		"Ioannis Kapodistrias" Kolokotronis "Rigas Feraios" "Athanasios Diakos" "Filiki Eteria" Corfï¿½ Cephalonia Cerigo Ithaca Paxï¿½ 
 		"Santa Maura" Zante Argostoli Kythira Vathy Gaios Lefkada Zakynthos "St. Mikaelos" "St. Georgios" 
 	}
 }

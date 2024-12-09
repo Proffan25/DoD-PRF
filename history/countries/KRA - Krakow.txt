@@ -1,13 +1,13 @@
 capital = 703
 primary_culture = polish
-religion = catholic
+religion = animist
 government = democracy
 plurality = 25.0
 nationalvalue = nv_productivity
-literacy = 0.6
-non_state_culture_literacy = 0.4
+literacy = 0.01
 civilized = yes
-prestige = 5
+prestige = 1
+is_releasable_vassal = no
 
 # Political reforms
 slavery = no_slavery
@@ -15,7 +15,7 @@ upper_house_composition = appointed
 vote_franschise = wealth_voting
 public_meetings = yes_meeting
 press_rights = censored_press
-trade_unions = no_trade_unions
+trade_unions = non_socialist
 voting_system = first_past_the_post
 political_parties = non_secret_ballots
 
@@ -28,15 +28,6 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions 
 school_reforms = no_schools
 
-# New Reforms
-conscription = no_draft
-debt_law = peonage
-penal_system = capital_punishment
-child_labor = child_labor_legalcitizens_rights = primary_culture_only
-border_policy = open_borders
-
-set_country_flag = catholic_country
-
 ruling_party = KRA_conservative
 last_election = 1836.1.1
 upper_house = {
@@ -48,8 +39,6 @@ upper_house = {
 	socialist = 0
 	communist = 0
 }
-
-schools = culture_tech_school
 
 # Technologies
 post_napoleonic_thought = 1
@@ -64,8 +53,8 @@ guild_based_production = 1
 classicism_n_early_romanticism = 1
 late_enlightenment_philosophy = 1
 enlightenment_thought = 1
-piston_steam_engine = 1
-mechanical_production = 1
+water_wheel_power = 1
+publishing_industry = 1
 
 # Inventions
 
