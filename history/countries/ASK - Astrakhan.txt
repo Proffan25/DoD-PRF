@@ -1,9 +1,9 @@
 capital = 1054
 primary_culture = north_caucasian
 culture = tatar
-religion = animist
+religion = sunni
 government = absolute_monarchy
-plurality = 25.0
+plurality = 0.0
 nationalvalue = nv_productivity
 literacy = 0.01
 non_state_culture_literacy = 0.01
@@ -29,7 +29,6 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions
 school_reforms = no_schools
 
-oob = "CIR_oob.txt"
 
 ruling_party = CIR_conservative
 last_election = 1834.1.1
@@ -43,4 +42,16 @@ upper_house = {
 	communist = 0
 }
 
+foreign_training = yes_foreign_training
+foreign_weapons = yes_foreign_weapons
+army_schools = yes_army_schools
 
+# Technologies
+military_staff_system = 1
+flintlock_rifles = 1
+bronze_muzzle_loaded_artillery = 1
+late_enlightenment_philosophy = 1
+private_banks = 1
+early_classical_theory_and_critique = 1
+
+oob = "ASK_oob.txt"

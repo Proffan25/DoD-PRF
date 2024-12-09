@@ -1,6 +1,7 @@
-owner = MCK
-controller = MCK
+owner = CHI
+controller = CHI
 add_core = CHI
-add_core = MCK
-trade_goods = timber
+#add_core = SXI
+trade_goods = wool
 life_rating = 32
+

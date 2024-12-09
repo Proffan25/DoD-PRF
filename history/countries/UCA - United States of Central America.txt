@@ -1,9 +1,9 @@
 capital = 2186
 primary_culture = central_american
 culture = mayan
-religion = animist
+religion = catholic
 government = democracy
-plurality = 25.0
+plurality = 0.0
 nationalvalue = nv_productivity
 literacy = 0.01
 civilized = yes

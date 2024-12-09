@@ -1,7 +1,5 @@
-owner = DUA
-controller = DUA
-add_core = BAL
-add_core = NUS
+owner = SCA
+controller = SCA
 trade_goods = fish
 life_rating = 30
-colonial = 1
+colonial = 2

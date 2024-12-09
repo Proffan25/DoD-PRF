@@ -1,10 +1,10 @@
 capital = 586
 primary_culture = rheinish
-religion = animist
+religion = catholic
 government = absolute_monarchy
-plurality = 25.0
+plurality = 0.0
 nationalvalue = nv_order
-literacy = 0.6
+literacy = 0.01
 civilized = yes
 prestige = 5
 

@@ -1,7 +1,8 @@
 owner = EGY
 controller = EGY
 add_core = EGY
-add_core = TUR
-trade_goods = grain
+trade_goods = iron
 life_rating = 35
-terrain = semidesert
+
+
+

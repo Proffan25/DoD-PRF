@@ -2,11 +2,11 @@ capital = 706
 primary_culture = polish
 culture = lithuanian
 culture = ashkenazi
-religion = animist
+religion = catholic
 government = hms_government
-plurality = 0.5
+plurality = 25.0
 nationalvalue = nv_equality
-literacy = 0.35
+literacy = 0.01
 civilized = yes
 
 
@@ -52,6 +52,7 @@ introspectionism = 1
 water_wheel_power = 1
 basic_chemistry = 1
 enlightenment_thought = 1
+mechanized_mining = 1
 
 ruling_party = PLC_conservative
 upper_house = {

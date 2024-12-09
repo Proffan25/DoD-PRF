@@ -1,8 +1,4 @@
-owner = SPA
-controller = SPA
-add_core = SPA
-add_core = MOR
+
 trade_goods = fish
-terrain = urban
-life_rating = 35
-colonial = 2
+life_rating = 15
+

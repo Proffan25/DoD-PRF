@@ -1,9 +1,9 @@
 capital = 133
 primary_culture = texan
 culture = mexican
-religion = animist
+religion = protestant
 government = democracy
-plurality = 25.0
+plurality = 0.0
 nationalvalue = nv_productivity
 literacy = 0.01
 civilized = yes

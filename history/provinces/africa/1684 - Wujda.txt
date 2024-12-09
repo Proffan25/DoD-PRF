@@ -1,6 +1,6 @@
-owner = ARA
-controller = ARA
-add_core = MGH
-trade_goods = grain
+owner = MOR
+controller = MOR
+add_core = MOR
+trade_goods = coal
 life_rating = 35
-colonial = 1
+

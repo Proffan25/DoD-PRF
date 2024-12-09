@@ -1,7 +1,8 @@
-owner = PLM
-controller = PLM
-add_core = ATJ
-add_core = PLM
-add_core = NUS
+owner = DJA
+controller = DJA
+add_core = DJA
+#add_core = INO
 trade_goods = timber
 life_rating = 32
+
+

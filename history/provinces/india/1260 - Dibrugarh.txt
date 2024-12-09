@@ -1,7 +1,7 @@
-owner = BUR
-controller = BUR
-add_core = HND
-add_core = BUR
-add_core = ASM
-trade_goods = precious_metal
-life_rating = 32
+owner = BNG
+controller = BNG
+add_core = BNG
+trade_goods = tea
+life_rating = 35
+
+

@@ -1,11 +1,10 @@
-owner = CIR
-controller = CIR
+owner = ASK
+controller = ASK
 add_core = ASK
-add_core = CIR
-add_core = TAR
-trade_goods = grain
+add_core = CRI
+trade_goods = sulphur
 life_rating = 35
-1861.1.1 = {
-	owner = RUS
-	controller = RUS
+1861.1.1 = { 
+	add_core = RUS
 }
+

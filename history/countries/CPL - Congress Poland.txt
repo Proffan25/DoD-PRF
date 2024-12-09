@@ -1,8 +1,8 @@
 capital = 706
 primary_culture = polish
-religion = animist
+religion = catholic
 government = hms_government
-plurality = 0.2
+plurality = 0.0
 nationalvalue = nv_productivity
 literacy = 0.6
 civilized = yes

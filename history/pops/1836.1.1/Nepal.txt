@@ -35,22 +35,7 @@
 	soldiers = {
 		culture = nepali
 		religion = hindu
-		size= 3000
-
-	}
-
-	soldiers = {
-		culture = nepali
-		religion = hindu
-		size= 3000
-
-	}
-
-	soldiers = {
-		culture = nepali
-		religion = hindu
-		size= 1000
-
+		size = 7000
 	}
 
 	farmers = {
@@ -80,8 +65,7 @@
 	soldiers = {
 		culture = tibetan
 		religion = gelugpa
-		size= 100
-
+		size = 100
 	}
 
 	farmers = {
@@ -91,32 +75,31 @@
 	}
 
 	aristocrats = {
-		culture = asian_minor
+		culture = nepali
 		religion = animist
 		size = 400
 	}
 
 	clergymen = {
-		culture = asian_minor
+		culture = nepali
 		religion = animist
 		size = 225
 	}
 
 	artisans = {
-		culture = asian_minor
+		culture = nepali
 		religion = animist
 		size = 1050
 	}
 
 	soldiers = {
-		culture = asian_minor
+		culture = nepali
 		religion = animist
-		size= 200
-
+		size = 200
 	}
 
 	farmers = {
-		culture = asian_minor
+		culture = nepali
 		religion = animist
 		size = 21125
 	}
@@ -144,8 +127,7 @@
 	soldiers = {
 		culture = nepali
 		religion = hindu
-		size= 1100
-
+		size = 1100
 	}
 
 	farmers = {
@@ -175,8 +157,7 @@
 	soldiers = {
 		culture = tibetan
 		religion = gelugpa
-		size= 350
-
+		size = 350
 	}
 
 	farmers = {
@@ -186,32 +167,31 @@
 	}
 
 	aristocrats = {
-		culture = asian_minor
+		culture = nepali
 		religion = animist
 		size = 350
 	}
 
 	clergymen = {
-		culture = asian_minor
+		culture = nepali
 		religion = animist
 		size = 200
 	}
 
 	artisans = {
-		culture = asian_minor
+		culture = nepali
 		religion = animist
 		size = 950
 	}
 
 	soldiers = {
-		culture = asian_minor
+		culture = nepali
 		religion = animist
-		size= 200
-
+		size = 200
 	}
 
 	farmers = {
-		culture = asian_minor
+		culture = nepali
 		religion = animist
 		size = 18300
 	}

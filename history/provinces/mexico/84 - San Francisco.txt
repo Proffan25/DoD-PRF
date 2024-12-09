@@ -1,6 +1,11 @@
-owner = DNGcontroller = DNGadd_core = DNGnaval_base = 1 
-trade_goods = cattle
-life_rating = 351861.1.1 = {	owner = USA	controller = USA	add_core = USA	remove_core = MEX	colonial = 0}
+owner = DNG
+controller = DNG
+add_core = DNG
+#add_core = CAL
+trade_goods = fruit
+life_rating = 35
+naval_base = 1
+1861.1.1 = {owner = USAcontroller = USAadd_core = USA}
 1861.1.1 = {
 	naval_base = 1
 	fort = 1

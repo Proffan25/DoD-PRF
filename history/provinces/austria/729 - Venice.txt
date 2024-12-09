@@ -3,24 +3,32 @@ controller = VEN
 add_core = VEN
 trade_goods = fish
 life_rating = 40
-naval_base = 2
-
-state_building = {
-	level = 2
-	building = clipper_shipyard
-	upgrade = yes
-}              
-state_building = {
-	level = 2
-	building = ammunition_factory
-	upgrade = yes
-}
-
+naval_base = 1
 state_building = {
 	level = 1
-	building = glass_factory
+	building = canned_food_factory
 	upgrade = yes
 }
+state_building = {
+	level = 1
+	building = clipper_shipyard
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = fabric_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = lumber_mill
+	upgrade = yes
+}
+#state_building = {
+#	level = 1
+#	building = glass_factory
+#	upgrade = yes
+#}
 1861.1.1 = {
 	state_building = {
 	level = 1
@@ -28,3 +36,4 @@ state_building = {
 	upgrade = yes
 	}
 }
+

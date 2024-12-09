@@ -1,8 +1,8 @@
 capital = 2476
 primary_culture = australian
-religion = animist
+religion = protestant
 government = absolute_monarchy
-plurality = 30
+plurality = 0.0
 nationalvalue = nv_productivity
 literacy = 0.01
 civilized = yes

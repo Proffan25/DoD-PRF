@@ -1,8 +1,11 @@
 owner = BRG
 controller = BRG
 add_core = BRG
-add_core = GNV
 trade_goods = grain
-life_rating = 33
-fort = 2
+life_rating = 35
+state_building = {
+	level = 1
+	building = artillery_factory
+	upgrade = yes
+}
 1861.1.1 = { railroad = 1 }

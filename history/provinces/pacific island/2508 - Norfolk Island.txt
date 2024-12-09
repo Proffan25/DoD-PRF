@@ -1,4 +1,5 @@
-add_core = PPU
+owner = DNG
+controller = DNG
+add_core = DNG
 trade_goods = fish
 life_rating = 30
-terrain = small_island

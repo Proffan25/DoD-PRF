@@ -1,13 +1,12 @@
 owner = VIJ
 controller = VIJ
-add_core = DRA
 add_core = VIJ
-add_core = BHO
-trade_goods = tobacco
+trade_goods = grain
 life_rating = 32
 fort = 1
 naval_base = 1
 1861.1.1 = { 
-	railroad = 3 
+	railroad = 3
+	naval_base = 2
 }
 

@@ -1,25 +1,24 @@
-capital = 375
-primary_culture = dutch
-culture = flemish
-culture = wallonian
-culture = boer
-religion = animist
-government = absolute_monarchy
-plurality = 30
+capital = 2087
+primary_culture = boer
+religion = protestant
+government = democracy
+plurality = 25.0
 nationalvalue = nv_order
 literacy = 0.01
 civilized = yes
-prestige = 20
+
+set_country_flag = new_world_nation
+set_country_flag = south_american_immigrant_nation
 
 # Political reforms
-slavery = yes_slavery
-upper_house_composition = appointed
-vote_franschise = none_voting
+slavery = no_slavery
+upper_house_composition = state_equal_weight
+vote_franschise = universal_weighted_voting
 public_meetings = yes_meeting
-press_rights = state_press
-trade_unions = no_trade_unions
+press_rights = free_press
+trade_unions = all_trade_unions
 voting_system = first_past_the_post
-political_parties = underground_parties
+political_parties = gerrymandering
 
 # Social Reforms
 wage_reform = no_minimum_wage
@@ -74,4 +73,5 @@ basic_chemistry = 1
 consciousness = 3
 nonstate_consciousness = 1
 
-oob = "NET_oob.txt"
+
+oob = "BTV_oob.txt"

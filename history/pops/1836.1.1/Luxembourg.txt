@@ -2,84 +2,81 @@
 #In personal union with Netherlands in 1836
 #Luxembourg (172000/43000 POPS)
 397 = {
-	aristocrats = {
-		culture = burgundian
-		religion = protestant
-		size = 2825
-	}
+    aristocrats = {
+        culture = rheinish
+        religion = catholic
+        size = 175
+    }
 
-	officers = {
-		culture = burgundian
-		religion = protestant
-		size = 1250
-	}
+    bureaucrats = {
+        culture = rheinish
+        religion = catholic
+        size = 125
+    }
 
-	bureaucrats = {
-		culture = burgundian
-		religion = protestant
-		size = 2375
-	}
+    clergymen = {
+        culture = rheinish
+        religion = catholic
+        size = 150
+    }
 
-	capitalists = {
-		culture = burgundian
-		religion = protestant
-		size = 350
-	}
+    artisans = {
+        culture = rheinish
+        religion = catholic
+        size = 750
+    }
 
-	clergymen = {
-		culture = burgundian
-		religion = protestant
-		size = 2725
-	}
+    soldiers = {
+        culture = rheinish
+        religion = catholic
+        size = 2000
+    }
 
-	craftsmen = {
-		culture = burgundian
-		religion = protestant
-		size = 17000
-	}
+    farmers = {
+        culture = rheinish
+        religion = catholic
+        size = 114900
+    }
 
-	craftsmen = {
-		culture = rheinish
-		religion = protestant
-		size = 8000
-	}
+    aristocrats = {
+        culture = burgundian
+        religion = catholic
+        size = 250
+    }
 
-	artisans = {
-		culture = burgundian
-		religion = protestant
-		size = 30000
-	}
+    officers = {
+        culture = burgundian
+        religion = catholic
+        size = 50
+    }
 
-	artisans = {
-		culture = rheinish
-		religion = protestant
-		size = 16000
-	}
+    bureaucrats = {
+        culture = burgundian
+        religion = catholic
+        size = 250
+    }
 
+    clergymen = {
+        culture = burgundian
+        religion = catholic
+        size = 275
+    }
 
-	soldiers = {
-		culture = burgundian
-		religion = protestant
-		size= 4000
+    artisans = {
+        culture = burgundian
+        religion = catholic
+        size = 1750
+    }
 
-	}
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 250
+    }
 
-	soldiers = {
-		culture = rheinish
-		religion = protestant
-		size= 4000
-
-	}
-
-	farmers = {
-		culture = burgundian
-		religion = protestant
-		size = 73275
-	}
-
-	farmers = {
-		culture = rheinish
-		religion = protestant
-		size = 45000
-	}
+    farmers = {
+        culture = burgundian
+        religion = catholic
+        size = 123375
+    }
 }

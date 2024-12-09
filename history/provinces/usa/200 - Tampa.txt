@@ -1,1 +1,8 @@
-owner = VENcontroller = VENadd_core = ATStrade_goods = fruitlife_rating = 35colonial = 2
+owner = PLA
+controller = PLA 
+add_core = PLA 
+trade_goods = fruit
+life_rating = 35
+is_slave = yes
+colony = 2
+naval_base = 11861.1.1 = {	colony = 0	controller = CSA	owner = CSA	add_core = CSA}

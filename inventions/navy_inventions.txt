@@ -365,7 +365,7 @@ clipper_shipyard_construction = {
         base = 2
         modifier = {
             factor = 2
-            piston_steam_engine = 1
+            practical_steam_engine = 1
         }
         modifier = {
             factor = 1

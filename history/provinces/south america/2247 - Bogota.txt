@@ -1,7 +1,8 @@
 owner = CLM
 controller = CLM
 add_core = CLM
-add_core = SAN
 add_core = GRA
-trade_goods = cattle
+#add_core = GCO
+trade_goods = coal
 life_rating = 35
+

@@ -1,9 +1,10 @@
-capital = 1600
-primary_culture = turkic
+capital = 2608
+primary_culture = oirat
+culture = turkic
 culture = mongol
-religion = animist
+religion = sunni
 government = absolute_monarchy
-plurality = 0.0
+plurality = 25.0
 nationalvalue = nv_order
 literacy = 0.01
 non_state_culture_literacy = 0.01
@@ -40,3 +41,19 @@ health_care = no_health_care
 unemployment_subsidies = no_subsidies
 pensions = no_pensions 
 school_reforms = no_schools
+
+
+
+foreign_training = yes_foreign_training
+foreign_weapons = yes_foreign_weapons
+army_schools = yes_army_schools
+
+# Technologies
+military_staff_system = 1
+flintlock_rifles = 1
+bronze_muzzle_loaded_artillery = 1
+late_enlightenment_philosophy = 1
+private_banks = 1
+early_classical_theory_and_critique = 1
+
+oob = "CHG_oob.txt"

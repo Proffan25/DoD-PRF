@@ -1,9 +1,7 @@
-owner = MIG
-controller = MIG   
-add_core = MIG  
-add_core = TNG
+owner = CHI
+controller = CHI
 add_core = CHI
-add_core = HUI
-trade_goods = tea
-life_rating = 32
-naval_base = 1
+#add_core = TPG
+trade_goods = silk
+life_rating = 35
+

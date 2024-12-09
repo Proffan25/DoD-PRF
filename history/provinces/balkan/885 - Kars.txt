@@ -1,6 +1,12 @@
-owner = AZB
-controller = AZB
-add_core = AZB
+owner = TUR
+controller = TUR
+add_core = TUR
 add_core = ARM
 trade_goods = iron
 life_rating = 35
+1861.1.1 = {
+	fort = 2
+}
+
+
+

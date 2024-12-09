@@ -1,7 +1,9 @@
-owner = TAI
-controller = TAI
-add_core = TAI
 add_core = CHI
-add_core = GNG
+#add_core = GXI
+#add_core = TPG
 trade_goods = tea
 life_rating = 32
+
+owner = CHI
+controller = CHI
+

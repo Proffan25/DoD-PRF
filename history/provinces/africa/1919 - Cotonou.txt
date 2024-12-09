@@ -1,5 +1,3 @@
-owner = DHY
-controller = DHY
-add_core = DHY
-trade_goods = fish
-life_rating = 35
+trade_goods = cattle
+life_rating = 20
+

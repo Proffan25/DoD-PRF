@@ -1,5 +1,8 @@
 owner = KOR
-controller = JAP
+controller = KOR
 add_core = KOR
 trade_goods = iron
-life_rating = 31
+life_rating = 32
+
+
+

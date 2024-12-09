@@ -1,13 +1,19 @@
 owner = VIN
 controller = VIN
 add_core = VIN
-trade_goods = grain
+add_core = NBG
+trade_goods = timber
 life_rating = 35
+
+1836.1.2 = {
+	remove_core = COM
+	owner = CAN
+	controller = CAN
+	add_core = CAN
+	colonial = 0
+}
 1861.1.1 = {
 	owner = USA
 	controller = USA
-	add_core = USA
-	remove_core = MRU
-	remove_core = NEN
 	colonial = 0
 }

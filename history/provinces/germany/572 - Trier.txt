@@ -2,14 +2,24 @@ owner = BRG
 controller = BRG
 add_core = BRG
 add_core = RHI
-add_core = GER
+#add_core = GER
 trade_goods = iron
-life_rating = 40
+life_rating = 42
 state_building = {
-	level = 2 
-	building = lumber_mill
+	level = 1
+	building = small_arms_factory
 	upgrade = yes
 }
+state_building = {
+	level = 2
+	building = canned_food_factory
+	upgrade = yes
+}
+#state_building = {
+#	level = 1
+#	building = glass_factory
+#	upgrade = yes
+#}
 1861.1.1 = {
 	state_building = {
 		level = 1
@@ -18,12 +28,7 @@ state_building = {
 	}
 	state_building = {
 		level = 1
-		building = small_arms_factory
-		upgrade = yes
-	}
-	state_building = {
-		level = 1
-		building = cement_factory
+		building = glass_factory
 		upgrade = yes
 	}
 	state_building = {
@@ -31,5 +36,13 @@ state_building = {
 		building = winery
 		upgrade = yes
 	}
+	state_building = {
+		level = 3
+		building = canned_food_factory
+		upgrade = yes
+	}
 }
 1861.1.1 = { railroad = 3 }
+
+
+

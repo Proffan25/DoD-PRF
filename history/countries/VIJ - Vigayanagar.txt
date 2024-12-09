@@ -2,7 +2,7 @@ capital = 1268
 primary_culture = indo_aryan
 culture = dravidian
 
-religion = animist
+religion = hindu
 government = democracy
 plurality = 0.0
 nationalvalue = nv_equality
@@ -40,3 +40,4 @@ health_care = no_health_care
 unemployment_subsidies = no_subsidies
 pensions = no_pensions 
 school_reforms = no_schools
+oob = "VIJ_oob.txt"

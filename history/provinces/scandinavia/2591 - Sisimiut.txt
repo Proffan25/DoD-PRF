@@ -1,6 +1,7 @@
-owner = MGH
-controller = MGH
-add_core = MGH
-trade_goods = iron
-terrain = desert
-life_rating = 10
+owner = SCA
+controller = SCA
+add_core = SCA
+#add_core = SCA
+trade_goods = fish
+life_rating = 35
+colonial = 2

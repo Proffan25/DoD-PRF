@@ -1,6 +1,6 @@
 owner = SCA
 controller = SCA
-terrain = semidesert
+naval_base = 1
 trade_goods = fish
-life_rating = 15
-colonial = 1
+life_rating = 35
+colonial = 2

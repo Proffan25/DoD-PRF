@@ -1,6 +1,7 @@
-owner = TON
-controller = TON
-add_core = TON
-add_core = SUL
+owner = SCA
+controller = SCA
+add_core = PHL
 trade_goods = grain
 life_rating = 35
+colonial = 2
+

@@ -1,18 +1,13 @@
 owner = PLC
 controller = PLC
 add_core = PLC
-add_core = POL
+
+#add_core = PLC
+#add_core = CPL
+
 trade_goods = fruit
+
 life_rating = 35
+
 1861.1.1 = { railroad = 3 }
-state_building = {
-	level = 1 
-	building = winery
-	upgrade = yes
-}              
-  
-state_building = {
-	level = 1 
-	building = liquor_distillery
-	upgrade = yes
-}
+

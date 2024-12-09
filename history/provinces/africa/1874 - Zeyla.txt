@@ -1,8 +1,6 @@
-owner = ADA
-controller = ADA
-add_core = ETH
-add_core = ADA
-add_core = AMT
+owner = SOM
+controller = SOM
+add_core = SOM
 trade_goods = grain
-terrain = semidesert
 life_rating = 35
+

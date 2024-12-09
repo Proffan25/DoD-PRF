@@ -1,15 +1,13 @@
-owner = ZUL
-controller = ZUL
-add_core = ZUL
-add_core = XHO
+owner = BTV
+controller = BTV
 add_core = BTV
-add_core = SAF
 trade_goods = wool
 life_rating = 35
+naval_base = 1
 1861.1.1 = {
-	owner = ENG
-	controller = ENG
-	add_core = SAF
-	add_core = ENG
-	colonial = 2
+	owner = COM
+	controller = COM
+	colonial = 1
+	naval_base = 1
 }
+

@@ -2,6 +2,12 @@ owner = CLM
 controller = CLM
 add_core = CLM
 add_core = LST
-add_core = PLA
 trade_goods = sulphur
 life_rating = 35
+1861.1.1 = {
+	controller = CSA
+	owner = CSA
+	add_core = CSA
+	add_core = USA
+}
+

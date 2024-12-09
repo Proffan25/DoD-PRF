@@ -1,8 +1,7 @@
-owner = MUG
-controller = MUG
-add_core = SHI
-add_core = MUG
+owner = PNJ
+controller = PNJ
+add_core = AFG
 add_core = PNJ
-add_core = HND
-trade_goods = wool
-life_rating = 32
+trade_goods = tea
+life_rating = 35
+

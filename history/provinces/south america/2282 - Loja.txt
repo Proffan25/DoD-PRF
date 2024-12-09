@@ -2,7 +2,7 @@ owner = CLM
 controller = CLM
 add_core = CLM
 add_core = INC
-add_core = QUI
-add_core = GRA
+#add_core = GCO
 trade_goods = cattle
-life_rating = 32
+life_rating = 35
+

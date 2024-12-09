@@ -1,6 +1,3 @@
-owner = LBA
-controller = LBA
-add_core = LBA
-add_core = LUN
 trade_goods = tropical_wood
-life_rating = 10
+life_rating = 15
+

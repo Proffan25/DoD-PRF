@@ -1,6 +1,7 @@
-owner = SCA
-controller = SCA
+owner = DUA
+controller = DUA
+add_core = WIF
 trade_goods = fruit
 life_rating = 35
 colonial = 2
-terrain = new_world_jungle
+

@@ -8,7 +8,6 @@ party = {
 
 	ideology = conservative
 
-	#social_policy = no_position_set
 	economic_policy = interventionism
 	trade_policy = free_trade
 	religious_policy = moralism
@@ -23,7 +22,6 @@ party = {
 
 	ideology = liberal
 
-	#social_policy = no_position_set
 	economic_policy = laissez_faire
 	trade_policy = free_trade
 	religious_policy = pluralism
@@ -38,7 +36,6 @@ party = {
 
 	ideology = conservative
 
-	#social_policy = no_position_set
 	economic_policy = interventionism
 	trade_policy = free_trade
 	religious_policy = moralism
@@ -53,7 +50,6 @@ party = {
 
 	ideology = reactionary
 
-	#social_policy = no_position_set
 	economic_policy = state_capitalism
 	trade_policy = protectionism
 	religious_policy = moralism
@@ -68,7 +64,6 @@ party = {
 
 	ideology = anarcho_liberal
 
-	#social_policy = no_state_interference
 	economic_policy = laissez_faire
 	trade_policy = free_trade
 	religious_policy = pro_atheism
@@ -83,7 +78,6 @@ party = {
 
 	ideology = socialist
 
-	#social_policy = welfare_state
 	economic_policy = planned_economy
 	trade_policy = protectionism
 	religious_policy = secularized
@@ -98,7 +92,6 @@ party = {
 
 	ideology = communist
 
-	#social_policy = populist_welfare
 	economic_policy = planned_economy
 	trade_policy = protectionism
 	religious_policy = pro_atheism
@@ -108,12 +101,11 @@ party = {
 
 party = {
 	name = "COS_fascist"
-	start_date = 1900.1.1
+	start_date = 1905.1.1
 	end_date = 2000.1.1
 
 	ideology = fascist
 
-	#social_policy = populist_welfare
 	economic_policy = state_capitalism
 	trade_policy = protectionism
 	religious_policy = moralism
@@ -123,32 +115,32 @@ party = {
 
 unit_names = {
 	dreadnought = {
-		Caribe Centroamï¿½rica "Costa Rica" "Josï¿½ Marï¿½a Castro" "Juan Mora" Libertad Presidente "Rafael Yglesias" Repï¿½blica "Tomï¿½s Guardia"
+		Caribe Centroamérica "Costa Rica" "José María Castro" "Juan Mora" Libertad Presidente "Rafael Yglesias" República "Tomás Guardia"
 	}
 	ironclad = {
-		Arenal Bebedero Diquï¿½s Jimï¿½nez Reventazï¿½n "San Juan" Sixaola Tï¿½rcoles Tempisque Tortuguero
+		Arenal Bebedero Diquís Jiménez Reventazón "San Juan" Sixaola Tárcoles Tempisque Tortuguero
 	}
 	manowar = {
-		Audaz Intrï¿½pido Libertad "San Antonio" "San Fernando" "San Juan" "Santa Isabel" "Santa Marta" "Santa Mï¿½nica" Vigilante 
+		Audaz Intrépido Libertad "San Antonio" "San Fernando" "San Juan" "Santa Isabel" "Santa Marta" "Santa Mónica" Vigilante 
 	}
 	cruiser = {
-		Cacique "Castillo del Oro" Chamï¿½n Chorotega Constituciï¿½n "Cristï¿½bal Colï¿½n" Independencia "Puerto Limï¿½n" "Quince de Septiembre" "Vasco Nï¿½ï¿½ez de Balboa"
+		Cacique "Castillo del Oro" Chamán Chorotega Constitución "Cristóbal Colón" Independencia "Puerto Limón" "Quince de Septiembre" "Vasco Núñez de Balboa"
 	}
 	frigate = {
-		Alajuela Cartago Guanacaste Heredia Liberia Limï¿½n Nicoya Papagayo Puntarenas "San Josï¿½"
+		Alajuela Cartago Guanacaste Heredia Liberia Limón Nicoya Papagayo Puntarenas "San José"
 	}
 	monitor = {
-		"Cacho Negro" Chato Congo Irazï¿½ Miravalles Orosï¿½ Platanar Porvenir "Santa Marï¿½a" Tenorio
+		"Cacho Negro" Chato Congo Irazú Miravalles Orosí Platanar Porvenir "Santa María" Tenorio
 	}
 	clipper_transport = {
-		Alicia Ana Ancla Ballena Carmen Costero Delfï¿½n Gabriel Goliat Indetectable
-		"Isla del Coco" Rafael Rï¿½pido Sansï¿½n Silencioso Sirena Tiburï¿½n "Toro Amarillo" Tritï¿½n Vida
+		Alicia Ana Ancla Ballena Carmen Costero Delfín Gabriel Goliat Indetectable
+		"Isla del Coco" Rafael Rápido Sansón Silencioso Sirena Tiburón "Toro Amarillo" Tritón Vida
 	}
 	steam_transport = {
-		Alicia Ana Ancla Ballena Carmen Costero Delfï¿½n Gabriel Goliat Indetectable
-		"Isla del Coco" Rafael Rï¿½pido Sansï¿½n Silencioso Sirena Tiburï¿½n "Toro Amarillo" Tritï¿½n Vida
+		Alicia Ana Ancla Ballena Carmen Costero Delfín Gabriel Goliat Indetectable
+		"Isla del Coco" Rafael Rápido Sansón Silencioso Sirena Tiburón "Toro Amarillo" Tritón Vida
 	}
 	commerce_raider = {
-		Barva "Cerro de la Muerte" Guanacaste Intratable Poï¿½s "Rincï¿½n de la Vieja" Talamanca Tilarï¿½n Turrialba Victorioso
+		Barva "Cerro de la Muerte" Guanacaste Intratable Poás "Rincón de la Vieja" Talamanca Tilarán Turrialba Victorioso
 	}
 }

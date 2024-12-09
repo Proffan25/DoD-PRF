@@ -1,19 +1,24 @@
 owner = DUA
 controller = DUA
 add_core = DUA
-add_core = FRA
 add_core = BRT
+add_core = FRA
 trade_goods = grain
-life_rating = 31
+life_rating = 33
 naval_base = 2
-#state_building = {
-#	level = 1
-#	building = lumber_mill
-#	upgrade = yes
-#}
+state_building = {
+	level = 1
+	building = lumber_mill
+	upgrade = yes
+}
+state_building = {
+	level = 3
+	building = clipper_shipyard
+	upgrade = yes
+}
 1861.1.1 = {
 	state_building = {
-		level = 1
+		level = 2
 		building = steamer_shipyard
 		upgrade = yes
 	}
@@ -21,3 +26,4 @@ naval_base = 2
 1861.1.1 = { 
 	naval_base = 3
 }
+

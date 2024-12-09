@@ -1,9 +1,7 @@
-owner = CLM
-controller = CLM
-add_core = CLM
-add_core = CAS
-add_core = SAN
-add_core = GRA
+owner = BRG
+controller = BRG
+add_core = WIF
 trade_goods = cotton
 life_rating = 35
-terrain = new_world_plains
+colonial = 2
+

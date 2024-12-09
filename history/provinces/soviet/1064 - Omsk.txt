@@ -1,6 +1,7 @@
-owner = SIB
-controller = SIB
-add_core = SIB
-add_core = RUS
+owner = KZH
+controller = KZH
+add_core = KZH
+add_core = CHG
 trade_goods = sulphur
-life_rating = 40
+life_rating = 35
+

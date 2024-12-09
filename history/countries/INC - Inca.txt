@@ -1,10 +1,10 @@
 capital = 2313
 primary_culture = quechua
-religion = animist
+religion = catholic
 government = absolute_monarchy
 plurality = 25.0
 nationalvalue = nv_order
-literacy = 0.2
+literacy = 0.01
 non_state_culture_literacy = 0.01
 civilized = yes
 prestige = 5
@@ -47,7 +47,6 @@ upper_house = {
 post_napoleonic_thought = 1
 flintlock_rifles = 1
 bronze_muzzle_loaded_artillery = 1
-military_staff_system = 1
 army_command_principle = 1
 post_nelsonian_thought = 1
 the_command_principle = 1
@@ -59,8 +58,6 @@ late_enlightenment_philosophy = 1
 enlightenment_thought = 1
 water_wheel_power = 1
 publishing_industry = 1
-mechanized_mining = 1
-basic_chemistry = 1
 
 # Inventions
 

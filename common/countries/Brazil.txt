@@ -2,43 +2,26 @@ color = { 129  177  125 }
 graphical_culture = SouthAmericanGC
 
 party = {
-	name = "BRZ_liberal"
+	name = "generic_conservative"
 	start_date = 1830.1.1
-	end_date = 1890.1.1
+	end_date = 2000.1.1
 
-	ideology = liberal
+	ideology = conservative
 
-	#social_policy = no_position_set
 	economic_policy = interventionism
-	trade_policy = free_trade
-	religious_policy = secularized
+	trade_policy = protectionism
+	religious_policy = pluralism
 	citizenship_policy = residency
 	war_policy = pro_military
 }
 
 party = {
-	name = "BRZ_conservative"
+	name = "generic_reactionary"
 	start_date = 1830.1.1
-	end_date = 1890.1.1
-
-	ideology = conservative
-
-	#social_policy = no_position_set
-	economic_policy = interventionism
-	trade_policy = protectionism
-	religious_policy = pluralism
-	citizenship_policy = limited_citizenship
-	war_policy = jingoism
-}
-
-party = {
-	name = "BRZ_reactionary"
-	start_date = 1830.1.1
-	end_date = 1890.1.1
+	end_date = 2000.1.1
 
 	ideology = reactionary
 
-	#social_policy = no_position_set
 	economic_policy = state_capitalism
 	trade_policy = protectionism
 	religious_policy = moralism
@@ -47,15 +30,98 @@ party = {
 }
 
 party = {
-	name = "BRZ_reactionary2"
-	start_date = 1871.1.1
+	name = "generic_liberal"
+	start_date = 1830.1.1
+	end_date = 2000.1.1
+
+	ideology = liberal
+
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pluralism
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+
+party = {
+	name = "generic_socialist"
+	start_date = 1848.1.1
+	end_date = 2000.1.1
+
+	ideology = socialist
+
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+
+party = {
+	name = "generic_communist"
+	start_date = 1848.1.1
+	end_date = 2000.1.1
+
+	ideology = communist
+
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "generic_fascist"
+	start_date = 1905.1.1
+	end_date = 2000.1.1
+
+	ideology = fascist
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+party = {
+	name = "BRZ_liberal"
+	start_date = 1830.1.1
+	end_date = 2000.1.1
+
+	ideology = liberal
+
+	economic_policy = interventionism
+	trade_policy = protectionism
+	religious_policy = secularized
+	citizenship_policy = residency
+	war_policy = pro_military
+}
+
+party = {
+	name = "BRZ_conservative"
+	start_date = 1830.1.1
+	end_date = 2000.1.1
+
+	ideology = conservative
+
+	economic_policy = interventionism
+	trade_policy = free_trade
+	religious_policy = pluralism
+	citizenship_policy = limited_citizenship
+	war_policy = jingoism
+}
+
+party = {
+	name = "BRZ_reactionary"
+	start_date = 1830.1.1
 	end_date = 2000.1.1
 
 	ideology = reactionary
 
-	#social_policy = no_position_set
 	economic_policy = state_capitalism
-	trade_policy = protectionism
+	trade_policy = free_trade
 	religious_policy = moralism
 	citizenship_policy = residency
 	war_policy = jingoism
@@ -68,9 +134,8 @@ party = {
 
 	ideology = conservative
 
-	#social_policy = no_position_set
 	economic_policy = state_capitalism
-	trade_policy = protectionism
+	trade_policy = free_trade
 	religious_policy = pluralism
 	citizenship_policy = full_citizenship
 	war_policy = pro_military
@@ -83,7 +148,6 @@ party = {
 
 	ideology = liberal
 
-	#social_policy = no_position_set
 	economic_policy = laissez_faire
 	trade_policy = free_trade
 	religious_policy = secularized
@@ -98,7 +162,6 @@ party = {
 
 	ideology = anarcho_liberal
 
-	#social_policy = no_state_interference
 	economic_policy = laissez_faire
 	trade_policy = free_trade
 	religious_policy = pro_atheism
@@ -113,7 +176,6 @@ party = {
 
 	ideology = socialist
 
-	#social_policy = welfare_state
 	economic_policy = planned_economy
 	trade_policy = protectionism
 	religious_policy = secularized
@@ -128,7 +190,6 @@ party = {
 
 	ideology = communist
 
-	#social_policy = populist_welfare
 	economic_policy = planned_economy
 	trade_policy = protectionism
 	religious_policy = pro_atheism
@@ -138,12 +199,11 @@ party = {
 
 party = {
 	name = "BRZ_fascist"
-	start_date = 1900.1.1
+	start_date = 1905.1.1
 	end_date = 2000.1.1
 
 	ideology = fascist
 
-	#social_policy = populist_welfare
 	economic_policy = state_capitalism
 	trade_policy = protectionism
 	religious_policy = moralism
@@ -154,29 +214,34 @@ party = {
 
 unit_names = {
 	dreadnought = {
-			"Sao Paulo" "Minas Gerais" "Marechal Floriano" "Marechal Deodoro" "Rio de Janeiro"
-			Riachuelo Constituicao "Santa Catarina" "Almirante Amazonas"
+			"Sao Paulo" "Minas Gerais" "Rio de Janeiro" Recife Manaus Natal Belem Vitoria Pernambuco
+			Brasil Constituicao "Santa Caterina" Vargas "Almirante Amazonas"
 			
 	}
+	battleship = {
+			Tamandare "Lima Barros" "Mariz e Barros" Herval Colombo "Sete de Setembro" Javary 
+			Solimoes Riachuelo Aquidaban "Marshal Deodoro" "Marshal Floriano"
+	}	
 	ironclad = {
-			Brasil Tamandarï¿½ "Mariz e Barros" Colombo Bahia "Rio Grande Do Norte" Alagoas
-			"Espirito Santo" Fonseca
+			Barrozo Brasil Colombo Bahia "Rio de Janeiro" "Rio Grande Do Norte" Alagaos
+			Silvado Cabral "Espirito Santo" Fonseca "Lima Barros" "Mariz e Barros" Herval
+			"Sete de Setembro" Javary Solimoes
 	}
 	manowar = {
-			"Primeiro De Marï¿½o" Paraï¿½ba Guanabara Trajano "Vital De Oliveira" Niterï¿½i
-			Sergipe Paranï¿½ Greenhalgh Macapï¿½
+			"Primeiro De Marco" Parnahyba Guanabara Trajano "Vital De Oliveira" Nictheroy
+			Sergipe Parana Greenhalgh Macapá
 	}
 	cruiser = {
-			"Almirante Barrozo" Repï¿½blica "Almirante Tamandarï¿½" "Benjamin Constant" Aquidaban
+			"Almirante Barrozo" Republica "Almirante Tamandaré" "Benjamin Constant" Aquidaban
 			Riachuelo Toneleros Fortaleza Tiradentes
 	}
 	frigate = {
-			"Almirante Saldanha" Pernambuco Inhauma Jaceguay Frontin "Julio De Noronha" Niterï¿½i
-			Uniao Belï¿½m Vigia
+			"Almirante Saldanha" Pernambuco Inhauma Jaceguay Frontin "Julio De Noronha" Niteroi
+			Uniao Belém Vigia
 	}
 	monitor = {
-			Javary Solimï¿½es "Sete de Setembro" Ipiranga Independï¿½ncia  "Mato Grosso" Maranhï¿½o
-			GuanaBara Cearï¿½ Humaitï¿½
+			Javary Solimoes "Sete de Setembro" Ipiranga Independencia "Mato Grosso" Maranhao
+			"Guana Bara" Ceara Humaita
 	}
 	clipper_transport = { 
 			
@@ -185,7 +250,7 @@ unit_names = {
 			
 	}
 	commerce_raider = {
-			Belmonte Jequitinhonha Amazonas Beberibe Iguatemi Mearim Araguari Parnaï¿½ba Cabral
+			Belmonte Jequitinhonha Amazonas Beberibe Iguatemi Mearim Araguari Parnaíba Cabral
 			Barroso Herval Silvado "Lima Barros"
 	}
 }
