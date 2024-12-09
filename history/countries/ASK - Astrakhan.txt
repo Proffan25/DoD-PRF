@@ -1,21 +1,25 @@
-capital = 1036
-primary_culture = astrakhani 
-culture = north_caucasian
-religion = sunni
+capital = 1054
+primary_culture = north_caucasian
+culture = tatar
+religion = animist
 government = absolute_monarchy
-plurality = 0.02
-nationalvalue = nv_order
-literacy = 0.1
+plurality = 25.0
+nationalvalue = nv_productivity
+literacy = 0.01
+non_state_culture_literacy = 0.01
+prestige = 1
 
 # Political reforms
 slavery = yes_slavery
 upper_house_composition = appointed
-vote_franschise = wealth_voting
-public_meetings = yes_meeting
-press_rights = censored_press
+vote_franschise = none_voting
+public_meetings = no_meeting
+press_rights = state_press
 trade_unions = no_trade_unions
-voting_system = first_past_the_post
-political_parties = non_secret_ballots
+voting_system = jefferson_method
+political_parties = underground_parties
+
+
 # Social Reforms
 wage_reform = no_minimum_wage
 work_hours = no_work_hour_limit
@@ -24,53 +28,19 @@ health_care = no_health_care
 unemployment_subsidies = no_subsidies
 pensions = no_pensions
 school_reforms = no_schools
-# New Reforms
-conscription = one_year_draft
-debt_law = serfdom
-penal_system = capital_punishment
-child_labor = child_labor_legal
-citizens_rights = primary_culture_only
-border_policy = open_borders
 
+oob = "CIR_oob.txt"
 
-ruling_party = AAA_conservative_3
+ruling_party = CIR_conservative
+last_election = 1834.1.1
 upper_house = {
 	fascist = 0
-	liberal = 13
-	conservative = 68
-	reactionary = 19
+	liberal = 35
+	conservative = 55
+	reactionary = 10
 	anarcho_liberal = 0
 	socialist = 0
 	communist = 0
 }
 
-# Level_3
-# Technologies
-early_classical_theory_and_critique = 1
-late_enlightenment_philosophy = 1
-enlightenment_thought = 1
-private_banks = 1
-bronze_muzzle_loaded_artillery = 1
-no_standard = 1
-military_staff_system = 1
-introspectionism = 1
-army_command_principle = 1
-flintlock_rifles = 1
-post_napoleonic_thought = 1
 
-# Inventions
-
-# Unciv Reforms
-admin_reform = yes_admin_reform
-army_schools = yes_army_schools
-finance_reform = yes_finance_reform
-foreign_training = yes_foreign_training
-
-
-# Starting Consciousness
-consciousness = 0
-nonstate_consciousness = 0
-
-oob = "ASK_oob.txt"
-
-set_country_flag = sunni_country

@@ -1,12 +1,15 @@
 capital = 1226
 primary_culture = tibetan
-religion = gelugpa
+religion = animist
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_order
-literacy = 0.02
+literacy = 0.01
+is_releasable_vassal = no
 
-ruling_party = AAA_conservative_2
+set_country_flag = has_lapsed
+
+ruling_party = LAD_conservative
 upper_house = {
 	fascist = 0
 	liberal = 15
@@ -22,6 +25,7 @@ consciousness = 0
 nonstate_consciousness = 0
 
 oob = "LAD_oob.txt"
+
 
 slavery = no_slavery
 upper_house_composition = appointed
@@ -39,16 +43,3 @@ health_care = no_health_care
 unemployment_subsidies = no_subsidies
 pensions = no_pensions 
 school_reforms = no_schools
-
-#New Reforms
-conscription = two_year_draft
-debt_law = peonage
-penal_system = capital_punishment
-child_labor = child_labor_legalcitizens_rights = culture_voting_only
-border_policy = open_borders
-
-set_country_flag = gelugpa_country
-
-# Inventions
-#bottling_process = yes
-modern_winemaking = yes

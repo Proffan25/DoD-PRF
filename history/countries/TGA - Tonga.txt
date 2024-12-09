@@ -1,17 +1,19 @@
 capital = 2540
 primary_culture = polynesian
-religion = protestant
+religion = animist
 government = absolute_monarchy
 plurality = 0.0
-nationalvalue = nv_tradition
-literacy = 0.1
+nationalvalue = nv_order
+literacy = 0.01
+non_state_culture_literacy = 0
+is_releasable_vassal = no	#In accordance with group rules
 
 # Political reforms
 slavery = no_slavery
 upper_house_composition = appointed
 vote_franschise = none_voting
 public_meetings = yes_meeting
-press_rights = state_press
+press_rights = censored_press
 trade_unions = no_trade_unions
 voting_system = first_past_the_post
 political_parties = underground_parties
@@ -25,16 +27,7 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions
 school_reforms = no_schools
 
-# New Reforms
-conscription = no_draft
-debt_law = peonage
-penal_system = capital_punishment
-child_labor = child_labor_legalcitizens_rights = primary_culture_only
-border_policy = open_borders
-
-set_country_flag = protestant_country
-
-ruling_party = HAW_conservative
+ruling_party = TGA_conservative
 upper_house = {
 	fascist = 0
 	liberal = 28
@@ -45,7 +38,15 @@ upper_house = {
 	communist = 0
 }
 
-# Inventions
-#bottling_process = yes
-modern_winemaking = yes
+#Economic Reforms
+industrial_construction = yes_western_science
 
+#Military Reforms
+foreign_weapons = yes_foreign_weapons
+	
+
+# Technologies
+flintlock_rifles = 1
+late_enlightenment_philosophy = 1
+
+# Inventions

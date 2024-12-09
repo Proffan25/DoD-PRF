@@ -1,12 +1,16 @@
 capital = 2463
 primary_culture = lotharian
-religion = protestant
+religion = animist
 government = presidential_dictatorship
-plurality = 0.0
-nationalvalue = nv_order
-literacy = 0.38
+plurality = 25.0
+nationalvalue = nv_productivity
+literacy = 0.32
+non_state_culture_literacy = 0.01
 civilized = yes
 prestige = 5
+
+set_country_flag = new_world_nation
+set_country_flag = south_american_immigrant_nation
 
 # Political reforms
 slavery = yes_slavery
@@ -27,24 +31,13 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions
 school_reforms = no_schools
 
-# New Reforms
-conscription = two_year_draft
-debt_law = serfdom
-penal_system = capital_punishment
-child_labor = child_labor_legal
-citizens_rights = primary_culture_only
-border_policy = quota_immigration
-
-set_country_flag = protestant_country
-set_country_flag = new_world_nation
-
-ruling_party = AAA_reactionary_2
-last_election = 1828.12.3
+ruling_party = BRZ_conservative
+last_election = 1835.1.1
 upper_house = {
 	fascist = 0
-	liberal = 0
-	conservative = 25
-	reactionary = 75
+	liberal = 25
+	conservative = 60
+	reactionary = 15
 	anarcho_liberal = 0
 	socialist = 0
 	communist = 0
@@ -60,26 +53,27 @@ post_nelsonian_thought = 1
 clipper_design = 1
 naval_design_bureaus = 1
 alphabetic_flag_signaling = 1
+the_command_principle = 1
+classicism_n_early_romanticism = 1
 late_enlightenment_philosophy = 1
 malthusian_thought = 1
 enlightenment_thought = 1
 introspectionism = 1
 private_banks = 1
+stock_exchange = 1
 no_standard = 1
 early_classical_theory_and_critique = 1
 freedom_of_trade = 1
 guild_based_production = 1
-piston_steam_engine = 1
+water_wheel_power = 1
+publishing_industry = 1
 mechanized_mining = 1
 basic_chemistry = 1
 
-#Inventions
-#corvettes = yes
+# Inventions
 
-# Starting Consciousness
-consciousness = 2
+#Starting Consciousness
+consciousness = 3
 nonstate_consciousness = 1
-
-schools = army_tech_school
 
 oob = "LOT_oob.txt"

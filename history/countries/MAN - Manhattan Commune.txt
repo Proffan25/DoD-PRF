@@ -5,7 +5,7 @@ religion = animist
 government = democracy
 plurality = 0.5
 nationalvalue = nv_productivity
-literacy = 0.50
+literacy = 0.01
 civilized = yes
 is_releasable_vassal = no
 
@@ -40,13 +40,4 @@ upper_house = {
 	anarcho_liberal = 0
 	socialist = 0
 	communist = 0
-}
-
-1861.1.1 = {
-	oob = "/1861/MAN_oob.txt"
-}
-1861.1.1 = {
-# Technologies
-
-#Inventions
 }

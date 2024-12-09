@@ -9,7 +9,7 @@ party = {
 
 	ideology = conservative
 
-	social_policy = no_position_set
+	#social_policy = no_position_set
 	economic_policy = state_capitalism
 	trade_policy = protectionism
 	religious_policy = moralism
@@ -24,7 +24,7 @@ party = {
 
 	ideology = liberal
 
-	social_policy = no_position_set
+	#social_policy = no_position_set
 	economic_policy = state_capitalism
 	trade_policy = protectionism
 	religious_policy = pluralism
@@ -39,7 +39,7 @@ party = {
 
 	ideology = anarcho_liberal
 
-	social_policy = no_state_interference
+	#social_policy = no_state_interference
 	economic_policy = state_capitalism
 	trade_policy = free_trade
 	religious_policy = secularized
@@ -54,7 +54,7 @@ party = {
 
 	ideology = liberal
 
-	social_policy = no_position_set
+	#social_policy = no_position_set
 	economic_policy = laissez_faire
 	trade_policy = free_trade
 	religious_policy = secularized
@@ -69,7 +69,7 @@ party = {
 
 	ideology = liberal
 
-	social_policy = no_position_set
+	#social_policy = no_position_set
 	economic_policy = interventionism
 	trade_policy = free_trade
 	religious_policy = pluralism
@@ -84,7 +84,7 @@ party = {
 
 	ideology = socialist
 
-	social_policy = welfare_state
+	#social_policy = welfare_state
 	economic_policy = planned_economy
 	trade_policy = protectionism
 	religious_policy = secularized
@@ -99,7 +99,7 @@ party = {
 
 	ideology = communist
 
-	social_policy = populist_welfare
+	#social_policy = populist_welfare
 	economic_policy = planned_economy
 	trade_policy = protectionism
 	religious_policy = pro_atheism
@@ -114,7 +114,7 @@ party = {
 
 	ideology = fascist
 
-	social_policy = populist_welfare
+	#social_policy = populist_welfare
 	economic_policy = state_capitalism
 	trade_policy = protectionism
 	religious_policy = moralism
@@ -129,7 +129,7 @@ party = {
 
 	ideology = conservative
 
-	social_policy = no_position_set
+	#social_policy = no_position_set
 	economic_policy = interventionism
 	trade_policy = protectionism
 	religious_policy = moralism
@@ -144,7 +144,7 @@ party = {
 
 	ideology = reactionary
 
-	social_policy = no_position_set
+	#social_policy = no_position_set
 	economic_policy = state_capitalism
 	trade_policy = protectionism
 	religious_policy = moralism

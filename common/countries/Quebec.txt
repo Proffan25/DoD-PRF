@@ -8,7 +8,7 @@ party = {
 
 	ideology = liberal
 
-	social_policy = no_position_set
+	#social_policy = no_position_set
 	economic_policy = interventionism
 	trade_policy = protectionism
 	religious_policy = pluralism
@@ -23,7 +23,7 @@ party = {
 
 	ideology = liberal
 
-	social_policy = no_position_set
+	#social_policy = no_position_set
 	economic_policy = interventionism
 	trade_policy = free_trade
 	religious_policy = pluralism
@@ -38,7 +38,7 @@ party = {
 
 	ideology = conservative
 
-	social_policy = no_position_set
+	#social_policy = no_position_set
 	economic_policy = laissez_faire
 	trade_policy = protectionism
 	religious_policy = moralism
@@ -53,7 +53,7 @@ party = {
 
 	ideology = socialist
 
-	social_policy = welfare_state
+	#social_policy = welfare_state
 	economic_policy = state_capitalism
 	trade_policy = protectionism
 	religious_policy = secularized
@@ -68,7 +68,7 @@ party = {
 
 	ideology = liberal
 
-	social_policy = no_position_set
+	#social_policy = no_position_set
 	economic_policy = interventionism
 	trade_policy = protectionism
 	religious_policy = pluralism
@@ -83,7 +83,7 @@ party = {
 
 	ideology = reactionary
 
-	social_policy = no_position_set
+	#social_policy = no_position_set
 	economic_policy = state_capitalism
 	trade_policy = protectionism
 	religious_policy = moralism
@@ -98,7 +98,7 @@ party = {
 
 	ideology = anarcho_liberal
 
-	social_policy = no_state_interference
+	#social_policy = no_state_interference
 	economic_policy = laissez_faire
 	trade_policy = free_trade
 	religious_policy = pro_atheism
@@ -113,7 +113,7 @@ party = {
 
 	ideology = communist
 
-	social_policy = populist_welfare
+	#social_policy = populist_welfare
 	economic_policy = planned_economy
 	trade_policy = protectionism
 	religious_policy = pro_atheism
@@ -128,7 +128,7 @@ party = {
 
 	ideology = fascist
 
-	social_policy = populist_welfare
+	#social_policy = populist_welfare
 	economic_policy = state_capitalism
 	trade_policy = protectionism
 	religious_policy = moralism
@@ -138,29 +138,29 @@ party = {
 
 unit_names = {
 	dreadnought = {
-		Québec Montréal Acadie Canada Cartier Montcalm "De la Salle" Détroit Vaudreuil Frontenac Chevalier "Saint-Laurent" 
-		"Trois-Rivières" Champlain Richelieu 
+		Quï¿½bec Montrï¿½al Acadie Canada Cartier Montcalm "De la Salle" Dï¿½troit Vaudreuil Frontenac Chevalier "Saint-Laurent" 
+		"Trois-Riviï¿½res" Champlain Richelieu 
 		
 	}
 	ironclad = {
-		Québec Montréal Acadie Canada Cartier Montcalm "De la Salle" Détroit Vaudreuil Frontenac Chevalier "Saint-Laurent" 
-		"Trois-Rivières" Champlain Richelieu
+		Quï¿½bec Montrï¿½al Acadie Canada Cartier Montcalm "De la Salle" Dï¿½troit Vaudreuil Frontenac Chevalier "Saint-Laurent" 
+		"Trois-Riviï¿½res" Champlain Richelieu
 	}
 	manowar = {
-		Québec Montréal Acadie Canada Cartier Montcalm "De la Salle" Détroit Vaudreuil Frontenac Chevalier "Saint-Laurent" 
-		"Trois-Rivières" Champlain Richelieu 
+		Quï¿½bec Montrï¿½al Acadie Canada Cartier Montcalm "De la Salle" Dï¿½troit Vaudreuil Frontenac Chevalier "Saint-Laurent" 
+		"Trois-Riviï¿½res" Champlain Richelieu 
 	}
 	cruiser = {
-		Québec Montréal Acadie Canada Cartier Montcalm "De la Salle" Détroit Vaudreuil Frontenac Chevalier "Saint-Laurent" 
-		"Trois-Rivières" Champlain Richelieu 
+		Quï¿½bec Montrï¿½al Acadie Canada Cartier Montcalm "De la Salle" Dï¿½troit Vaudreuil Frontenac Chevalier "Saint-Laurent" 
+		"Trois-Riviï¿½res" Champlain Richelieu 
 	}
 	frigate = {
-		Québec Montréal Acadie Canada Cartier Montcalm "De la Salle" Détroit Vaudreuil Frontenac Chevalier "Saint-Laurent" 
-		"Trois-Rivières" Champlain Richelieu 
+		Quï¿½bec Montrï¿½al Acadie Canada Cartier Montcalm "De la Salle" Dï¿½troit Vaudreuil Frontenac Chevalier "Saint-Laurent" 
+		"Trois-Riviï¿½res" Champlain Richelieu 
 	}
 	monitor = {
-		Québec Montréal Acadie Canada Cartier Montcalm "De la Salle" Détroit Vaudreuil Frontenac Chevalier "Saint-Laurent" 
-		"Trois-Rivières" Champlain Richelieu 
+		Quï¿½bec Montrï¿½al Acadie Canada Cartier Montcalm "De la Salle" Dï¿½troit Vaudreuil Frontenac Chevalier "Saint-Laurent" 
+		"Trois-Riviï¿½res" Champlain Richelieu 
 	}
 	clipper_transport = {
 		
@@ -169,7 +169,7 @@ unit_names = {
 		
 	}
 	commerce_raider = {
-		Québec Montréal Acadie Canada Cartier Montcalm "De la Salle" Détroit Vaudreuil Frontenac Chevalier "Saint-Laurent" 
-		"Trois-Rivières" Champlain Richelieu 
+		Quï¿½bec Montrï¿½al Acadie Canada Cartier Montcalm "De la Salle" Dï¿½troit Vaudreuil Frontenac Chevalier "Saint-Laurent" 
+		"Trois-Riviï¿½res" Champlain Richelieu 
 	}
 }

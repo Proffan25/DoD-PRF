@@ -1,11 +1,15 @@
 capital = 2313
 primary_culture = quechua
-culture = aimara
-religion = inti
+religion = animist
 government = absolute_monarchy
-plurality = 0.0
-nationalvalue = nv_autocracy
-literacy = 0.05
+plurality = 25.0
+nationalvalue = nv_order
+literacy = 0.2
+non_state_culture_literacy = 0.01
+civilized = yes
+prestige = 5
+
+set_country_flag = new_world_nation
 
 # Political reforms
 slavery = yes_slavery
@@ -26,56 +30,42 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions 
 school_reforms = no_schools
 
-# New Reforms
-conscription = mandatory_service
-debt_law = debtors_prisons
-penal_system = capital_punishment
-child_labor = child_labor_legal
-citizens_rights = culture_voting_only
-border_policy = closed_borders
 
-ruling_party = AAA_reactionary_1
+ruling_party = CHL_conservative
+last_election = 1831.1.1
 upper_house = {
 	fascist = 0
-	liberal = 16
-	conservative = 63
-	reactionary = 21
+	liberal = 29
+	conservative = 52
+	reactionary = 19
 	anarcho_liberal = 0
 	socialist = 0
 	communist = 0
 }
 
-# Level_4
 # Technologies
-early_classical_theory_and_critique = 1
+post_napoleonic_thought = 1
+flintlock_rifles = 1
+bronze_muzzle_loaded_artillery = 1
+military_staff_system = 1
+army_command_principle = 1
+post_nelsonian_thought = 1
+the_command_principle = 1
+private_banks = 1
+no_standard = 1
+guild_based_production = 1
+classicism_n_early_romanticism = 1
 late_enlightenment_philosophy = 1
 enlightenment_thought = 1
-private_banks = 1
-bronze_muzzle_loaded_artillery = 1
-flintlock_rifles = 1
-no_standard = 1
-military_staff_system = 1
-post_napoleonic_thought = 1
-introspectionism = 1
-army_command_principle = 1
-malthusian_thought = 1
+water_wheel_power = 1
+publishing_industry = 1
+mechanized_mining = 1
 basic_chemistry = 1
-freedom_of_trade = 1
+
 # Inventions
 
-# Unciv Reforms
-admin_reform = yes_admin_reform
-army_schools = yes_army_schools
-foreign_weapons = yes_foreign_weapons
-foreign_training = yes_foreign_training
-military_constructions = yes_military_constructions
-foreign_officers = yes_foreign_officers
-education_reform = yes_education_reform
-
-# Starting Consciousness
-consciousness = 0
+#Starting Consciousness
+consciousness = 2
 nonstate_consciousness = 0
 
-schools = culture_tech_school
-
-oob = "INC_oob.txt"
+oob = "CHL_oob.txt"

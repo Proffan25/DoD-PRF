@@ -1,13 +1,12 @@
-capital = 1416
+capital = 1413
 primary_culture = javan
-religion = sunni
+religion = animist
 government = absolute_monarchy
 plurality = 0.0
-nationalvalue = nv_tradition
+nationalvalue = nv_order
 literacy = 0.01
-non_state_culture_literacy = 0.01
 
-ruling_party = AAA_conservative_3
+ruling_party = JAV_conservative
 upper_house = {
 	fascist = 0
 	liberal = 15
@@ -17,6 +16,8 @@ upper_house = {
 	socialist = 0
 	communist = 0
 }
+
+
 
 slavery = no_slavery
 upper_house_composition = appointed
@@ -34,16 +35,3 @@ health_care = no_health_care
 unemployment_subsidies = no_subsidies
 pensions = no_pensions 
 school_reforms = no_schools
-
-# New Reforms
-conscription = mandatory_service
-debt_law = peonage
-penal_system = capital_punishment
-child_labor = child_labor_legalcitizens_rights = primary_culture_only
-border_policy = closed_borders
-
-foreign_weapons = yes_foreign_weapons
-foreign_officers = yes_foreign_officers
-flintlock_rifles = 1
-
-set_country_flag = sunni_country

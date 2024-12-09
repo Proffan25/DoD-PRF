@@ -1,11 +1,10 @@
 capital = 1928
-primary_culture = edo
-culture = african_minor
+primary_culture = polar_bears
 religion = animist
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_order
-literacy = 0.03
+literacy = 0.01
 non_state_culture_literacy = 0
 
 set_country_flag = conquerable_1865
@@ -54,20 +53,3 @@ consciousness = 0
 nonstate_consciousness = 0
 
 oob = "BEN_oob.txt"
-1861.1.1 = {
-	oob = "/1861/BEN_oob.txt"
-}
-1861.1.1 = {
-
-foreign_weapons = foreign_weapons_two
-
-
-# Technologies
-flintlock_rifles = 1
-muzzle_loaded_rifles = 1
-private_banks = 1
-early_classical_theory_and_critique = 1
-
-# Inventions
-
-}

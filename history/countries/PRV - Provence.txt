@@ -1,16 +1,19 @@
-capital = 470
-primary_culture = provencal
-culture = french
+capital = 425
+primary_culture = french
 culture = north_italian
-religion = catholic
+religion = animist
 government = prussian_constitutionalism
-plurality = 5
+plurality = 25
 nationalvalue = nv_equality
 literacy = 0.5
+non_state_culture_literacy = 0.01
 civilized = yes
 
+#GreaterPowers = prestige
+
+
 # Political reforms
-slavery = yes_slavery
+slavery = no_slavery
 upper_house_composition = appointed
 vote_franschise = landed_voting
 public_meetings = yes_meeting
@@ -28,16 +31,6 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions 
 school_reforms = no_schools
 
-# New Reforms
-conscription = two_year_draft
-debt_law = debtors_prisons
-penal_system = capital_punishment
-child_labor = child_labor_legal
-citizens_rights = culture_voting_only
-border_policy = quota_immigration
-
-set_country_flag = catholic_country
-
 # Technologies
 post_napoleonic_thought = 1
 flintlock_rifles = 1
@@ -45,23 +38,34 @@ bronze_muzzle_loaded_artillery = 1
 military_staff_system = 1
 army_command_principle = 1
 post_nelsonian_thought = 1
+battleship_column_doctrine = 1
 clipper_design = 1
+steamers = 1
 naval_design_bureaus = 1
 alphabetic_flag_signaling = 1
 the_command_principle = 1
-classicism_n_early_romanticism = 1
-late_enlightenment_philosophy = 1
-malthusian_thought = 1
-enlightenment_thought = 1
-introspectionism = 1
 private_banks = 1
 no_standard = 1
 early_classical_theory_and_critique = 1
 freedom_of_trade = 1
 guild_based_production = 1
-piston_steam_engine = 1
+classicism_n_early_romanticism = 1
+late_enlightenment_philosophy = 1
+malthusian_thought = 1
+enlightenment_thought = 1
+introspectionism = 1
+water_wheel_power = 1
+publishing_industry = 1
 mechanized_mining = 1
+experimental_railroad = 1
 basic_chemistry = 1
+stock_exchange = 1
+ad_hoc_money_bill_printing = 1
+#private_bank_money_bill_printing = 1
+market_structure = 1
+romanticism = 1
+practical_steam_engine = 1
+mechanical_production = 1
 
 # Inventions
 #corvettes = yes
@@ -71,7 +75,7 @@ commerce_raiders = yes
 consciousness = 3
 nonstate_consciousness = 1
 
-ruling_party = AAA_conservative_3
+ruling_party = FRA_liberal
 last_election = 1834.6.21
 upper_house = {
 	fascist = 0
@@ -83,4 +87,10 @@ upper_house = {
 	communist = 0
 }
 
-oob = "PRV_oob.txt"
+govt_flag = {
+	government = hms_government
+	flag = presidential_dictatorship
+}
+
+schools = culture_tech_school
+

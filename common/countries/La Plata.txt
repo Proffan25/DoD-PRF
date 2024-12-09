@@ -7,7 +7,7 @@ party = {
 
 	ideology = liberal
 
-	social_policy = no_position_set
+	#social_policy = no_position_set
 	economic_policy = laissez_faire
 	trade_policy = free_trade
 	religious_policy = moralism
@@ -22,7 +22,7 @@ party = {
 
 	ideology = liberal
 
-	social_policy = no_position_set
+	#social_policy = no_position_set
 	economic_policy = laissez_faire
 	trade_policy = free_trade
 	religious_policy = pluralism
@@ -37,7 +37,7 @@ party = {
 
 	ideology = conservative
 
-	social_policy = no_position_set
+	#social_policy = no_position_set
 	economic_policy = interventionism
 	trade_policy = free_trade
 	religious_policy = moralism
@@ -52,7 +52,7 @@ party = {
 
 	ideology = conservative
 
-	social_policy = no_position_set
+	#social_policy = no_position_set
 	economic_policy = interventionism
 	trade_policy = free_trade
 	religious_policy = moralism
@@ -67,7 +67,7 @@ party = {
 
 	ideology = conservative
 
-	social_policy = no_position_set
+	#social_policy = no_position_set
 	economic_policy = interventionism
 	trade_policy = free_trade
 	religious_policy = moralism
@@ -82,7 +82,7 @@ party = {
 
 	ideology = conservative
 
-	social_policy = no_position_set
+	#social_policy = no_position_set
 	economic_policy = interventionism
 	trade_policy = free_trade
 	religious_policy = moralism
@@ -97,7 +97,7 @@ party = {
 
 	ideology = liberal
 
-	social_policy = no_position_set
+	#social_policy = no_position_set
 	economic_policy = interventionism
 	trade_policy = free_trade
 	religious_policy = pluralism
@@ -112,7 +112,7 @@ party = {
 
 	ideology = socialist
 
-	social_policy = welfare_state
+	#social_policy = welfare_state
 	economic_policy = state_capitalism
 	trade_policy = free_trade
 	religious_policy = pro_atheism
@@ -127,7 +127,7 @@ party = {
 
 	ideology = conservative
 
-	social_policy = no_position_set
+	#social_policy = no_position_set
 	economic_policy = interventionism
 	trade_policy = free_trade
 	religious_policy = moralism
@@ -142,7 +142,7 @@ party = {
 
 	ideology = liberal
 
-	social_policy = no_position_set
+	#social_policy = no_position_set
 	economic_policy = interventionism
 	trade_policy = free_trade
 	religious_policy = secularized
@@ -157,7 +157,7 @@ party = {
 
 	ideology = reactionary
 
-	social_policy = no_position_set
+	#social_policy = no_position_set
 	economic_policy = state_capitalism
 	trade_policy = protectionism
 	religious_policy = moralism
@@ -172,7 +172,7 @@ party = {
 
 	ideology = anarcho_liberal
 
-	social_policy = no_state_interference
+	#social_policy = no_state_interference
 	economic_policy = laissez_faire
 	trade_policy = free_trade
 	religious_policy = pro_atheism
@@ -187,7 +187,7 @@ party = {
 
 	ideology = communist
 
-	social_policy = populist_welfare
+	#social_policy = populist_welfare
 	economic_policy = planned_economy
 	trade_policy = protectionism
 	religious_policy = pro_atheism
@@ -202,7 +202,7 @@ party = {
 
 	ideology = fascist
 
-	social_policy = populist_welfare
+	#social_policy = populist_welfare
 	economic_policy = state_capitalism
 	trade_policy = protectionism
 	religious_policy = moralism
@@ -212,43 +212,43 @@ party = {
 
 unit_names = {
 	dreadnought = {
-		"Alvear" "Argentina" "General Rosas" "Moreno" "Paz" "Presidente Avellaneda" "Río de la Plata" "Rivadavia" "San Martín" "Urquiza" 
+		"Alvear" "Argentina" "General Rosas" "Moreno" "Paz" "Presidente Avellaneda" "Rï¿½o de la Plata" "Rivadavia" "San Martï¿½n" "Urquiza" 
 		"Yrigoyen"
 	}
 	ironclad = {
-		"Almirante Brown" "Bouchard" "Campichuelo" "Cepeda" "De las Heras" "Federación" "Huamitá" "Independencia" "Júpiter" "Lavalle"
-		"Libertad" "Marte" "Mercurio" "Neptuno" "Pavón" "Plutón" "Salado" "Salta" "Suipacha" "Thomas"
+		"Almirante Brown" "Bouchard" "Campichuelo" "Cepeda" "De las Heras" "Federaciï¿½n" "Huamitï¿½" "Independencia" "Jï¿½piter" "Lavalle"
+		"Libertad" "Marte" "Mercurio" "Neptuno" "Pavï¿½n" "Plutï¿½n" "Salado" "Salta" "Suipacha" "Thomas"
 	}
 	manowar = {
-		"América" "Aquíles" "Argentina" "Argonauta" "Furor" "Héroe" "Libertador" "Navegante" "Perla Negra" "Río de la Plata"
-		"Salvador" "San Bernardo" "San Claudio" "San Honorato" "San Joaquín" "Santa Ana" "Santa María" "Santiago" "Terror" "Victoriosa"
+		"Amï¿½rica" "Aquï¿½les" "Argentina" "Argonauta" "Furor" "Hï¿½roe" "Libertador" "Navegante" "Perla Negra" "Rï¿½o de la Plata"
+		"Salvador" "San Bernardo" "San Claudio" "San Honorato" "San Joaquï¿½n" "Santa Ana" "Santa Marï¿½a" "Santiago" "Terror" "Victoriosa"
 	}
 	cruiser = {
-		"Almirante Brown" "Álvarez Jonte" "Belgrano" "Buenos Aires" "Castelli" "Chichlana" "Garibaldi" "Güemes" "Liniers" "Matheu"
-		"Mitre" "Nueve de Julio" "Paso" "Patagonia" "Patria" "Pueyrredón" "Roca" "San Martín" "Sarratea" "Veinticinco de Mayo"
+		"Almirante Brown" "ï¿½lvarez Jonte" "Belgrano" "Buenos Aires" "Castelli" "Chichlana" "Garibaldi" "Gï¿½emes" "Liniers" "Matheu"
+		"Mitre" "Nueve de Julio" "Paso" "Patagonia" "Patria" "Pueyrredï¿½n" "Roca" "San Martï¿½n" "Sarratea" "Veinticinco de Mayo"
 	}
 	frigate = {
-		"Azopardo" "Cervantes" "Espora" "Garay" "Hércules" "Heroína" "La Argentina" "La Libertad" "Murillo" "Parker"
-		"Piedra Buena" "Presidente Sarmiento" "República" "Robinson" "Rondeau" "Rosales" "Saavedra" "Santísima Trinidad" "Sarandí" "Spiro"
+		"Azopardo" "Cervantes" "Espora" "Garay" "Hï¿½rcules" "Heroï¿½na" "La Argentina" "La Libertad" "Murillo" "Parker"
+		"Piedra Buena" "Presidente Sarmiento" "Repï¿½blica" "Robinson" "Rondeau" "Rosales" "Saavedra" "Santï¿½sima Trinidad" "Sarandï¿½" "Spiro"
 	}
 	monitor = {
 		"El Plata" "Formosa" "Gran Chaco" "La Pampa" "Lago Argentino" "Los Andes" "Mesopotamia" "Posadas" "Rawson" "Resistencia"
-		"San Fernando del Valle" "San Miguel" "San Salvador" "Santa Rosa" "Sirena" "Somuncurá" "Tetis" "Tritón" "Viedma" "Vulcano"
+		"San Fernando del Valle" "San Miguel" "San Salvador" "Santa Rosa" "Sirena" "Somuncurï¿½" "Tetis" "Tritï¿½n" "Viedma" "Vulcano"
 	}
 	clipper_transport = { 
-		"Águila" "Apolo" "Atlántida" "Audaz" "Ceres" "Cóndor" "Cruel" "Delfín" "Eolo" "Esperanza"
-		"Fénix" "Fidela" "Flora" "Hera" "Iris" "Lanza" "Minerva" "Minotauro" "Movimiento" "Odisea"
-		"Platense" "Proserpina" "Providencia" "Prueba" "Puma" "Rayo" "Relámpago" "Salvadora" "San José" "San Juan Bautista"
-		"Santa María" "Servidora" "Temeraria" "Tiburón" "Tranquila" "Triunfo" "Ulíses" "Veloz" "Victoria" "Voladora"
+		"ï¿½guila" "Apolo" "Atlï¿½ntida" "Audaz" "Ceres" "Cï¿½ndor" "Cruel" "Delfï¿½n" "Eolo" "Esperanza"
+		"Fï¿½nix" "Fidela" "Flora" "Hera" "Iris" "Lanza" "Minerva" "Minotauro" "Movimiento" "Odisea"
+		"Platense" "Proserpina" "Providencia" "Prueba" "Puma" "Rayo" "Relï¿½mpago" "Salvadora" "San Josï¿½" "San Juan Bautista"
+		"Santa Marï¿½a" "Servidora" "Temeraria" "Tiburï¿½n" "Tranquila" "Triunfo" "Ulï¿½ses" "Veloz" "Victoria" "Voladora"
 	}
 	steam_transport = { 
-		"Águila" "Apolo" "Atlántida" "Audaz" "Ceres" "Cóndor" "Cruel" "Delfín" "Eolo" "Esperanza"
-		"Fénix" "Fidela" "Flora" "Hera" "Iris" "Lanza" "Minerva" "Minotauro" "Movimiento" "Odisea"
-		"Platense" "Proserpina" "Providencia" "Prueba" "Puma" "Rayo" "Relámpago" "Salvadora" "San José" "San Juan Bautista"
-		"Santa María" "Servidora" "Temeraria" "Tiburón" "Tranquila" "Triunfo" "Ulíses" "Veloz" "Victoria" "Voladora"
+		"ï¿½guila" "Apolo" "Atlï¿½ntida" "Audaz" "Ceres" "Cï¿½ndor" "Cruel" "Delfï¿½n" "Eolo" "Esperanza"
+		"Fï¿½nix" "Fidela" "Flora" "Hera" "Iris" "Lanza" "Minerva" "Minotauro" "Movimiento" "Odisea"
+		"Platense" "Proserpina" "Providencia" "Prueba" "Puma" "Rayo" "Relï¿½mpago" "Salvadora" "San Josï¿½" "San Juan Bautista"
+		"Santa Marï¿½a" "Servidora" "Temeraria" "Tiburï¿½n" "Tranquila" "Triunfo" "Ulï¿½ses" "Veloz" "Victoria" "Voladora"
 	}
 	commerce_raider = {
-		"Bermejo" "Catamarca" "Constitución" "Córdoba" "Corrientes" "Entrerríos" "Jujuy" "La Plata" "La Rioja" "Mendoza"
-		"Misiones" "Paraná" "Pilcomayo" "Rosario" "San Juan" "San Luis" "Santa Cruz" "Sol Argentino" "Tucumán" "Uruguay"
+		"Bermejo" "Catamarca" "Constituciï¿½n" "Cï¿½rdoba" "Corrientes" "Entrerrï¿½os" "Jujuy" "La Plata" "La Rioja" "Mendoza"
+		"Misiones" "Paranï¿½" "Pilcomayo" "Rosario" "San Juan" "San Luis" "Santa Cruz" "Sol Argentino" "Tucumï¿½n" "Uruguay"
 	}
 }

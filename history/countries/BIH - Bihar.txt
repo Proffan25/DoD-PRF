@@ -1,11 +1,12 @@
-capital = 1283
-primary_culture = bihari
-religion = hindu
+capital = 1247
+primary_culture = polar_bears
+religion = animist
 government = absolute_monarchy
 plurality = 0.0
-nationalvalue = nv_tradition
+nationalvalue = nv_order
 literacy = 0.1
-non_state_culture_literacy = 0.05
+
+set_country_flag = has_lapsed
 
 # Political reforms
 slavery = no_slavery
@@ -14,7 +15,7 @@ vote_franschise = none_voting
 public_meetings = no_meeting
 press_rights = state_press
 trade_unions = no_trade_unions
-voting_system = first_past_the_post
+voting_system = jefferson_method
 political_parties = underground_parties
 
 # Social Reforms
@@ -26,20 +27,7 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions
 school_reforms = no_schools
 
-#New Reforms
-conscription = one_year_draft
-debt_law = peonage
-penal_system = capital_punishment
-child_labor = child_labor_legalcitizens_rights = culture_voting_only
-border_policy = open_borders
-
-set_country_flag = hindu_country
-
-# Inventions
-#bottling_process = yes
-modern_winemaking = yes
-
-ruling_party = AAA_conservative_4
+ruling_party = BIH_conservative
 upper_house = {
 	fascist = 0
 	liberal = 11
@@ -49,3 +37,13 @@ upper_house = {
 	socialist = 0
 	communist = 0
 }
+
+foreign_weapons = yes_foreign_weapons
+
+# Technologies
+flintlock_rifles = 1
+late_enlightenment_philosophy = 1
+early_classical_theory_and_critique = 1
+
+# Inventions
+
