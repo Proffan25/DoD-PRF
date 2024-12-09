@@ -1,6 +1,7 @@
-owner = SUL
-controller = SUL
-add_core = NUS
-add_core = SUL
+owner = SCA
+controller = SCA
+add_core = PHL
 trade_goods = fish
 life_rating = 35
+colonial = 2
+

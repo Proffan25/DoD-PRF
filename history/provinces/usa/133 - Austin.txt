@@ -2,14 +2,12 @@ owner = CLM
 controller = CLM
 add_core = CLM
 add_core = LST
-add_core = PLA
 trade_goods = cattle
 life_rating = 35
-
-1835.1.1 = {
-	controller = SPA
-} 
-
-1837.1.1 = {
-	controller = CLM
+1861.1.1 = {
+	controller = CSA
+	owner = CSA
+	add_core = CSA
+	add_core = USA
 }
+

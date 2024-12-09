@@ -1,7 +1,6 @@
 owner = LOT
 controller = LOT
 add_core = LOT
-add_core = AVA
 trade_goods = sulphur
-terrain = savanna
-life_rating = 25
+life_rating = 35
+

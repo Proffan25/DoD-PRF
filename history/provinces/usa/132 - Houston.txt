@@ -2,15 +2,20 @@ owner = CLM
 controller = CLM
 add_core = CLM
 add_core = LST
-add_core = PLA
-naval_base = 1
 trade_goods = cattle
 life_rating = 35
-
-1835.1.1 = {
-	controller = SPA
-} 
-
-1837.1.1 = {
-	controller = CLM
+1861.1.1 = {
+add_core = USA
 }
+1861.1.1 = {
+	controller = CSA
+	owner = CSA
+	add_core = CSA
+#	state_building = {
+#		level = 1
+#		building = canned_food_factory
+#		upgrade = yes
+#	}
+}
+1861.1.1 = { railroad = 2 }
+

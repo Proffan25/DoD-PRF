@@ -1,9 +1,9 @@
 capital = 2447
 primary_culture = brazilian
 culture = afro_brazilian
-religion = animist
+religion = catholic
 government = democracy
-plurality = 25.0
+plurality = 0.0
 nationalvalue = nv_productivity
 literacy = 0.01
 non_state_culture_literacy = 0.01

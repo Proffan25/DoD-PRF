@@ -1,9 +1,9 @@
 capital = 2204
 primary_culture = central_american
 culture = north_andean
-religion = animist
+religion = catholic
 government = presidential_dictatorship
-plurality = 0.1
+plurality = 0.0
 nationalvalue = nv_productivity
 literacy = 0.01
 civilized = yes

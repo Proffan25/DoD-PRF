@@ -1,5 +1,7 @@
-owner = FUN
-controller = FUN
-add_core = FUN
+owner = EGY
+controller = EGY
+add_core = EGY
 trade_goods = grain
-life_rating = 34
+life_rating = 35
+
+

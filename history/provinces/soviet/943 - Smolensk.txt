@@ -1,8 +1,7 @@
 owner = MUS
 controller = MUS
-add_core = RUS
 add_core = MUS
-add_core = NOV
+##add_core = PLC
 trade_goods = cattle
 life_rating = 35
 #state_building = {

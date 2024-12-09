@@ -1,7 +1,6 @@
-owner = GRQ
-controller = GRQ
-add_core = GRQ
-add_core = TSW
-terrain = semidesert
+owner = BTV
+controller = BTV
+add_core = BTV
 trade_goods = grain
-life_rating = 15
+life_rating = 35
+

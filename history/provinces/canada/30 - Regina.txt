@@ -1,7 +1,11 @@
-owner = HHR
-controller = HHR
-add_core = HHR
+
+
 trade_goods = grain
-terrain = steppe
-life_rating = 30
-1861.1.1 = { add_core = MTC }
+life_rating = 25
+1836.1.2 = {
+	remove_core = COM
+	owner = CAN
+	controller = CAN
+	add_core = CAN
+	colonial = 0
+}

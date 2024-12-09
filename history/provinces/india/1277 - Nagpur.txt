@@ -1,12 +1,11 @@
 owner = NAG
 controller = NAG
 add_core = NAG
-add_core = DRA
-#add_core = VIJ
-trade_goods = dye
+trade_goods = grain
 life_rating = 32
 1861.1.1 = {
 	owner = ENG
 	controller = ENG
-	colonial = 2
+	colonial = 1
 }
+

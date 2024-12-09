@@ -1,5 +1,6 @@
-add_core = OMA
+owner = NEJ
+controller = NEJ
 add_core = NEJ
 trade_goods = fish
-life_rating = 10
-terrain = desert
+life_rating = 35
+

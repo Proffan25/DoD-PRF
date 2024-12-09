@@ -1,28 +1,27 @@
 capital = 487
 primary_culture = spanish
-culture = portuguese
 culture = caribeno
 culture = afro_caribeno
-religion = animist
-government = hms_government
+culture = portuguese
+religion = catholic
+government = absolute_monarchy
 plurality = 25.0
 nationalvalue = nv_equality
-literacy = 0.12
+literacy = 0.01
 civilized = yes
-prestige = 25
 
 #GreaterPowers = prestige
 prestige = 40
 
 # Political reforms
 slavery = yes_slavery
-upper_house_composition = state_equal_weight
-vote_franschise = wealth_voting
+upper_house_composition = appointed
+vote_franschise = none_voting
 public_meetings = yes_meeting
 press_rights = censored_press
 trade_unions = no_trade_unions
 voting_system = jefferson_method
-political_parties = non_secret_ballots
+political_parties = underground_parties
 
 # Social Reforms
 wage_reform = no_minimum_wage
@@ -70,6 +69,7 @@ water_wheel_power = 1
 publishing_industry = 1
 mechanized_mining = 1
 basic_chemistry = 1
+ad_hoc_money_bill_printing = 1
 
 #Inventions
 #corvettes = yes
@@ -77,5 +77,10 @@ basic_chemistry = 1
 # Starting Consciousness
 consciousness = 5
 nonstate_consciousness = 1
+
+govt_flag = {
+	government = hms_government
+	flag = democracy
+}
 
 oob = "SPA_oob.txt"

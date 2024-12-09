@@ -1,6 +1,7 @@
 owner = KLM
 controller = KLM
 add_core = KLM
-add_core = NUS
+#add_core = INO
 trade_goods = grain
-life_rating = 15
+life_rating = 32
+

@@ -1,9 +1,6 @@
 owner = TUR
 controller = TUR
 add_core = TUR
-trade_goods = fish
+trade_goods = grain
 life_rating = 35
-revolt = {
-	type = reactionary_rebels
-	controller = yes
-}
+naval_base = 1

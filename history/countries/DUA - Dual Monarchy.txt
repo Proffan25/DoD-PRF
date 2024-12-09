@@ -1,16 +1,17 @@
-capital = 434
+capital = 425
 primary_culture = anglois
-religion = animist
+culture = welsh
+culture = breton
+religion = catholic
 government = prussian_constitutionalism
-plurality = 25
+plurality = 25.0
 nationalvalue = nv_equality
-literacy = 0.6
+literacy = 0.01
 non_state_culture_literacy = 0.01
 civilized = yes
 
-set_country_flag = is_dua
 #GreaterPowers = prestige
-prestige = 90
+prestige = 107
 
 # Political reforms
 slavery = yes_slavery
@@ -59,13 +60,13 @@ publishing_industry = 1
 mechanized_mining = 1
 experimental_railroad = 1
 basic_chemistry = 1
-stock_exchange = 1
-ad_hoc_money_bill_printing = 1
-#private_bank_money_bill_printing = 1
 market_structure = 1
 romanticism = 1
 practical_steam_engine = 1
 mechanical_production = 1
+naval_professionalism = 1
+private_bank_money_bill_printing = 1
+ad_hoc_money_bill_printing = 1
 
 # Inventions
 #corvettes = yes
@@ -75,7 +76,7 @@ commerce_raiders = yes
 consciousness = 3
 nonstate_consciousness = 1
 
-ruling_party = FRA_conservative
+ruling_party = FRA_liberal
 last_election = 1834.6.21
 upper_house = {
 	fascist = 0
@@ -85,6 +86,11 @@ upper_house = {
 	anarcho_liberal = 0
 	socialist = 0
 	communist = 0
+}
+
+govt_flag = {
+	government = hms_government
+	flag = presidential_dictatorship
 }
 
 schools = culture_tech_school

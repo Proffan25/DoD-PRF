@@ -1,8 +1,8 @@
 capital = 2101
 primary_culture = boer
-religion = animist
+religion = protestant
 government = presidential_dictatorship
-plurality = 25.0
+plurality = 0.0
 nationalvalue = nv_productivity
 literacy = 0.01
 non_state_culture_literacy = 0.05

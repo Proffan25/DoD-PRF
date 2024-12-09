@@ -1,6 +1,7 @@
-owner = TON
-controller = TON
-add_core = TON
-add_core = SUL
-trade_goods = fruit
+owner = SCA
+controller = SCA
+add_core = PHL
+trade_goods = fish
 life_rating = 35
+colonial = 2
+

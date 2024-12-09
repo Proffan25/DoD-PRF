@@ -2,12 +2,8 @@ owner = BOH
 controller = BOH
 add_core = BOH
 add_core = BRN
-add_core = GER
+#add_core = GER
 trade_goods = fruit
-life_rating = 40
+life_rating = 38
 1861.1.1 = { railroad = 3 }
-state_building = {
-	level = 2
-	building = winery
-	upgrade = yes
-}
+

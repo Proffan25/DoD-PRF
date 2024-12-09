@@ -1,8 +1,6 @@
-owner = SPA
-controller = SPA
-add_core = YEM
+owner = NEJ
+controller = NEJ
+add_core = NEJ
 trade_goods = fish
-life_rating = 20
-terrain = semidesert
-colonial = 1
-naval_base = 1
+life_rating = 35
+

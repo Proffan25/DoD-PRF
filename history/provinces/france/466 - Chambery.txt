@@ -1,9 +1,10 @@
 owner = SAR
 controller = SAR
 add_core = SAR
-add_core = ITA
+add_core = OCC
+#add_core = ITA
 trade_goods = grain
-life_rating = 31
+life_rating = 35
 1861.1.1 = {
 	remove_core = ITA
 	remove_core = SAR
@@ -11,3 +12,4 @@ life_rating = 31
 	controller = FRA
 	add_core = FRA
 }
+

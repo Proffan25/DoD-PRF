@@ -3,189 +3,177 @@
 #Entebbe (400000/100000 POPS) 
 2019 = {
 	aristocrats = {
-		culture = baganda
+		culture = nilo_saharan
 		religion = animist
-		size = 1000
-	}
-	
-	aristocrats = {
-		culture = baganda
-		religion = sunni
-		size = 350
+		size = 1350
 	}
 
 	bureaucrats = {
-		culture = baganda
-		religion = sunni
-		size = 50
-	}
-
-	officers = {
-		culture = baganda
+		culture = nilo_saharan
 		religion = animist
 		size = 50
 	}
-	
+
 	officers = {
-		culture = baganda
-		religion = sunni
-		size = 50
+		culture = nilo_saharan
+		religion = animist
+		size = 100
 	}
 
 	clergymen = {
-		culture = baganda
-		religion = sunni
+		culture = nilo_saharan
+		religion = animist
 		size = 725
 	}
 
 	artisans = {
-		culture = baganda
+		culture = nilo_saharan
 		religion = animist
-		size = 1800
-	}
-	
-	artisans = {
-		culture = baganda
-		religion = sunni
-		size = 1000
+		size = 2800
 	}
 
 	soldiers = {
-		culture = baganda
+		culture = nilo_saharan
 		religion = animist
-		size = 1000
-	}
-	
-	soldiers = {
-		culture = baganda
-		religion = sunni
-		size = 1000
+		size = 700
 	}
 
 	farmers = {
-		culture = baganda
+		culture = nilo_saharan
 		religion = animist
-		size = 48025
-	}
-	
-	farmers = {
-		culture = baganda
-		religion = sunni
-		size = 15000
+		size = 54225
 	}
 
 	aristocrats = {
-		culture = lacustrine_bantu
+		culture = nilo_saharan
 		religion = animist
 		size = 575
 	}
 
 	clergymen = {
-		culture = lacustrine_bantu
+		culture = nilo_saharan
 		religion = animist
 		size = 300
 	}
 
 	artisans = {
-		culture = lacustrine_bantu
+		culture = nilo_saharan
 		religion = animist
 		size = 1500
 	}
 
 	soldiers = {
-		culture = lacustrine_bantu
+		culture = nilo_saharan
 		religion = animist
 		size = 300
 	}
 
 	farmers = {
-		culture = lacustrine_bantu
+		culture = nilo_saharan
 		religion = animist
-		size = 10325
+		size = 27325
 	}
 
 	slaves = {
-		culture = lacustrine_bantu
+		culture = nilo_saharan
 		religion = animist
-		size = 7000
+		size = 10000
 	}
 }
 #Mbarara (232000/53000 POPS) 
 2020 = {
 	aristocrats = {
-		culture = baganda
+		culture = bantu
 		religion = animist
-		size = 650
+		size = 175
 	}
 
 	clergymen = {
-		culture = baganda
+		culture = bantu
 		religion = animist
-		size = 350
+		size = 100
 	}
 
 	artisans = {
-		culture = baganda
+		culture = bantu
 		religion = animist
-		size = 1650
+		size = 400
 	}
 
 	soldiers = {
-		culture = baganda
+		culture = bantu
 		religion = animist
-		size = 1350
+		size = 100
 	}
 
 	farmers = {
-		culture = baganda
+		culture = bantu
 		religion = animist
-		size = 41920
-	}
-	
-	farmers = {
-		culture = ruanda
-		religion = animist
-		size = 4000
-	}
-	
-	farmers = {
-		culture = baganda
-		religion = sunni
-		size = 2080
-	}
-
-	slaves = {
-		culture = lacustrine_bantu
-		religion = animist
-		size = 4000
+		size = 5225
 	}
 
 	aristocrats = {
-		culture = luo
+		culture = bantu
+		religion = animist
+		size = 475
+	}
+
+	clergymen = {
+		culture = bantu
+		religion = animist
+		size = 250
+	}
+
+	artisans = {
+		culture = bantu
+		religion = animist
+		size = 1250
+	}
+
+	soldiers = {
+		culture = bantu
+		religion = animist
+		size = 250
+	}
+
+	farmers = {
+		culture = bantu
+		religion = animist
+		size = 22775
+	}
+
+	slaves = {
+		culture = bantu
+		religion = animist
+		size = 12000
+	}
+
+	aristocrats = {
+		culture = bantu
 		religion = animist
 		size = 350
 	}
 
 	clergymen = {
-		culture = luo
+		culture = bantu
 		religion = animist
 		size = 175
 	}
 
 	artisans = {
-		culture = luo
+		culture = bantu
 		religion = animist
 		size = 725
 	}
 
 	soldiers = {
-		culture = luo
+		culture = bantu
 		religion = animist
 		size = 200
 	}
 
 	farmers = {
-		culture = luo
+		culture = bantu
 		religion = animist
 		size = 8550
 	}
@@ -193,227 +181,203 @@
 #Masindi (192000/48000 POPS) 
 2021 = {
 	aristocrats = {
-		culture = luo
-		religion = sunni
+		culture = nilo_saharan
+		religion = animist
 		size = 550
 	}
 
 	clergymen = {
-		culture = luo
-		religion = sunni
+		culture = nilo_saharan
+		religion = animist
 		size = 300
 	}
 
-	soldiers = {
-		culture = luo
-		religion = sunni
-		size = 300
-	}
-
-	farmers = {
-		culture = luo
-		religion = sunni
-		size = 700
-	}
-	
 	artisans = {
-		culture = nilotic
+		culture = nilo_saharan
 		religion = animist
 		size = 1450
 	}
-	
-	farmers = {
-		culture = nilotic
+
+	soldiers = {
+		culture = nilo_saharan
 		religion = animist
-		size = 3700
+		size = 300
+	}
+
+	farmers = {
+		culture = nilo_saharan
+		religion = animist
+		size = 26400
 	}
 
 	slaves = {
-		culture = nilotic
+		culture = nilo_saharan
 		religion = animist
-		size = 4000
+		size = 9000
 	}
 
 	aristocrats = {
-		culture = luo
+		culture = nilo_saharan
 		religion = animist
 		size = 375
 	}
 
 	clergymen = {
-		culture = luo
+		culture = nilo_saharan
 		religion = animist
 		size = 200
 	}
 
 	artisans = {
-		culture = luo
+		culture = nilo_saharan
 		religion = animist
 		size = 775
 	}
 
 	soldiers = {
-		culture = luo
+		culture = nilo_saharan
 		religion = animist
 		size = 200
 	}
 
 	farmers = {
-		culture = luo
+		culture = nilo_saharan
 		religion = animist
-		size = 20450
+		size = 8450
 	}
 }
 #Kitgum (104000/26000 POPS) 
 2022 = {
 	aristocrats = {
-		culture = luo
+		culture = nilo_saharan
 		religion = animist
 		size = 375
 	}
 
 	clergymen = {
-		culture = luo
+		culture = nilo_saharan
 		religion = animist
 		size = 200
 	}
 
 	artisans = {
-		culture = luo
+		culture = nilo_saharan
 		religion = animist
 		size = 775
 	}
 
 	soldiers = {
-		culture = luo
+		culture = nilo_saharan
 		religion = animist
 		size = 200
 	}
 
 	farmers = {
-		culture = luo
+		culture = nilo_saharan
 		religion = animist
-		size = 24450
+		size = 14450
 	}
 
 	aristocrats = {
-		culture = luo
-		religion = sunni
+		culture = nilo_saharan
+		religion = animist
 		size = 125
 	}
 
 	clergymen = {
-		culture = luo
-		religion = sunni
+		culture = nilo_saharan
+		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = luo
-		religion = sunni
+		culture = nilo_saharan
+		religion = animist
 		size = 350
 	}
 
 	soldiers = {
-		culture = luo
-		religion = sunni
+		culture = nilo_saharan
+		religion = animist
 		size = 75
 	}
 
 	farmers = {
-		culture = nilotic
+		culture = nilo_saharan
 		religion = animist
-		size = 5075
-	}
-	
-	farmers = {
-		culture = nilotic
-		religion = sunni
-		size = 2700
+		size = 63075
 	}
 
 	slaves = {
-		culture = nilotic
+		culture = nilo_saharan
 		religion = animist
-		size = 3300
+		size = 3000
 	}
 }
 #Jinja (208000/52000 POPS) 
 2023 = {
 	aristocrats = {
-		culture = baganda
+		culture = nilo_saharan
 		religion = animist
 		size = 275
 	}
 
 	clergymen = {
-		culture = baganda
+		culture = nilo_saharan
 		religion = animist
 		size = 150
 	}
-	
-	aristocrats = {
-		culture = baganda
-		religion = sunni
-		size = 750
-	}
-
-	clergymen = {
-		culture = baganda
-		religion = sunni
-		size = 375
-	}
 
 	artisans = {
-		culture = baganda
+		culture = nilo_saharan
 		religion = animist
 		size = 575
 	}
 
 	soldiers = {
-		culture = baganda
+		culture = nilo_saharan
 		religion = animist
 		size = 150
 	}
-	
-	soldiers = {
-		culture = baganda
-		religion = sunni
+
+	farmers = {
+		culture = nilo_saharan
+		religion = animist
+		size = 6850
+	}
+
+	aristocrats = {
+		culture = nilo_saharan
+		religion = animist
+		size = 750
+	}
+
+	clergymen = {
+		culture = nilo_saharan
+		religion = animist
 		size = 375
 	}
 
-	farmers = {
-		culture = baganda
-		religion = animist
-		size = 52850
-	}
-	
-	farmers = {
-		culture = baganda
-		religion = sunni
-		size = 9000
-	}
-
 	artisans = {
-		culture = luo
+		culture = nilo_saharan
 		religion = animist
 		size = 1900
 	}
 
-	farmers = {
-		culture = luo
+	soldiers = {
+		culture = nilo_saharan
 		religion = animist
-		size = 4400
+		size = 375
 	}
 
-	artisans = {
-		culture = lacustrine_bantu
+	farmers = {
+		culture = nilo_saharan
 		religion = animist
-		size = 200
+		size = 38400
 	}
-	
+
 	slaves = {
-		culture = lacustrine_bantu
+		culture = nilo_saharan
 		religion = animist
 		size = 6000
 	}

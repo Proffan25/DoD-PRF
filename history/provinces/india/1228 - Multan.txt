@@ -1,11 +1,13 @@
-owner = SIN
-controller = SIN
+owner = PNJ
+controller = PNJ
+add_core = AFG
 add_core = PNJ
-add_core = HND
-trade_goods = cattle
-life_rating = 32
+#add_core = HND
+trade_goods = tea
+life_rating = 35
 1861.1.1 = {
 	owner = ENG
 	controller = ENG
 	colonial = 2
 }
+

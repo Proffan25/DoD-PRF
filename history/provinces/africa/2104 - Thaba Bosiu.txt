@@ -1,7 +1,17 @@
-owner = BSH
-controller = BSH
-add_core = BSH
+owner = BTV
+controller = BTV
 add_core = BTV
-add_core = SAF
-trade_goods = coal
+trade_goods = grain
 life_rating = 35
+1836.1.2 = {
+	remove_core = COM
+	owner = SAF
+	controller = SAF
+	add_core = SAF
+	colonial = 0
+}
+1861.1.1 = {
+	colonial = 1
+}
+
+

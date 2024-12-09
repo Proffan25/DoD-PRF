@@ -1,8 +1,6 @@
-owner = AMT
-controller = AMT
-add_core = AMT
-add_core = ETH
-add_core = ERI
+owner = SOM
+controller = SOM
+add_core = SOM
 trade_goods = cattle
-terrain = semidesert
-life_rating = 10
+life_rating = 35
+

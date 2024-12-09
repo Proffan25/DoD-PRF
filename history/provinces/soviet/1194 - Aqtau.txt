@@ -1,8 +1,10 @@
 owner = NOG
 controller = NOG
 add_core = NOG
-add_core = KZH
-add_core = TAR
-terrain = semidesert
-trade_goods = fish
-life_rating = 25
+trade_goods = opium
+life_rating = 35
+1861.1.1 = {
+	owner = RUS
+	controller = RUS
+	colonial = 2
+}

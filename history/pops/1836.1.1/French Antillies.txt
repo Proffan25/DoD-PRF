@@ -2,136 +2,263 @@
 #Ruled by France 1836
 #Martinique (190800/27450 POPS)
 2228 = {
-	aristocrats = {
-		culture = burgundian
-		religion = protestant
-		size = 750
-	}
+    aristocrats = {
+        culture = french
+        religion = catholic
+        size = 874
+    }
 
-	bureaucrats = {
-		culture = burgundian
-		religion = protestant
-		size = 100
-	}
+    bureaucrats = {
+        culture = french
+        religion = catholic
+        size = 322
+    }
 
-	clergymen = {
-		culture = burgundian
-		religion = protestant
-		size = 50
-	}
+    clergymen = {
+        culture = french
+        religion = catholic
+        size = 58
+    }
 
-	artisans = {
-		culture = burgundian
-		religion = protestant
-		size = 900
-	}
+    artisans = {
+        culture = french
+        religion = catholic
+        size = 1050
+    }
 
-	soldiers = {
-		culture = burgundian
-		religion = protestant
-		size= 250
+    soldiers = {
+        culture = french
+        religion = catholic
+        size = 291
+    }
 
-	}
+    farmers = {
+        culture = french
+        religion = catholic
+        size = 466
+    }
 
-	farmers = {
-		culture = burgundian
-		religion = protestant
-		size = 400
-	}
+    clergymen = {
+        culture = afro_antillean
+        religion = catholic
+        size = 125
+    }
 
-	clergymen = {
-		culture = afro_frankish
-		religion = protestant
-		size = 125
-	}
+    artisans = {
+        culture = afro_antillean
+        religion = catholic
+        size = 1250
+    }
 
-	artisans = {
-		culture = afro_frankish
-		religion = protestant
-		size = 1250
-	}
+    soldiers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 250
+    }
 
-	soldiers = {
-		culture = afro_frankish
-		religion = protestant
-		size= 250
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 3400
+    }
 
-	}
+    slaves = {
+        culture = afro_antillean
+        religion = catholic
+        size = 20000
+    }
 
-	farmers = {
-		culture = afro_frankish
-		religion = protestant
-		size = 3400
-	}
+    aristocrats = {
+        culture = anglois
+        religion = catholic
+        size = 23
+    }
 
-	slaves = {
-		culture = afro_frankish
-		religion = protestant
-		size = 20000
-	}
+    bureaucrats = {
+        culture = anglois
+        religion = catholic
+        size = 6
+    }
+
+    clergymen = {
+        culture = anglois
+        religion = catholic
+        size = 2
+    }
+
+    artisans = {
+        culture = anglois
+        religion = catholic
+        size = 27
+    }
+
+    soldiers = {
+        culture = anglois
+        religion = catholic
+        size = 8
+    }
+
+    farmers = {
+        culture = anglois
+        religion = catholic
+        size = 12
+    }
+
+    aristocrats = {
+        culture = provencal
+        religion = catholic
+        size = 22
+    }
+
+    bureaucrats = {
+        culture = provencal
+        religion = catholic
+        size = 6
+    }
+
+    clergymen = {
+        culture = provencal
+        religion = catholic
+        size = 1
+    }
+
+    artisans = {
+        culture = provencal
+        religion = catholic
+        size = 26
+    }
+
+    soldiers = {
+        culture = provencal
+        religion = catholic
+        size = 7
+    }
+
+    farmers = {
+        culture = provencal
+        religion = catholic
+        size = 12
+    }
 }
 #Guadeloupe (128400/32100 POPS)
 2230 = {
-	aristocrats = {
-		culture = scandinavian
-		religion = protestant
-		size = 850
-	}
+    aristocrats = {
+        culture = french
+        religion = catholic
+        size = 990
+    }
 
-	clergymen = {
-		culture = scandinavian
-		religion = protestant
-		size = 50
-	}
+    clergymen = {
+        culture = french
+        religion = catholic
+        size = 58
+    }
 
-	artisans = {
-		culture = scandinavian
-		religion = protestant
-		size = 1300
-	}
+    artisans = {
+        culture = french
+        religion = catholic
+        size = 1516
+    }
 
-	soldiers = {
-		culture = scandinavian
-		religion = protestant
-		size= 300
+    soldiers = {
+        culture = french
+        religion = catholic
+        size = 349
+    }
 
-	}
+    farmers = {
+        culture = french
+        religion = catholic
+        size = 700
+    }
 
-	farmers = {
-		culture = scandinavian
-		religion = protestant
-		size = 600
-	}
+    clergymen = {
+        culture = afro_antillean
+        religion = catholic
+        size = 150
+    }
 
-	clergymen = {
-		culture = afro_germanic
-		religion = protestant
-		size = 150
-	}
+    artisans = {
+        culture = afro_antillean
+        religion = catholic
+        size = 1500
+    }
 
-	artisans = {
-		culture = afro_germanic
-		religion = protestant
-		size = 1500
-	}
+    soldiers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 300
+    }
 
-	soldiers = {
-		culture = afro_germanic
-		religion = protestant
-		size= 300
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 3050
+    }
 
-	}
+    slaves = {
+        culture = afro_antillean
+        religion = catholic
+        size = 24000
+    }
 
-	farmers = {
-		culture = afro_germanic
-		religion = protestant
-		size = 3050
-	}
+    aristocrats = {
+        culture = anglois
+        religion = catholic
+        size = 26
+    }
 
-	slaves = {
-		culture = afro_germanic
-		religion = protestant
-		size = 24000
-	}
+    clergymen = {
+        culture = anglois
+        religion = catholic
+        size = 2
+    }
 
+    artisans = {
+        culture = anglois
+        religion = catholic
+        size = 39
+    }
+
+    soldiers = {
+        culture = anglois
+        religion = catholic
+        size = 9
+    }
+
+    farmers = {
+        culture = anglois
+        religion = catholic
+        size = 18
+    }
+
+    aristocrats = {
+        culture = provencal
+        religion = catholic
+        size = 25
+    }
+
+    clergymen = {
+        culture = provencal
+        religion = catholic
+        size = 1
+    }
+
+    artisans = {
+        culture = provencal
+        religion = catholic
+        size = 38
+    }
+
+    soldiers = {
+        culture = provencal
+        religion = catholic
+        size = 9
+    }
+
+    farmers = {
+        culture = provencal
+        religion = catholic
+        size = 17
+    }
 }

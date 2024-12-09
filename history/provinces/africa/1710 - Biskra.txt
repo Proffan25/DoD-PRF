@@ -1,11 +1,12 @@
-owner = MGH
-controller = MGH
-add_core = MGH
-trade_goods = wool
-life_rating = 31
-terrain = semidesert
+owner = MOR
+controller = MOR
+add_core = MOR
+trade_goods = iron
+life_rating = 35
 1861.1.1 = {
 	owner = FRA
 	controller = FRA
 	colonial = 2
 }
+
+

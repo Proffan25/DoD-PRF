@@ -1,5 +1,12 @@
-owner = AOT
-controller = AOT
-add_core = AOT
-trade_goods = cattle
-life_rating = 30
+owner = DNG
+controller = DNG
+add_core = DNG
+trade_goods = timber
+life_rating = 40
+
+1836.1.2 = {
+	remove_core = COM
+	owner = AST
+	controller = AST
+	add_core = AST
+}

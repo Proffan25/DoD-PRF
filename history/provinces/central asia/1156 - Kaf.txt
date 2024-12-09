@@ -1,6 +1,10 @@
 owner = NEJ
 controller = NEJ
 add_core = NEJ
-add_core = HAL
 trade_goods = wool
-life_rating = 10
+life_rating = 35
+
+1861.1.1 = {
+	controller = TUR 
+	owner = TUR
+}

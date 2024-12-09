@@ -1,7 +1,8 @@
-owner = TAI
-controller = TAI   
-add_core = TAI
-add_core = DAX
+owner = CHI
+controller = CHI
 add_core = CHI
-trade_goods = timber
+#add_core = YNN
+#add_core = TPG
+trade_goods = silk
 life_rating = 32
+

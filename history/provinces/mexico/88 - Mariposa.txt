@@ -1,13 +1,12 @@
 owner = DNG
 controller = DNG
 add_core = DNG
+#add_core = DES
+#add_core = CAL
 trade_goods = fruit
-terrain = new_world_semidesert
-life_rating = 30
+life_rating = 35
 1861.1.1 = {
-	owner = USA
-	controller = USA
-	add_core = USA
-	remove_core = MEX
-	colonial = 0
+owner = USA
+controller = USA
+add_core = USA
 }

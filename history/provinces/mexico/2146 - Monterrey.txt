@@ -1,5 +1,9 @@
-add_core = TUN
-add_core = TRI
-trade_goods = wool
-life_rating = 25
-terrain = desert
+owner = CLM
+controller = CLM
+add_core = CLM
+add_core = LST
+trade_goods = iron
+life_rating = 35
+
+
+

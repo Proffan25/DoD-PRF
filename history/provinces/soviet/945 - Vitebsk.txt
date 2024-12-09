@@ -1,8 +1,7 @@
-owner = BLR
-controller = BLR
-add_core = BLR
+owner = BYE
+controller = BYE
+add_core = BYE
 add_core = PLC
-add_core = RUT
-add_core = RUS
 trade_goods = grain
 life_rating = 35
+

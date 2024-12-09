@@ -1,6 +1,7 @@
-owner = SPA
-controller = SPA
+owner = BRG
+controller = BRG
+add_core = WIF
 trade_goods = cotton
 life_rating = 35
 colonial = 2
-terrain = new_world_plains
+

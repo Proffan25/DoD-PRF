@@ -2,107 +2,131 @@
 #uncolonized in 1836
 #Port Moresby (212000/53000 POPS) 
 2528 = {
-    aristocrats = {
-        culture = melanesian
-        religion = animist
-        size = 1950
-    }
+	aristocrats = {
+		culture = melanesian
+		religion = animist
+		size = 1025
+	}
 
-    clergymen = {
-        culture = melanesian
-        religion = animist
-        size = 525
-    }
+	clergymen = {
+		culture = melanesian
+		religion = animist
+		size = 525
+	}
 
-    artisans = {
-        culture = melanesian
-        religion = animist
-        size = 2650
-    }
+	artisans = {
+		culture = melanesian
+		religion = animist
+		size = 2650
+	}
 
-    soldiers = {
-        culture = melanesian
-        religion = animist
-        size = 1065
-    }
+	soldiers = {
+		culture = melanesian
+		religion = animist
+		size = 550
+	}
 
-    farmers = {
-        culture = melanesian
-        religion = animist
-        size = 48350
-    }
+	farmers = {
+		culture = melanesian
+		religion = animist
+		size = 48350
+	}
 }
 #Kerema (116000/29000 POPS) 
 2529 = {
-    clergymen = {
-        culture = melanesian
-        religion = animist
-        size = 300
-    }
+	aristocrats = {
+		culture = melanesian
+		religion = animist
+		size = 550
+	}
 
-    artisans = {
-        culture = melanesian
-        religion = animist
-        size = 1450
-    }
+	clergymen = {
+		culture = melanesian
+		religion = animist
+		size = 300
+	}
 
-    farmers = {
-        culture = melanesian
-        religion = animist
-        size = 26400
-    }
+	artisans = {
+		culture = melanesian
+		religion = animist
+		size = 1450
+	}
+
+	soldiers = {
+		culture = melanesian
+		religion = animist
+		size = 300
+	}
+
+	farmers = {
+		culture = melanesian
+		religion = animist
+		size = 26400
+	}
 }
 #Lae (264000/66000 POPS) 
 2530 = {
-    clergymen = {
-        culture = melanesian
-        religion = animist
-        size = 650
-    }
+	aristocrats = {
+		culture = melanesian
+		religion = animist
+		size = 1300
+	}
 
-    artisans = {
-        culture = melanesian
-        religion = animist
-        size = 3300
-    }
+	clergymen = {
+		culture = melanesian
+		religion = animist
+		size = 650
+	}
 
-    farmers = {
-        culture = melanesian
-        religion = animist
-        size = 60075
-    }
+	artisans = {
+		culture = melanesian
+		religion = animist
+		size = 3300
+	}
+
+	soldiers = {
+		culture = melanesian
+		religion = animist
+		size = 675
+	}
+
+	farmers = {
+		culture = melanesian
+		religion = animist
+		size = 60075
+	}
 }
 #Madang (300000/75000 POPS) 
 2531 = {
-    aristocrats = {
-        culture = melanesian
-        religion = animist
-        size = 4225
-    }
+	aristocrats = {
+		culture = melanesian
+		religion = animist
+		size = 1475
+	}
 
-    clergymen = {
-        culture = melanesian
-        religion = animist
-        size = 750
-    }
+	clergymen = {
+		culture = melanesian
+		religion = animist
+		size = 750
+	}
 
-    artisans = {
-        culture = melanesian
-        religion = animist
-        size = 3750
-    }
+	artisans = {
+		culture = melanesian
+		religion = animist
+		size = 3750
+	}
 
-    soldiers = {
-        culture = melanesian
-        religion = animist
-        size = 2225
-    }
+	soldiers = {
+		culture = melanesian
+		religion = animist
+		size = 750
+	}
 
-    farmers = {
-        culture = melanesian
-        religion = animist
-        size = 68375
-    }
+	farmers = {
+		culture = melanesian
+		religion = animist
+		size = 68375
+	}
 }
 #Northern Melanesia (226000) 
 #uncolonized in 1836}

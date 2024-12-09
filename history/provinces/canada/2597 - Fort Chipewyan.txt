@@ -1,5 +1,11 @@
-add_core = DNG
+
+
 trade_goods = timber
-terrain = new_world_boreal
-life_rating = 15
-colonial = 1
+life_rating = 25
+1836.1.2 = {
+	remove_core = COM
+	owner = CAN
+	controller = CAN
+	add_core = CAN
+	colonial = 0
+}

@@ -1,8 +1,8 @@
-owner = AMA
-controller = AMA
+owner = LOT
+controller = LOT
 add_core = LOT
-add_core = ATL
-add_core = AMA
-trade_goods = coffee
+trade_goods = sulphur
 life_rating = 35
+naval_base = 1
 1861.1.1 = { railroad = 1 }
+

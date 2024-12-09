@@ -1,7 +1,6 @@
-owner = ZUL
-controller = ZUL
-add_core = ZUL
+owner = BTV
+controller = BTV
 add_core = BTV
-add_core = SAF
 trade_goods = wool
 life_rating = 35
+

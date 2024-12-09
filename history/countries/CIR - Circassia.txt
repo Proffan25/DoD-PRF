@@ -1,8 +1,8 @@
 capital = 1054
 primary_culture = north_caucasian
-religion = animist
+religion = sunni
 government = absolute_monarchy
-plurality = 25.0
+plurality = 0.0
 nationalvalue = nv_productivity
 literacy = 0.01
 non_state_culture_literacy = 0.01

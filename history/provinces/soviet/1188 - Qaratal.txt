@@ -1,6 +1,11 @@
-owner = CHG
-controller = CHG
-add_core = CHG
+owner = KZH
+controller = KZH
 add_core = KZH
-trade_goods = grain
-life_rating = 30
+add_core = CHG
+trade_goods = fish
+life_rating = 35
+1861.1.1 = {
+	owner = RUS
+	controller = RUS
+	colonial = 2
+}

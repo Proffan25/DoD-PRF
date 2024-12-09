@@ -1,5 +1,3 @@
-owner = TUI
-controller = TUI
-add_core = TUI
-trade_goods = fish
+trade_goods = sulphur
 life_rating = 15
+

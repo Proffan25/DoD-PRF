@@ -1,11 +1,11 @@
 capital = 2463
 primary_culture = lotharian
-religion = animist
+religion = catholic
 government = presidential_dictatorship
 plurality = 25.0
 nationalvalue = nv_productivity
-literacy = 0.32
-non_state_culture_literacy = 0.01
+literacy = 0.01
+non_state_culture_literacy = 0.02
 civilized = yes
 prestige = 5
 

@@ -1,13 +1,13 @@
 capital = 625
 primary_culture = czech
-religion = animist
+religion = catholic
 government = absolute_monarchy
-plurality = 0.05
+plurality = 25.0
 nationalvalue = nv_order
-literacy = 0.60
+literacy = 0.01
 civilized = yes
 
-prestige = 60
+prestige = 97
 
 # Political reforms
 slavery = no_slavery
@@ -36,9 +36,7 @@ military_staff_system = 1
 army_command_principle = 1
 post_nelsonian_thought = 1
 army_professionalism = 1
-battleship_column_doctrine = 1
 clipper_design = 1
-steamers = 1
 naval_design_bureaus = 1
 alphabetic_flag_signaling = 1
 the_command_principle = 1
@@ -58,8 +56,6 @@ mechanized_mining = 1
 experimental_railroad = 1
 basic_chemistry = 1
 stock_exchange = 1
-ad_hoc_money_bill_printing = 1
-private_bank_money_bill_printing = 1
 market_structure = 1
 romanticism = 1
 practical_steam_engine = 1

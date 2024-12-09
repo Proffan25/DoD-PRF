@@ -1,9 +1,9 @@
 capital = 625
 primary_culture = czech
 culture = slovak
-religion = animist
+religion = catholic
 government = democracy
-plurality = 25.0
+plurality = 0.0
 nationalvalue = nv_productivity
 literacy = 0.28
 civilized = yes

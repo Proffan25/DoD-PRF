@@ -1,9 +1,9 @@
 capital = 397
 primary_culture = rheinish
 culture = french
-religion = animist
+religion = catholic
 government = absolute_monarchy
-plurality = 25.2
+plurality = 0.0
 nationalvalue = nv_productivity
 literacy = 0.01
 civilized = yes

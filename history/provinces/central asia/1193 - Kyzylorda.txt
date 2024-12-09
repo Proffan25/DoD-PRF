@@ -1,7 +1,7 @@
-owner = CHG
-controller = CHG
-add_core = CHG
-add_core = UZB
+owner = KZH
+controller = KZH
 add_core = KZH
+add_core = CHG
 trade_goods = coal
-life_rating = 30
+life_rating = 35
+

@@ -1,8 +1,6 @@
-owner = NAV
-controller = NAV
-add_core = NAV
+owner = SPA
+controller = SPA
+add_core = SPA
 trade_goods = fruit
-life_rating = 35
+life_rating = 36
 
-
-1861.1.1 = { railroad = 3 }

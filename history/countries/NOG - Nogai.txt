@@ -1,7 +1,7 @@
 capital = 1198
 primary_culture = tatar
 culture = turkic
-religion = animist
+religion = sunni
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_order
@@ -43,3 +43,16 @@ consciousness = 0
 nonstate_consciousness = 0
 
 
+foreign_training = yes_foreign_training
+foreign_weapons = yes_foreign_weapons
+army_schools = yes_army_schools
+
+# Technologies
+military_staff_system = 1
+flintlock_rifles = 1
+bronze_muzzle_loaded_artillery = 1
+late_enlightenment_philosophy = 1
+private_banks = 1
+early_classical_theory_and_critique = 1
+
+oob = "NOG_oob.txt"

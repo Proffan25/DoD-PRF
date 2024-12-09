@@ -1,11 +1,11 @@
 capital = 425
-primary_culture = french
+primary_culture = provencal
 culture = north_italian
-religion = animist
-government = prussian_constitutionalism
-plurality = 25
+religion = catholic
+government = absolute_monarchy
+plurality = 0.0
 nationalvalue = nv_equality
-literacy = 0.5
+literacy = 0.01
 non_state_culture_literacy = 0.01
 civilized = yes
 
@@ -13,9 +13,9 @@ civilized = yes
 
 
 # Political reforms
-slavery = no_slavery
+slavery = yes_slavery
 upper_house_composition = appointed
-vote_franschise = landed_voting
+vote_franschise = wealth_voting
 public_meetings = yes_meeting
 press_rights = censored_press
 trade_unions = no_trade_unions

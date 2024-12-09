@@ -1,5 +1,7 @@
-add_core = DNG
+
 trade_goods = grain
-terrain = mountain
 life_rating = 35
-colonial = 1
+
+1861.1.1 = {
+	colony = 0
+	}

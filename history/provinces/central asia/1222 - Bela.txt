@@ -1,8 +1,7 @@
-owner = SIN
-controller = SIN 
-add_core = SIN
-add_core = KAL
-add_core = ARY
-add_core = BLC
-trade_goods = fish
+owner = AFG
+controller = AFG
+add_core = AFG
+#add_core = HND
+trade_goods = tea
 life_rating = 35
+

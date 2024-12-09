@@ -1,9 +1,9 @@
 owner = CLM
 controller = CLM
 add_core = CLM
-add_core = QUI
-add_core = GRA
-add_core = TAP
+add_core = INC
+#add_core = PEU
+#add_core = GCO
 trade_goods = timber
-terrain = montane_forest
-life_rating = 31
+life_rating = 35
+

@@ -1,17 +1,14 @@
 capital = 300
-primary_culture = british
-culture = anglo_canadian
-culture = australian
-culture = maltese
-religion = animist
+primary_culture = welsh
+religion = protestant
 government = hms_government
-plurality = 30
+plurality = 0.0
 nationalvalue = nv_order
 literacy = 0.01
 civilized = yes
 
 #GreaterPowers = prestige
-prestige = 100
+
 
 
 # Political reforms

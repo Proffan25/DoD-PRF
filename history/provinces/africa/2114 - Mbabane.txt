@@ -1,9 +1,6 @@
-owner = SUA
-controller = SUA
-add_core = SUA
-add_core = MAT
-add_core = ZUL
+owner = BTV
+controller = BTV
 add_core = BTV
-add_core = SAF
-trade_goods = grain
+trade_goods = coal
 life_rating = 35
+

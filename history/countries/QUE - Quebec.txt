@@ -1,9 +1,9 @@
 capital = 65
 primary_culture = french_canadian
 culture = anglo_canadian
-religion = animist
+religion = catholic
 government = hms_government
-plurality = 0.2
+plurality = 0.0
 nationalvalue = nv_productivity
 literacy = 0.01
 civilized = yes

@@ -1,3 +1,7 @@
-add_core = DAR
+owner = EGY
+controller = EGY
+add_core = EGY
 trade_goods = cattle
-life_rating = 10
+life_rating = 35
+
+

@@ -1,11 +1,11 @@
 capital = 749
 primary_culture = south_italian
 culture = north_italian
-religion = animist
+religion = catholic
 government = theocracy
-plurality = 25.0
+plurality = 0.0
 nationalvalue = nv_order
-literacy = 0.2
+literacy = 0.01
 non_state_culture_literacy = 0.01
 civilized = yes
 prestige = 5

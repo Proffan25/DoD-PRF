@@ -1,7 +1,7 @@
-owner = CHG
-controller = CHG
+owner = KZH
+controller = KZH
+add_core = KZH
 add_core = CHG
-add_core = UZB
 trade_goods = grain
 life_rating = 35
-terrain = dryhills
+

@@ -1,6 +1,7 @@
-owner = CHG
-controller = CHG
-add_core = CHG
+owner = KZH
+controller = KZH
 add_core = KZH
+add_core = CHG
 trade_goods = wool
-life_rating = 30
+life_rating = 35
+

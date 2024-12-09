@@ -1,9 +1,9 @@
 capital = 2209
 primary_culture = caribeno
 culture = afro_caribeno
-religion = animist
+religion = catholic
 government = presidential_dictatorship
-plurality = 0.5
+plurality = 0.0
 nationalvalue = nv_productivity
 literacy = 0.01
 civilized = yes

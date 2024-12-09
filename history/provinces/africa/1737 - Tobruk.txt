@@ -1,7 +1,7 @@
-owner = EGY
-controller = EGY
-add_core = EGY
+owner = TUN
+controller = TUN
+add_core = TUN
 trade_goods = grain
-life_rating = 32
-terrain = semidesert
-#terrain = coastal_desert
+life_rating = 35
+
+

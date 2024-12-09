@@ -1,148 +1,160 @@
-#Mawarannahr Region (200000) #see Kazakhstan.txt, Uzbekistan.txt, Kirghizstan.txt and Turkmenistan.txt for balance of region 
-#under the rule of Kokand in 1836  
-#Khujand (200000/50000 POPS) #now part of Tajikistan  
+#Mawarannahr Region (200000) #see turkichstan.txt, turkicistan.txt, Kirghizstan.txt and turkicistan.txt for balance of region
+#under the rule of Kokand in 1836
+#Khujand (200000/50000 POPS) #now part of turkicistan
 1201 = {
-    clergymen = {
-        culture = uzbek
+    aristocrats = {
+        culture = turkic
         religion = sunni
-        size = 400
-    }
-
-    artisans = {
-        culture = uzbek
-        religion = sunni
-        size = 2000
-    }
-
-    farmers = {
-        culture = uzbek
-        religion = sunni
-        size = 36425
+        size = 797
     }
 
     clergymen = {
-        culture = tajik
+        culture = turkic
         religion = sunni
-        size = 75
+        size = 411
     }
 
     artisans = {
-        culture = tajik
+        culture = turkic
         religion = sunni
-        size = 500
+        size = 2059
+    }
+
+    soldiers = {
+        culture = turkic
+        religion = sunni
+        size = 187
     }
 
     farmers = {
-        culture = tajik
+        culture = turkic
         religion = sunni
-        size = 9150
+        size = 37503
+    }
+
+    aristocrats = {
+        culture = turkic
+        religion = sunni
+        size = 180
+    }
+
+    clergymen = {
+        culture = turkic
+        religion = sunni
+        size = 77
+    }
+
+    artisans = {
+        culture = turkic
+        religion = sunni
+        size = 514
+    }
+
+    soldiers = {
+        culture = turkic
+        religion = sunni
+        size = 46
+    }
+
+    farmers = {
+        culture = turkic
+        religion = sunni
+        size = 9420
     }
 }
-#Badakhshan Region (212000) 
-#under the rule of Kokand in 1836  
-#Kulob (120000/30000 POPS)   
+#Badakhshan Region (212000)
+#under the rule of Kokand in 1836
+#Kulob (120000/30000 POPS)
 1207 = {
     aristocrats = {
-        culture = tajik
+        culture = turkic
         religion = sunni
-        size = 1100
+        size = 592
     }
 
     clergymen = {
-        culture = tajik
+        culture = turkic
         religion = sunni
-        size = 275
+        size = 283
     }
 
     artisans = {
-        culture = tajik
+        culture = turkic
         religion = sunni
-        size = 1450
+        size = 1492
     }
 
     soldiers = {
-        culture = tajik
+        culture = turkic
         religion = sunni
-        size = 525
-    }
-
-    bureaucrats = {
-        culture = tajik
-        religion = sunni
-        size = 52
-    }
-
-    officers = {
-        culture = tajik
-        religion = sunni
-        size = 15
+        size = 117
     }
 
     farmers = {
-        culture = tajik
+        culture = turkic
         religion = sunni
-        size = 27450
-    }
-
-    aristocrats = {
-        culture = uzbek
-        religion = sunni
-        size = 775
-    }
-
-    aristocrats = {
-        culture = kirgiz
-        religion = sunni
-        size = 75
-    }
-
-    soldiers = {
-        culture = uzbek
-        religion = sunni
-        size = 400
-    }
-
-    soldiers = {
-        culture = kirgiz
-        religion = sunni
-        size = 25
+        size = 28262
     }
 }
-#Khorugh (92000/23000 POPS)   
+#Khorugh (92000/23000 POPS)
 1208 = {
-    clergymen = {
-        culture = tajik
+    aristocrats = {
+        culture = turkic
         religion = sunni
-        size = 175
-    }
-
-    artisans = {
-        culture = tajik
-        religion = sunni
-        size = 850
-    }
-
-    farmers = {
-        culture = tajik
-        religion = sunni
-        size = 17450
+        size = 562
     }
 
     clergymen = {
-        culture = kirgiz
+        culture = turkic
         religion = sunni
-        size = 75
+        size = 280
     }
 
     artisans = {
-        culture = kirgiz
+        culture = turkic
         religion = sunni
-        size = 175
+        size = 1366
+    }
+
+    soldiers = {
+        culture = turkic
+        religion = sunni
+        size = 510
     }
 
     farmers = {
-        culture = kirgiz
+        culture = turkic
         religion = sunni
-        size = 3650
+        size = 28071
+    }
+
+    aristocrats = {
+        culture = turkic
+        religion = sunni
+        size = 120
+    }
+
+    clergymen = {
+        culture = turkic
+        religion = sunni
+        size = 120
+    }
+
+    artisans = {
+        culture = turkic
+        religion = sunni
+        size = 280
+    }
+
+    soldiers = {
+        culture = turkic
+        religion = sunni
+        size = 71
+    }
+
+    farmers = {
+        culture = turkic
+        religion = sunni
+        size = 5871
     }
 }

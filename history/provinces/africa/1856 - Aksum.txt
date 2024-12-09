@@ -1,11 +1,6 @@
-owner = AMT
-controller = AMT
-add_core = AMT
+owner = ETH
+controller = ETH
 add_core = ETH
 trade_goods = cattle
 life_rating = 35
-1861.1.1 = {
-	owner = ETH
-	controller = ETH
-	remove_core = TIG
-}
+

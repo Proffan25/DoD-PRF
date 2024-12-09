@@ -2,13 +2,96 @@ color = { 43 89 202}
 graphical_culture = Generic
 
 party = {
-	name = "CZH_reactionary"
+	name = "generic_conservative"
+	start_date = 1830.1.1
+	end_date = 2000.1.1
+
+	ideology = conservative
+
+	economic_policy = interventionism
+	trade_policy = protectionism
+	religious_policy = pluralism
+	citizenship_policy = residency
+	war_policy = pro_military
+}
+
+party = {
+	name = "generic_reactionary"
 	start_date = 1830.1.1
 	end_date = 2000.1.1
 
 	ideology = reactionary
 
-	#social_policy = no_position_set	
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+party = {
+	name = "generic_liberal"
+	start_date = 1830.1.1
+	end_date = 2000.1.1
+
+	ideology = liberal
+
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pluralism
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+
+party = {
+	name = "generic_socialist"
+	start_date = 1848.1.1
+	end_date = 2000.1.1
+
+	ideology = socialist
+
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+
+party = {
+	name = "generic_communist"
+	start_date = 1848.1.1
+	end_date = 2000.1.1
+
+	ideology = communist
+
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "generic_fascist"
+	start_date = 1905.1.1
+	end_date = 2000.1.1
+
+	ideology = fascist
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+party = {
+	name = "CZH_reactionary"
+	start_date = 1830.1.1
+	end_date = 2000.1.1
+
+	ideology = reactionary
+	
 	economic_policy = state_capitalism
 	trade_policy = protectionism
 	religious_policy = moralism
@@ -23,7 +106,6 @@ party = {
 
 	ideology = liberal
 
-	#social_policy = no_position_set
 	economic_policy = laissez_faire
 	trade_policy = free_trade
 	religious_policy = pluralism
@@ -38,7 +120,6 @@ party = {
 
 	ideology = conservative
 
-	#social_policy = no_position_set
 	economic_policy = interventionism
 	trade_policy = protectionism
 	religious_policy = moralism
@@ -53,7 +134,6 @@ party = {
 
 	ideology = anarcho_liberal
 
-	#social_policy = no_state_interference
 	economic_policy = laissez_faire
 	trade_policy = free_trade
 	religious_policy = pro_atheism
@@ -68,7 +148,6 @@ party = {
 
 	ideology = socialist
 
-	#social_policy = welfare_state
 	economic_policy = planned_economy
 	trade_policy = protectionism
 	religious_policy = secularized
@@ -83,7 +162,6 @@ party = {
 
 	ideology = communist
 
-	#social_policy = populist_welfare
 	economic_policy = planned_economy
 	trade_policy = protectionism
 	religious_policy = pro_atheism
@@ -98,7 +176,6 @@ party = {
 
 	ideology = fascist
 
-	#social_policy = populist_welfare
 	economic_policy = state_capitalism
 	trade_policy = protectionism
 	religious_policy = moralism
@@ -108,22 +185,22 @@ party = {
 
 unit_names = {
 	dreadnought = {
-		"Jan Hus" "Karel IV" "Prokop Velikï¿½" "Anton Bernolï¿½k" "Ludovï¿½t ï¿½tï¿½r" 
+		"Jan Hus" "Karel IV" "Prokop Veliký" "Anton Bernolák" "Ludovít Štúr" 
 	}
 	ironclad = {
-		Praha Brno Ostrava Bratislava Koï¿½ice 
+		Praha Brno Ostrava Bratislava Košice 
 	}
 	manowar = {
-		Mileï¿½ovka Lovos Hazmburk Beskydok "Gerlachovskï¿½ ï¿½tï¿½t" 
+		Milešovka Lovos Hazmburk Beskydok "Gerlachovský štít" 
 	}
 	cruiser = {
 		Jizera Metuje Morava Hron Bodrog   
 	}
 	frigate = {
-		"Jan Dismas Zelenka" "ï¿½imon Brixi" "Frantiï¿½ek Tuma" "Jï¿½n ï¿½imbrackï¿½" "Zachariï¿½ Zarewutius" 
+		"Jan Dismas Zelenka" "Šimon Brixi" "František Tuma" "Ján Šimbracký" "Zachariáš Zarewutius" 
 	}
 	monitor = {
-		"Petr Brandl" "Vï¿½clav Hollar" "Jan Jahn" "Majster koï¿½ickï¿½ho oltï¿½ra" "Josef Czauczik" 
+		"Petr Brandl" "Václav Hollar" "Jan Jahn" "Majster košického oltára" "Josef Czauczik" 
 	}
 	clipper_transport = {
 		
@@ -132,6 +209,6 @@ unit_names = {
 		
 	}
 	commerce_raider = {
-		"Praï¿½skï¿½ hrad" Vyï¿½ehrad Zbraslav "Bojnickï¿½ zï¿½mok" "Bratislavsky hrad" 
+		"Pražský hrad" Vyšehrad Zbraslav "Bojnický zámok" "Bratislavsky hrad" 
 	}
 }

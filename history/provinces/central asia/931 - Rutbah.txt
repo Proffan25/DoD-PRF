@@ -1,5 +1,7 @@
-add_core = TUR
+owner = IRQ
+controller = IRQ
 add_core = IRQ
-add_core = NEJ
+add_core = TUR
 trade_goods = sulphur
-life_rating = 10
+life_rating = 35
+

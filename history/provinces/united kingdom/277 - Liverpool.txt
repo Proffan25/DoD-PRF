@@ -1,32 +1,23 @@
 owner = DUA
 controller = DUA
 add_core = DUA
-add_core = ENL
+add_core = ENG
 trade_goods = fish
 life_rating = 40
 railroad = 1
 state_building = {
-	level = 3
-	building = fabric_factory
+	level = 1
+	building = clipper_shipyard
 	upgrade = yes
 }
 state_building = {
 	level = 1
-	building = steel_factory
-	upgrade = yes
-}
-state_building = {
-	level = 3
 	building = regular_clothes_factory
-	upgrade = yes
-}
-state_building = {
-	level = 2
-	building = liquor_distillery
 	upgrade = yes
 }
 naval_base = 2
 1861.1.1 = { 
 	railroad = 3 
-	naval_base = 2
+	naval_base = 3
 }
+

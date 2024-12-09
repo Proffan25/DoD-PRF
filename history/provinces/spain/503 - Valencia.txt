@@ -1,19 +1,19 @@
-owner = ARA
-controller = ARA
-add_core = ARA
-add_core = CAT
+owner = ARN
+controller = ARN
+add_core = ARN
 trade_goods = fruit
-life_rating = 35
-state_building = {
-	level = 1
-	building = glass_factory
-	upgrade = yes
-}
-state_building = {
-	level = 1
-	building = winery
-	upgrade = yes
-}
+life_rating = 38
+naval_base = 1
+#state_building = {
+#	level = 1
+#	building = glass_factory
+#	upgrade = yes
+#}
+#state_building = {
+#	level = 1
+#	building = winery
+#	upgrade = yes
+#}
 1861.1.1 = { 
 	state_building = {
 		level = 1
@@ -22,8 +22,9 @@ state_building = {
 	}
 	state_building = {
 		level = 1
-		building = luxury_clothes_factory
+		building = ammunition_factory
 		upgrade = yes
 	}
 }
 1861.1.1 = { railroad = 2 }
+
