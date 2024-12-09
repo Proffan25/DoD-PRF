@@ -1,8 +1,8 @@
 #Vaduz (20000/5000 POPS)
 3252 = {
-    farmers = {
-        culture = rheinish 
+    bankers = {
+        culture = romanian 
         religion = catholic
-        size = 5950
+        size = 100000
     }
 }
