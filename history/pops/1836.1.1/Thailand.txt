@@ -4,241 +4,241 @@
 1346 = {
     aristocrats = {
         culture = thai
-        religion = theravada
+        religion = animist
         size = 4275
     }
 
     bureaucrats = {
         culture = thai
-        religion = theravada
+        religion = animist
         size = 356
     }
 
     officers = {
         culture = thai
-        religion = theravada
+        religion = animist
         size = 451
     }
 
     clergymen = {
         culture = thai
-        religion = theravada
+        religion = animist
         size = 2256
     }
 
     artisans = {
         culture = thai
-        religion = theravada
+        religion = animist
         size = 9500
     }
 
     artisans = {
         culture = thai
-        religion = theravada
+        religion = animist
         size = 1045
     }
 
     soldiers = {
         culture = thai
-        religion = theravada
+        religion = animist
         size = 2137
     }
 
     farmers = {
         culture = thai
-        religion = theravada
+        religion = animist
         size = 183374
     }
 
     slaves = {
         culture = thai
-        religion = theravada
+        religion = animist
         size = 5700
     }
 
     farmers = {
         culture = thai
-        religion = mahayana
+        religion = animist
         size = 96900
     }
 
     aristocrats = {
         culture = thai
-        religion = mahayana
+        religion = animist
         size = 712
     }
 
     bureaucrats = {
         culture = thai
-        religion = mahayana
+        religion = animist
         size = 190
     }
 
     officers = {
         culture = thai
-        religion = mahayana
+        religion = animist
         size = 71
     }
 
     clergymen = {
         culture = thai
-        religion = mahayana
+        religion = animist
         size = 499
     }
 
     artisans = {
         culture = thai
-        religion = mahayana
+        religion = animist
         size = 9500
     }
 
     artisans = {
         culture = thai
-        religion = mahayana
+        religion = animist
         size = 9500
     }
 
     artisans = {
         culture = thai
-        religion = mahayana
+        religion = animist
         size = 9500
     }
 
     artisans = {
         culture = thai
-        religion = mahayana
+        religion = animist
         size = 2850
     }
 
     soldiers = {
         culture = thai
-        religion = mahayana
+        religion = animist
         size = 546
     }
 
     farmers = {
         culture = thai
-        religion = mahayana
+        religion = animist
         size = 20781
     }
 
     aristocrats = {
         culture = thai
-        religion = theravada
+        religion = animist
         size = 225
     }
 
     bureaucrats = {
         culture = thai
-        religion = theravada
+        religion = animist
         size = 19
     }
 
     officers = {
         culture = thai
-        religion = theravada
+        religion = animist
         size = 24
     }
 
     clergymen = {
         culture = thai
-        religion = theravada
+        religion = animist
         size = 119
     }
 
     artisans = {
         culture = thai
-        religion = theravada
+        religion = animist
         size = 500
     }
 
     artisans = {
         culture = thai
-        religion = theravada
+        religion = animist
         size = 55
     }
 
     soldiers = {
         culture = thai
-        religion = theravada
+        religion = animist
         size = 113
     }
 
     farmers = {
         culture = thai
-        religion = theravada
+        religion = animist
         size = 9651
     }
 
     slaves = {
         culture = thai
-        religion = theravada
+        religion = animist
         size = 300
     }
 
     farmers = {
         culture = thai
-        religion = mahayana
+        religion = animist
         size = 5100
     }
 
     aristocrats = {
         culture = thai
-        religion = mahayana
+        religion = animist
         size = 38
     }
 
     bureaucrats = {
         culture = thai
-        religion = mahayana
+        religion = animist
         size = 10
     }
 
     officers = {
         culture = thai
-        religion = mahayana
+        religion = animist
         size = 4
     }
 
     clergymen = {
         culture = thai
-        religion = mahayana
+        religion = animist
         size = 26
     }
 
     artisans = {
         culture = thai
-        religion = mahayana
+        religion = animist
         size = 500
     }
 
     artisans = {
         culture = thai
-        religion = mahayana
+        religion = animist
         size = 500
     }
 
     artisans = {
         culture = thai
-        religion = mahayana
+        religion = animist
         size = 500
     }
 
     artisans = {
         culture = thai
-        religion = mahayana
+        religion = animist
         size = 150
     }
 
     soldiers = {
         culture = thai
-        religion = mahayana
+        religion = animist
         size = 29
     }
 
     farmers = {
         culture = thai
-        religion = mahayana
+        religion = animist
         size = 1094
     }
 }
@@ -246,73 +246,73 @@
 1347 = {
     aristocrats = {
         culture = thai
-        religion = theravada
+        religion = animist
         size = 1496
     }
 
     clergymen = {
         culture = thai
-        religion = theravada
+        religion = animist
         size = 784
     }
 
     artisans = {
         culture = thai
-        religion = theravada
+        religion = animist
         size = 3800
     }
 
     soldiers = {
         culture = thai
-        religion = theravada
+        religion = animist
         size = 1045
     }
 
     farmers = {
         culture = thai
-        religion = theravada
+        religion = animist
         size = 67070
     }
 
     slaves = {
         culture = thai
-        religion = theravada
+        religion = animist
         size = 2850
     }
 
     aristocrats = {
         culture = thai
-        religion = theravada
+        religion = animist
         size = 79
     }
 
     clergymen = {
         culture = thai
-        religion = theravada
+        religion = animist
         size = 41
     }
 
     artisans = {
         culture = thai
-        religion = theravada
+        religion = animist
         size = 200
     }
 
     soldiers = {
         culture = thai
-        religion = theravada
+        religion = animist
         size = 55
     }
 
     farmers = {
         culture = thai
-        religion = theravada
+        religion = animist
         size = 3530
     }
 
     slaves = {
         culture = thai
-        religion = theravada
+        religion = animist
         size = 150
     }
 }
@@ -320,133 +320,133 @@
 1348 = {
     aristocrats = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 760
     }
 
     clergymen = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 380
     }
 
     artisans = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 1425
     }
 
     soldiers = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 1045
     }
 
     farmers = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 35435
     }
 
     slaves = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 2850
     }
 
     aristocrats = {
         culture = khmer
-        religion = mahayana
+        religion = animist
         size = 24
     }
 
     clergymen = {
         culture = khmer
-        religion = mahayana
+        religion = animist
         size = 47
     }
 
     artisans = {
         culture = khmer
-        religion = mahayana
+        religion = animist
         size = 1187
     }
 
     soldiers = {
         culture = khmer
-        religion = mahayana
+        religion = animist
         size = 24
     }
 
     farmers = {
         culture = khmer
-        religion = mahayana
+        religion = animist
         size = 1567
     }
 
     aristocrats = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 40
     }
 
     clergymen = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 20
     }
 
     artisans = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 75
     }
 
     soldiers = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 55
     }
 
     farmers = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 1865
     }
 
     slaves = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 150
     }
 
     aristocrats = {
         culture = khmer
-        religion = mahayana
+        religion = animist
         size = 1
     }
 
     clergymen = {
         culture = khmer
-        religion = mahayana
+        religion = animist
         size = 3
     }
 
     artisans = {
         culture = khmer
-        religion = mahayana
+        religion = animist
         size = 63
     }
 
     soldiers = {
         culture = khmer
-        religion = mahayana
+        religion = animist
         size = 1
     }
 
     farmers = {
         culture = khmer
-        religion = mahayana
+        religion = animist
         size = 83
     }
 }
@@ -454,61 +454,61 @@
 1349 = {
     aristocrats = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 617
     }
 
     clergymen = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 332
     }
 
     artisans = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 1615
     }
 
     soldiers = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 1045
     }
 
     farmers = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 28405
     }
 
     aristocrats = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 33
     }
 
     clergymen = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 18
     }
 
     artisans = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 85
     }
 
     soldiers = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 55
     }
 
     farmers = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 1495
     }
 }
@@ -516,61 +516,61 @@
 1350 = {
     aristocrats = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 760
     }
 
     clergymen = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 404
     }
 
     artisans = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 1900
     }
 
     soldiers = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 1045
     }
 
     farmers = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 33986
     }
 
     aristocrats = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 40
     }
 
     clergymen = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 21
     }
 
     artisans = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 100
     }
 
     soldiers = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 55
     }
 
     farmers = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 1789
     }
 }
@@ -578,133 +578,133 @@
 1351 = {
     aristocrats = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 546
     }
 
     clergymen = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 285
     }
 
     artisans = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 1330
     }
 
     soldiers = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 1045
     }
 
     farmers = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 26339
     }
 
     slaves = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 1045
     }
 
     aristocrats = {
         culture = khmer
-        religion = mahayana
+        religion = animist
         size = 95
     }
 
     clergymen = {
         culture = khmer
-        religion = mahayana
+        religion = animist
         size = 71
     }
 
     artisans = {
         culture = khmer
-        religion = mahayana
+        religion = animist
         size = 1900
     }
 
     soldiers = {
         culture = khmer
-        religion = mahayana
+        religion = animist
         size = 95
     }
 
     farmers = {
         culture = khmer
-        religion = mahayana
+        religion = animist
         size = 6389
     }
 
     aristocrats = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 29
     }
 
     clergymen = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 15
     }
 
     artisans = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 70
     }
 
     soldiers = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 55
     }
 
     farmers = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 1386
     }
 
     slaves = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 55
     }
 
     aristocrats = {
         culture = khmer
-        religion = mahayana
+        religion = animist
         size = 5
     }
 
     clergymen = {
         culture = khmer
-        religion = mahayana
+        religion = animist
         size = 4
     }
 
     artisans = {
         culture = khmer
-        religion = mahayana
+        religion = animist
         size = 100
     }
 
     soldiers = {
         culture = khmer
-        religion = mahayana
+        religion = animist
         size = 5
     }
 
     farmers = {
         culture = khmer
-        religion = mahayana
+        religion = animist
         size = 336
     }
 }
@@ -714,205 +714,205 @@
 1352 = {
     aristocrats = {
         culture = thai
-        religion = theravada
+        religion = animist
         size = 427
     }
 
     bureaucrats = {
         culture = thai
-        religion = theravada
+        religion = animist
         size = 95
     }
 
     officers = {
         culture = thai
-        religion = theravada
+        religion = animist
         size = 95
     }
 
     clergymen = {
         culture = thai
-        religion = theravada
+        religion = animist
         size = 214
     }
 
     artisans = {
         culture = thai
-        religion = theravada
+        religion = animist
         size = 997
     }
 
     soldiers = {
         culture = thai
-        religion = theravada
+        religion = animist
         size = 1045
     }
 
     farmers = {
         culture = thai
-        religion = theravada
+        religion = animist
         size = 19024
     }
 
     aristocrats = {
         culture = thai
-        religion = mahayana
+        religion = animist
         size = 71
     }
 
     clergymen = {
         culture = thai
-        religion = mahayana
+        religion = animist
         size = 47
     }
 
     artisans = {
         culture = thai
-        religion = mahayana
+        religion = animist
         size = 1045
     }
 
     soldiers = {
         culture = thai
-        religion = mahayana
+        religion = animist
         size = 47
     }
 
     farmers = {
         culture = thai
-        religion = mahayana
+        religion = animist
         size = 3634
     }
 
     aristocrats = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 24
     }
 
     clergymen = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 47
     }
 
     artisans = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 142
     }
 
     soldiers = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 24
     }
 
     farmers = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 2612
     }
 
     aristocrats = {
         culture = thai
-        religion = theravada
+        religion = animist
         size = 23
     }
 
     bureaucrats = {
         culture = thai
-        religion = theravada
+        religion = animist
         size = 5
     }
 
     officers = {
         culture = thai
-        religion = theravada
+        religion = animist
         size = 5
     }
 
     clergymen = {
         culture = thai
-        religion = theravada
+        religion = animist
         size = 11
     }
 
     artisans = {
         culture = thai
-        religion = theravada
+        religion = animist
         size = 53
     }
 
     soldiers = {
         culture = thai
-        religion = theravada
+        religion = animist
         size = 55
     }
 
     farmers = {
         culture = thai
-        religion = theravada
+        religion = animist
         size = 1001
     }
 
     aristocrats = {
         culture = thai
-        religion = mahayana
+        religion = animist
         size = 4
     }
 
     clergymen = {
         culture = thai
-        religion = mahayana
+        religion = animist
         size = 3
     }
 
     artisans = {
         culture = thai
-        religion = mahayana
+        religion = animist
         size = 55
     }
 
     soldiers = {
         culture = thai
-        religion = mahayana
+        religion = animist
         size = 3
     }
 
     farmers = {
         culture = thai
-        religion = mahayana
+        religion = animist
         size = 191
     }
 
     aristocrats = {
         culture = thai
-        religion = sunni
+        religion = animist
         size = 1
     }
 
     clergymen = {
         culture = thai
-        religion = sunni
+        religion = animist
         size = 3
     }
 
     artisans = {
         culture = thai
-        religion = sunni
+        religion = animist
         size = 8
     }
 
     soldiers = {
         culture = thai
-        religion = sunni
+        religion = animist
         size = 1
     }
 
     farmers = {
         culture = thai
-        religion = sunni
+        religion = animist
         size = 138
     }
 }
@@ -920,133 +920,133 @@
 1353 = {
     aristocrats = {
         culture = thai
-        religion = theravada
+        religion = animist
         size = 665
     }
 
     farmers = {
         culture = thai
-        religion = mahayana
+        religion = animist
         size = 49400
     }
 
     clergymen = {
         culture = thai
-        religion = theravada
+        religion = animist
         size = 332
     }
 
     artisans = {
         culture = thai
-        religion = theravada
+        religion = animist
         size = 1710
     }
 
     soldiers = {
         culture = thai
-        religion = theravada
+        religion = animist
         size = 1045
     }
 
     farmers = {
         culture = thai
-        religion = theravada
+        religion = animist
         size = 50492
     }
 
     aristocrats = {
         culture = thai
-        religion = mahayana
+        religion = animist
         size = 119
     }
 
     clergymen = {
         culture = thai
-        religion = mahayana
+        religion = animist
         size = 71
     }
 
     artisans = {
         culture = thai
-        religion = mahayana
+        religion = animist
         size = 1425
     }
 
     soldiers = {
         culture = thai
-        religion = mahayana
+        religion = animist
         size = 71
     }
 
     farmers = {
         culture = thai
-        religion = mahayana
+        religion = animist
         size = 4964
     }
 
     aristocrats = {
         culture = thai
-        religion = theravada
+        religion = animist
         size = 35
     }
 
     farmers = {
         culture = thai
-        religion = mahayana
+        religion = animist
         size = 2600
     }
 
     clergymen = {
         culture = thai
-        religion = theravada
+        religion = animist
         size = 18
     }
 
     artisans = {
         culture = thai
-        religion = theravada
+        religion = animist
         size = 90
     }
 
     soldiers = {
         culture = thai
-        religion = theravada
+        religion = animist
         size = 55
     }
 
     farmers = {
         culture = thai
-        religion = theravada
+        religion = animist
         size = 2658
     }
 
     aristocrats = {
         culture = thai
-        religion = mahayana
+        religion = animist
         size = 6
     }
 
     clergymen = {
         culture = thai
-        religion = mahayana
+        religion = animist
         size = 4
     }
 
     artisans = {
         culture = thai
-        religion = mahayana
+        religion = animist
         size = 75
     }
 
     soldiers = {
         culture = thai
-        religion = mahayana
+        religion = animist
         size = 4
     }
 
     farmers = {
         culture = thai
-        religion = mahayana
+        religion = animist
         size = 261
     }
 }
@@ -1054,181 +1054,181 @@
 1354 = {
     aristocrats = {
         culture = thai
-        religion = theravada
+        religion = animist
         size = 594
     }
 
     clergymen = {
         culture = thai
-        religion = theravada
+        religion = animist
         size = 309
     }
 
     artisans = {
         culture = thai
-        religion = theravada
+        religion = animist
         size = 1235
     }
 
     soldiers = {
         culture = thai
-        religion = theravada
+        religion = animist
         size = 1045
     }
 
     farmers = {
         culture = thai
-        religion = theravada
+        religion = animist
         size = 27360
     }
 
     aristocrats = {
         culture = thai
-        religion = mahayana
+        religion = animist
         size = 71
     }
 
     clergymen = {
         culture = thai
-        religion = mahayana
+        religion = animist
         size = 47
     }
 
     artisans = {
         culture = thai
-        religion = mahayana
+        religion = animist
         size = 1211
     }
 
     soldiers = {
         culture = thai
-        religion = mahayana
+        religion = animist
         size = 47
     }
 
     farmers = {
         culture = thai
-        religion = mahayana
+        religion = animist
         size = 3372
     }
 
     aristocrats = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 190
     }
 
     clergymen = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 119
     }
 
     artisans = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 570
     }
 
     soldiers = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 95
     }
 
     farmers = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 10426
     }
 
     aristocrats = {
         culture = thai
-        religion = theravada
+        religion = animist
         size = 31
     }
 
     clergymen = {
         culture = thai
-        religion = theravada
+        religion = animist
         size = 16
     }
 
     artisans = {
         culture = thai
-        religion = theravada
+        religion = animist
         size = 65
     }
 
     soldiers = {
         culture = thai
-        religion = theravada
+        religion = animist
         size = 55
     }
 
     farmers = {
         culture = thai
-        religion = theravada
+        religion = animist
         size = 1440
     }
 
     aristocrats = {
         culture = thai
-        religion = mahayana
+        religion = animist
         size = 4
     }
 
     clergymen = {
         culture = thai
-        religion = mahayana
+        religion = animist
         size = 3
     }
 
     artisans = {
         culture = thai
-        religion = mahayana
+        religion = animist
         size = 64
     }
 
     soldiers = {
         culture = thai
-        religion = mahayana
+        religion = animist
         size = 3
     }
 
     farmers = {
         culture = thai
-        religion = mahayana
+        religion = animist
         size = 178
     }
 
     aristocrats = {
         culture = thai
-        religion = sunni
+        religion = animist
         size = 10
     }
 
     clergymen = {
         culture = thai
-        religion = sunni
+        religion = animist
         size = 6
     }
 
     artisans = {
         culture = thai
-        religion = sunni
+        religion = animist
         size = 30
     }
 
     soldiers = {
         culture = thai
-        religion = sunni
+        religion = animist
         size = 5
     }
 
     farmers = {
         culture = thai
-        religion = sunni
+        religion = animist
         size = 549
     }
 }
@@ -1238,157 +1238,157 @@
 1355 = {
     aristocrats = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 522
     }
 
     bureaucrats = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 119
     }
 
     officers = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 71
     }
 
     clergymen = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 309
     }
 
     artisans = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 1520
     }
 
     soldiers = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 309
     }
 
     farmers = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 27289
     }
 
     aristocrats = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 1354
     }
 
     officers = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 71
     }
 
     clergymen = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 475
     }
 
     artisans = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 2422
     }
 
     soldiers = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 499
     }
 
     farmers = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 43937
     }
 
     aristocrats = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 28
     }
 
     bureaucrats = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 6
     }
 
     officers = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 4
     }
 
     clergymen = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 16
     }
 
     artisans = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 80
     }
 
     soldiers = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 16
     }
 
     farmers = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 1436
     }
 
     aristocrats = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 71
     }
 
     officers = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 4
     }
 
     clergymen = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 25
     }
 
     artisans = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 128
     }
 
     soldiers = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 26
     }
 
     farmers = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 2313
     }
 }
@@ -1396,181 +1396,181 @@
 2572 = {
     aristocrats = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 380
     }
 
     clergymen = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 214
     }
 
     artisans = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 1045
     }
 
     soldiers = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 214
     }
 
     farmers = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 19047
     }
 
     aristocrats = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 404
     }
 
     clergymen = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 190
     }
 
     artisans = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 1092
     }
 
     soldiers = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 237
     }
 
     farmers = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 20021
     }
 
     aristocrats = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 356
     }
 
     clergymen = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 190
     }
 
     artisans = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 1045
     }
 
     soldiers = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 214
     }
 
     farmers = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 19190
     }
 
     aristocrats = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 20
     }
 
     clergymen = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 11
     }
 
     artisans = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 55
     }
 
     soldiers = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 11
     }
 
     farmers = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 1003
     }
 
     aristocrats = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 21
     }
 
     clergymen = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 10
     }
 
     artisans = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 58
     }
 
     soldiers = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 13
     }
 
     farmers = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 1054
     }
 
     aristocrats = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 19
     }
 
     clergymen = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 10
     }
 
     artisans = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 55
     }
 
     soldiers = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 11
     }
 
     farmers = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 1010
     }
 }
@@ -1580,145 +1580,145 @@
 1358 = {
     aristocrats = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 380
     }
 
     bureaucrats = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 142
     }
 
     officers = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 190
     }
 
     clergymen = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 214
     }
 
     artisans = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 997
     }
 
     soldiers = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 214
     }
 
     farmers = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 19974
     }
 
     aristocrats = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 2375
     }
 
     clergymen = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 1235
     }
 
     artisans = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 6080
     }
 
     soldiers = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 1140
     }
 
     farmers = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 110770
     }
 
     aristocrats = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 20
     }
 
     bureaucrats = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 8
     }
 
     officers = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 10
     }
 
     clergymen = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 11
     }
 
     artisans = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 53
     }
 
     soldiers = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 11
     }
 
     farmers = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 1051
     }
 
     aristocrats = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 125
     }
 
     clergymen = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 65
     }
 
     artisans = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 320
     }
 
     soldiers = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 60
     }
 
     farmers = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 5830
     }
 }
@@ -1726,181 +1726,181 @@
 1359 = {
     aristocrats = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 404
     }
 
     clergymen = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 214
     }
 
     artisans = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 1092
     }
 
     soldiers = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 237
     }
 
     farmers = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 19902
     }
 
     aristocrats = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 309
     }
 
     clergymen = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 166
     }
 
     artisans = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 831
     }
 
     soldiers = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 166
     }
 
     farmers = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 16577
     }
 
     aristocrats = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 24
     }
 
     clergymen = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 47
     }
 
     artisans = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 142
     }
 
     soldiers = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 24
     }
 
     farmers = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 2612
     }
 
     aristocrats = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 21
     }
 
     clergymen = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 11
     }
 
     artisans = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 58
     }
 
     soldiers = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 13
     }
 
     farmers = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 1048
     }
 
     aristocrats = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 16
     }
 
     clergymen = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 9
     }
 
     artisans = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 44
     }
 
     soldiers = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 9
     }
 
     farmers = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 873
     }
 
     aristocrats = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 1
     }
 
     clergymen = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 3
     }
 
     artisans = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 8
     }
 
     soldiers = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 1
     }
 
     farmers = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 138
     }
 }
@@ -1910,169 +1910,169 @@
 1365 = {
     aristocrats = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 71
     }
 
     clergymen = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 47
     }
 
     artisans = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 214
     }
 
     soldiers = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 47
     }
 
     farmers = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 4370
     }
 
     aristocrats = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 142
     }
 
     clergymen = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 95
     }
 
     artisans = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 475
     }
 
     soldiers = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 95
     }
 
     farmers = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 8692
     }
 
     clergymen = {
         culture = khmer
-        religion = mahayana
+        religion = animist
         size = 47
     }
 
     artisans = {
         culture = khmer
-        religion = mahayana
+        religion = animist
         size = 712
     }
 
     soldiers = {
         culture = khmer
-        religion = mahayana
+        religion = animist
         size = 47
     }
 
     farmers = {
         culture = khmer
-        religion = mahayana
+        religion = animist
         size = 2042
     }
 
     aristocrats = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 4
     }
 
     clergymen = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 3
     }
 
     artisans = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 11
     }
 
     soldiers = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 3
     }
 
     farmers = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 230
     }
 
     aristocrats = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 8
     }
 
     clergymen = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 5
     }
 
     artisans = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 25
     }
 
     soldiers = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 5
     }
 
     farmers = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 458
     }
 
     clergymen = {
         culture = khmer
-        religion = mahayana
+        religion = animist
         size = 3
     }
 
     artisans = {
         culture = khmer
-        religion = mahayana
+        religion = animist
         size = 38
     }
 
     soldiers = {
         culture = khmer
-        religion = mahayana
+        religion = animist
         size = 3
     }
 
     farmers = {
         culture = khmer
-        religion = mahayana
+        religion = animist
         size = 108
     }
 }
@@ -2082,109 +2082,109 @@
 1392 = {
     aristocrats = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 522
     }
 
     clergymen = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 285
     }
 
     artisans = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 1425
     }
 
     soldiers = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 285
     }
 
     farmers = {
         culture = malay
-        religion = sunni
+        religion = animist
         size = 27027
     }
 
     clergymen = {
         culture = thai
-        religion = mahayana
+        religion = animist
         size = 47
     }
 
     artisans = {
         culture = thai
-        religion = mahayana
+        religion = animist
         size = 617
     }
 
     soldiers = {
         culture = thai
-        religion = mahayana
+        religion = animist
         size = 24
     }
 
     farmers = {
         culture = thai
-        religion = mahayana
+        religion = animist
         size = 1211
     }
 
     aristocrats = {
         culture = thai
-        religion = sunni
+        religion = animist
         size = 28
     }
 
     clergymen = {
         culture = thai
-        religion = sunni
+        religion = animist
         size = 15
     }
 
     artisans = {
         culture = thai
-        religion = sunni
+        religion = animist
         size = 75
     }
 
     soldiers = {
         culture = thai
-        religion = sunni
+        religion = animist
         size = 15
     }
 
     farmers = {
         culture = thai
-        religion = sunni
+        religion = animist
         size = 1423
     }
 
     clergymen = {
         culture = thai
-        religion = mahayana
+        religion = animist
         size = 3
     }
 
     artisans = {
         culture = thai
-        religion = mahayana
+        religion = animist
         size = 33
     }
 
     soldiers = {
         culture = thai
-        religion = mahayana
+        religion = animist
         size = 1
     }
 
     farmers = {
         culture = thai
-        religion = mahayana
+        religion = animist
         size = 64
     }
 }

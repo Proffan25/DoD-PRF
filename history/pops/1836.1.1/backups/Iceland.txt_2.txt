@@ -4,25 +4,25 @@
 252 = {
     bureaucrats = {
         culture = scandinavian
-        religion = protestant
+        religion = animist
         size = 25
     }
 
     clergymen = {
         culture = scandinavian
-        religion = protestant
+        religion = animist
         size = 100
     }
 
     artisans = {
         culture = scandinavian
-        religion = protestant
+        religion = animist
         size = 750
     }
 
     farmers = {
         culture = scandinavian
-        religion = protestant
+        religion = animist
         size = 13125
     }
 }

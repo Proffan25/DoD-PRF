@@ -4,103 +4,103 @@
 1465 = {
     aristocrats = {
         culture = mongol
-        religion = gelugpa
+        religion = animist
         size = 2220
     }
 
     bureaucrats = {
         culture = mongol
-        religion = gelugpa
+        religion = animist
         size = 90
     }
 
     officers = {
         culture = mongol
-        religion = gelugpa
+        religion = animist
         size = 390
     }
 
     clergymen = {
         culture = mongol
-        religion = gelugpa
+        religion = animist
         size = 4800
     }
 
     artisans = {
         culture = mongol
-        religion = gelugpa
+        religion = animist
         size = 5400
     }
 
     soldiers = {
         culture = mongol
-        religion = gelugpa
+        religion = animist
         size = 1080
     }
 
     farmers = {
         culture = mongol
-        religion = gelugpa
+        religion = animist
         size = 101220
     }
 
     bureaucrats = {
         culture = mongol
-        religion = mahayana
+        religion = animist
         size = 37
     }
 
     clergymen = {
         culture = mongol
-        religion = mahayana
+        religion = animist
         size = 21
     }
 
     artisans = {
         culture = mongol
-        religion = mahayana
+        religion = animist
         size = 120
     }
 
     soldiers = {
         culture = mongol
-        religion = mahayana
+        religion = animist
         size = 30
     }
 
     farmers = {
         culture = mongol
-        religion = mahayana
+        religion = animist
         size = 990
     }
 
     bureaucrats = {
         culture = mongol
-        religion = mahayana
+        religion = animist
         size = 37
     }
 
     clergymen = {
         culture = mongol
-        religion = mahayana
+        religion = animist
         size = 22
     }
 
     artisans = {
         culture = mongol
-        religion = mahayana
+        religion = animist
         size = 120
     }
 
     soldiers = {
         culture = mongol
-        religion = mahayana
+        religion = animist
         size = 30
     }
 
     farmers = {
         culture = mongol
-        religion = mahayana
+        religion = animist
         size = 990
     }
 }
@@ -108,31 +108,31 @@
 1466 = {
     aristocrats = {
         culture = mongol
-        religion = gelugpa
+        religion = animist
         size = 1260
     }
 
     clergymen = {
         culture = mongol
-        religion = gelugpa
+        religion = animist
         size = 660
     }
 
     artisans = {
         culture = mongol
-        religion = gelugpa
+        religion = animist
         size = 3180
     }
 
     soldiers = {
         culture = mongol
-        religion = gelugpa
+        religion = animist
         size = 660
     }
 
     farmers = {
         culture = mongol
-        religion = gelugpa
+        religion = animist
         size = 57840
     }
 }
@@ -140,31 +140,31 @@
 1467 = {
     aristocrats = {
         culture = mongol
-        religion = gelugpa
+        religion = animist
         size = 990
     }
 
     clergymen = {
         culture = mongol
-        religion = gelugpa
+        religion = animist
         size = 510
     }
 
     artisans = {
         culture = mongol
-        religion = gelugpa
+        religion = animist
         size = 2460
     }
 
     soldiers = {
         culture = mongol
-        religion = gelugpa
+        religion = animist
         size = 510
     }
 
     farmers = {
         culture = mongol
-        religion = gelugpa
+        religion = animist
         size = 44730
     }
 
@@ -202,31 +202,31 @@
 1468 = {
     aristocrats = {
         culture = oirat
-        religion = gelugpa
+        religion = animist
         size = 1339
     }
 
     clergymen = {
         culture = oirat
-        religion = gelugpa
+        religion = animist
         size = 721
     }
 
     artisans = {
         culture = oirat
-        religion = gelugpa
+        religion = animist
         size = 3609
     }
 
     soldiers = {
         culture = oirat
-        religion = gelugpa
+        religion = animist
         size = 2624
     }
 
     farmers = {
         culture = oirat
-        religion = gelugpa
+        religion = animist
         size = 65793
     }
 }
@@ -234,31 +234,31 @@
 2207 = {
     aristocrats = {
         culture = mongol
-        religion = gelugpa
+        religion = animist
         size = 420
     }
 
     clergymen = {
         culture = mongol
-        religion = gelugpa
+        religion = animist
         size = 210
     }
 
     artisans = {
         culture = mongol
-        religion = gelugpa
+        religion = animist
         size = 1050
     }
 
     soldiers = {
         culture = mongol
-        religion = gelugpa
+        religion = animist
         size = 210
     }
 
     farmers = {
         culture = mongol
-        religion = gelugpa
+        religion = animist
         size = 19440
     }
 }
@@ -266,31 +266,31 @@
 2608 = {
     aristocrats = {
         culture = oirat
-        religion = gelugpa
+        religion = animist
         size = 1546
     }
 
     clergymen = {
         culture = oirat
-        religion = gelugpa
+        religion = animist
         size = 772
     }
 
     artisans = {
         culture = oirat
-        religion = gelugpa
+        religion = animist
         size = 3093
     }
 
     soldiers = {
         culture = oirat
-        religion = gelugpa
+        religion = animist
         size = 8808
     }
 
     farmers = {
         culture = oirat
-        religion = gelugpa
+        religion = animist
         size = 272187
     }
 }
@@ -298,31 +298,31 @@
 2678 = {
     aristocrats = {
         culture = oirat
-        religion = gelugpa
+        religion = animist
         size = 825
     }
 
     clergymen = {
         culture = oirat
-        religion = gelugpa
+        religion = animist
         size = 412
     }
 
     artisans = {
         culture = oirat
-        religion = gelugpa
+        religion = animist
         size = 2164
     }
 
     soldiers = {
         culture = oirat
-        religion = gelugpa
+        religion = animist
         size = 6684
     }
 
     farmers = {
         culture = oirat
-        religion = gelugpa
+        religion = animist
         size = 65318
     }
 }
@@ -330,61 +330,61 @@
 2679 = {
     aristocrats = {
         culture = oirat
-        religion = gelugpa
+        religion = animist
         size = 721
     }
 
     clergymen = {
         culture = oirat
-        religion = gelugpa
+        religion = animist
         size = 359
     }
 
     artisans = {
         culture = oirat
-        religion = gelugpa
+        religion = animist
         size = 1855
     }
 
     soldiers = {
         culture = oirat
-        religion = gelugpa
+        religion = animist
         size = 1308
     }
 
     farmers = {
         culture = oirat
-        religion = gelugpa
+        religion = animist
         size = 33825
     }
 
     aristocrats = {
         culture = oirat
-        religion = sunni
+        religion = animist
         size = 412
     }
 
     clergymen = {
         culture = oirat
-        religion = sunni
+        religion = animist
         size = 205
     }
 
     artisans = {
         culture = oirat
-        religion = sunni
+        religion = animist
         size = 1237
     }
 
     soldiers = {
         culture = oirat
-        religion = sunni
+        religion = animist
         size = 932
     }
 
     farmers = {
         culture = oirat
-        religion = sunni
+        religion = animist
         size = 22634
     }
 }
@@ -392,31 +392,31 @@
 1469 = {
     aristocrats = {
         culture = oirat
-        religion = gelugpa
+        religion = animist
         size = 309
     }
 
     clergymen = {
         culture = oirat
-        religion = gelugpa
+        religion = animist
         size = 154
     }
 
     artisans = {
         culture = oirat
-        religion = gelugpa
+        religion = animist
         size = 825
     }
 
     soldiers = {
         culture = oirat
-        religion = gelugpa
+        religion = animist
         size = 5560
     }
 
     farmers = {
         culture = oirat
-        religion = gelugpa
+        religion = animist
         size = 65055
     }
 }

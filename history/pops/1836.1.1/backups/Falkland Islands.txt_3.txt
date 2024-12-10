@@ -4,13 +4,13 @@
 2131 = {
     soldiers = {
         culture = scandinavian 
-        religion = protestant
+        religion = animist
         size = 25
     }
 
     farmers = {
         culture = scandinavian 
-        religion = protestant
+        religion = animist
         size = 50
     }
 }

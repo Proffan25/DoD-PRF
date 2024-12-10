@@ -4,49 +4,49 @@
 2348 = {
     aristocrats = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 1062
     }
 
     bureaucrats = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 170
     }
 
     officers = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 127
     }
 
     clergymen = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 637
     }
 
     artisans = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 17000
     }
 
     artisans = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 8500
     }
 
     soldiers = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 11900
     }
 
     farmers = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 16702
     }
 }
@@ -54,31 +54,31 @@
 2349 = {
     aristocrats = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 467
     }
 
     clergymen = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 297
     }
 
     artisans = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 1870
     }
 
     soldiers = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 11900
     }
 
     farmers = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 9435
     }
 }
@@ -86,31 +86,31 @@
 2350 = {
     aristocrats = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 85
     }
 
     clergymen = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 127
     }
 
     artisans = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 255
     }
 
     soldiers = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 42
     }
 
     farmers = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 4590
     }
 }
@@ -118,31 +118,31 @@
 2351 = {
     aristocrats = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 25
     }
 
     clergymen = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 42
     }
 
     artisans = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 85
     }
 
     soldiers = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 17
     }
 
     farmers = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 1530
     }
 }
@@ -150,31 +150,31 @@
 2352 = {
     aristocrats = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 85
     }
 
     clergymen = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 127
     }
 
     artisans = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 255
     }
 
     soldiers = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 42
     }
 
     farmers = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 4590
     }
 }
@@ -183,25 +183,25 @@
 2353 = {
     clergymen = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 42
     }
 
     artisans = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 85
     }
 
     soldiers = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 42
     }
 
     farmers = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 1530
     }
 
@@ -239,25 +239,25 @@
 2354 = {
     clergymen = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 127
     }
 
     artisans = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 255
     }
 
     soldiers = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 85
     }
 
     farmers = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 4632
     }
 
@@ -295,25 +295,25 @@
 2355 = {
     clergymen = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 85
     }
 
     artisans = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 170
     }
 
     soldiers = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 42
     }
 
     farmers = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 3187
     }
 
@@ -353,43 +353,43 @@
 2356 = {
     aristocrats = {
         culture = lotharian
-        religion = catholic
+        religion = animist
         size = 765
     }
 
     bureaucrats = {
         culture = lotharian
-        religion = catholic
+        religion = animist
         size = 85
     }
 
     officers = {
         culture = lotharian
-        religion = catholic
+        religion = animist
         size = 59
     }
 
     clergymen = {
         culture = lotharian
-        religion = catholic
+        religion = animist
         size = 382
     }
 
     artisans = {
         culture = lotharian
-        religion = catholic
+        religion = animist
         size = 6800
     }
 
     soldiers = {
         culture = lotharian
-        religion = catholic
+        religion = animist
         size = 382
     }
 
     farmers = {
         culture = lotharian
-        religion = catholic
+        religion = animist
         size = 27225
     }
 
@@ -421,55 +421,55 @@
 2357 = {
     aristocrats = {
         culture = lotharian
-        religion = catholic
+        religion = animist
         size = 42
     }
 
     clergymen = {
         culture = lotharian
-        religion = catholic
+        religion = animist
         size = 85
     }
 
     artisans = {
         culture = lotharian
-        religion = catholic
+        religion = animist
         size = 170
     }
 
     soldiers = {
         culture = lotharian
-        religion = catholic
+        religion = animist
         size = 42
     }
 
     farmers = {
         culture = lotharian
-        religion = catholic
+        religion = animist
         size = 3060
     }
 
     clergymen = {
         culture = lotharian
-        religion = catholic
+        religion = animist
         size = 49
     }
 
     artisans = {
         culture = lotharian
-        religion = catholic
+        religion = animist
         size = 98
     }
 
     soldiers = {
         culture = lotharian
-        religion = catholic
+        religion = animist
         size = 24
     }
 
     farmers = {
         culture = lotharian
-        religion = catholic
+        religion = animist
         size = 1799
     }
 }
@@ -477,49 +477,49 @@
 2358 = {
     clergymen = {
         culture = lotharian
-        religion = catholic
+        religion = animist
         size = 85
     }
 
     artisans = {
         culture = lotharian
-        religion = catholic
+        religion = animist
         size = 170
     }
 
     soldiers = {
         culture = lotharian
-        religion = catholic
+        religion = animist
         size = 42
     }
 
     farmers = {
         culture = lotharian
-        religion = catholic
+        religion = animist
         size = 3187
     }
 
     clergymen = {
         culture = lotharian
-        religion = catholic
+        religion = animist
         size = 49
     }
 
     artisans = {
         culture = lotharian
-        religion = catholic
+        religion = animist
         size = 98
     }
 
     soldiers = {
         culture = lotharian
-        religion = catholic
+        religion = animist
         size = 24
     }
 
     farmers = {
         culture = lotharian
-        religion = catholic
+        religion = animist
         size = 1799
     }
 
@@ -557,31 +557,31 @@
 2359 = {
     aristocrats = {
         culture = lotharian
-        religion = catholic
+        religion = animist
         size = 42
     }
 
     clergymen = {
         culture = lotharian
-        religion = catholic
+        religion = animist
         size = 85
     }
 
     artisans = {
         culture = lotharian
-        religion = catholic
+        religion = animist
         size = 170
     }
 
     soldiers = {
         culture = lotharian
-        religion = catholic
+        religion = animist
         size = 42
     }
 
     farmers = {
         culture = lotharian
-        religion = catholic
+        religion = animist
         size = 3060
     }
 }
@@ -589,31 +589,31 @@
 2360 = {
     aristocrats = {
         culture = lotharian
-        religion = catholic
+        religion = animist
         size = 127
     }
 
     clergymen = {
         culture = lotharian
-        religion = catholic
+        religion = animist
         size = 85
     }
 
     artisans = {
         culture = lotharian
-        religion = catholic
+        religion = animist
         size = 340
     }
 
     soldiers = {
         culture = lotharian
-        religion = catholic
+        religion = animist
         size = 85
     }
 
     farmers = {
         culture = lotharian
-        religion = catholic
+        religion = animist
         size = 6162
     }
 }
@@ -623,31 +623,31 @@
 2361 = {
     aristocrats = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 42
     }
 
     clergymen = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 85
     }
 
     artisans = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 170
     }
 
     soldiers = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 42
     }
 
     farmers = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 3060
     }
 }
@@ -655,43 +655,43 @@
 2362 = {
     aristocrats = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 467
     }
 
     bureaucrats = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 51
     }
 
     officers = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 34
     }
 
     clergymen = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 297
     }
 
     artisans = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 6800
     }
 
     soldiers = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 255
     }
 
     farmers = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 15895
     }
 }
@@ -699,31 +699,31 @@
 2363 = {
     aristocrats = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 42
     }
 
     clergymen = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 85
     }
 
     artisans = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 170
     }
 
     soldiers = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 42
     }
 
     farmers = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 3060
     }
 }
@@ -763,31 +763,31 @@
 
     bureaucrats = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 3
     }
 
     clergymen = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 39
     }
 
     artisans = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 85
     }
 
     soldiers = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 42
     }
 
     farmers = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 1530
     }
 }
@@ -825,25 +825,25 @@
 
     clergymen = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 42
     }
 
     artisans = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 85
     }
 
     soldiers = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 42
     }
 
     farmers = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 1530
     }
 }
@@ -882,31 +882,31 @@
 
     bureaucrats = {
         culture = native_american_minor
-        religion = catholic
+        religion = animist
         size = 3
     }
 
     clergymen = {
         culture = native_american_minor
-        religion = catholic
+        religion = animist
         size = 39
     }
 
     artisans = {
         culture = native_american_minor
-        religion = catholic
+        religion = animist
         size = 85
     }
 
     soldiers = {
         culture = native_american_minor
-        religion = catholic
+        religion = animist
         size = 42
     }
 
     farmers = {
         culture = native_american_minor
-        religion = catholic
+        religion = animist
         size = 1530
     }
 }
@@ -948,43 +948,43 @@
 2368 = {
     aristocrats = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 508
     }
 
     bureaucrats = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 100
     }
 
     officers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 68
     }
 
     clergymen = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 340
     }
 
     artisans = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 10200
     }
 
     soldiers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 340
     }
 
     farmers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 15640
     }
 }
@@ -992,31 +992,31 @@
 2369 = {
     aristocrats = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 168
     }
 
     clergymen = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 340
     }
 
     artisans = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 7480
     }
 
     soldiers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 168
     }
 
     farmers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 6120
     }
 }
@@ -1024,31 +1024,31 @@
 2370 = {
     aristocrats = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 100
     }
 
     clergymen = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 168
     }
 
     artisans = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 340
     }
 
     soldiers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 68
     }
 
     farmers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 6120
     }
 }
@@ -1056,31 +1056,31 @@
 2371 = {
     aristocrats = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 100
     }
 
     clergymen = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 168
     }
 
     artisans = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 340
     }
 
     soldiers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 68
     }
 
     farmers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 6120
     }
 }
@@ -1088,31 +1088,31 @@
 2372 = {
     aristocrats = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 100
     }
 
     clergymen = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 168
     }
 
     artisans = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 340
     }
 
     soldiers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 68
     }
 
     farmers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 6120
     }
 }
@@ -1122,43 +1122,43 @@
 2373 = {
     aristocrats = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 680
     }
 
     bureaucrats = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 100
     }
 
     officers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 68
     }
 
     clergymen = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 680
     }
 
     artisans = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 10200
     }
 
     soldiers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 340
     }
 
     farmers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 21928
     }
 }
@@ -1166,31 +1166,31 @@
 2374 = {
     aristocrats = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 340
     }
 
     clergymen = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 508
     }
 
     artisans = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 1020
     }
 
     soldiers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 168
     }
 
     farmers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 18360
     }
 }
@@ -1198,31 +1198,31 @@
 2375 = {
     aristocrats = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 100
     }
 
     clergymen = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 168
     }
 
     artisans = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 340
     }
 
     soldiers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 68
     }
 
     farmers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 6120
     }
 }
@@ -1232,43 +1232,43 @@
 2376 = {
     aristocrats = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 127
     }
 
     bureaucrats = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 17
     }
 
     officers = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 17
     }
 
     clergymen = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 85
     }
 
     artisans = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 340
     }
 
     soldiers = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 85
     }
 
     farmers = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 6128
     }
 }
@@ -1276,25 +1276,25 @@
 2377 = {
     clergymen = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 42
     }
 
     artisans = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 85
     }
 
     soldiers = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 42
     }
 
     farmers = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 1530
     }
 
@@ -1332,31 +1332,31 @@
 2378 = {
     aristocrats = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 42
     }
 
     clergymen = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 85
     }
 
     artisans = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 170
     }
 
     soldiers = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 42
     }
 
     farmers = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 3060
     }
 }
@@ -1366,43 +1366,43 @@
 2379 = {
     aristocrats = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 722
     }
 
     bureaucrats = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 68
     }
 
     officers = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 59
     }
 
     clergymen = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 340
     }
 
     artisans = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 5100
     }
 
     soldiers = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 11900
     }
 
     farmers = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 17510
     }
 }
@@ -1410,31 +1410,31 @@
 2380 = {
     aristocrats = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 42
     }
 
     clergymen = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 85
     }
 
     artisans = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 170
     }
 
     soldiers = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 42
     }
 
     farmers = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 3060
     }
 }
@@ -1442,31 +1442,31 @@
 2381 = {
     aristocrats = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 42
     }
 
     clergymen = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 85
     }
 
     artisans = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 170
     }
 
     soldiers = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 42
     }
 
     farmers = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 3060
     }
 }
@@ -1474,31 +1474,31 @@
 2383 = {
     aristocrats = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 42
     }
 
     clergymen = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 85
     }
 
     artisans = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 170
     }
 
     soldiers = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 42
     }
 
     farmers = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 3060
     }
 }
@@ -1507,25 +1507,25 @@
 2382 = {
     clergymen = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 85
     }
 
     artisans = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 170
     }
 
     soldiers = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 42
     }
 
     farmers = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 3102
     }
 
@@ -1563,25 +1563,25 @@
 2384 = {
     clergymen = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 42
     }
 
     artisans = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 85
     }
 
     soldiers = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 42
     }
 
     farmers = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 1530
     }
 
@@ -1621,43 +1621,43 @@
 2385 = {
     aristocrats = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 508
     }
 
     bureaucrats = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 100
     }
 
     officers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 68
     }
 
     clergymen = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 340
     }
 
     artisans = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 1360
     }
 
     soldiers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 340
     }
 
     farmers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 25160
     }
 }
@@ -1665,31 +1665,31 @@
 2386 = {
     aristocrats = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 168
     }
 
     clergymen = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 340
     }
 
     artisans = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 680
     }
 
     soldiers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 168
     }
 
     farmers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 12240
     }
 }
@@ -1697,31 +1697,31 @@
 2387 = {
     aristocrats = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 340
     }
 
     clergymen = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 508
     }
 
     artisans = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 1020
     }
 
     soldiers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 168
     }
 
     farmers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 18360
     }
 }
@@ -1729,31 +1729,31 @@
 2388 = {
     aristocrats = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 100
     }
 
     clergymen = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 168
     }
 
     artisans = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 340
     }
 
     soldiers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 68
     }
 
     farmers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 6120
     }
 }
@@ -1763,43 +1763,43 @@
 2389 = {
     aristocrats = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 85
     }
 
     bureaucrats = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 8
     }
 
     officers = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 17
     }
 
     clergymen = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 127
     }
 
     artisans = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 255
     }
 
     soldiers = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 85
     }
 
     farmers = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 4522
     }
 }
@@ -1807,31 +1807,31 @@
 2390 = {
     aristocrats = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 42
     }
 
     clergymen = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 85
     }
 
     artisans = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 170
     }
 
     soldiers = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 42
     }
 
     farmers = {
         culture = beornian
-        religion = catholic
+        religion = animist
         size = 3060
     }
 }
@@ -1840,25 +1840,25 @@
 2391 = {
     clergymen = {
         culture = native_american_minor
-        religion = catholic
+        religion = animist
         size = 42
     }
 
     artisans = {
         culture = native_american_minor
-        religion = catholic
+        religion = animist
         size = 85
     }
 
     soldiers = {
         culture = native_american_minor
-        religion = catholic
+        religion = animist
         size = 42
     }
 
     farmers = {
         culture = native_american_minor
-        religion = catholic
+        religion = animist
         size = 1530
     }
 
@@ -1962,25 +1962,25 @@
 2394 = {
     clergymen = {
         culture = native_american_minor
-        religion = catholic
+        religion = animist
         size = 42
     }
 
     artisans = {
         culture = native_american_minor
-        religion = catholic
+        religion = animist
         size = 85
     }
 
     soldiers = {
         culture = native_american_minor
-        religion = catholic
+        religion = animist
         size = 42
     }
 
     farmers = {
         culture = native_american_minor
-        religion = catholic
+        religion = animist
         size = 1530
     }
 
@@ -2214,25 +2214,25 @@
 2554 = {
     clergymen = {
         culture = lotharian
-        religion = catholic
+        religion = animist
         size = 42
     }
 
     artisans = {
         culture = lotharian
-        religion = catholic
+        religion = animist
         size = 85
     }
 
     soldiers = {
         culture = lotharian
-        religion = catholic
+        religion = animist
         size = 42
     }
 
     farmers = {
         culture = lotharian
-        religion = catholic
+        religion = animist
         size = 1530
     }
 

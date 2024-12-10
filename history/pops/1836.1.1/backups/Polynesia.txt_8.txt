@@ -4,61 +4,61 @@
 658 = {
     aristocrats = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 2250
     }
 
     bureaucrats = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 3000
     }
 
     officers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 125
     }
 
     clergymen = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 1250
     }
 
     artisans = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 5750
     }
 
     soldiers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 11000
     }
 
     farmers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 100125
     }
 
     clergymen = {
         culture = qingqiuan
-        religion = catholic
+        religion = animist
         size = 125
     }
 
     artisans = {
         culture = qingqiuan
-        religion = catholic
+        religion = animist
         size = 500
     }
 
     farmers = {
         culture = qingqiuan
-        religion = catholic
+        religion = animist
         size = 10000
     }
 }
@@ -509,19 +509,19 @@
 2552 = {
     clergymen = {
         culture = polynesian
-        religion = protestant
+        religion = animist
         size = 1
     }
 
     artisans = {
         culture = polynesian
-        religion = protestant
+        religion = animist
         size = 4
     }
 
     farmers = {
         culture = polynesian
-        religion = protestant
+        religion = animist
         size = 35
     }
 }

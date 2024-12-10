@@ -4,139 +4,139 @@
 2126 = {
     aristocrats = {
         culture = french
-        religion = catholic
+        religion = animist
         size = 705
     }
 
     bureaucrats = {
         culture = french
-        religion = catholic
+        religion = animist
         size = 235
     }
 
     clergymen = {
         culture = french
-        religion = catholic
+        religion = animist
         size = 71
     }
 
     artisans = {
         culture = french
-        religion = catholic
+        religion = animist
         size = 470
     }
 
     soldiers = {
         culture = french
-        religion = catholic
+        religion = animist
         size = 282
     }
 
     farmers = {
         culture = french
-        religion = catholic
+        religion = animist
         size = 5480
     }
 
     clergymen = {
         culture = afro_antillean
-        religion = catholic
+        religion = animist
         size = 125
     }
 
     artisans = {
         culture = afro_antillean
-        religion = catholic
+        religion = animist
         size = 850
     }
 
     soldiers = {
         culture = afro_antillean
-        religion = catholic
+        religion = animist
         size = 200
     }
 
     farmers = {
         culture = afro_antillean
-        religion = catholic
+        religion = animist
         size = 1825
     }
 
     slaves = {
         culture = afro_antillean
-        religion = catholic
+        religion = animist
         size = 14000
     }
 
     aristocrats = {
         culture = anglois
-        religion = catholic
+        religion = animist
         size = 23
     }
 
     bureaucrats = {
         culture = anglois
-        religion = catholic
+        religion = animist
         size = 8
     }
 
     clergymen = {
         culture = anglois
-        religion = catholic
+        religion = animist
         size = 2
     }
 
     artisans = {
         culture = anglois
-        religion = catholic
+        religion = animist
         size = 15
     }
 
     soldiers = {
         culture = anglois
-        religion = catholic
+        religion = animist
         size = 9
     }
 
     farmers = {
         culture = anglois
-        religion = catholic
+        religion = animist
         size = 175
     }
 
     aristocrats = {
         culture = provencal
-        religion = catholic
+        religion = animist
         size = 22
     }
 
     bureaucrats = {
         culture = provencal
-        religion = catholic
+        religion = animist
         size = 7
     }
 
     clergymen = {
         culture = provencal
-        religion = catholic
+        religion = animist
         size = 2
     }
 
     artisans = {
         culture = provencal
-        religion = catholic
+        religion = animist
         size = 15
     }
 
     soldiers = {
         culture = provencal
-        religion = catholic
+        religion = animist
         size = 9
     }
 
     farmers = {
         culture = provencal
-        religion = catholic
+        religion = animist
         size = 170
     }
 }

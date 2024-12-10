@@ -4,67 +4,67 @@
 2279 = {
     aristocrats = {
         culture = north_andean
-        religion = catholic
+        religion = animist
         size = 1528
     }
 
     bureaucrats = {
         culture = north_andean
-        religion = catholic
+        religion = animist
         size = 197
     }
 
     officers = {
         culture = north_andean
-        religion = catholic
+        religion = animist
         size = 147
     }
 
     clergymen = {
         culture = north_andean
-        religion = catholic
+        religion = animist
         size = 591
     }
 
     artisans = {
         culture = north_andean
-        religion = catholic
+        religion = animist
         size = 5817
     }
 
     soldiers = {
         culture = north_andean
-        religion = catholic
+        religion = animist
         size = 1084
     }
 
     farmers = {
         culture = north_andean
-        religion = catholic
+        religion = animist
         size = 21297
     }
 
     clergymen = {
         culture = north_andean
-        religion = catholic
+        religion = animist
         size = 172
     }
 
     artisans = {
         culture = north_andean
-        religion = catholic
+        religion = animist
         size = 4042
     }
 
     soldiers = {
         culture = north_andean
-        religion = catholic
+        religion = animist
         size = 1084
     }
 
     farmers = {
         culture = north_andean
-        religion = catholic
+        religion = animist
         size = 39168
     }
 }
@@ -72,55 +72,55 @@
 2283 = {
     aristocrats = {
         culture = north_andean
-        religion = catholic
+        religion = animist
         size = 887
     }
 
     clergymen = {
         culture = north_andean
-        religion = catholic
+        religion = animist
         size = 270
     }
 
     artisans = {
         culture = north_andean
-        religion = catholic
+        religion = animist
         size = 443
     }
 
     soldiers = {
         culture = north_andean
-        religion = catholic
+        religion = animist
         size = 98
     }
 
     farmers = {
         culture = north_andean
-        religion = catholic
+        religion = animist
         size = 7172
     }
 
     clergymen = {
         culture = north_andean
-        religion = catholic
+        religion = animist
         size = 172
     }
 
     artisans = {
         culture = north_andean
-        religion = catholic
+        religion = animist
         size = 1725
     }
 
     soldiers = {
         culture = north_andean
-        religion = catholic
+        religion = animist
         size = 1084
     }
 
     farmers = {
         culture = north_andean
-        religion = catholic
+        religion = animist
         size = 31329
     }
 }
@@ -128,55 +128,55 @@
 2284 = {
     aristocrats = {
         culture = north_andean
-        religion = catholic
+        religion = animist
         size = 98
     }
 
     clergymen = {
         culture = north_andean
-        religion = catholic
+        religion = animist
         size = 73
     }
 
     artisans = {
         culture = north_andean
-        religion = catholic
+        religion = animist
         size = 147
     }
 
     soldiers = {
         culture = north_andean
-        religion = catholic
+        religion = animist
         size = 49
     }
 
     farmers = {
         culture = north_andean
-        religion = catholic
+        religion = animist
         size = 2587
     }
 
     clergymen = {
         culture = north_andean
-        religion = catholic
+        religion = animist
         size = 24
     }
 
     artisans = {
         culture = north_andean
-        religion = catholic
+        religion = animist
         size = 98
     }
 
     soldiers = {
         culture = north_andean
-        religion = catholic
+        religion = animist
         size = 24
     }
 
     farmers = {
         culture = north_andean
-        religion = catholic
+        religion = animist
         size = 1824
     }
 
@@ -216,73 +216,73 @@
 2280 = {
     aristocrats = {
         culture = north_andean
-        religion = catholic
+        religion = animist
         size = 443
     }
 
     bureaucrats = {
         culture = north_andean
-        religion = catholic
+        religion = animist
         size = 98
     }
 
     officers = {
         culture = north_andean
-        religion = catholic
+        religion = animist
         size = 98
     }
 
     clergymen = {
         culture = north_andean
-        religion = catholic
+        religion = animist
         size = 172
     }
 
     artisans = {
         culture = north_andean
-        religion = catholic
+        religion = animist
         size = 838
     }
 
     soldiers = {
         culture = north_andean
-        religion = catholic
+        religion = animist
         size = 172
     }
 
     farmers = {
         culture = north_andean
-        religion = catholic
+        religion = animist
         size = 14937
     }
 
     clergymen = {
         culture = north_andean
-        religion = catholic
+        religion = animist
         size = 49
     }
 
     artisans = {
         culture = north_andean
-        religion = catholic
+        religion = animist
         size = 147
     }
 
     soldiers = {
         culture = north_andean
-        religion = catholic
+        religion = animist
         size = 49
     }
 
     farmers = {
         culture = north_andean
-        religion = catholic
+        religion = animist
         size = 1774
     }
 
     slaves = {
         culture = north_andean
-        religion = catholic
+        religion = animist
         size = 1084
     }
 }
@@ -290,61 +290,61 @@
 2281 = {
     aristocrats = {
         culture = north_andean
-        religion = catholic
+        religion = animist
         size = 443
     }
 
     clergymen = {
         culture = north_andean
-        religion = catholic
+        religion = animist
         size = 172
     }
 
     artisans = {
         culture = north_andean
-        religion = catholic
+        religion = animist
         size = 345
     }
 
     soldiers = {
         culture = north_andean
-        religion = catholic
+        religion = animist
         size = 73
     }
 
     farmers = {
         culture = north_andean
-        religion = catholic
+        religion = animist
         size = 6704
     }
 
     clergymen = {
         culture = north_andean
-        religion = catholic
+        religion = animist
         size = 73
     }
 
     artisans = {
         culture = north_andean
-        religion = catholic
+        religion = animist
         size = 739
     }
 
     soldiers = {
         culture = north_andean
-        religion = catholic
+        religion = animist
         size = 147
     }
 
     farmers = {
         culture = north_andean
-        religion = catholic
+        religion = animist
         size = 5940
     }
 
     slaves = {
         culture = north_andean
-        religion = catholic
+        religion = animist
         size = 7888
     }
 }
@@ -352,55 +352,55 @@
 2282 = {
     aristocrats = {
         culture = north_andean
-        religion = catholic
+        religion = animist
         size = 813
     }
 
     clergymen = {
         culture = north_andean
-        religion = catholic
+        religion = animist
         size = 270
     }
 
     artisans = {
         culture = north_andean
-        religion = catholic
+        religion = animist
         size = 739
     }
 
     soldiers = {
         culture = north_andean
-        religion = catholic
+        religion = animist
         size = 147
     }
 
     farmers = {
         culture = north_andean
-        religion = catholic
+        religion = animist
         size = 12818
     }
 
     clergymen = {
         culture = north_andean
-        religion = catholic
+        religion = animist
         size = 98
     }
 
     artisans = {
         culture = north_andean
-        religion = catholic
+        religion = animist
         size = 1232
     }
 
     soldiers = {
         culture = north_andean
-        religion = catholic
+        religion = animist
         size = 246
     }
 
     farmers = {
         culture = north_andean
-        religion = catholic
+        religion = animist
         size = 23072
     }
 }
@@ -410,31 +410,31 @@
 2285 = {
     bureaucrats = {
         culture = north_andean
-        religion = catholic
+        religion = animist
         size = 0
     }
 
     clergymen = {
         culture = north_andean
-        religion = catholic
+        religion = animist
         size = 0
     }
 
     artisans = {
         culture = north_andean
-        religion = catholic
+        religion = animist
         size = 2
     }
 
     soldiers = {
         culture = north_andean
-        religion = catholic
+        religion = animist
         size = 24
     }
 
     farmers = {
         culture = north_andean
-        religion = catholic
+        religion = animist
         size = 44
     }
 }

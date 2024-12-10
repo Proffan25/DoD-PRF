@@ -4,61 +4,61 @@
 203 = {
     clergymen = {
         culture = afro_caribbean
-        religion = protestant
+        religion = animist
         size = 15
     }
 
     artisans = {
         culture = afro_caribbean
-        religion = protestant
+        religion = animist
         size = 100
     }
 
     soldiers = {
         culture = afro_caribbean
-        religion = protestant
+        religion = animist
         size = 50
     }
 
     farmers = {
         culture = afro_caribbean
-        religion = protestant
+        religion = animist
         size = 1110
     }
 
     aristocrats = {
         culture = english
-        religion = protestant
+        religion = animist
         size = 25
     }
 
     bureaucrats = {
         culture = english
-        religion = protestant
+        religion = animist
         size = 25
     }
 
     clergymen = {
         culture = english
-        religion = protestant
+        religion = animist
         size = 25
     }
 
     artisans = {
         culture = english
-        religion = protestant
+        religion = animist
         size = 150
     }
 
     soldiers = {
         culture = english
-        religion = protestant
+        religion = animist
         size = 50
     }
 
     farmers = {
         culture = english
-        religion = protestant
+        religion = animist
         size = 780
     }
 }

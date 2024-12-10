@@ -4,73 +4,73 @@
 2344 = {
     aristocrats = {
         culture = lotharian
-        religion = catholic
+        religion = animist
         size = 1221
     }
 
     bureaucrats = {
         culture = lotharian
-        religion = catholic
+        religion = animist
         size = 424
     }
 
     officers = {
         culture = lotharian
-        religion = catholic
+        religion = animist
         size = 106
     }
 
     clergymen = {
         culture = lotharian
-        religion = catholic
+        religion = animist
         size = 531
     }
 
     artisans = {
         culture = lotharian
-        religion = catholic
+        religion = animist
         size = 2082
     }
 
     soldiers = {
         culture = lotharian
-        religion = catholic
+        religion = animist
         size = 1870
     }
 
     farmers = {
         culture = lotharian
-        religion = catholic
+        religion = animist
         size = 42701
     }
 
     clergymen = {
         culture = lotharian
-        religion = catholic
+        religion = animist
         size = 61
     }
 
     artisans = {
         culture = lotharian
-        religion = catholic
+        religion = animist
         size = 307
     }
 
     soldiers = {
         culture = lotharian
-        religion = catholic
+        religion = animist
         size = 49
     }
 
     farmers = {
         culture = lotharian
-        religion = catholic
+        religion = animist
         size = 3881
     }
 
     slaves = {
         culture = lotharian
-        religion = catholic
+        religion = animist
         size = 1848
     }
 }
@@ -78,31 +78,31 @@
 2345 = {
     aristocrats = {
         culture = lotharian
-        religion = catholic
+        religion = animist
         size = 425
     }
 
     clergymen = {
         culture = lotharian
-        religion = catholic
+        religion = animist
         size = 158
     }
 
     artisans = {
         culture = lotharian
-        religion = catholic
+        religion = animist
         size = 956
     }
 
     soldiers = {
         culture = lotharian
-        religion = catholic
+        religion = animist
         size = 1870
     }
 
     farmers = {
         culture = lotharian
-        religion = catholic
+        religion = animist
         size = 15458
     }
 }
@@ -110,55 +110,55 @@
 2346 = {
     aristocrats = {
         culture = lotharian
-        religion = catholic
+        religion = animist
         size = 52
     }
 
     clergymen = {
         culture = lotharian
-        religion = catholic
+        religion = animist
         size = 106
     }
 
     artisans = {
         culture = lotharian
-        religion = catholic
+        religion = animist
         size = 212
     }
 
     soldiers = {
         culture = lotharian
-        religion = catholic
+        religion = animist
         size = 42
     }
 
     farmers = {
         culture = lotharian
-        religion = catholic
+        religion = animist
         size = 3825
     }
 
     clergymen = {
         culture = lotharian
-        religion = catholic
+        religion = animist
         size = 17
     }
 
     artisans = {
         culture = lotharian
-        religion = catholic
+        religion = animist
         size = 61
     }
 
     soldiers = {
         culture = lotharian
-        religion = catholic
+        religion = animist
         size = 9
     }
 
     farmers = {
         culture = lotharian
-        religion = catholic
+        religion = animist
         size = 1138
     }
 }
@@ -166,55 +166,55 @@
 2347 = {
     aristocrats = {
         culture = lotharian
-        religion = catholic
+        religion = animist
         size = 318
     }
 
     clergymen = {
         culture = lotharian
-        religion = catholic
+        religion = animist
         size = 106
     }
 
     artisans = {
         culture = lotharian
-        religion = catholic
+        religion = animist
         size = 743
     }
 
     soldiers = {
         culture = lotharian
-        religion = catholic
+        religion = animist
         size = 1870
     }
 
     farmers = {
         culture = lotharian
-        religion = catholic
+        religion = animist
         size = 11581
     }
 
     clergymen = {
         culture = lotharian
-        religion = catholic
+        religion = animist
         size = 61
     }
 
     artisans = {
         culture = lotharian
-        religion = catholic
+        religion = animist
         size = 183
     }
 
     soldiers = {
         culture = lotharian
-        religion = catholic
+        religion = animist
         size = 24
     }
 
     farmers = {
         culture = lotharian
-        religion = catholic
+        religion = animist
         size = 3418
     }
 }

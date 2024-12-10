@@ -4,91 +4,91 @@
 1827 = {
     aristocrats = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 747
     }
 
     bureaucrats = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 46
     }
 
     officers = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 126
     }
 
     clergymen = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 488
     }
 
     artisans = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 2443
     }
 
     soldiers = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 4600
     }
 
     farmers = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 40422
     }
 
     bureaucrats = {
         culture = misri
-        religion = sunni
+        religion = animist
         size = 57
     }
 
     officers = {
         culture = misri
-        religion = sunni
+        religion = animist
         size = 172
     }
 
     soldiers = {
         culture = misri
-        religion = sunni
+        religion = animist
         size = 345
     }
 
     aristocrats = {
         culture = misri
-        religion = sunni
+        religion = animist
         size = 316
     }
 
     clergymen = {
         culture = misri
-        religion = sunni
+        religion = animist
         size = 172
     }
 
     artisans = {
         culture = misri
-        religion = sunni
+        religion = animist
         size = 920
     }
 
     soldiers = {
         culture = misri
-        religion = sunni
+        religion = animist
         size = 143
     }
 
     farmers = {
         culture = misri
-        religion = sunni
+        religion = animist
         size = 16847
     }
 
@@ -108,31 +108,31 @@
 1828 = {
     aristocrats = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 431
     }
 
     clergymen = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 258
     }
 
     artisans = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 1322
     }
 
     soldiers = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 1265
     }
 
     farmers = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 23287
     }
 
@@ -152,31 +152,31 @@
 1829 = {
     aristocrats = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 460
     }
 
     clergymen = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 258
     }
 
     artisans = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 1322
     }
 
     soldiers = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 2415
     }
 
     farmers = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 22108
     }
 
@@ -218,31 +218,31 @@
 
     aristocrats = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 86
     }
 
     clergymen = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 57
     }
 
     artisans = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 230
     }
 
     soldiers = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 57
     }
 
     farmers = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 4168
     }
 }
@@ -250,31 +250,31 @@
 1830 = {
     aristocrats = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 546
     }
 
     clergymen = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 287
     }
 
     artisans = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 1552
     }
 
     soldiers = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 1265
     }
 
     farmers = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 25213
     }
 
@@ -348,31 +348,31 @@
 1831 = {
     aristocrats = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 402
     }
 
     clergymen = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 230
     }
 
     artisans = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 1121
     }
 
     soldiers = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 1265
     }
 
     farmers = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 20096
     }
 
@@ -510,103 +510,103 @@
 1833 = {
     aristocrats = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 86
     }
 
     bureaucrats = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 28
     }
 
     officers = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 28
     }
 
     clergymen = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 57
     }
 
     artisans = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 230
     }
 
     soldiers = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 57
     }
 
     farmers = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 4111
     }
 
     aristocrats = {
         culture = misri
-        religion = sunni
+        religion = animist
         size = 143
     }
 
     clergymen = {
         culture = misri
-        religion = sunni
+        religion = animist
         size = 86
     }
 
     artisans = {
         culture = misri
-        religion = sunni
+        religion = animist
         size = 402
     }
 
     soldiers = {
         culture = misri
-        religion = sunni
+        religion = animist
         size = 86
     }
 
     farmers = {
         culture = misri
-        religion = sunni
+        religion = animist
         size = 7331
     }
 
     aristocrats = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 28
     }
 
     clergymen = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 57
     }
 
     artisans = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 115
     }
 
     soldiers = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 28
     }
 
     farmers = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 2070
     }
 
@@ -620,91 +620,91 @@
 1834 = {
     aristocrats = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 115
     }
 
     clergymen = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 57
     }
 
     artisans = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 345
     }
 
     soldiers = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 86
     }
 
     farmers = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 6296
     }
 
     aristocrats = {
         culture = misri
-        religion = sunni
+        religion = animist
         size = 57
     }
 
     clergymen = {
         culture = misri
-        religion = sunni
+        religion = animist
         size = 86
     }
 
     artisans = {
         culture = misri
-        religion = sunni
+        religion = animist
         size = 172
     }
 
     soldiers = {
         culture = misri
-        religion = sunni
+        religion = animist
         size = 28
     }
 
     farmers = {
         culture = misri
-        religion = sunni
+        religion = animist
         size = 3105
     }
 
     aristocrats = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 57
     }
 
     clergymen = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 86
     }
 
     artisans = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 172
     }
 
     soldiers = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 28
     }
 
     farmers = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 3105
     }
 }
@@ -714,73 +714,73 @@
 1835 = {
     aristocrats = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 57
     }
 
     bureaucrats = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 11
     }
 
     officers = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 46
     }
 
     clergymen = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 86
     }
 
     artisans = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 172
     }
 
     soldiers = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 86
     }
 
     farmers = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 2990
     }
 
     aristocrats = {
         culture = misri
-        religion = sunni
+        religion = animist
         size = 287
     }
 
     clergymen = {
         culture = misri
-        religion = sunni
+        religion = animist
         size = 143
     }
 
     artisans = {
         culture = misri
-        religion = sunni
+        religion = animist
         size = 805
     }
 
     soldiers = {
         culture = misri
-        religion = sunni
+        religion = animist
         size = 172
     }
 
     farmers = {
         culture = misri
-        religion = sunni
+        religion = animist
         size = 14691
     }
 
@@ -792,31 +792,31 @@
 
     aristocrats = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 17
     }
 
     clergymen = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 28
     }
 
     artisans = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 57
     }
 
     soldiers = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 11
     }
 
     farmers = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 1035
     }
 }
@@ -824,91 +824,91 @@
 1836 = {
     aristocrats = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 86
     }
 
     clergymen = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 57
     }
 
     artisans = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 230
     }
 
     soldiers = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 57
     }
 
     farmers = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 4168
     }
 
     aristocrats = {
         culture = misri
-        religion = sunni
+        religion = animist
         size = 86
     }
 
     clergymen = {
         culture = misri
-        religion = sunni
+        religion = animist
         size = 86
     }
 
     artisans = {
         culture = misri
-        religion = sunni
+        religion = animist
         size = 230
     }
 
     soldiers = {
         culture = misri
-        religion = sunni
+        religion = animist
         size = 57
     }
 
     farmers = {
         culture = misri
-        religion = sunni
+        religion = animist
         size = 4140
     }
 
     aristocrats = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 373
     }
 
     clergymen = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 201
     }
 
     artisans = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 1035
     }
 
     soldiers = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 230
     }
 
     farmers = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 18860
     }
 }
@@ -916,91 +916,91 @@
 1837 = {
     aristocrats = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 17
     }
 
     clergymen = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 28
     }
 
     artisans = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 57
     }
 
     soldiers = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 11
     }
 
     farmers = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 1035
     }
 
     aristocrats = {
         culture = misri
-        religion = sunni
+        religion = animist
         size = 115
     }
 
     clergymen = {
         culture = misri
-        religion = sunni
+        religion = animist
         size = 57
     }
 
     artisans = {
         culture = misri
-        religion = sunni
+        religion = animist
         size = 345
     }
 
     soldiers = {
         culture = misri
-        religion = sunni
+        religion = animist
         size = 86
     }
 
     farmers = {
         culture = misri
-        religion = sunni
+        religion = animist
         size = 6296
     }
 
     aristocrats = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 57
     }
 
     clergymen = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 86
     }
 
     artisans = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 172
     }
 
     soldiers = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 28
     }
 
     farmers = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 3105
     }
 }
@@ -1008,31 +1008,31 @@
 2564 = {
     aristocrats = {
         culture = misri
-        religion = sunni
+        religion = animist
         size = 28
     }
 
     clergymen = {
         culture = misri
-        religion = sunni
+        religion = animist
         size = 57
     }
 
     artisans = {
         culture = misri
-        religion = sunni
+        religion = animist
         size = 115
     }
 
     soldiers = {
         culture = misri
-        religion = sunni
+        religion = animist
         size = 28
     }
 
     farmers = {
         culture = misri
-        religion = sunni
+        religion = animist
         size = 2070
     }
 }
@@ -1042,43 +1042,43 @@
 1838 = {
     aristocrats = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 575
     }
 
     bureaucrats = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 28
     }
 
     officers = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 115
     }
 
     clergymen = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 287
     }
 
     artisans = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 1265
     }
 
     soldiers = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 517
     }
 
     farmers = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 27226
     }
 
@@ -1200,43 +1200,43 @@
 1841 = {
     aristocrats = {
         culture = nilo_saharan
-        religion = sunni
+        religion = animist
         size = 600
     }
 
     bureaucrats = {
         culture = nilo_saharan
-        religion = sunni
+        religion = animist
         size = 50
     }
 
     officers = {
         culture = nilo_saharan
-        religion = sunni
+        religion = animist
         size = 100
     }
 
     clergymen = {
         culture = nilo_saharan
-        religion = sunni
+        religion = animist
         size = 325
     }
 
     artisans = {
         culture = nilo_saharan
-        religion = sunni
+        religion = animist
         size = 1300
     }
 
     soldiers = {
         culture = nilo_saharan
-        religion = sunni
+        religion = animist
         size = 350
     }
 
     farmers = {
         culture = nilo_saharan
-        religion = sunni
+        religion = animist
         size = 29275
     }
 
@@ -1250,31 +1250,31 @@
 1842 = {
     aristocrats = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 325
     }
 
     clergymen = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 175
     }
 
     artisans = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 750
     }
 
     soldiers = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 250
     }
 
     farmers = {
         culture = afro_asiatic
-        religion = sunni
+        religion = animist
         size = 16300
     }
 
@@ -1286,31 +1286,31 @@
 
     aristocrats = {
         culture = bedouin
-        religion = sunni
+        religion = animist
         size = 25
     }
 
     clergymen = {
         culture = bedouin
-        religion = sunni
+        religion = animist
         size = 50
     }
 
     artisans = {
         culture = bedouin
-        religion = sunni
+        religion = animist
         size = 100
     }
 
     soldiers = {
         culture = bedouin
-        religion = sunni
+        religion = animist
         size = 25
     }
 
     farmers = {
         culture = bedouin
-        religion = sunni
+        religion = animist
         size = 1800
     }
 }
@@ -1318,31 +1318,31 @@
 1843 = {
     aristocrats = {
         culture = nilo_saharan
-        religion = sunni
+        religion = animist
         size = 125
     }
 
     clergymen = {
         culture = nilo_saharan
-        religion = sunni
+        religion = animist
         size = 75
     }
 
     artisans = {
         culture = nilo_saharan
-        religion = sunni
+        religion = animist
         size = 350
     }
 
     soldiers = {
         culture = nilo_saharan
-        religion = sunni
+        religion = animist
         size = 100
     }
 
     farmers = {
         culture = nilo_saharan
-        religion = sunni
+        religion = animist
         size = 6350
     }
 
@@ -1424,31 +1424,31 @@
 1844 = {
     aristocrats = {
         culture = nilo_saharan
-        religion = sunni
+        religion = animist
         size = 50
     }
 
     clergymen = {
         culture = nilo_saharan
-        religion = sunni
+        religion = animist
         size = 75
     }
 
     artisans = {
         culture = nilo_saharan
-        religion = sunni
+        religion = animist
         size = 150
     }
 
     soldiers = {
         culture = nilo_saharan
-        religion = sunni
+        religion = animist
         size = 25
     }
 
     farmers = {
         culture = nilo_saharan
-        religion = sunni
+        religion = animist
         size = 2700
     }
 
@@ -1552,31 +1552,31 @@
 1845 = {
     aristocrats = {
         culture = nilo_saharan
-        religion = sunni
+        religion = animist
         size = 75
     }
 
     clergymen = {
         culture = nilo_saharan
-        religion = sunni
+        religion = animist
         size = 50
     }
 
     artisans = {
         culture = nilo_saharan
-        religion = sunni
+        religion = animist
         size = 200
     }
 
     soldiers = {
         culture = nilo_saharan
-        religion = sunni
+        religion = animist
         size = 25
     }
 
     farmers = {
         culture = nilo_saharan
-        religion = sunni
+        religion = animist
         size = 3650
     }
 

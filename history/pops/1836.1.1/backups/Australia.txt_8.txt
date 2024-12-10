@@ -4,73 +4,73 @@
 2468 = {
     bureaucrats = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 1400
     }
 
     clergymen = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 325
     }
 
     artisans = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 17500
     }
 
     soldiers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 11000
     }
 
     farmers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 122000
     }
 
     clergymen = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 125
     }
 
     artisans = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 2500
     }
 
     farmers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 12375
     }
 
     clergymen = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 125
     }
 
     artisans = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 750
     }
 
     soldiers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 250
     }
 
     farmers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 14000
     }
 }
@@ -78,67 +78,67 @@
 2469 = {
     clergymen = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 125
     }
 
     artisans = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 1250
     }
 
     soldiers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 500
     }
 
     farmers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 8350
     }
 
     clergymen = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 50
     }
 
     artisans = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 250
     }
 
     farmers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 4800
     }
 
     clergymen = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 50
     }
 
     artisans = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 250
     }
 
     soldiers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 150
     }
 
     farmers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 4625
     }
 }
@@ -146,55 +146,55 @@
 2470 = {
     clergymen = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 125
     }
 
     artisans = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 250
     }
 
     soldiers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 250
     }
 
     farmers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 4500
     }
 
     aristocrats = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 125
     }
 
     clergymen = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 250
     }
 
     artisans = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 500
     }
 
     soldiers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 250
     }
 
     farmers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 8750
     }
 }
@@ -202,55 +202,55 @@
 2472 = {
     aristocrats = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 50
     }
 
     clergymen = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 125
     }
 
     artisans = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 250
     }
 
     soldiers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 150
     }
 
     farmers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 4500
     }
 
     clergymen = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 125
     }
 
     artisans = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 500
     }
 
     soldiers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 250
     }
 
     farmers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 9250
     }
 }
@@ -258,55 +258,55 @@
 2473 = {
     clergymen = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 125
     }
 
     artisans = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 250
     }
 
     soldiers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 250
     }
 
     farmers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 4500
     }
 
     aristocrats = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 125
     }
 
     clergymen = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 250
     }
 
     artisans = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 500
     }
 
     soldiers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 250
     }
 
     farmers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 8750
     }
 }
@@ -315,31 +315,31 @@
 2471 = {
     aristocrats = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 125
     }
 
     clergymen = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 250
     }
 
     artisans = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 500
     }
 
     soldiers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 250
     }
 
     farmers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 8750
     }
 }
@@ -347,31 +347,31 @@
 2474 = {
     aristocrats = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 125
     }
 
     clergymen = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 250
     }
 
     artisans = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 500
     }
 
     soldiers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 250
     }
 
     farmers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 8750
     }
 }
@@ -379,31 +379,31 @@
 2475 = {
     aristocrats = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 250
     }
 
     clergymen = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 375
     }
 
     artisans = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 750
     }
 
     soldiers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 250
     }
 
     farmers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 13500
     }
 }
@@ -413,31 +413,31 @@
 2476 = {
     aristocrats = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 250
     }
 
     clergymen = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 375
     }
 
     artisans = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 750
     }
 
     soldiers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 250
     }
 
     farmers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 113500
     }
 }
@@ -445,31 +445,31 @@
 2477 = {
     aristocrats = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 125
     }
 
     clergymen = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 250
     }
 
     artisans = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 500
     }
 
     soldiers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 250
     }
 
     farmers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 8750
     }
 }
@@ -477,31 +477,31 @@
 2478 = {
     aristocrats = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 125
     }
 
     clergymen = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 250
     }
 
     artisans = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 500
     }
 
     soldiers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 250
     }
 
     farmers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 8750
     }
 }
@@ -509,31 +509,31 @@
 2479 = {
     aristocrats = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 125
     }
 
     clergymen = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 250
     }
 
     artisans = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 500
     }
 
     soldiers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 250
     }
 
     farmers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 8750
     }
 }
@@ -541,31 +541,31 @@
 2480 = {
     aristocrats = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 50
     }
 
     clergymen = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 125
     }
 
     artisans = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 250
     }
 
     soldiers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 150
     }
 
     farmers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 4500
     }
 }
@@ -573,31 +573,31 @@
 2481 = {
     aristocrats = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 50
     }
 
     clergymen = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 125
     }
 
     artisans = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 250
     }
 
     soldiers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 150
     }
 
     farmers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 4500
     }
 }
@@ -607,31 +607,31 @@
 2482 = {
     bureaucrats = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 1000
     }
 
     clergymen = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 500
     }
 
     artisans = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 10000
     }
 
     soldiers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 1000
     }
 
     farmers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 33875
     }
 }
@@ -641,55 +641,55 @@
 2483 = {
     aristocrats = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 125
     }
 
     clergymen = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 250
     }
 
     artisans = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 500
     }
 
     soldiers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 250
     }
 
     farmers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 8750
     }
 
     clergymen = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 125
     }
 
     artisans = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 250
     }
 
     soldiers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 250
     }
 
     farmers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 4500
     }
 }
@@ -698,31 +698,31 @@
 2484 = {
     aristocrats = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 125
     }
 
     clergymen = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 250
     }
 
     artisans = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 500
     }
 
     soldiers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 250
     }
 
     farmers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 8750
     }
 }
@@ -730,31 +730,31 @@
 2485 = {
     aristocrats = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 50
     }
 
     clergymen = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 125
     }
 
     artisans = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 250
     }
 
     soldiers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 150
     }
 
     farmers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 4500
     }
 }
@@ -762,31 +762,31 @@
 2486 = {
     aristocrats = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 125
     }
 
     clergymen = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 250
     }
 
     artisans = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 500
     }
 
     soldiers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 250
     }
 
     farmers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 8750
     }
 }
@@ -794,31 +794,31 @@
 2487 = {
     aristocrats = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 125
     }
 
     clergymen = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 250
     }
 
     artisans = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 500
     }
 
     soldiers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 250
     }
 
     farmers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 8750
     }
 }
@@ -826,31 +826,31 @@
 2488 = {
     aristocrats = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 125
     }
 
     clergymen = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 250
     }
 
     artisans = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 625
     }
 
     soldiers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 250
     }
 
     farmers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 11375
     }
 }
@@ -858,31 +858,31 @@
 2489 = {
     aristocrats = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 50
     }
 
     clergymen = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 125
     }
 
     artisans = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 250
     }
 
     soldiers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 150
     }
 
     farmers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 4500
     }
 }
@@ -890,31 +890,31 @@
 2490 = {
     aristocrats = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 50
     }
 
     clergymen = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 125
     }
 
     artisans = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 250
     }
 
     soldiers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 150
     }
 
     farmers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 4500
     }
 }
@@ -922,31 +922,31 @@
 2604 = {
     aristocrats = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 75
     }
 
     clergymen = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 125
     }
 
     artisans = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 375
     }
 
     soldiers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 150
     }
 
     farmers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 6850
     }
 }
@@ -956,31 +956,31 @@
 2491 = {
     aristocrats = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 250
     }
 
     clergymen = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 375
     }
 
     artisans = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 750
     }
 
     soldiers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 250
     }
 
     farmers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 13500
     }
 }
@@ -988,31 +988,31 @@
 2492 = {
     aristocrats = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 50
     }
 
     clergymen = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 125
     }
 
     artisans = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 250
     }
 
     soldiers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 150
     }
 
     farmers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 4500
     }
 }
@@ -1020,31 +1020,31 @@
 2493 = {
     aristocrats = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 50
     }
 
     clergymen = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 125
     }
 
     artisans = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 250
     }
 
     soldiers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 150
     }
 
     farmers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 4500
     }
 }
@@ -1052,31 +1052,31 @@
 2494 = {
     aristocrats = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 50
     }
 
     clergymen = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 125
     }
 
     artisans = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 250
     }
 
     soldiers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 150
     }
 
     farmers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 4500
     }
 }
@@ -1084,31 +1084,31 @@
 2495 = {
     aristocrats = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 50
     }
 
     clergymen = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 125
     }
 
     artisans = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 250
     }
 
     soldiers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 150
     }
 
     farmers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 4500
     }
 }
@@ -1116,31 +1116,31 @@
 2496 = {
     aristocrats = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 50
     }
 
     clergymen = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 125
     }
 
     artisans = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 250
     }
 
     soldiers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 150
     }
 
     farmers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 4500
     }
 }
@@ -1150,55 +1150,55 @@
 2497 = {
     clergymen = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 75
     }
 
     artisans = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 200
     }
 
     soldiers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 100
     }
 
     farmers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 3425
     }
 
     aristocrats = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 375
     }
 
     clergymen = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 625
     }
 
     artisans = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 1250
     }
 
     soldiers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 500
     }
 
     farmers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 22500
     }
 }
@@ -1206,31 +1206,31 @@
 2498 = {
     aristocrats = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 250
     }
 
     clergymen = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 375
     }
 
     artisans = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 750
     }
 
     soldiers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 250
     }
 
     farmers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 13500
     }
 }
@@ -1238,31 +1238,31 @@
 2499 = {
     aristocrats = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 125
     }
 
     clergymen = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 250
     }
 
     artisans = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 500
     }
 
     soldiers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 250
     }
 
     farmers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 8750
     }
 }
@@ -1270,31 +1270,31 @@
 2500 = {
     aristocrats = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 50
     }
 
     clergymen = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 125
     }
 
     artisans = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 250
     }
 
     soldiers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 150
     }
 
     farmers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 4500
     }
 }
@@ -1302,31 +1302,31 @@
 2501 = {
     aristocrats = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 125
     }
 
     clergymen = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 250
     }
 
     artisans = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 500
     }
 
     soldiers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 250
     }
 
     farmers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 8750
     }
 }
@@ -1334,31 +1334,31 @@
 2502 = {
     aristocrats = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 25
     }
 
     clergymen = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 50
     }
 
     artisans = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 125
     }
 
     soldiers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 100
     }
 
     farmers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 2250
     }
 }
@@ -1366,31 +1366,31 @@
 2503 = {
     aristocrats = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 50
     }
 
     clergymen = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 75
     }
 
     artisans = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 175
     }
 
     soldiers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 100
     }
 
     farmers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 3150
     }
 }
@@ -1398,31 +1398,31 @@
 2504 = {
     aristocrats = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 50
     }
 
     clergymen = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 125
     }
 
     artisans = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 250
     }
 
     soldiers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 150
     }
 
     farmers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 4500
     }
 }
@@ -1430,31 +1430,31 @@
 2601 = {
     aristocrats = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 25
     }
 
     clergymen = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 50
     }
 
     artisans = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 125
     }
 
     soldiers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 50
     }
 
     farmers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 2250
     }
 }
@@ -1462,31 +1462,31 @@
 2602 = {
     aristocrats = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 25
     }
 
     clergymen = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 75
     }
 
     artisans = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 125
     }
 
     soldiers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 50
     }
 
     farmers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 2250
     }
 }
@@ -1494,31 +1494,31 @@
 2605 = {
     aristocrats = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 50
     }
 
     clergymen = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 75
     }
 
     artisans = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 200
     }
 
     soldiers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 100
     }
 
     farmers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 3625
     }
 }
@@ -1528,31 +1528,31 @@
 2505 = {
     aristocrats = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 375
     }
 
     clergymen = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 625
     }
 
     artisans = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 1250
     }
 
     soldiers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 500
     }
 
     farmers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 22500
     }
 }
@@ -1560,31 +1560,31 @@
 2506 = {
     aristocrats = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 125
     }
 
     clergymen = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 250
     }
 
     artisans = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 500
     }
 
     soldiers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 250
     }
 
     farmers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 8750
     }
 }
@@ -1592,31 +1592,31 @@
 2507 = {
     aristocrats = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 50
     }
 
     clergymen = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 75
     }
 
     artisans = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 175
     }
 
     soldiers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 100
     }
 
     farmers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 3150
     }
 }
@@ -1624,31 +1624,31 @@
 2603 = {
     aristocrats = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 10
     }
 
     clergymen = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 15
     }
 
     artisans = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 75
     }
 
     soldiers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 50
     }
 
     farmers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 1375
     }
 }
@@ -1658,25 +1658,25 @@
 2508 = {
     clergymen = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 15
     }
 
     artisans = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 50
     }
 
     soldiers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 20
     }
 
     farmers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 1175
     }
 }

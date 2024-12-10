@@ -2,7 +2,7 @@
 3252 = {
     farmers = {
         culture = south_german
-        religion = catholic
+        religion = animist
         size = 5750
     }
 }

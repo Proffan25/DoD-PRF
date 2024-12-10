@@ -4,31 +4,31 @@
 2190 = {
     artisans = {
         culture = british
-        religion = protestant
+        religion = animist
         size = 25
     }
 
     clergymen = {
         culture = lusitanian
-        religion = protestant
+        religion = animist
         size = 15
     }
 
     artisans = {
         culture = lusitanian
-        religion = protestant
+        religion = animist
         size = 100
     }
 
     soldiers = {
         culture = lusitanian
-        religion = protestant
+        religion = animist
         size = 10
     }
 
     farmers = {
         culture = lusitanian
-        religion = protestant
+        religion = animist
         size = 1650
     }
 }

@@ -4,67 +4,67 @@
 2286 = {
     aristocrats = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 175
     }
 
     bureaucrats = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 9
     }
 
     officers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 9
     }
 
     clergymen = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 175
     }
 
     artisans = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 352
     }
 
     soldiers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 57
     }
 
     farmers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 6304
     }
 
     clergymen = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 57
     }
 
     artisans = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 235
     }
 
     soldiers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 57
     }
 
     farmers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 2011
     }
 
@@ -201,67 +201,67 @@
 2290 = {
     aristocrats = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 1891
     }
 
     bureaucrats = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 235
     }
 
     officers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 175
     }
 
     clergymen = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 590
     }
 
     artisans = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 1418
     }
 
     soldiers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 292
     }
 
     farmers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 23781
     }
 
     clergymen = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 292
     }
 
     artisans = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 3074
     }
 
     soldiers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 590
     }
 
     farmers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 57561
     }
 }
@@ -269,85 +269,85 @@
 2291 = {
     aristocrats = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 768
     }
 
     clergymen = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 235
     }
 
     artisans = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 352
     }
 
     soldiers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 117
     }
 
     farmers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 5618
     }
 
     clergymen = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 175
     }
 
     artisans = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 1183
     }
 
     soldiers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 235
     }
 
     farmers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 23664
     }
 
     clergymen = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 57
     }
 
     artisans = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 235
     }
 
     soldiers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 57
     }
 
     farmers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 2601
     }
 
     slaves = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 1773
     }
 }
@@ -355,85 +355,85 @@
 2292 = {
     aristocrats = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 885
     }
 
     clergymen = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 292
     }
 
     artisans = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 708
     }
 
     soldiers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 175
     }
 
     farmers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 12007
     }
 
     clergymen = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 175
     }
 
     artisans = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 1063
     }
 
     soldiers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 235
     }
 
     farmers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 19816
     }
 
     clergymen = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 57
     }
 
     artisans = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 235
     }
 
     soldiers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 57
     }
 
     farmers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 2601
     }
 
     slaves = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 1773
     }
 }
@@ -441,55 +441,55 @@
 2294 = {
     aristocrats = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 117
     }
 
     clergymen = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 175
     }
 
     artisans = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 235
     }
 
     soldiers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 57
     }
 
     farmers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 4140
     }
 
     clergymen = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 57
     }
 
     artisans = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 117
     }
 
     soldiers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 21
     }
 
     farmers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 2162
     }
 
@@ -529,55 +529,55 @@
 2293 = {
     aristocrats = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 472
     }
 
     clergymen = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 117
     }
 
     artisans = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 235
     }
 
     soldiers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 57
     }
 
     farmers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 3842
     }
 
     clergymen = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 175
     }
 
     artisans = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 828
     }
 
     soldiers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 175
     }
 
     farmers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 15381
     }
 }
@@ -585,55 +585,55 @@
 2296 = {
     aristocrats = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 768
     }
 
     clergymen = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 175
     }
 
     artisans = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 235
     }
 
     soldiers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 57
     }
 
     farmers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 3489
     }
 
     clergymen = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 117
     }
 
     artisans = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 1536
     }
 
     soldiers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 292
     }
 
     farmers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 28809
     }
 }
@@ -641,67 +641,67 @@
 2299 = {
     aristocrats = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 1358
     }
 
     bureaucrats = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 175
     }
 
     officers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 117
     }
 
     clergymen = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 412
     }
 
     artisans = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 472
     }
 
     soldiers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 117
     }
 
     farmers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 6801
     }
 
     clergymen = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 235
     }
 
     artisans = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 2719
     }
 
     soldiers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 530
     }
 
     farmers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 50935
     }
 }
@@ -711,103 +711,103 @@
 2295 = {
     aristocrats = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 3962
     }
 
     bureaucrats = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 472
     }
 
     officers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 352
     }
 
     clergymen = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 1656
     }
 
     artisans = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 23664
     }
 
     artisans = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 5205
     }
 
     soldiers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 27840
     }
 
     farmers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 99564
     }
 
     clergymen = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 175
     }
 
     artisans = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 1891
     }
 
     soldiers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 412
     }
 
     farmers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 35376
     }
 
     clergymen = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 117
     }
 
     artisans = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 4732
     }
 
     soldiers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 117
     }
 
     farmers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 3312
     }
 
     slaves = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 3549
     }
 }
@@ -815,85 +815,85 @@
 2297 = {
     aristocrats = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 768
     }
 
     clergymen = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 175
     }
 
     artisans = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 472
     }
 
     soldiers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 117
     }
 
     farmers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 7927
     }
 
     clergymen = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 117
     }
 
     artisans = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 1183
     }
 
     soldiers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 235
     }
 
     farmers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 23781
     }
 
     clergymen = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 57
     }
 
     artisans = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 117
     }
 
     soldiers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 57
     }
 
     farmers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 1183
     }
 
     slaves = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 945
     }
 }
@@ -901,85 +901,85 @@
 2298 = {
     aristocrats = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 1240
     }
 
     clergymen = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 352
     }
 
     artisans = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 708
     }
 
     soldiers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 175
     }
 
     farmers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 11712
     }
 
     clergymen = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 175
     }
 
     artisans = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 2011
     }
 
     soldiers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 412
     }
 
     farmers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 37624
     }
 
     clergymen = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 57
     }
 
     artisans = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 235
     }
 
     soldiers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 57
     }
 
     farmers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 2601
     }
 
     slaves = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 1773
     }
 }
@@ -989,37 +989,37 @@
 2300 = {
     aristocrats = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 31
     }
 
     bureaucrats = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 0
     }
 
     clergymen = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 57
     }
 
     artisans = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 117
     }
 
     soldiers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 21
     }
 
     farmers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 2128
     }
 
@@ -1091,67 +1091,67 @@
 2302 = {
     aristocrats = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 2719
     }
 
     bureaucrats = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 292
     }
 
     officers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 235
     }
 
     clergymen = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 885
     }
 
     artisans = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 1773
     }
 
     soldiers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 2601
     }
 
     farmers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 27506
     }
 
     clergymen = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 472
     }
 
     artisans = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 4968
     }
 
     soldiers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 1003
     }
 
     farmers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 92937
     }
 }
@@ -1159,55 +1159,55 @@
 2303 = {
     aristocrats = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 1358
     }
 
     clergymen = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 352
     }
 
     artisans = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 352
     }
 
     soldiers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 117
     }
 
     farmers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 4908
     }
 
     clergymen = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 235
     }
 
     artisans = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 2719
     }
 
     soldiers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 590
     }
 
     farmers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 50877
     }
 }
@@ -1215,55 +1215,55 @@
 2304 = {
     aristocrats = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 885
     }
 
     clergymen = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 292
     }
 
     artisans = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 472
     }
 
     soldiers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 117
     }
 
     farmers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 7689
     }
 
     clergymen = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 117
     }
 
     artisans = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 1656
     }
 
     soldiers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 352
     }
 
     farmers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 30998
     }
 }
@@ -1273,67 +1273,67 @@
 2578 = {
     aristocrats = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 1300
     }
 
     bureaucrats = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 57
     }
 
     officers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 117
     }
 
     clergymen = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 352
     }
 
     artisans = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 590
     }
 
     soldiers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 117
     }
 
     farmers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 9285
     }
 
     clergymen = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 235
     }
 
     artisans = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 2601
     }
 
     soldiers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 472
     }
 
     farmers = {
         culture = quechua
-        religion = catholic
+        religion = animist
         size = 44251
     }
 }

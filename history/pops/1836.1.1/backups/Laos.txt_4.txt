@@ -4,43 +4,43 @@
 1356 = {
     aristocrats = {
         culture = vietnamese
-        religion = theravada
+        religion = animist
         size = 760
     }
 
     bureaucrats = {
         culture = vietnamese
-        religion = theravada
+        religion = animist
         size = 71
     }
 
     officers = {
         culture = vietnamese
-        religion = theravada
+        religion = animist
         size = 95
     }
 
     clergymen = {
         culture = vietnamese
-        religion = theravada
+        religion = animist
         size = 404
     }
 
     artisans = {
         culture = vietnamese
-        religion = theravada
+        religion = animist
         size = 2042
     }
 
     soldiers = {
         culture = vietnamese
-        religion = theravada
+        religion = animist
         size = 1045
     }
 
     farmers = {
         culture = vietnamese
-        religion = theravada
+        religion = animist
         size = 36043
     }
 
@@ -76,43 +76,43 @@
 
     aristocrats = {
         culture = qingqiuan
-        religion = theravada
+        religion = animist
         size = 40
     }
 
     bureaucrats = {
         culture = qingqiuan
-        religion = theravada
+        religion = animist
         size = 4
     }
 
     officers = {
         culture = qingqiuan
-        religion = theravada
+        religion = animist
         size = 5
     }
 
     clergymen = {
         culture = qingqiuan
-        religion = theravada
+        religion = animist
         size = 21
     }
 
     artisans = {
         culture = qingqiuan
-        religion = theravada
+        religion = animist
         size = 108
     }
 
     soldiers = {
         culture = qingqiuan
-        religion = theravada
+        religion = animist
         size = 55
     }
 
     farmers = {
         culture = qingqiuan
-        religion = theravada
+        religion = animist
         size = 1897
     }
 
@@ -150,31 +150,31 @@
 1357 = {
     aristocrats = {
         culture = vietnamese
-        religion = theravada
+        religion = animist
         size = 237
     }
 
     clergymen = {
         culture = vietnamese
-        religion = theravada
+        religion = animist
         size = 142
     }
 
     artisans = {
         culture = vietnamese
-        religion = theravada
+        religion = animist
         size = 712
     }
 
     soldiers = {
         culture = vietnamese
-        religion = theravada
+        religion = animist
         size = 142
     }
 
     farmers = {
         culture = vietnamese
-        religion = theravada
+        religion = animist
         size = 13015
     }
 
@@ -210,31 +210,31 @@
 
     aristocrats = {
         culture = qingqiuan
-        religion = theravada
+        religion = animist
         size = 13
     }
 
     clergymen = {
         culture = qingqiuan
-        religion = theravada
+        religion = animist
         size = 8
     }
 
     artisans = {
         culture = qingqiuan
-        religion = theravada
+        religion = animist
         size = 38
     }
 
     soldiers = {
         culture = qingqiuan
-        religion = theravada
+        religion = animist
         size = 8
     }
 
     farmers = {
         culture = qingqiuan
-        religion = theravada
+        religion = animist
         size = 685
     }
 
@@ -272,31 +272,31 @@
 1361 = {
     aristocrats = {
         culture = vietnamese
-        religion = theravada
+        religion = animist
         size = 237
     }
 
     clergymen = {
         culture = vietnamese
-        religion = theravada
+        religion = animist
         size = 142
     }
 
     artisans = {
         culture = vietnamese
-        religion = theravada
+        religion = animist
         size = 712
     }
 
     soldiers = {
         culture = vietnamese
-        religion = theravada
+        religion = animist
         size = 142
     }
 
     farmers = {
         culture = vietnamese
-        religion = theravada
+        religion = animist
         size = 13015
     }
 
@@ -332,31 +332,31 @@
 
     aristocrats = {
         culture = qingqiuan
-        religion = theravada
+        religion = animist
         size = 13
     }
 
     clergymen = {
         culture = qingqiuan
-        religion = theravada
+        religion = animist
         size = 8
     }
 
     artisans = {
         culture = qingqiuan
-        religion = theravada
+        religion = animist
         size = 38
     }
 
     soldiers = {
         culture = qingqiuan
-        religion = theravada
+        religion = animist
         size = 8
     }
 
     farmers = {
         culture = qingqiuan
-        religion = theravada
+        religion = animist
         size = 685
     }
 
@@ -394,31 +394,31 @@
 1362 = {
     aristocrats = {
         culture = vietnamese
-        religion = theravada
+        religion = animist
         size = 427
     }
 
     clergymen = {
         culture = vietnamese
-        religion = theravada
+        religion = animist
         size = 237
     }
 
     artisans = {
         culture = vietnamese
-        religion = theravada
+        religion = animist
         size = 1140
     }
 
     soldiers = {
         culture = vietnamese
-        religion = theravada
+        religion = animist
         size = 1045
     }
 
     farmers = {
         culture = vietnamese
-        religion = theravada
+        religion = animist
         size = 20041
     }
 
@@ -454,31 +454,31 @@
 
     aristocrats = {
         culture = qingqiuan
-        religion = theravada
+        religion = animist
         size = 23
     }
 
     clergymen = {
         culture = qingqiuan
-        religion = theravada
+        religion = animist
         size = 13
     }
 
     artisans = {
         culture = qingqiuan
-        religion = theravada
+        religion = animist
         size = 60
     }
 
     soldiers = {
         culture = qingqiuan
-        religion = theravada
+        religion = animist
         size = 55
     }
 
     farmers = {
         culture = qingqiuan
-        religion = theravada
+        religion = animist
         size = 1055
     }
 
@@ -517,121 +517,121 @@
 1360 = {
     aristocrats = {
         culture = vietnamese
-        religion = theravada
+        religion = animist
         size = 142
     }
 
     clergymen = {
         culture = vietnamese
-        religion = theravada
+        religion = animist
         size = 71
     }
 
     artisans = {
         culture = vietnamese
-        religion = theravada
+        religion = animist
         size = 380
     }
 
     soldiers = {
         culture = vietnamese
-        religion = theravada
+        religion = animist
         size = 71
     }
 
     farmers = {
         culture = vietnamese
-        religion = theravada
+        religion = animist
         size = 7885
     }
 
     aristocrats = {
         culture = vietnamese
-        religion = theravada
+        religion = animist
         size = 119
     }
 
     clergymen = {
         culture = vietnamese
-        religion = theravada
+        religion = animist
         size = 71
     }
 
     artisans = {
         culture = vietnamese
-        religion = theravada
+        religion = animist
         size = 332
     }
 
     soldiers = {
         culture = vietnamese
-        religion = theravada
+        religion = animist
         size = 71
     }
 
     farmers = {
         culture = vietnamese
-        religion = theravada
+        religion = animist
         size = 6056
     }
 
     aristocrats = {
         culture = qingqiuan
-        religion = theravada
+        religion = animist
         size = 8
     }
 
     clergymen = {
         culture = qingqiuan
-        religion = theravada
+        religion = animist
         size = 4
     }
 
     artisans = {
         culture = qingqiuan
-        religion = theravada
+        religion = animist
         size = 20
     }
 
     soldiers = {
         culture = qingqiuan
-        religion = theravada
+        religion = animist
         size = 4
     }
 
     farmers = {
         culture = qingqiuan
-        religion = theravada
+        religion = animist
         size = 415
     }
 
     aristocrats = {
         culture = qingqiuan
-        religion = theravada
+        religion = animist
         size = 6
     }
 
     clergymen = {
         culture = qingqiuan
-        religion = theravada
+        religion = animist
         size = 4
     }
 
     artisans = {
         culture = qingqiuan
-        religion = theravada
+        religion = animist
         size = 18
     }
 
     soldiers = {
         culture = qingqiuan
-        religion = theravada
+        religion = animist
         size = 4
     }
 
     farmers = {
         culture = qingqiuan
-        religion = theravada
+        religion = animist
         size = 319
     }
 }
@@ -639,31 +639,31 @@
 1363 = {
     aristocrats = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 275
     }
 
     clergymen = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 150
     }
 
     artisans = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 750
     }
 
     soldiers = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 125
     }
 
     farmers = {
         culture = khmer
-        religion = theravada
+        religion = animist
         size = 13700
     }
 }

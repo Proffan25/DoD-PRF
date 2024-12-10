@@ -3,109 +3,109 @@
 375 = {
     clergymen = {
         culture = ashkenazi
-        religion = jewish
+        religion = animist
         size = 165
     }
 
     clerks = {
         culture = ashkenazi
-        religion = jewish
+        religion = animist
         size = 165
     }
 
     craftsmen = {
         culture = ashkenazi
-        religion = jewish
+        religion = animist
         size = 1485
     }
 
     artisans = {
         culture = ashkenazi
-        religion = jewish
+        religion = animist
         size = 9735
     }
 
     aristocrats = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 833
     }
 
     officers = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 82
     }
 
     bureaucrats = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 13332
     }
 
     clergymen = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 916
     }
 
     artisans = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 16665
     }
 
     artisans = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 16665
     }
 
     artisans = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 16665
     }
 
     artisans = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 15165
     }
 
     clerks = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 166
     }
 
     craftsmen = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 6499
     }
 
     soldiers = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 1815
     }
 
     farmers = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 98656
     }
 
     craftsmen = {
         culture = dutch
-        religion = catholic
+        religion = animist
         size = 166
     }
 
     artisans = {
         culture = dutch
-        religion = catholic
+        religion = animist
         size = 4832
     }
 }
@@ -113,61 +113,61 @@
 376 = {
     aristocrats = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 1249
     }
 
     clergymen = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 1040
     }
 
     artisans = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 16665
     }
 
     artisans = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 11165
     }
 
     craftsmen = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 77770
     }
 
     soldiers = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 2062
     }
 
     farmers = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 130194
     }
 
     craftsmen = {
         culture = ashkenazi
-        religion = jewish
+        religion = animist
         size = 330
     }
 
     artisans = {
         culture = ashkenazi
-        religion = jewish
+        religion = animist
         size = 2145
     }
 
     artisans = {
         culture = dutch
-        religion = catholic
+        religion = animist
         size = 1833
     }
 }
@@ -175,43 +175,43 @@
 377 = {
     aristocrats = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 499
     }
 
     clergymen = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 368
     }
 
     artisans = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 16665
     }
 
     artisans = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 1666
     }
 
     craftsmen = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 1666
     }
 
     soldiers = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 1815
     }
 
     farmers = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 40869
     }
 }
@@ -219,43 +219,43 @@
 378 = {
     aristocrats = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 499
     }
 
     clergymen = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 333
     }
 
     artisans = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 2833
     }
 
     soldiers = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 1815
     }
 
     farmers = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 62160
     }
 
     artisans = {
         culture = dutch
-        religion = catholic
+        religion = animist
         size = 249
     }
 
     farmers = {
         culture = dutch
-        religion = catholic
+        religion = animist
         size = 1833
     }
 }
@@ -264,67 +264,67 @@
 379 = {
     artisans = {
         culture = ashkenazi
-        religion = jewish
+        religion = animist
         size = 412
     }
 
     aristocrats = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 666
     }
 
     officers = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 82
     }
 
     bureaucrats = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 833
     }
 
     clergymen = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 499
     }
 
     artisans = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 3582
     }
 
     soldiers = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 1815
     }
 
     farmers = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 181370
     }
 
     clergymen = {
         culture = dutch
-        religion = catholic
+        religion = animist
         size = 82
     }
 
     artisans = {
         culture = dutch
-        religion = catholic
+        religion = animist
         size = 249
     }
 
     farmers = {
         culture = dutch
-        religion = catholic
+        religion = animist
         size = 4999
     }
 }
@@ -332,31 +332,31 @@
 380 = {
     aristocrats = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 499
     }
 
     clergymen = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 333
     }
 
     artisans = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 6248
     }
 
     soldiers = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 1815
     }
 
     labourers = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 57854
     }
 }
@@ -364,49 +364,49 @@
 381 = {
     aristocrats = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 499
     }
 
     clergymen = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 333
     }
 
     artisans = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 6666
     }
 
     clerks = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 333
     }
 
     craftsmen = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 6666
     }
 
     soldiers = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 1815
     }
 
     farmers = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 50577
     }
 
     farmers = {
         culture = dutch
-        religion = catholic
+        religion = animist
         size = 1833
     }
 }
@@ -414,134 +414,134 @@
 382 = {
     artisans = {
         culture = ashkenazi
-        religion = jewish
+        religion = animist
         size = 412
     }
 
     aristocrats = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 638
     }
 
     bureaucrats = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 611
     }
 
     clergymen = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 416
     }
 
     artisans = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 2499
     }
 
     craftsmen = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 2499
     }
 
     soldiers = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 907
     }
 
     farmers = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 33912
     }
 
     clergymen = {
         culture = rheinish
-        religion = protestant
+        religion = animist
         size = 44
     }
 
     craftsmen = {
         culture = rheinish
-        religion = protestant
+        religion = animist
         size = 209
     }
 
     farmers = {
         culture = rheinish
-        religion = protestant
+        religion = animist
         size = 2640
     }
 }
 3257 = {
     artisans = {
         culture = ashkenazi
-        religion = jewish
+        religion = animist
         size = 412
     }
 
     aristocrats = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 638
     }
 
     bureaucrats = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 611
     }
 
     clergymen = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 416
     }
 
     artisans = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 2499
     }
 
     craftsmen = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 2499
     }
 
     soldiers = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 907
     }
 
     farmers = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 33912
     }
 
     clergymen = {
         culture = rheinish
-        religion = protestant
+        religion = animist
         size = 44
     }
 
     craftsmen = {
         culture = rheinish
-        religion = protestant
+        religion = animist
         size = 209
     }
 
     farmers = {
         culture = rheinish
-        religion = protestant
+        religion = animist
         size = 2640
     }
 }
@@ -550,55 +550,55 @@
 383 = {
     artisans = {
         culture = ashkenazi
-        religion = jewish
+        religion = animist
         size = 412
     }
 
     aristocrats = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 499
     }
 
     officers = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 249
     }
 
     bureaucrats = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 6666
     }
 
     clergymen = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 333
     }
 
     artisans = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 11665
     }
 
     soldiers = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 6600
     }
 
     farmers = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 59076
     }
 
     labourers = {
         culture = rheinish
-        religion = protestant
+        religion = animist
         size = 1815
     }
 }
@@ -606,86 +606,86 @@
 384 = {
     aristocrats = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 416
     }
 
     clergymen = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 249
     }
 
     artisans = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 3249
     }
 
     soldiers = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 907
     }
 
     farmers = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 35663
     }
 
     artisans = {
         culture = rheinish
-        religion = protestant
+        religion = animist
         size = 82
     }
 
     farmers = {
         culture = rheinish
-        religion = protestant
+        religion = animist
         size = 742
     }
 }
 3256 = {
     aristocrats = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 416
     }
 
     clergymen = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 249
     }
 
     artisans = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 3249
     }
 
     soldiers = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 907
     }
 
     farmers = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 35663
     }
 
     artisans = {
         culture = rheinish
-        religion = protestant
+        religion = animist
         size = 82
     }
 
     farmers = {
         culture = rheinish
-        religion = protestant
+        religion = animist
         size = 742
     }
 }
@@ -693,31 +693,31 @@
 385 = {
     aristocrats = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 499
     }
 
     clergymen = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 457
     }
 
     artisans = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 9999
     }
 
     soldiers = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 1815
     }
 
     farmers = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 74532
     }
 }
@@ -725,37 +725,37 @@
 386 = {
     aristocrats = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 249
     }
 
     clergymen = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 166
     }
 
     artisans = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 1833
     }
 
     soldiers = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 1815
     }
 
     farmers = {
         culture = dutch
-        religion = protestant
+        religion = animist
         size = 27913
     }
 
     farmers = {
         culture = rheinish
-        religion = protestant
+        religion = animist
         size = 1815
     }
 }

@@ -4,61 +4,61 @@
 767 = {
     aristocrats = {
         culture = south_german
-        religion = catholic
+        religion = animist
         size = 853
     }
 
     bureaucrats = {
         culture = south_german
-        religion = catholic
+        religion = animist
         size = 1422
     }
 
     clergymen = {
         culture = south_german
-        religion = catholic
+        religion = animist
         size = 55
     }
 
     artisans = {
         culture = south_german
-        religion = catholic
+        religion = animist
         size = 1251
     }
 
     soldiers = {
         culture = south_german
-        religion = catholic
+        religion = animist
         size = 83
     }
 
     farmers = {
         culture = south_german
-        religion = catholic
+        religion = animist
         size = 3585
     }
 
     clergymen = {
         culture = slovene
-        religion = catholic
+        religion = animist
         size = 511
     }
 
     artisans = {
         culture = slovene
-        religion = catholic
+        religion = animist
         size = 1821
     }
 
     soldiers = {
         culture = slovene
-        religion = catholic
+        religion = animist
         size = 766
     }
 
     farmers = {
         culture = slovene
-        religion = catholic
+        religion = animist
         size = 49524
     }
 }
@@ -68,43 +68,43 @@
 768 = {
     aristocrats = {
         culture = slovene
-        religion = catholic
+        religion = animist
         size = 937
     }
 
     bureaucrats = {
         culture = slovene
-        religion = catholic
+        religion = animist
         size = 1279
     }
 
     officers = {
         culture = slovene
-        religion = catholic
+        religion = animist
         size = 113
     }
 
     clergymen = {
         culture = slovene
-        religion = catholic
+        religion = animist
         size = 796
     }
 
     artisans = {
         culture = slovene
-        religion = catholic
+        religion = animist
         size = 4554
     }
 
     soldiers = {
         culture = slovene
-        religion = catholic
+        religion = animist
         size = 1877
     }
 
     farmers = {
         culture = slovene
-        religion = catholic
+        religion = animist
         size = 71895
     }
 }
@@ -112,43 +112,43 @@
 769 = {
     aristocrats = {
         culture = slovene
-        religion = catholic
+        religion = animist
         size = 500
     }
 
     clergymen = {
         culture = slovene
-        religion = catholic
+        religion = animist
         size = 425
     }
 
     artisans = {
         culture = slovene
-        religion = catholic
+        religion = animist
         size = 2100
     }
 
     soldiers = {
         culture = slovene
-        religion = catholic
+        religion = animist
         size = 425
     }
 
     farmers = {
         culture = slovene
-        religion = catholic
+        religion = animist
         size = 39575
     }
 
     clergymen = {
         culture = south_german
-        religion = catholic
+        religion = animist
         size = 25
     }
 
     farmers = {
         culture = south_german
-        religion = catholic
+        religion = animist
         size = 1975
     }
 }

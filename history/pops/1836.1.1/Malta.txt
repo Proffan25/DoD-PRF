@@ -4,55 +4,55 @@
 854 = {
     bureaucrats = {
         culture = south_italian
-        religion = protestant
+        religion = animist
         size = 267
     }
 
     soldiers = {
         culture = south_italian
-        religion = protestant
+        religion = animist
         size = 802
     }
 
     artisans = {
         culture = south_italian
-        religion = protestant
+        religion = animist
         size = 160
     }
 
     aristocrats = {
         culture = south_italian
-        religion = catholic
+        religion = animist
         size = 214
     }
 
     bureaucrats = {
         culture = south_italian
-        religion = catholic
+        religion = animist
         size = 53
     }
 
     clergymen = {
         culture = south_italian
-        religion = catholic
+        religion = animist
         size = 294
     }
 
     artisans = {
         culture = south_italian
-        religion = catholic
+        religion = animist
         size = 8560
     }
 
     soldiers = {
         culture = south_italian
-        religion = catholic
+        religion = animist
         size = 545
     }
 
     farmers = {
         culture = south_italian
-        religion = catholic
+        religion = animist
         size = 21908
     }
 }

@@ -4,79 +4,79 @@
 397 = {
     aristocrats = {
         culture = rheinish
-        religion = catholic
+        religion = animist
         size = 175
     }
 
     bureaucrats = {
         culture = rheinish
-        religion = catholic
+        religion = animist
         size = 125
     }
 
     clergymen = {
         culture = rheinish
-        religion = catholic
+        religion = animist
         size = 150
     }
 
     artisans = {
         culture = rheinish
-        religion = catholic
+        religion = animist
         size = 750
     }
 
     soldiers = {
         culture = rheinish
-        religion = catholic
+        religion = animist
         size = 2000
     }
 
     farmers = {
         culture = rheinish
-        religion = catholic
+        religion = animist
         size = 114900
     }
 
     aristocrats = {
         culture = burgundian
-        religion = catholic
+        religion = animist
         size = 250
     }
 
     officers = {
         culture = burgundian
-        religion = catholic
+        religion = animist
         size = 50
     }
 
     bureaucrats = {
         culture = burgundian
-        religion = catholic
+        religion = animist
         size = 250
     }
 
     clergymen = {
         culture = burgundian
-        religion = catholic
+        religion = animist
         size = 275
     }
 
     artisans = {
         culture = burgundian
-        religion = catholic
+        religion = animist
         size = 1750
     }
 
     soldiers = {
         culture = burgundian
-        religion = catholic
+        religion = animist
         size = 250
     }
 
     farmers = {
         culture = burgundian
-        religion = catholic
+        religion = animist
         size = 123375
     }
 }

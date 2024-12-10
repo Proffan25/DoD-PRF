@@ -6,25 +6,25 @@
 2087 = {
     clergymen = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 60
     }
 
     artisans = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 907
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 181
     }
 
     farmers = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 10950
     }
 
@@ -54,67 +54,67 @@
 
     aristocrats = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 24
     }
 
     clergymen = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 84
     }
 
     bureaucrats = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 72
     }
 
     artisans = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 3025
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 121
     }
 
     farmers = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 5142
     }
 
     clergymen = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 90
     }
 
     bureaucrats = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 36
     }
 
     artisans = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 1331
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 1331
     }
 
     farmers = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 13484
     }
 }
@@ -122,25 +122,25 @@
 2089 = {
     clergymen = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 60
     }
 
     artisans = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 302
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 121
     }
 
     farmers = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 9196
     }
 
@@ -170,25 +170,25 @@
 
     clergymen = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 96
     }
 
     artisans = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 847
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 24
     }
 
     farmers = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 4143
     }
 
@@ -224,25 +224,25 @@
 
     clergymen = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 17
     }
 
     artisans = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 363
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 29
     }
 
     farmers = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 798
     }
 }
@@ -250,49 +250,49 @@
 2090 = {
     clergymen = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 90
     }
 
     artisans = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 242
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 121
     }
 
     farmers = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 8015
     }
 
     clergymen = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 60
     }
 
     artisans = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 363
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 60
     }
 
     farmers = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 4869
     }
 
@@ -322,25 +322,25 @@
 
     clergymen = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 17
     }
 
     artisans = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 363
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 29
     }
 
     farmers = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 798
     }
 }
@@ -348,49 +348,49 @@
 2091 = {
     clergymen = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 29
     }
 
     artisans = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 181
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 29
     }
 
     farmers = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 1905
     }
 
     clergymen = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 60
     }
 
     artisans = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 181
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 29
     }
 
     farmers = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 2178
     }
 
@@ -420,25 +420,25 @@
 
     clergymen = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 29
     }
 
     artisans = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 121
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 29
     }
 
     farmers = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 2238
     }
 }
@@ -483,49 +483,49 @@
 2092 = {
     clergymen = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 29
     }
 
     artisans = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 181
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 29
     }
 
     farmers = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 2964
     }
 
     clergymen = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 17
     }
 
     artisans = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 242
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 12
     }
 
     farmers = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 937
     }
 
@@ -557,25 +557,25 @@
 2093 = {
     clergymen = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 17
     }
 
     artisans = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 121
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 12
     }
 
     farmers = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 997
     }
 
@@ -667,25 +667,25 @@
 
     clergymen = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 29
     }
 
     artisans = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 302
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 29
     }
 
     farmers = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 2843
     }
 }
@@ -761,25 +761,25 @@
 2096 = {
     clergymen = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 29
     }
 
     artisans = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 363
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 29
     }
 
     farmers = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 3206
     }
 
@@ -865,25 +865,25 @@
 2097 = {
     clergymen = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 12
     }
 
     artisans = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 181
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 17
     }
 
     farmers = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 10677
     }
 
@@ -1075,37 +1075,37 @@
 2101 = {
     bureaucrats = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 2
     }
 
     officers = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 3
     }
 
     clergymen = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 5
     }
 
     artisans = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 60
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 108
     }
 
     farmers = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 726
     }
 
@@ -1143,25 +1143,25 @@
 2102 = {
     clergymen = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 5
     }
 
     artisans = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 29
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 1331
     }
 
     farmers = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 508
     }
 
@@ -1229,25 +1229,25 @@
 2103 = {
     clergymen = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 12
     }
 
     artisans = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 60
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 108
     }
 
     farmers = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 726
     }
 
@@ -1332,37 +1332,37 @@
 2105 = {
     bureaucrats = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 2
     }
 
     officers = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 3
     }
 
     clergymen = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 5
     }
 
     artisans = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 24
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 1331
     }
 
     farmers = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 387
     }
 
@@ -1400,25 +1400,25 @@
 2106 = {
     clergymen = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 12
     }
 
     artisans = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 29
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 78
     }
 
     farmers = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 605
     }
 
@@ -1457,25 +1457,25 @@
 2107 = {
     clergymen = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 5
     }
 
     artisans = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 17
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 29
     }
 
     farmers = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 247
     }
 
@@ -1546,25 +1546,25 @@
 2108 = {
     clergymen = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 1
     }
 
     artisans = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 3
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 6
     }
 
     farmers = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 48
     }
 
@@ -1633,25 +1633,25 @@
 2109 = {
     clergymen = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 3
     }
 
     artisans = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 14
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 17
     }
 
     farmers = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 145
     }
 
@@ -1690,25 +1690,25 @@
 2110 = {
     clergymen = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 1
     }
 
     artisans = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 3
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 6
     }
 
     farmers = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 48
     }
 
@@ -1779,25 +1779,25 @@
 2111 = {
     clergymen = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 5
     }
 
     artisans = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 29
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 60
     }
 
     farmers = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 508
     }
 

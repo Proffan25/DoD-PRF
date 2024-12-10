@@ -35,7 +35,7 @@
 
     farmers = {
         culture = qingqiuan
-        religion = protestant
+        religion = animist
         size = 250
     }
 }

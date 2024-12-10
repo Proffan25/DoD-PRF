@@ -296,31 +296,31 @@
 2053 = {
     aristocrats = {
         culture = scandinavian 
-        religion = catholic
+        religion = animist
         size = 200
     }
 
     clergymen = {
         culture = scandinavian 
-        religion = catholic
+        religion = animist
         size = 60
     }
 
     bureaucrats = {
         culture = scandinavian 
-        religion = catholic
+        religion = animist
         size = 90
     }
 
     artisans = {
         culture = scandinavian 
-        religion = catholic
+        religion = animist
         size = 1100
     }
 
     soldiers = {
         culture = scandinavian 
-        religion = catholic
+        religion = animist
         size = 150
     }
 
@@ -398,13 +398,13 @@
 
     clergymen = {
         culture = bantu
-        religion = sunni
+        religion = animist
         size = 25
     }
 
     artisans = {
         culture = bantu
-        religion = sunni
+        religion = animist
         size = 975
     }
 }
@@ -412,25 +412,25 @@
 2059 = {
     aristocrats = {
         culture = scandinavian 
-        religion = catholic
+        religion = animist
         size = 100
     }
 
     clergymen = {
         culture = scandinavian 
-        religion = catholic
+        religion = animist
         size = 25
     }
 
     artisans = {
         culture = scandinavian 
-        religion = catholic
+        religion = animist
         size = 325
     }
 
     soldiers = {
         culture = scandinavian 
-        religion = catholic
+        religion = animist
         size = 50
     }
 
@@ -472,13 +472,13 @@
 
     clergymen = {
         culture = bantu
-        religion = sunni
+        religion = animist
         size = 25
     }
 
     artisans = {
         culture = bantu
-        religion = sunni
+        religion = animist
         size = 975
     }
 
@@ -871,13 +871,13 @@
 
     clergymen = {
         culture = bantu
-        religion = sunni
+        religion = animist
         size = 25
     }
 
     artisans = {
         culture = bantu
-        religion = sunni
+        religion = animist
         size = 975
     }
 }
@@ -925,31 +925,31 @@
 2060 = {
     aristocrats = {
         culture = scandinavian 
-        religion = catholic
+        religion = animist
         size = 275
     }
 
     clergymen = {
         culture = scandinavian 
-        religion = catholic
+        religion = animist
         size = 50
     }
 
     bureaucrats = {
         culture = scandinavian 
-        religion = catholic
+        religion = animist
         size = 25
     }
 
     artisans = {
         culture = scandinavian 
-        religion = catholic
+        religion = animist
         size = 600
     }
 
     soldiers = {
         culture = scandinavian 
-        religion = catholic
+        religion = animist
         size = 50
     }
 
@@ -1030,43 +1030,43 @@
 
     aristocrats = {
         culture = bantu
-        religion = sunni
+        religion = animist
         size = 150
     }
 
     clergymen = {
         culture = bantu
-        religion = sunni
+        religion = animist
         size = 150
     }
 
     artisans = {
         culture = bantu
-        religion = sunni
+        religion = animist
         size = 750
     }
 
     soldiers = {
         culture = bantu
-        religion = sunni
+        religion = animist
         size = 200
     }
 
     farmers = {
         culture = bantu
-        religion = sunni
+        religion = animist
         size = 12750
     }
 
     clergymen = {
         culture = bantu
-        religion = sunni
+        religion = animist
         size = 75
     }
 
     artisans = {
         culture = bantu
-        religion = sunni
+        religion = animist
         size = 2925
     }
 }
@@ -1110,13 +1110,13 @@
 
     clergymen = {
         culture = bantu
-        religion = sunni
+        religion = animist
         size = 50
     }
 
     artisans = {
         culture = bantu
-        religion = sunni
+        religion = animist
         size = 1950
     }
 }

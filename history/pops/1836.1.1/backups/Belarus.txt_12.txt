@@ -4,127 +4,127 @@
 936 = {
     clergymen = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 515
     }
 
     artisans = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 1274
     }
 
     soldiers = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 819
     }
 
     farmers = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 49925
     }
 
     aristocrats = {
         culture = polish
-        religion = catholic
+        religion = animist
         size = 2125
     }
 
     clergymen = {
         culture = polish
-        religion = catholic
+        religion = animist
         size = 58
     }
 
     artisans = {
         culture = polish
-        religion = catholic
+        religion = animist
         size = 486
     }
 
     soldiers = {
         culture = polish
-        religion = catholic
+        religion = animist
         size = 134
     }
 
     farmers = {
         culture = polish
-        religion = catholic
+        religion = animist
         size = 6957
     }
 
     clergymen = {
         culture = ukrainian
-        religion = catholic
+        religion = animist
         size = 150
     }
 
     artisans = {
         culture = ukrainian
-        religion = catholic
+        religion = animist
         size = 849
     }
 
     soldiers = {
         culture = ukrainian
-        religion = catholic
+        religion = animist
         size = 271
     }
 
     farmers = {
         culture = ukrainian
-        religion = catholic
+        religion = animist
         size = 15829
     }
 
     clergymen = {
         culture = lithuanian
-        religion = orthodox
+        religion = animist
         size = 58
     }
 
     artisans = {
         culture = lithuanian
-        religion = orthodox
+        religion = animist
         size = 242
     }
 
     soldiers = {
         culture = lithuanian
-        religion = orthodox
+        religion = animist
         size = 89
     }
 
     farmers = {
         culture = lithuanian
-        religion = orthodox
+        religion = animist
         size = 5712
     }
 
     clergymen = {
         culture = ashkenazi
-        religion = jewish
+        religion = animist
         size = 89
     }
 
     artisans = {
         culture = ashkenazi
-        religion = jewish
+        religion = animist
         size = 1517
     }
 
     soldiers = {
         culture = ashkenazi
-        religion = jewish
+        religion = animist
         size = 180
     }
 
     farmers = {
         culture = ashkenazi
-        religion = jewish
+        religion = animist
         size = 10421
     }
 }
@@ -132,139 +132,139 @@
 937 = {
     clergymen = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 150
     }
 
     artisans = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 486
     }
 
     soldiers = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 2003
     }
 
     farmers = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 17591
     }
 
     aristocrats = {
         culture = polish
-        religion = catholic
+        religion = animist
         size = 2368
     }
 
     bureaucrats = {
         culture = polish
-        religion = catholic
+        religion = animist
         size = 2734
     }
 
     officers = {
         culture = polish
-        religion = catholic
+        religion = animist
         size = 211
     }
 
     clergymen = {
         culture = polish
-        religion = catholic
+        religion = animist
         size = 180
     }
 
     artisans = {
         culture = polish
-        religion = catholic
+        religion = animist
         size = 606
     }
 
     soldiers = {
         culture = polish
-        religion = catholic
+        religion = animist
         size = 180
     }
 
     farmers = {
         culture = polish
-        religion = catholic
+        religion = animist
         size = 5680
     }
 
     clergymen = {
         culture = ukrainian
-        religion = catholic
+        religion = animist
         size = 150
     }
 
     artisans = {
         culture = ukrainian
-        religion = catholic
+        religion = animist
         size = 972
     }
 
     soldiers = {
         culture = ukrainian
-        religion = catholic
+        religion = animist
         size = 271
     }
 
     farmers = {
         culture = ukrainian
-        religion = catholic
+        religion = animist
         size = 18139
     }
 
     clergymen = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 363
     }
 
     artisans = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 1335
     }
 
     soldiers = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 544
     }
 
     farmers = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 34519
     }
 
     clergymen = {
         culture = ashkenazi
-        religion = jewish
+        religion = animist
         size = 89
     }
 
     artisans = {
         culture = ashkenazi
-        religion = jewish
+        religion = animist
         size = 1579
     }
 
     soldiers = {
         culture = ashkenazi
-        religion = jewish
+        religion = animist
         size = 225
     }
 
     farmers = {
         culture = ashkenazi
-        religion = jewish
+        religion = animist
         size = 11545
     }
 }
@@ -272,103 +272,103 @@
 940 = {
     clergymen = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 544
     }
 
     artisans = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 1458
     }
 
     soldiers = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 2003
     }
 
     farmers = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 54575
     }
 
     aristocrats = {
         culture = polish
-        religion = catholic
+        religion = animist
         size = 1821
     }
 
     clergymen = {
         culture = polish
-        religion = catholic
+        religion = animist
         size = 58
     }
 
     artisans = {
         culture = polish
-        religion = catholic
+        religion = animist
         size = 180
     }
 
     soldiers = {
         culture = polish
-        religion = catholic
+        religion = animist
         size = 42
     }
 
     farmers = {
         culture = polish
-        religion = catholic
+        religion = animist
         size = 332
     }
 
     clergymen = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 180
     }
 
     artisans = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 486
     }
 
     soldiers = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 271
     }
 
     farmers = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 17380
     }
 
     clergymen = {
         culture = ashkenazi
-        religion = jewish
+        religion = animist
         size = 58
     }
 
     artisans = {
         culture = ashkenazi
-        religion = jewish
+        religion = animist
         size = 910
     }
 
     soldiers = {
         culture = ashkenazi
-        religion = jewish
+        religion = animist
         size = 134
     }
 
     farmers = {
         culture = ashkenazi
-        religion = jewish
+        religion = animist
         size = 7443
     }
 }
@@ -378,157 +378,157 @@
 718 = {
     clergymen = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 1908
     }
 
     artisans = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 3993
     }
 
     soldiers = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 1272
     }
 
     farmers = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 98079
     }
 
     aristocrats = {
         culture = polish
-        religion = catholic
+        religion = animist
         size = 2893
     }
 
     bureaucrats = {
         culture = polish
-        religion = catholic
+        religion = animist
         size = 432
     }
 
     officers = {
         culture = polish
-        religion = catholic
+        religion = animist
         size = 259
     }
 
     clergymen = {
         culture = polish
-        religion = catholic
+        religion = animist
         size = 85
     }
 
     artisans = {
         culture = polish
-        religion = catholic
+        religion = animist
         size = 867
     }
 
     soldiers = {
         culture = polish
-        religion = catholic
+        religion = animist
         size = 115
     }
 
     farmers = {
         culture = polish
-        religion = catholic
+        religion = animist
         size = 7262
     }
 
     clergymen = {
         culture = lithuanian
-        religion = catholic
+        religion = animist
         size = 15
     }
 
     artisans = {
         culture = lithuanian
-        religion = catholic
+        religion = animist
         size = 56
     }
 
     soldiers = {
         culture = lithuanian
-        religion = catholic
+        religion = animist
         size = 28
     }
 
     farmers = {
         culture = lithuanian
-        religion = catholic
+        religion = animist
         size = 1052
     }
 
     aristocrats = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 578
     }
 
     bureaucrats = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 867
     }
 
     officers = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 201
     }
 
     clergymen = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 56
     }
 
     artisans = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 115
     }
 
     soldiers = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 56
     }
 
     farmers = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 1127
     }
 
     clergymen = {
         culture = ashkenazi
-        religion = jewish
+        religion = animist
         size = 143
     }
 
     artisans = {
         culture = ashkenazi
-        religion = jewish
+        religion = animist
         size = 1735
     }
 
     soldiers = {
         culture = ashkenazi
-        religion = jewish
+        religion = animist
         size = 172
     }
 
     farmers = {
         culture = ashkenazi
-        religion = jewish
+        religion = animist
         size = 14150
     }
 }
@@ -536,103 +536,103 @@
 938 = {
     clergymen = {
         culture = lithuanian
-        religion = catholic
+        religion = animist
         size = 242
     }
 
     artisans = {
         culture = lithuanian
-        religion = catholic
+        religion = animist
         size = 972
     }
 
     soldiers = {
         culture = lithuanian
-        religion = catholic
+        religion = animist
         size = 453
     }
 
     farmers = {
         culture = lithuanian
-        religion = catholic
+        religion = animist
         size = 27651
     }
 
     aristocrats = {
         culture = polish
-        religion = catholic
+        religion = animist
         size = 1458
     }
 
     clergymen = {
         culture = polish
-        religion = catholic
+        religion = animist
         size = 89
     }
 
     artisans = {
         culture = polish
-        religion = catholic
+        religion = animist
         size = 486
     }
 
     soldiers = {
         culture = polish
-        religion = catholic
+        religion = animist
         size = 134
     }
 
     farmers = {
         culture = polish
-        religion = catholic
+        religion = animist
         size = 6379
     }
 
     clergymen = {
         culture = ukrainian
-        religion = catholic
+        religion = animist
         size = 89
     }
 
     artisans = {
         culture = ukrainian
-        religion = catholic
+        religion = animist
         size = 544
     }
 
     soldiers = {
         culture = ukrainian
-        religion = catholic
+        religion = animist
         size = 180
     }
 
     farmers = {
         culture = ukrainian
-        religion = catholic
+        religion = animist
         size = 11393
     }
 
     clergymen = {
         culture = ashkenazi
-        religion = jewish
+        religion = animist
         size = 58
     }
 
     artisans = {
         culture = ashkenazi
-        religion = jewish
+        religion = animist
         size = 910
     }
 
     soldiers = {
         culture = ashkenazi
-        religion = jewish
+        religion = animist
         size = 134
     }
 
     farmers = {
         culture = ashkenazi
-        religion = jewish
+        religion = animist
         size = 7443
     }
 }
@@ -640,103 +640,103 @@
 939 = {
     clergymen = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 424
     }
 
     artisans = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 1701
     }
 
     soldiers = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 681
     }
 
     farmers = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 41173
     }
 
     aristocrats = {
         culture = polish
-        religion = catholic
+        religion = animist
         size = 1458
     }
 
     clergymen = {
         culture = polish
-        religion = catholic
+        religion = animist
         size = 89
     }
 
     artisans = {
         culture = polish
-        religion = catholic
+        religion = animist
         size = 242
     }
 
     soldiers = {
         culture = polish
-        religion = catholic
+        religion = animist
         size = 89
     }
 
     farmers = {
         culture = polish
-        religion = catholic
+        religion = animist
         size = 1791
     }
 
     clergymen = {
         culture = ukrainian
-        religion = catholic
+        religion = animist
         size = 89
     }
 
     artisans = {
         culture = ukrainian
-        religion = catholic
+        religion = animist
         size = 302
     }
 
     soldiers = {
         culture = ukrainian
-        religion = catholic
+        religion = animist
         size = 89
     }
 
     farmers = {
         culture = ukrainian
-        religion = catholic
+        religion = animist
         size = 5619
     }
 
     clergymen = {
         culture = ashkenazi
-        religion = jewish
+        religion = animist
         size = 89
     }
 
     artisans = {
         culture = ashkenazi
-        religion = jewish
+        religion = animist
         size = 728
     }
 
     soldiers = {
         culture = ashkenazi
-        religion = jewish
+        religion = animist
         size = 89
     }
 
     farmers = {
         culture = ashkenazi
-        religion = jewish
+        religion = animist
         size = 5194
     }
 }
@@ -744,79 +744,79 @@
 941 = {
     clergymen = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 463
     }
 
     artisans = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 1793
     }
 
     soldiers = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 491
     }
 
     farmers = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 44712
     }
 
     aristocrats = {
         culture = polish
-        religion = catholic
+        religion = animist
         size = 1389
     }
 
     clergymen = {
         culture = polish
-        religion = catholic
+        religion = animist
         size = 85
     }
 
     artisans = {
         culture = polish
-        religion = catholic
+        religion = animist
         size = 115
     }
 
     soldiers = {
         culture = polish
-        religion = catholic
+        religion = animist
         size = 56
     }
 
     farmers = {
         culture = polish
-        religion = catholic
+        religion = animist
         size = 1821
     }
 
     clergymen = {
         culture = ashkenazi
-        religion = jewish
+        religion = animist
         size = 56
     }
 
     artisans = {
         culture = ashkenazi
-        religion = jewish
+        religion = animist
         size = 867
     }
 
     soldiers = {
         culture = ashkenazi
-        religion = jewish
+        religion = animist
         size = 85
     }
 
     farmers = {
         culture = ashkenazi
-        religion = jewish
+        religion = animist
         size = 7089
     }
 }
@@ -824,103 +824,103 @@
 942 = {
     clergymen = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 463
     }
 
     artisans = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 2083
     }
 
     soldiers = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 519
     }
 
     farmers = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 49024
     }
 
     aristocrats = {
         culture = polish
-        religion = catholic
+        religion = animist
         size = 1735
     }
 
     clergymen = {
         culture = polish
-        religion = catholic
+        religion = animist
         size = 56
     }
 
     artisans = {
         culture = polish
-        religion = catholic
+        religion = animist
         size = 172
     }
 
     soldiers = {
         culture = polish
-        religion = catholic
+        religion = animist
         size = 28
     }
 
     farmers = {
         culture = polish
-        religion = catholic
+        religion = animist
         size = 432
     }
 
     clergymen = {
         culture = ashkenazi
-        religion = jewish
+        religion = animist
         size = 85
     }
 
     artisans = {
         culture = ashkenazi
-        religion = jewish
+        religion = animist
         size = 1272
     }
 
     soldiers = {
         culture = ashkenazi
-        religion = jewish
+        religion = animist
         size = 56
     }
 
     farmers = {
         culture = ashkenazi
-        religion = jewish
+        religion = animist
         size = 4484
     }
 
     clergymen = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 259
     }
 
     artisans = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 1041
     }
 
     soldiers = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 288
     }
 
     farmers = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 27000
     }
 }
@@ -930,79 +930,79 @@
 944 = {
     aristocrats = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 2315
     }
 
     clergymen = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 85
     }
 
     artisans = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 578
     }
 
     soldiers = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 85
     }
 
     farmers = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 5150
     }
 
     clergymen = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 926
     }
 
     artisans = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 3645
     }
 
     soldiers = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 982
     }
 
     farmers = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 91740
     }
 
     clergymen = {
         culture = ashkenazi
-        religion = jewish
+        religion = animist
         size = 56
     }
 
     artisans = {
         culture = ashkenazi
-        religion = jewish
+        religion = animist
         size = 1445
     }
 
     soldiers = {
         culture = ashkenazi
-        religion = jewish
+        religion = animist
         size = 85
     }
 
     farmers = {
         culture = ashkenazi
-        religion = jewish
+        religion = animist
         size = 6511
     }
 }
@@ -1012,133 +1012,133 @@
 945 = {
     clergymen = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 578
     }
 
     artisans = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 2893
     }
 
     soldiers = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 1272
     }
 
     farmers = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 56723
     }
 
     aristocrats = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 1041
     }
 
     bureaucrats = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 1157
     }
 
     officers = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 404
     }
 
     clergymen = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 56
     }
 
     artisans = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 288
     }
 
     soldiers = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 56
     }
 
     farmers = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 3704
     }
 
     aristocrats = {
         culture = polish
-        religion = catholic
+        religion = animist
         size = 578
     }
 
     bureaucrats = {
         culture = polish
-        religion = catholic
+        religion = animist
         size = 867
     }
 
     officers = {
         culture = polish
-        religion = catholic
+        religion = animist
         size = 231
     }
 
     clergymen = {
         culture = polish
-        religion = catholic
+        religion = animist
         size = 56
     }
 
     artisans = {
         culture = polish
-        religion = catholic
+        religion = animist
         size = 288
     }
 
     soldiers = {
         culture = polish
-        religion = catholic
+        religion = animist
         size = 28
     }
 
     farmers = {
         culture = polish
-        religion = catholic
+        religion = animist
         size = 954
     }
 
     clergymen = {
         culture = ashkenazi
-        religion = jewish
+        religion = animist
         size = 85
     }
 
     artisans = {
         culture = ashkenazi
-        religion = jewish
+        religion = animist
         size = 1735
     }
 
     soldiers = {
         culture = ashkenazi
-        religion = jewish
+        religion = animist
         size = 85
     }
 
     farmers = {
         culture = ashkenazi
-        religion = jewish
+        religion = animist
         size = 7350
     }
 }
@@ -1146,133 +1146,133 @@
 946 = {
     clergymen = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 1417
     }
 
     artisans = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 5093
     }
 
     soldiers = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 1417
     }
 
     farmers = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 133299
     }
 
     aristocrats = {
         culture = polish
-        religion = catholic
+        religion = animist
         size = 1735
     }
 
     clergymen = {
         culture = polish
-        religion = catholic
+        religion = animist
         size = 56
     }
 
     artisans = {
         culture = polish
-        religion = catholic
+        religion = animist
         size = 519
     }
 
     soldiers = {
         culture = polish
-        religion = catholic
+        religion = animist
         size = 85
     }
 
     farmers = {
         culture = polish
-        religion = catholic
+        religion = animist
         size = 4543
     }
 
     clergymen = {
         culture = ashkenazi
-        religion = jewish
+        religion = animist
         size = 201
     }
 
     artisans = {
         culture = ashkenazi
-        religion = jewish
+        religion = animist
         size = 2893
     }
 
     soldiers = {
         culture = ashkenazi
-        religion = jewish
+        religion = animist
         size = 231
     }
 
     farmers = {
         culture = ashkenazi
-        religion = jewish
+        religion = animist
         size = 18665
     }
 
     aristocrats = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 2083
     }
 
     clergymen = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 56
     }
 
     artisans = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 288
     }
 
     soldiers = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 56
     }
 
     farmers = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 3298
     }
 
     clergymen = {
         culture = lithuanian
-        religion = catholic
+        religion = animist
         size = 85
     }
 
     artisans = {
         culture = lithuanian
-        religion = catholic
+        religion = animist
         size = 288
     }
 
     soldiers = {
         culture = lithuanian
-        religion = catholic
+        religion = animist
         size = 56
     }
 
     farmers = {
         culture = lithuanian
-        religion = catholic
+        religion = animist
         size = 5352
     }
 }
@@ -1280,103 +1280,103 @@
 947 = {
     clergymen = {
         culture = lithuanian
-        religion = catholic
+        religion = animist
         size = 666
     }
 
     artisans = {
         culture = lithuanian
-        religion = catholic
+        religion = animist
         size = 2430
     }
 
     soldiers = {
         culture = lithuanian
-        religion = catholic
+        religion = animist
         size = 1093
     }
 
     farmers = {
         culture = lithuanian
-        religion = catholic
+        religion = animist
         size = 67884
     }
 
     clergymen = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 150
     }
 
     artisans = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 728
     }
 
     soldiers = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 271
     }
 
     farmers = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 17167
     }
 
     aristocrats = {
         culture = polish
-        religion = catholic
+        religion = animist
         size = 2187
     }
 
     clergymen = {
         culture = polish
-        religion = catholic
+        religion = animist
         size = 58
     }
 
     artisans = {
         culture = polish
-        religion = catholic
+        religion = animist
         size = 302
     }
 
     soldiers = {
         culture = polish
-        religion = catholic
+        religion = animist
         size = 89
     }
 
     farmers = {
         culture = polish
-        religion = catholic
+        religion = animist
         size = 1031
     }
 
     clergymen = {
         culture = ashkenazi
-        religion = jewish
+        religion = animist
         size = 89
     }
 
     artisans = {
         culture = ashkenazi
-        religion = jewish
+        religion = animist
         size = 1821
     }
 
     soldiers = {
         culture = ashkenazi
-        religion = jewish
+        religion = animist
         size = 180
     }
 
     farmers = {
         culture = ashkenazi
-        religion = jewish
+        religion = animist
         size = 10117
     }
 }
@@ -1384,109 +1384,109 @@
 948 = {
     clergymen = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 895
     }
 
     artisans = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 3645
     }
 
     soldiers = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 1272
     }
 
     farmers = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 90379
     }
 
     aristocrats = {
         culture = polish
-        religion = catholic
+        religion = animist
         size = 694
     }
 
     clergymen = {
         culture = polish
-        religion = catholic
+        religion = animist
         size = 56
     }
 
     artisans = {
         culture = polish
-        religion = catholic
+        religion = animist
         size = 231
     }
 
     soldiers = {
         culture = polish
-        religion = catholic
+        religion = animist
         size = 28
     }
 
     farmers = {
         culture = polish
-        religion = catholic
+        religion = animist
         size = 1358
     }
 
     aristocrats = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 1620
     }
 
     clergymen = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 85
     }
 
     artisans = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 346
     }
 
     soldiers = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 56
     }
 
     farmers = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 3673
     }
 
     clergymen = {
         culture = ashkenazi
-        religion = jewish
+        religion = animist
         size = 85
     }
 
     artisans = {
         culture = ashkenazi
-        religion = jewish
+        religion = animist
         size = 1445
     }
 
     soldiers = {
         culture = ashkenazi
-        religion = jewish
+        religion = animist
         size = 85
     }
 
     farmers = {
         culture = ashkenazi
-        religion = jewish
+        religion = animist
         size = 7639
     }
 }
@@ -1494,79 +1494,79 @@
 949 = {
     clergymen = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 901
     }
 
     artisans = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 3472
     }
 
     soldiers = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 1272
     }
 
     farmers = {
         culture = ukrainian
-        religion = orthodox
+        religion = animist
         size = 88227
     }
 
     aristocrats = {
         culture = polish
-        religion = catholic
+        religion = animist
         size = 2315
     }
 
     clergymen = {
         culture = polish
-        religion = catholic
+        religion = animist
         size = 85
     }
 
     artisans = {
         culture = polish
-        religion = catholic
+        religion = animist
         size = 288
     }
 
     soldiers = {
         culture = polish
-        religion = catholic
+        religion = animist
         size = 56
     }
 
     farmers = {
         culture = polish
-        religion = catholic
+        religion = animist
         size = 722
     }
 
     clergymen = {
         culture = ashkenazi
-        religion = jewish
+        religion = animist
         size = 143
     }
 
     artisans = {
         culture = ashkenazi
-        religion = jewish
+        religion = animist
         size = 1735
     }
 
     soldiers = {
         culture = ashkenazi
-        religion = jewish
+        religion = animist
         size = 172
     }
 
     farmers = {
         culture = ashkenazi
-        religion = jewish
+        religion = animist
         size = 12993
     }
 }

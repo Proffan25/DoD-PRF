@@ -4,61 +4,61 @@
 2219 = {
     clergymen = {
         culture = afro_caribbean
-        religion = protestant
+        religion = animist
         size = 50
     }
 
     artisans = {
         culture = afro_caribbean
-        religion = protestant
+        religion = animist
         size = 100
     }
 
     soldiers = {
         culture = afro_caribbean
-        religion = protestant
+        religion = animist
         size = 50
     }
 
     farmers = {
         culture = afro_caribbean
-        religion = protestant
+        religion = animist
         size = 4050
     }
 
     aristocrats = {
         culture = burgundian
-        religion = protestant
+        religion = animist
         size = 15
     }
 
     bureaucrats = {
         culture = burgundian
-        religion = protestant
+        religion = animist
         size = 5
     }
 
     clergymen = {
         culture = burgundian
-        religion = protestant
+        religion = animist
         size = 15
     }
 
     artisans = {
         culture = burgundian
-        religion = protestant
+        religion = animist
         size = 150
     }
 
     soldiers = {
         culture = burgundian
-        religion = protestant
+        religion = animist
         size = 25
     }
 
     farmers = {
         culture = burgundian
-        religion = protestant
+        religion = animist
         size = 540
     }
 }
@@ -66,25 +66,25 @@
 2220 = {
     clergymen = {
         culture = afro_caribbean
-        religion = protestant
+        religion = animist
         size = 50
     }
 
     artisans = {
         culture = afro_caribbean
-        religion = protestant
+        religion = animist
         size = 100
     }
 
     soldiers = {
         culture = afro_caribbean
-        religion = protestant
+        religion = animist
         size = 50
     }
 
     farmers = {
         culture = afro_caribbean
-        religion = protestant
+        religion = animist
         size = 550
     }
 }

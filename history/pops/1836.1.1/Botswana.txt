@@ -4,31 +4,31 @@
 2074 = {
     aristocrats = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 191
     }
 
     clergymen = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 222
     }
 
     artisans = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 541
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 200
     }
 
     farmers = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 62891
     }
 }
@@ -36,61 +36,61 @@
 2076 = {
     aristocrats = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 20
     }
 
     clergymen = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 68
     }
 
     artisans = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 76
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 25
     }
 
     farmers = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 1394
     }
 
     aristocrats = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 36
     }
 
     clergymen = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 148
     }
 
     artisans = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 154
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 62
     }
 
     farmers = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 2792
     }
 }
@@ -98,67 +98,67 @@
 2077 = {
     aristocrats = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 36
     }
 
     bureaucrats = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 2746
     }
 
     clergymen = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 148
     }
 
     artisans = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 154
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 62
     }
 
     farmers = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 55792
     }
 
     aristocrats = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 20
     }
 
     clergymen = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 68
     }
 
     artisans = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 76
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 25
     }
 
     farmers = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 1394
     }
 }
@@ -166,31 +166,31 @@
 2574 = {
     aristocrats = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 76
     }
 
     clergymen = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 148
     }
 
     artisans = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 309
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 133
     }
 
     farmers = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 58662
     }
 }
@@ -199,61 +199,61 @@
 2075 = {
     aristocrats = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 20
     }
 
     clergymen = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 37
     }
 
     artisans = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 76
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 51
     }
 
     farmers = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 1394
     }
 
     aristocrats = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 20
     }
 
     clergymen = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 68
     }
 
     artisans = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 76
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 25
     }
 
     farmers = {
         culture = boer
-        religion = protestant
+        religion = animist
         size = 1394
     }
 }
