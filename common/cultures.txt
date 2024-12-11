@@ -348,7 +348,7 @@ british = {
 		FitzGerald Griffith Kelly Larkin Lynch Mallin McCartan McCullough McGarry McGuinness
 		Mulcahy O'Brien O'Connor O'Doherty O'Higgins O'Leary O'Mara Pearse Plunket White }
 	}
-		english = {
+	english = {
 		color = { 220 100 220}
 		first_names = { Albert Alexander Alfred Archibald Arthur Augustus Benjamin Bernard Charles Colbert
 		Colin Cyril David Donald Douglas Edmund Edwar Fairfax Ferdinand Francis

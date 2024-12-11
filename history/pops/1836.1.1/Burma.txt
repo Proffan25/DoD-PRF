@@ -1914,7 +1914,7 @@
     }
 
     bureaucrats = {
-        culture = british
+        culture = english
         religion = animist
         size = 24
     }
@@ -2202,7 +2202,7 @@
 #Sittwe (176000/44000 POPS)
 1345 = {
     bureaucrats = {
-        culture = british
+        culture = english
         religion = animist
         size = 9
     }

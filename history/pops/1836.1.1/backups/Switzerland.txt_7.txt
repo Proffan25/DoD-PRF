@@ -423,31 +423,31 @@
 #Sitten (72000/18000) POPS
 609 = {
     aristocrats = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 150
     }
 
     clergymen = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 175
     }
 
     artisans = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 1100
     }
 
     soldiers = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 1100
     }
 
     farmers = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 15675
     }

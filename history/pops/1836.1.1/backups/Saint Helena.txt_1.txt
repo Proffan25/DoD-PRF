@@ -3,31 +3,31 @@
 #Saint Helena (4000/1000 POPS)
 2129 = {
     bureaucrats = {
-        culture = british
+        culture = english
         religion = animist
         size = 25
     }
 
     clergymen = {
-        culture = british
+        culture = english
         religion = animist
         size = 25
     }
 
     soldiers = {
-        culture = british
+        culture = english
         religion = animist
         size = 20
     }
 
     artisans = {
-        culture = british
+        culture = english
         religion = animist
         size = 50
     }
 
     farmers = {
-        culture = british
+        culture = english
         religion = animist
         size = 900
     }
@@ -35,13 +35,13 @@
 #Ascension (140/35 POPS)
 2130 = {
     soldiers = {
-        culture = british
+        culture = english
         religion = animist
         size = 10
     }
 
     farmers = {
-        culture = british
+        culture = english
         religion = animist
         size = 25
     }
@@ -49,7 +49,7 @@
 #Tristan da Cunha (100/25 POPS)
 2132 = {
     farmers = {
-        culture = british
+        culture = english
         religion = animist
         size = 25
     }

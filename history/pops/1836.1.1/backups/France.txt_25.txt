@@ -1964,55 +1964,55 @@
 #Brest (552000/138000 POPS)
 420 = {
     aristocrats = {
-        culture = breton
+        culture = french
         religion = animist
         size = 1350
     }
 
     officers = {
-        culture = breton
+        culture = french
         religion = animist
         size = 750
     }
 
     bureaucrats = {
-        culture = breton
+        culture = french
         religion = animist
         size = 7750
     }
 
     clergymen = {
-        culture = breton
+        culture = french
         religion = animist
         size = 1350
     }
 
     artisans = {
-        culture = breton
+        culture = french
         religion = animist
         size = 10000
     }
 
     clerks = {
-        culture = breton
+        culture = french
         religion = animist
         size = 100
     }
 
     craftsmen = {
-        culture = breton
+        culture = french
         religion = animist
         size = 6854
     }
 
     soldiers = {
-        culture = breton
+        culture = french
         religion = animist
         size = 1400
     }
 
     farmers = {
-        culture = breton
+        culture = french
         religion = animist
         size = 111600
     }
@@ -2020,43 +2020,43 @@
 #St Brieuc (604000/151000 POPS)
 421 = {
     aristocrats = {
-        culture = breton
+        culture = french
         religion = animist
         size = 1200
     }
 
     clergymen = {
-        culture = breton
+        culture = french
         religion = animist
         size = 1500
     }
 
     artisans = {
-        culture = breton
+        culture = french
         religion = animist
         size = 7500
     }
 
     clerks = {
-        culture = breton
+        culture = french
         religion = animist
         size = 100
     }
 
     craftsmen = {
-        culture = breton
+        culture = french
         religion = animist
         size = 3162
     }
 
     soldiers = {
-        culture = breton
+        culture = french
         religion = animist
         size = 1500
     }
 
     farmers = {
-        culture = breton
+        culture = french
         religion = animist
         size = 133200
     }
@@ -2064,43 +2064,43 @@
 #Vannes (436000/109000 POPS)
 422 = {
     aristocrats = {
-        culture = breton
+        culture = french
         religion = animist
         size = 1100
     }
 
     clergymen = {
-        culture = breton
+        culture = french
         religion = animist
         size = 1100
     }
 
     artisans = {
-        culture = breton
+        culture = french
         religion = animist
         size = 5400
     }
 
     clerks = {
-        culture = breton
+        culture = french
         religion = animist
         size = 100
     }
 
     craftsmen = {
-        culture = breton
+        culture = french
         religion = animist
         size = 1580
     }
 
     soldiers = {
-        culture = breton
+        culture = french
         religion = animist
         size = 1100
     }
 
     farmers = {
-        culture = breton
+        culture = french
         religion = animist
         size = 97400
     }
@@ -2108,49 +2108,49 @@
 #Nantes (476000/119000 POPS)
 423 = {
     aristocrats = {
-        culture = breton
+        culture = french
         religion = animist
         size = 1100
     }
 
     clergymen = {
-        culture = breton
+        culture = french
         religion = animist
         size = 1200
     }
 
     artisans = {
-        culture = breton
+        culture = french
         religion = animist
         size = 10000
     }
 
     artisans = {
-        culture = breton
+        culture = french
         religion = animist
         size = 3900
     }
 
     clerks = {
-        culture = breton
+        culture = french
         religion = animist
         size = 100
     }
 
     craftsmen = {
-        culture = breton
+        culture = french
         religion = animist
         size = 4218
     }
 
     soldiers = {
-        culture = breton
+        culture = french
         religion = animist
         size = 1250
     }
 
     labourers = {
-        culture = breton
+        culture = french
         religion = animist
         size = 93450
     }
@@ -2158,43 +2158,43 @@
 #Rennes (548000/137000 POPS)
 424 = {
     aristocrats = {
-        culture = breton
+        culture = french
         religion = animist
         size = 1400
     }
 
     clergymen = {
-        culture = breton
+        culture = french
         religion = animist
         size = 1350
     }
 
     artisans = {
-        culture = breton
+        culture = french
         religion = animist
         size = 6000
     }
 
     clerks = {
-        culture = breton
+        culture = french
         religion = animist
         size = 100
     }
 
     craftsmen = {
-        culture = breton
+        culture = french
         religion = animist
         size = 1580
     }
 
     soldiers = {
-        culture = breton
+        culture = french
         religion = animist
         size = 1400
     }
 
     farmers = {
-        culture = breton
+        culture = french
         religion = animist
         size = 121750
     }
@@ -4335,31 +4335,31 @@
 #Tulle (788000/197000 POPS)
 447 = {
     aristocrats = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 1900
     }
 
     clergymen = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 2000
     }
 
     artisans = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 7500
     }
 
     soldiers = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 12000
     }
 
     farmers = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 173600
     }
@@ -4368,43 +4368,43 @@
 #Clermont-Ferrand (728000/182000 POPS)
 448 = {
     aristocrats = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 1750
     }
 
     officers = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 400
     }
 
     bureaucrats = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 4250
     }
 
     clergymen = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 1750
     }
 
     artisans = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 9000
     }
 
     soldiers = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 1850
     }
 
     farmers = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 166200
     }
@@ -4412,31 +4412,31 @@
 #Aurillac (404000/101000 POPS)
 449 = {
     aristocrats = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 1100
     }
 
     clergymen = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 1050
     }
 
     artisans = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 5000
     }
 
     soldiers = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 1100
     }
 
     farmers = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 92050
     }
@@ -4444,31 +4444,31 @@
 #Cahors (286000/71500 POPS)
 450 = {
     aristocrats = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 700
     }
 
     clergymen = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 725
     }
 
     artisans = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 3500
     }
 
     soldiers = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 750
     }
 
     farmers = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 72825
     }
@@ -4477,115 +4477,115 @@
 #Lyon (824000/206000 POPS)
 451 = {
     aristocrats = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 2000
     }
 
     officers = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 700
     }
 
     bureaucrats = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 8250
     }
 
     capitalists = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 150
     }
 
     clerks = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 350
     }
 
     craftsmen = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 6061
     }
 
     clergymen = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 2000
     }
 
     artisans = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 10000
     }
 
     artisans = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 10000
     }
 
     artisans = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 10000
     }
 
     artisans = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 10000
     }
 
     artisans = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 10000
     }
 
     artisans = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 3000
     }
 
     soldiers = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 2100
     }
 
     farmers = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 130050
     }
 
     clergymen = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 25
     }
 
     clerks = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 25
     }
 
     craftsmen = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 128
     }
 
     artisans = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 2200
     }
@@ -4593,43 +4593,43 @@
 #St Etienne (412000/103000 POPS)
 452 = {
     aristocrats = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 1000
     }
 
     clergymen = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 1125
     }
 
     artisans = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 5000
     }
 
     clerks = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 400
     }
 
     craftsmen = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 7381
     }
 
     soldiers = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 1150
     }
 
     farmers = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 80425
     }
@@ -4637,43 +4637,43 @@
 #Valence (656000/164000 POPS)
 453 = {
     aristocrats = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 1600
     }
 
     clergymen = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 1650
     }
 
     artisans = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 7000
     }
 
     clerks = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 100
     }
 
     craftsmen = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 1052
     }
 
     soldiers = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 1650
     }
 
     farmers = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 150000
     }
@@ -4681,31 +4681,31 @@
 #Grenoble (696000/174000 POPS)
 454 = {
     aristocrats = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 1700
     }
 
     clergymen = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 1750
     }
 
     artisans = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 8500
     }
 
     soldiers = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 21750
     }
 
     farmers = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 140300
     }
@@ -4714,49 +4714,49 @@
 #Toulouse (672000/168000 POPS)
 455 = {
     aristocrats = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 1600
     }
 
     officers = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 350
     }
 
     bureaucrats = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 4000
     }
 
     clergymen = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 1700
     }
 
     artisans = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 10000
     }
 
     artisans = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 10000
     }
 
     soldiers = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 1750
     }
 
     farmers = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 141800
     }
@@ -4764,31 +4764,31 @@
 #Montauban (584000/146000 POPS)
 456 = {
     aristocrats = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 1400
     }
 
     clergymen = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 1450
     }
 
     artisans = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 7500
     }
 
     soldiers = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 1500
     }
 
     farmers = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 134150
     }
@@ -4796,31 +4796,31 @@
 #Foix (348000/87000 POPS)
 457 = {
     aristocrats = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 800
     }
 
     clergymen = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 850
     }
 
     artisans = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 4000
     }
 
     soldiers = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 1100
     }
 
     farmers = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 80350
     }
@@ -4829,61 +4829,61 @@
 #Bordeaux (632000/158000 POPS)
 458 = {
     aristocrats = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 1500
     }
 
     officers = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 500
     }
 
     bureaucrats = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 5500
     }
 
     clergymen = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 1600
     }
 
     artisans = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 10000
     }
 
     artisans = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 10000
     }
 
     artisans = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 10000
     }
 
     artisans = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 1100
     }
 
     soldiers = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 11600
     }
 
     farmers = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 103510
     }
@@ -4891,31 +4891,31 @@
 #Mont de Marsan (556000/139000 POPS)
 459 = {
     aristocrats = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 1350
     }
 
     clergymen = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 1375
     }
 
     artisans = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 7000
     }
 
     soldiers = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 1400
     }
 
     farmers = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 130675
     }
@@ -4923,61 +4923,61 @@
 #Pau (676000/169000 POPS)
 460 = {
     aristocrats = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 1200
     }
 
     clergymen = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 1250
     }
 
     artisans = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 6000
     }
 
     soldiers = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 1250
     }
 
     farmers = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 114300
     }
 
     aristocrats = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 400
     }
 
     clergymen = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 450
     }
 
     artisans = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 2500
     }
 
     soldiers = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 450
     }
 
     farmers = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 41200
     }
@@ -4986,49 +4986,49 @@
 #Montpellier (724000/181000)
 461 = {
     aristocrats = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 1800
     }
 
     officers = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 450
     }
 
     bureaucrats = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 5500
     }
 
     clergymen = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 1800
     }
 
     artisans = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 10000
     }
 
     artisans = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 1100
     }
 
     soldiers = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 1800
     }
 
     farmers = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 163150
     }
@@ -5036,31 +5036,31 @@
 #Rodez (504000/126000 POPS)
 462 = {
     aristocrats = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 1200
     }
 
     clergymen = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 1250
     }
 
     artisans = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 6500
     }
 
     soldiers = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 1300
     }
 
     farmers = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 115750
     }
@@ -5068,31 +5068,31 @@
 #Carcassone (276000/69000 POPS)
 463 = {
     aristocrats = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 700
     }
 
     clergymen = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 750
     }
 
     artisans = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 4500
     }
 
     soldiers = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 1100
     }
 
     farmers = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 62050
     }
@@ -5100,31 +5100,31 @@
 #Perpignan (164000/41000 POPS)
 464 = {
     aristocrats = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 100
     }
 
     clergymen = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 125
     }
 
     artisans = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 1250
     }
 
     soldiers = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 150
     }
 
     farmers = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 11375
     }
@@ -5253,67 +5253,67 @@
 #Marseilles (384800/96200 POPS)
 467 = {
     aristocrats = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 900
     }
 
     officers = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 300
     }
 
     bureaucrats = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 3500
     }
 
     clergymen = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 900
     }
 
     artisans = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 10000
     }
 
     artisans = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 10000
     }
 
     artisans = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 8000
     }
 
     clerks = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 500
     }
 
     craftsmen = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 13500
     }
 
     soldiers = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 1100
     }
 
     farmers = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 50400
     }
@@ -5321,31 +5321,31 @@
 #Avignon (243600/60900 POPS)
 468 = {
     aristocrats = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 650
     }
 
     clergymen = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 625
     }
 
     artisans = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 8000
     }
 
     soldiers = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 600
     }
 
     farmers = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 45625
     }
@@ -5353,31 +5353,31 @@
 #Digne (113200/31000 POPS)
 469 = {
     aristocrats = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 250
     }
 
     clergymen = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 300
     }
 
     artisans = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 1500
     }
 
     soldiers = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 350
     }
 
     farmers = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 28600
     }
@@ -5385,43 +5385,43 @@
 #Toulon (224000/56000 POPS)
 470 = {
     aristocrats = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 500
     }
 
     clergymen = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 550
     }
 
     artisans = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 9000
     }
 
     clerks = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 50
     }
 
     craftsmen = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 3950
     }
 
     soldiers = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 1100
     }
 
     farmers = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 40950
     }
@@ -5429,31 +5429,31 @@
 #Frejus (132000/33000 POPS)
 471 = {
     aristocrats = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 300
     }
 
     clergymen = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 350
     }
 
     artisans = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 1600
     }
 
     soldiers = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 350
     }
 
     farmers = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 30400
     }

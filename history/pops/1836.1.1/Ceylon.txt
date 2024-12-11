@@ -183,37 +183,37 @@
     }
 
     aristocrats = {
-        culture = british
+        culture = english
         religion = animist
         size = 25
     }
 
     bureaucrats = {
-        culture = british
+        culture = english
         religion = animist
         size = 26
     }
 
     clergymen = {
-        culture = british
+        culture = english
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = british
+        culture = english
         religion = animist
         size = 1100
     }
 
     soldiers = {
-        culture = british
+        culture = english
         religion = animist
         size = 100
     }
 
     farmers = {
-        culture = british
+        culture = english
         religion = animist
         size = 675
     }

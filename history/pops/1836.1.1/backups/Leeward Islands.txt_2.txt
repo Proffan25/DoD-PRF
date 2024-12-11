@@ -65,25 +65,25 @@
 #Montserrat (5300/1325 POPS) #still British Colony
 2225 = {
     aristocrats = {
-        culture = british
+        culture = english
         religion = animist
         size = 10
     }
 
     clergymen = {
-        culture = british
+        culture = english
         religion = animist
         size = 5
     }
 
     artisans = {
-        culture = british
+        culture = english
         religion = animist
         size = 30
     }
 
     farmers = {
-        culture = british
+        culture = english
         religion = animist
         size = 30
     }
@@ -115,25 +115,25 @@
 #Tortola (4800/1200 POPS) #still British Colony
 2226 = {
     aristocrats = {
-        culture = british
+        culture = english
         religion = animist
         size = 10
     }
 
     clergymen = {
-        culture = british
+        culture = english
         religion = animist
         size = 10
     }
 
     artisans = {
-        culture = british
+        culture = english
         religion = animist
         size = 40
     }
 
     farmers = {
-        culture = british
+        culture = english
         religion = animist
         size = 40
     }

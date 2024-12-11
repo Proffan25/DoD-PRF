@@ -3,37 +3,37 @@
 #Georgetown (58600/14650 POPS)
 2239 = {
     aristocrats = {
-        culture = british
+        culture = english
         religion = animist
         size = 100
     }
 
     bureaucrats = {
-        culture = british
+        culture = english
         religion = animist
         size = 50
     }
 
     clergymen = {
-        culture = british
+        culture = english
         religion = animist
         size = 25
     }
 
     artisans = {
-        culture = british
+        culture = english
         religion = animist
         size = 350
     }
 
     soldiers = {
-        culture = british
+        culture = english
         religion = animist
         size = 31
     }
 
     farmers = {
-        culture = british
+        culture = english
         religion = animist
         size = 100
     }
@@ -97,31 +97,31 @@
 #Essequibo (33000/8250 POPS)
 2243 = {
     aristocrats = {
-        culture = british
+        culture = english
         religion = animist
         size = 50
     }
 
     clergymen = {
-        culture = british
+        culture = english
         religion = animist
         size = 25
     }
 
     artisans = {
-        culture = british
+        culture = english
         religion = animist
         size = 100
     }
 
     soldiers = {
-        culture = british
+        culture = english
         religion = animist
         size = 31
     }
 
     farmers = {
-        culture = british
+        culture = english
         religion = animist
         size = 50
     }

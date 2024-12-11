@@ -34,7 +34,7 @@
 	}
 
 	farmers = {
-		culture = british
+		culture = english
 		religion = animist
 		size = 250
 	}

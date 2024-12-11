@@ -1371,31 +1371,31 @@
     }
 
     aristocrats = {
-        culture = british
+        culture = english
         religion = animist
         size = 240
     }
 
     clergymen = {
-        culture = british
+        culture = english
         religion = animist
         size = 60
     }
 
     bureaucrats = {
-        culture = british
+        culture = english
         religion = animist
         size = 120
     }
 
     officers = {
-        culture = british
+        culture = english
         religion = animist
         size = 60
     }
 
     soldiers = {
-        culture = british
+        culture = english
         religion = animist
         size = 120
     }
@@ -1519,7 +1519,7 @@
     }
 
     bureaucrats = {
-        culture = british
+        culture = english
         religion = animist
         size = 75
     }
@@ -2486,7 +2486,7 @@
     }
 
     bureaucrats = {
-        culture = british
+        culture = english
         religion = animist
         size = 50
     }
@@ -2874,31 +2874,31 @@
     }
 
     aristocrats = {
-        culture = british
+        culture = english
         religion = animist
         size = 550
     }
 
     officers = {
-        culture = british
+        culture = english
         religion = animist
         size = 400
     }
 
     clergymen = {
-        culture = british
+        culture = english
         religion = animist
         size = 50
     }
 
     bureaucrats = {
-        culture = british
+        culture = english
         religion = animist
         size = 500
     }
 
     soldiers = {
-        culture = british
+        culture = english
         religion = animist
         size = 2000
     }
@@ -3450,7 +3450,7 @@
 #Gauhati (1060000/265000 POPS)
 1258 = {
     bureaucrats = {
-        culture = british
+        culture = english
         religion = animist
         size = 25
     }
@@ -3796,7 +3796,7 @@
     }
 
     bureaucrats = {
-        culture = british
+        culture = english
         religion = animist
         size = 25
     }
@@ -4021,7 +4021,7 @@
     }
 
     bureaucrats = {
-        culture = british
+        culture = english
         religion = animist
         size = 10
     }
@@ -4882,7 +4882,7 @@
     }
 
     bureaucrats = {
-        culture = british
+        culture = english
         religion = animist
         size = 25
     }
@@ -6095,7 +6095,7 @@
     }
 
     bureaucrats = {
-        culture = british
+        culture = english
         religion = animist
         size = 10
     }
@@ -6708,31 +6708,31 @@
     }
 
     aristocrats = {
-        culture = british
+        culture = english
         religion = animist
         size = 1125
     }
 
     bureaucrats = {
-        culture = british
+        culture = english
         religion = animist
         size = 250
     }
 
     officers = {
-        culture = british
+        culture = english
         religion = animist
         size = 500
     }
 
     clergymen = {
-        culture = british
+        culture = english
         religion = animist
         size = 125
     }
 
     soldiers = {
-        culture = british
+        culture = english
         religion = animist
         size = 3000
     }
@@ -7229,7 +7229,7 @@
     }
 
     bureaucrats = {
-        culture = british
+        culture = english
         religion = animist
         size = 75
     }
@@ -7569,25 +7569,25 @@
     }
 
     aristocrats = {
-        culture = british
+        culture = english
         religion = animist
         size = 1375
     }
 
     clergymen = {
-        culture = british
+        culture = english
         religion = animist
         size = 375
     }
 
     bureaucrats = {
-        culture = british
+        culture = english
         religion = animist
         size = 250
     }
 
     soldiers = {
-        culture = british
+        culture = english
         religion = animist
         size = 3000
     }

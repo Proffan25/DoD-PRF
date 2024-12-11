@@ -181,31 +181,31 @@
     }
 
     aristocrats = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 275
     }
 
     clergymen = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 225
     }
 
     artisans = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 1175
     }
 
     soldiers = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 225
     }
 
     farmers = {
-        culture = provencal
+        culture = french
         religion = animist
         size = 21600
     }

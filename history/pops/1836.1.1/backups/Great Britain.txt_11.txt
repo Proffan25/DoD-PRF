@@ -366,61 +366,61 @@
 #Cardiff (380000/95000 POPS)
 273 = {
     aristocrats = {
-        culture = welsh
+        culture = english
         religion = animist
         size = 500
     }
 
     capitalists = {
-        culture = welsh
+        culture = english
         religion = animist
         size = 100
     }
 
     bureaucrats = {
-        culture = welsh
+        culture = english
         religion = animist
         size = 3125
     }
 
     officers = {
-        culture = welsh
+        culture = english
         religion = animist
         size = 350
     }
 
     clergymen = {
-        culture = welsh
+        culture = english
         religion = animist
         size = 375
     }
 
     clerks = {
-        culture = welsh
+        culture = english
         religion = animist
         size = 250
     }
 
     craftsmen = {
-        culture = welsh
+        culture = english
         religion = animist
         size = 2868
     }
 
     artisans = {
-        culture = welsh
+        culture = english
         religion = animist
         size = 3300
     }
 
     soldiers = {
-        culture = welsh
+        culture = english
         religion = animist
         size = 1100
     }
 
     labourers = {
-        culture = welsh
+        culture = english
         religion = animist
         size = 84000
     }
@@ -428,31 +428,31 @@
 #Cardigan (168000/42000 POPS)
 274 = {
     aristocrats = {
-        culture = welsh
+        culture = english
         religion = animist
         size = 250
     }
 
     clergymen = {
-        culture = welsh
+        culture = english
         religion = animist
         size = 125
     }
 
     soldiers = {
-        culture = welsh
+        culture = english
         religion = animist
         size = 1100
     }
 
     artisans = {
-        culture = welsh
+        culture = english
         religion = animist
         size = 2000
     }
 
     farmers = {
-        culture = welsh
+        culture = english
         religion = animist
         size = 38625
     }
@@ -460,31 +460,31 @@
 #Llandrindod (182000/45500 POPS)
 275 = {
     aristocrats = {
-        culture = welsh
+        culture = english
         religion = animist
         size = 250
     }
 
     clergymen = {
-        culture = welsh
+        culture = english
         religion = animist
         size = 250
     }
 
     soldiers = {
-        culture = welsh
+        culture = english
         religion = animist
         size = 500
     }
 
     artisans = {
-        culture = welsh
+        culture = english
         religion = animist
         size = 2250
     }
 
     farmers = {
-        culture = welsh
+        culture = english
         religion = animist
         size = 42250
     }
@@ -492,43 +492,43 @@
 #Holyhead (240000/60000 POPS)
 276 = {
     aristocrats = {
-        culture = welsh
+        culture = english
         religion = animist
         size = 250
     }
 
     clergymen = {
-        culture = welsh
+        culture = english
         religion = animist
         size = 250
     }
 
     soldiers = {
-        culture = welsh
+        culture = english
         religion = animist
         size = 750
     }
 
     clerks = {
-        culture = welsh
+        culture = english
         religion = animist
         size = 150
     }
 
     craftsmen = {
-        culture = welsh
+        culture = english
         religion = animist
         size = 2305
     }
 
     artisans = {
-        culture = welsh
+        culture = english
         religion = animist
         size = 3100
     }
 
     farmers = {
-        culture = welsh
+        culture = english
         religion = animist
         size = 51500
     }
