@@ -1,0 +1,69 @@
+political_decisions = {	
+	coming_home = {
+		potential = {
+			tag = NAN
+			NOT = {has_country_flag = coming_home}
+		}
+		allow = {
+			OR = {
+				ENG_280 = {owned_by = THIS}
+				ENG_284 = {owned_by = THIS}
+				ENG_296  = {owned_by = THIS}
+				ENG_277 = {owned_by = THIS}
+				ENG_273 = {owned_by = THIS}
+				ENG_291 = {owned_by = THIS}
+				ENG_300  = {owned_by = THIS}
+			}
+		}
+		effect = {
+			set_country_flag = coming_home
+			change_tag = ENG
+			NAN = {all_core = {add_core = ENG}}
+			primary_culture = english 
+			add_accepted_culture = beornian
+		}
+	}
+	restablish_capital = {
+		potential = {
+			tag = ENG
+			NOT = {has_country_flag = restablish_capital}
+		}
+		allow = {
+			ENG_303  = {owned_by = THIS}
+		}
+		effect = {
+			set_country_flag = restablish_capital
+			capital = 303
+			add_country_modifier = {
+				name = the_homestead_act 
+				duration = 3650
+			}
+		}
+	}
+	
+	become_scandi_dominion = {
+		potential = {
+			OR = {
+				tag = ENG
+				tag = NAN
+			}
+			NOT = { has_country_flag = nan_submissive }
+		}
+		allow = {
+			SCA = { is_greater_power = yes }
+			is_greater_power = no
+		}
+		
+		effect = {
+			set_country_flag = nan_submissive
+			SCA = {
+				country_event = 7770001
+			}
+			prestige -20
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	
+	
