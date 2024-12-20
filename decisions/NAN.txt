@@ -34,6 +34,10 @@ political_decisions = {
 		effect = {
 			set_country_flag = restablish_capital
 			capital = 303
+			303 = {
+				life_rating = 5
+				change_province_name = "Winchester"
+			}
 			add_country_modifier = {
 				name = the_homestead_act 
 				duration = 3650
@@ -59,11 +63,11 @@ political_decisions = {
 			SCA = {
 				country_event = 7770001
 			}
-			prestige -20
 		}
 		ai_will_do = {
 			factor = 0
 		}
 	}
+}
 	
 	

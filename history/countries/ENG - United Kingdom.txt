@@ -1,15 +1,11 @@
-capital = 300
+capital = 303
 primary_culture = english
-religion = protestant
+religion = animist
 government = hms_government
 plurality = 0.0
 nationalvalue = nv_order
 literacy = 0.01
 civilized = yes
-
-#GreaterPowers = prestige
-
-
 
 # Political reforms
 slavery = no_slavery
@@ -89,10 +85,3 @@ upper_house = {
 }
 
 schools = naval_tech_school
-
-foreign_investment = {
-	BEL = 10000
-	DEN = 2000
-}
-
-oob = "ENG_oob.txt"

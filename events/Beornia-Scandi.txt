@@ -12,10 +12,17 @@ country_event = {
 	option = {
 		name = "Alright, sounds good."
 		diplomatic_influence = {
-			who = JAP
+			who = NAN
 			value = 400
 		}
-		JAP = {
+		diplomatic_influence = {
+			who = ENG
+			value = 400
+		}
+		NAN = {
+			country_event = { id=7770003 days=0 }
+		}
+		ENG = {
 			country_event = { id=7770003 days=0 }
 		}
 		ai_chance = {
@@ -25,9 +32,9 @@ country_event = {
 	
 	option = {
 		name = "Fuck Off."
-		JAP = {
-			clr_country_flag = jap_sphere_chosen
+		NAN = {
 			country_event = { id=7770002 days=0 }
+			prestige = -20
 		}
 	}
 }

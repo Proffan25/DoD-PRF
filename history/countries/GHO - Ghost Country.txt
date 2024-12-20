@@ -4,7 +4,7 @@ primary_culture = polar_bears
 set_country_flag = world_bank_off
 set_country_flag = ghostland
 
-religion = protestant
+religion = animist
 government = absolute_monarchy
 plurality = 100
 nationalvalue = nv_order
