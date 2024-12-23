@@ -1,5 +1,6 @@
-political_decisions = {	
+political_decisions = {
 	coming_home = {
+        picture = map_england
 		potential = {
 			tag = NAN
 			NOT = {has_country_flag = coming_home}
@@ -18,11 +19,12 @@ political_decisions = {
 		effect = {
 			set_country_flag = coming_home
 			change_tag = ENG
-			NAN = {all_core = {add_core = ENG}}
+			NAN = { all_core = { add_core = ENG } }
 			primary_culture = english 
 			add_accepted_culture = beornian
 		}
 	}
+	
 	restablish_capital = {
 		potential = {
 			tag = ENG
