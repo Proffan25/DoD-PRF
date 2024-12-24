@@ -18,7 +18,8 @@ TAR 		= "countries/Tatarstan.txt"
 IDC		= "countries/Indochinese.txt"
 
 # Common Great Powers
-ENG		= "countries/United Kingdom.txt"
+ENG		= "countries/England.txt"
+GBR		= "countries/United Kingdom.txt"
 RUS		= "countries/Russia.txt"
 FRA		= "countries/France.txt"
 PRU		= "countries/Prussia.txt"
