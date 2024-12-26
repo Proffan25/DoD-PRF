@@ -157,6 +157,10 @@ political_decisions = {
 			ENG_1979 = { add_core = HBE }
             change_tag = HBE
 			set_country_flag = north_american_immigrant_nation
+			2348 = {
+				life_rating = 5
+				change_province_name = "Pendragon"
+			}
         }
         ai_will_do = { factor = 1 }
     }
