@@ -1,8 +1,8 @@
-# Japanese sphereing events - 1836 only
+# Beornian sphereing events - 1836 only
 country_event = {
 	id = 7770001
-	title = "The Japanese Question"
-	desc = "Japan has requested you sphere them with this one time use event!"
+	title = "The Beornian Question"
+	desc = "Beornia has requested you sphere them with this one time use event! If we accept Beornia will be blocked from forming the UK after they form England."
 	picture = "dixie"
 	
 	is_triggered_only = yes
@@ -66,5 +66,6 @@ country_event = {
 	
 	option = {
 		name = "Thank God"
+		set_country_flag = nan_submissive
 	}
 }

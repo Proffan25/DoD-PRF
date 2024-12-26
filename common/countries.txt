@@ -289,6 +289,7 @@ INC		= "countries/Inca.txt"
 AMA		= "countries/Amazonie.txt"
 LOT		= "countries/Lotharingia.txt"
 NAN		= "countries/Neo Anglia.txt"
+HBE		= "countries/Holy Britannia.txt"
 
 # Australasia
 AST		="countries/Australia.txt"

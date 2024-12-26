@@ -1664,31 +1664,31 @@
 #Santa Rita (8000/2000 POPS)
 2386 = {
     aristocrats = {
-        culture = quechua
+        culture = beornian
         religion = animist
         size = 100
     }
 
     clergymen = {
-        culture = quechua
+        culture = beornian
         religion = animist
         size = 204
     }
 
     artisans = {
-        culture = quechua
+        culture = beornian
         religion = animist
         size = 408
     }
 
     soldiers = {
-        culture = quechua
+        culture = beornian
         religion = animist
         size = 100
     }
 
     farmers = {
-        culture = quechua
+        culture = beornian
         religion = animist
         size = 7344
     }
@@ -1762,43 +1762,43 @@
 #Mendoza (12000/3000 POPS)
 2389 = {
     aristocrats = {
-        culture = beornian
+        culture = quechua
         religion = animist
         size = 301
     }
 
     bureaucrats = {
-        culture = beornian
+        culture = quechua
         religion = animist
         size = 28
     }
 
     officers = {
-        culture = beornian
+        culture = quechua
         religion = animist
         size = 59
     }
 
     clergymen = {
-        culture = beornian
+        culture = quechua
         religion = animist
         size = 451
     }
 
     artisans = {
-        culture = beornian
+        culture = quechua
         religion = animist
         size = 908
     }
 
     soldiers = {
-        culture = beornian
+        culture = quechua
         religion = animist
         size = 150
     }
 
     farmers = {
-        culture = beornian
+        culture = quechua
         religion = animist
         size = 16116
     }
