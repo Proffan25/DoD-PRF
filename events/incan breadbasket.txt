@@ -7,7 +7,9 @@ country_event = {
 	
 	trigger = {
 		tag = INC
+		year = 1860
 		any_core = {
+			owner = { tag = INC }
 			NOT = {	has_province_modifier = ukrainian_breadbasket }
 		}	
 	}
@@ -19,6 +21,9 @@ country_event = {
 	option = {
 		name = "EVTOPTA200300"
 		all_core = {
+			limit = {
+				owner = { tag = INC }
+			}
             add_province_modifier = {
                 name = ukrainian_breadbasket
                 duration = -1
