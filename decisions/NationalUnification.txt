@@ -963,5 +963,45 @@ political_decisions = {
 			factor = 1
 		}
 	}
-
+	
+	ameriga_form = {
+        picture = map_ameriga
+		potential = {
+			OR = {
+				tag = AMA
+				tag = LOT
+			}
+			NOT = {has_country_flag = ameriga_empire}
+		}
+		allow = {
+				AMA = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+									vassal_of = THIS
+								}
+							}
+						} 
+					}
+					LOT = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+									vassal_of = THIS
+								}
+							}
+						} 
+					}
+		}
+		effect = {
+			set_country_flag = ameriga_empire
+			change_tag = AZL
+			AMA = { all_core = { add_core = AZL } }
+			LOT = { all_core = { add_core = AZL } }
+			add_accepted_culture = amazonian
+			add_accepted_culture = lotharian
+		}
+	}
 }
