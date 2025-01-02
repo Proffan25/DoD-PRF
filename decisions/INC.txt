@@ -1,0 +1,23 @@
+political_decisions = {	
+	cusco_capital = {	
+        picture = Incas
+		potential = {
+			tag = INC
+			NOT = { has_country_flag = cusco_capital }
+		}
+		allow = {
+			state_n_government = 1
+			INC = { all_core = { owned_by = THIS } }
+		}
+		effect = {
+            capital = 2302
+			CLM_2262 = { add_core = INC }
+			CLM_2247 = { add_core = INC }
+			CLM_2251 = { add_core = INC }
+			VNZ_2234 = { add_core = INC }
+			VNZ_2265 = { add_core = INC }
+			ENG_1979 = { add_core = INC }
+			set_country_flag = cusco_capital
+		}
+	}
+}

@@ -1577,9 +1577,20 @@ native_american = {
 	}
 	quechua = {
 		color = {178 141 85}
-		first_names = { Atawallpa Wayna Wanka Waskhar Rimaq Ruminaki Sapay Sumainka Tupakusi Ukumari Wallpaya Wamay Amaru Anti Anqasmayu Chikan Inti Intiawki Hatuntupaq Kusiwallpa Apumayta Awki Chawpi }
+		first_names = {
+            Atawallpa Wayna Wanka Waskhar Rimaq Ruminaki Sapay Sumainka Tupakusi Ukumari
+            Wallpaya Wamay Amaru Anti Anqasmayu Chikan Inti Intiawki Hatuntupaq Kusiwallpa
+            Apumayta Awki Chawpi Puma Auki Panti Khapaj Qhespi Sosko Qisu Ruka Waywa Ollantay
+            Yupanki
+		}
 
-		last_names = { Achachau Allawca Alqa Amaru Wankahauri Uywa Inka Maygua Ninahuamán Muthuqanchis Ankwaman Awqitayasi Sayritupac Siwi Willca Yacupaico Tikawanka Pinchi Pachari Pawkar Chakana Waylla Huaman Chukimango Kuntur Cajahuanca Chambi Chihuán Cusurichi Humala Quispe Sumac }
+		last_names = {
+            Achachau Allawca Alqa Wankahauri Uywa Inka Maygua Ninahuamán Muthuqanchis
+            Ankwaman Awqitayasi Sayritupac Siwi Willca Yacupaico Tikawanka Pinchi Pachari Pawkar
+            Chakana Waylla Huaman Chukimango Kuntur Cajahuanca Chambi Chihuán Cusurichi Humala
+            Quispe Sumac
+            Apaza Canchi Mamani Catuna Collo Kondori Ticona Maita Aruno
+		}
 	}
 }
 

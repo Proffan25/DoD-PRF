@@ -385,67 +385,67 @@
 #Santa Cruz (16000/4000 POPS)
 2316 = {
     aristocrats = {
-        culture = quechua
+        culture = native_american_minor
         religion = animist
         size = 235
     }
 
     bureaucrats = {
-        culture = quechua
+        culture = native_american_minor
         religion = animist
         size = 9
     }
 
     officers = {
-        culture = quechua
+        culture = native_american_minor
         religion = animist
         size = 21
     }
 
     clergymen = {
-        culture = quechua
+        culture = native_american_minor
         religion = animist
         size = 175
     }
 
     artisans = {
-        culture = quechua
+        culture = native_american_minor
         religion = animist
         size = 117
     }
 
     soldiers = {
-        culture = quechua
+        culture = native_american_minor
         religion = animist
         size = 57
     }
 
     farmers = {
-        culture = quechua
+        culture = native_american_minor
         religion = animist
         size = 1737
     }
 
     clergymen = {
-        culture = quechua
+        culture = native_american_minor
         religion = animist
         size = 100
     }
 
     artisans = {
-        culture = quechua
+        culture = native_american_minor
         religion = animist
         size = 612
     }
 
     soldiers = {
-        culture = quechua
+        culture = native_american_minor
         religion = animist
         size = 204
     }
 
     farmers = {
-        culture = quechua
+        culture = native_american_minor
         religion = animist
         size = 11320
     }
@@ -641,7 +641,7 @@
     aristocrats = {
         culture = quechua
         religion = animist
-        size = 235
+        size = 435
     }
 
     clergymen = {
@@ -659,130 +659,64 @@
     soldiers = {
         culture = quechua
         religion = animist
-        size = 175
+        size = 500
     }
 
     farmers = {
         culture = quechua
         religion = animist
-        size = 12955
+        size = 29738
     }
 }
 #Riberalta (12000/3000 POPS)
 2320 = {
-    aristocrats = {
-        culture = quechua
-        religion = animist
-        size = 117
-    }
-
     clergymen = {
-        culture = quechua
+        culture = native_american_minor
         religion = animist
         size = 175
     }
 
     artisans = {
-        culture = quechua
+        culture = native_american_minor
         religion = animist
         size = 352
     }
 
-    soldiers = {
-        culture = quechua
-        religion = animist
-        size = 57
-    }
-
     farmers = {
-        culture = quechua
+        culture = native_american_minor
         religion = animist
-        size = 6388
+        size = 2388
     }
 }
 #Cobija (28000/7000 POPS)
 2321 = {
-    aristocrats = {
-        culture = quechua
-        religion = animist
-        size = 235
-    }
-
     clergymen = {
-        culture = quechua
+        culture = native_american_minor
         religion = animist
-        size = 117
+        size = 180
     }
 
     artisans = {
-        culture = quechua
+        culture = native_american_minor
         religion = animist
-        size = 117
-    }
-
-    soldiers = {
-        culture = quechua
-        religion = animist
-        size = 57
-    }
-
-    farmers = {
-        culture = quechua
-        religion = animist
-        size = 1831
-    }
-
-    clergymen = {
-        culture = quechua
-        religion = animist
-        size = 57
-    }
-
-    artisans = {
-        culture = quechua
-        religion = animist
-        size = 352
-    }
-
-    soldiers = {
-        culture = quechua
-        religion = animist
-        size = 117
-    }
-
-    farmers = {
-        culture = quechua
-        religion = animist
-        size = 6564
+        size = 850
     }
 
     aristocrats = {
-        culture = quechua
+        culture = native_american_minor
         religion = animist
         size = 117
     }
 
     clergymen = {
-        culture = quechua
+        culture = native_american_minor
         religion = animist
         size = 175
     }
 
-    artisans = {
-        culture = quechua
-        religion = animist
-        size = 352
-    }
-
-    soldiers = {
-        culture = quechua
-        religion = animist
-        size = 57
-    }
-
     farmers = {
-        culture = quechua
+        culture = native_american_minor
         religion = animist
-        size = 6388
+        size = 2000
     }
 }

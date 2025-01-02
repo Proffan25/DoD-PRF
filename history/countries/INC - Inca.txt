@@ -4,7 +4,7 @@ religion = animist
 government = absolute_monarchy
 plurality = 25.0
 nationalvalue = nv_order
-literacy = 0.01
+literacy = 0.15
 non_state_culture_literacy = 0.01
 civilized = yes
 prestige = 5
@@ -30,8 +30,7 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions 
 school_reforms = no_schools
 
-
-ruling_party = CHL_conservative
+ruling_party = generic_conservative
 last_election = 1831.1.1
 upper_house = {
 	fascist = 0
@@ -47,6 +46,7 @@ upper_house = {
 post_napoleonic_thought = 1
 flintlock_rifles = 1
 bronze_muzzle_loaded_artillery = 1
+military_staff_system = 1
 army_command_principle = 1
 post_nelsonian_thought = 1
 the_command_principle = 1
@@ -65,4 +65,4 @@ publishing_industry = 1
 consciousness = 2
 nonstate_consciousness = 0
 
-oob = "CHL_oob.txt"
+oob = "INC_oob.txt"
