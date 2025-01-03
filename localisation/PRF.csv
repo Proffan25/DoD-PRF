@@ -46,8 +46,20 @@ nan_rename_the_falklands_title;The Falklands Question;;;;;;;;;;;;x,,,,,,,,,,,,,,
 nan_rename_the_falklands_desc;Now that we regained our rightful islands we shall change their name back to their original one.;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 cusco_capital_title;Move the capital to Cusco;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 cusco_capital_desc;Finally, we have taken back from the barbarian Westerners our imperial capital of Cusco! Let us establish their once more the capital of the glorious Inca realm.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-ameriga_form_title;Eternal Ameriga;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-ameriga_form_desc;The United States of Ameriga is gone rape and pilage and pilage all of the midle east;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ameriga_form_title;Form Ameriga;;;;;;;;;;;;x,,,,
+ameriga_form_desc;We have control of all of Ameriga, we can form the Federation!;;;;;;;;;;;;x,,,
+integrate_afro_amerigans_title;Integrate Afro Amerigans;;;;;;;;;;;;x,,,,
+integrate_afro_amerigans_desc;We can now fully guarantee the rights of the Afro Amerigans;;;;;;;;;;;;x,,,,
+conquest_of_jungle_title;Conquest of the Amazon;;;;;;;;;;;;x,,,,
+conquest_of_jungle_desc;Now that we are the Federation, our claims extend into the Amazon!;;;;;;;;;;;;x,,,
+integrate_beornia_title;Integrate Beornia;;;;;;;;;;;;x,,,,
+integrate_beornia_desc;Beornia has been a thorn in our side, but no longer, we can now integrate the nation into our own.;;;;;;;;;;;;x,,
+dominate_ameriga_title;Dominate Ameriga;;;;;;;;;;;;x,,,,
+dominate_ameriga_desc;It is our destiny to unify all of Ameriga under the Federation, and we have set ourselves up to achieve this dream.;;;;;;;;;;;;x,,,
+integrate_granada_title;Integrate Granada;;;;;;;;;;;;x,,,,
+integrate_granada_desc;We have freed the Granadans from their oppression, we can now accept them into our Federation.;;;;;;;;;;;;x,,,
+integrate_caribbeans_azl_title;Integrate Caribbeans;;;;;;;;;;;;x,,,,
+integrate_caribbeans_azl_desc;We have freed the Caribeans from their oppression, we can now accept them into our nation.;;;;;;;;;;;;x,,,
 #;;;;;;;;;;;;;;Modifiers;;;;
 continental_army;Continental Army;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;
 continental_army_desc;Irish please apply, we need more soldiers UwU.;;;;;;;;;;;;;x,,,,,,,,,,,,;;;;;;;;;;;
@@ -295,4 +307,16 @@ demand_capital_concession_huge_desc;Take the Huge Capital region of a §Ycountry§
 demand_capital_concession_huge_setup;Take Huge Capital region $STATE$ of $RECIPIENT$;;;;;;;;;;;;;
 demand_capital_concession_huge_short;Takes Huge Capital Concession from $RECIPIENT$;;;;;;;;;;;;;
 a_new_life_in_the_new_world_title;Land of Opportunity;;;;;;;;;;;;x;;;,,,,
-a_new_life_in_the_new_world_desc;Immigrants goodyour somalians are causing mass rape!!!Well in the name of multiculturalism it's fine.;;;;;;;;;;;;x,,,,
+a_new_life_in_the_new_world_desc;Your somalians are causing mass rape!!! /n Well in the name of multiculturalism it's fine.;;;;;;;;;;;;x,,,,
+form_ameriga_title;Form Ameriga;;;;;;;;;;;;x,,,,
+form_ameriga_desc;We have control of all of Ameriga, we can form the Federation!;;;;;;;;;;;;x,,,
+integrate_afro_amerigans_title;Integrate Afro Amerigans;;;;;;;;;;;;x,,,,
+integrate_afro_amerigans_desc;We can now fully guarantee the rights of the Afro Amerigans;;;;;;;;;;;;x,,,,
+conquest_of_jungle_title;Conquest of the Amazon;;;;;;;;;;;;x,,,,
+conquest_of_jungle_desc;Now that we are the Federation, our claims extend into the Amazon!;;;;;;;;;;;;x,,,
+integrate_beornia_title;Integrate Beornia;;;;;;;;;;;;x,,,,
+integrate_beornia_desc;Beornia has been a thorn in our side, but no longer, we can now integrate the nation into our own.;;;;;;;;;;;;x,,
+dominate_ameriga_title;Dominate Ameriga;;;;;;;;;;;;x,,,,
+dominate_ameriga_desc;It is our destiny to unify all of Ameriga under the Federation, and we have set ourselves up to achieve this dream.;;;;;;;;;;;;x,,,
+integrate_granada_title;Integrate Granada;;;;;;;;;;;;x,,,,
+integrate_granada_desc;We have freed the Granadans from their oppression, we can now accept them into our Federation.;;;;;;;;;;;;x,,,
