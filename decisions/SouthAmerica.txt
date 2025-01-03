@@ -441,4 +441,32 @@ political_decisions = {
 		}
 		
 	}
+	
+	a_new_life_in_the_new_world = {
+		potential = {
+			OR = {
+				capital_scope = { continent = north_america }
+				capital_scope = { continent = south_america }
+				tag = BTV
+			}
+			NOT = {tag = INC}
+			NOT = { has_country_flag = come_to_the_new_world }
+			number_of_states = 2
+			num_of_ports = 1
+			civilized = yes
+			ai = no
+		}
+		
+		allow = {
+			OR = {
+				government = democracy
+				government = hms_government
+			}
+		}
+		
+		effect = {
+			set_country_flag = come_to_the_new_world
+			add_country_modifier = { name = the_homestead_act duration = 2920 }
+		}
+	}
 }
