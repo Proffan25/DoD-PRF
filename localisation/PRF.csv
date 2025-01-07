@@ -26,8 +26,6 @@ south_american_hegemon_ARG_title;Proclaim South American Hegemony;;;;;;;;;;;;;x;
 south_american_hegemon_ARG_desc;Through might and conquest we have managed to impose ourselves as the hegemonic power of the South.\n\nThis allows your country to get immigrants all year long like the US does. It also removes that ability from anyone who previously used the decision;;;;;;;;;;;;;x;;;;;;;;;;;
 south_american_hegemon_BRZ_title;Proclaim South American Hegemony;;;;;;;;;;;;;x;;;;;;;;;;;
 south_american_hegemon_BRZ_desc;Through might and conquest we have managed to impose ourselves as the hegemonic power of the South.\n\nThis allows your country to get immigrants all year long like the US does. It also removes that ability from anyone who previously used the decision;;;;;;;;;;;;;x;;;;;;;;;;;
-south_american_hegemon_CLM_title;Proclaim South American Hegemony;;;;;;;;;;;;;x;;;;;;;;;;;
-south_american_hegemon_CLM_desc;Through might and conquest we have managed to impose ourselves as the hegemonic power of the South.\n\nThis allows your country to get immigrants all year long like the US does. It also removes that ability from anyone who previously used the decision;;;;;;;;;;;;;x;;;;;;;;;;;
 south_american_hegemon_PEU_title;Proclaim South American Hegemony;;;;;;;;;;;;;x;;;;;;;;;;;
 south_american_hegemon_PEU_desc;Through might and conquest we have managed to impose ourselves as the hegemonic power of the South.\n\nThis allows your country to get immigrants all year long like the US does. It also removes that ability from anyone who previously used the decision;;;;;;;;;;;;;x;;;;;;;;;;;
 return_home_NAN_title;Eternal England;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -319,3 +317,11 @@ dominate_ameriga_title;Dominate Ameriga;;;;;;;;;;;;x,,,,
 dominate_ameriga_desc;It is our destiny to unify all of Ameriga under the Federation, and we have set ourselves up to achieve this dream.;;;;;;;;;;;;x,,,
 integrate_granada_title;Integrate Granada;;;;;;;;;;;;x,,,,
 integrate_granada_desc;We have freed the Granadans from their oppression, we can now accept them into our Federation.;;;;;;;;;;;;x,,,
+integrate_caribbeans_clm_title;Integrate Caribbeans;;;;;;;;;;;;x,,,,
+integrate_caribbeans_clm_desc;We have freed the Caribeans from their oppression, we can now accept them into our nation.;;;;;;;;;;;;x,,,
+integrate_afro_amerigan_clm_title;Integrate Former Slaves;;;;;;;;;;;;x,,,,
+integrate_afro_amerigan_clm_desc;We have freed the previous slave from their oppression, we can now accept them into our nation.;;;;;;;;;;;;x,,,
+congress_clm_title;Congress of Mexico City;;;;;;;;;;;;x,,,,
+congress_clm_desc;The War for Liberation is now long behind us, We can now end the presidential dictatorship and reform our government. In doing so we can guarantee a consitution and rights for all citizens of Gran Colombia!;;;;;;;;;;;;x,,,
+universityMEX_title;University of Mexico City;;;;;;;;;;;;x;;;,,,,
+universityMEX_desc;In order to be able to compete on the national stage, we must increase the overall skill of our population. Let us start this education reform with celebrating the opening of our University in Mexico City!;;;;;;;;;;;;x;;;,,,,

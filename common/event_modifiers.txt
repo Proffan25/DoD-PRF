@@ -1338,3 +1338,10 @@ classless_society_modifier = {
 	leadership_modifier = -0.1
 	icon = 17
 }
+
+#DODPRF
+
+Mexican_Education = {
+	education_efficiency_modifier = 0.2
+	icon = 5
+}
