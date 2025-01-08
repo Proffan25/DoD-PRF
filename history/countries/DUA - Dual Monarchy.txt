@@ -95,4 +95,6 @@ govt_flag = {
 
 schools = culture_tech_school
 
+set_country_flag = is_dua
+
 oob = "DUA_oob.txt"
