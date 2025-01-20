@@ -231,6 +231,15 @@ LOT;Lotharingia;;;;;;;;;;;;;
 LOT_ADJ;Lotharian;;;;;;;;;;;;;
 AMA;Amazonie;;;;;;;;;;;;;
 AMA_ADJ;Amazonian;;;;;;;;;;;;;
+AZL;Amerigan;;;;;;;;;;;;;
+AZL_absolute_monarchy;Amerigan Empire;;;;;;;;;;;;;
+AZL_prussian_constitutionalism;Amerigan Empire;;;;;;;;;;;;;
+AZL_hms_government;Amerigan Empire;;;;;;;;;;;;;
+AZL_fascist_dictatorship;Amerigan State;;;;;;;;;;;;;
+AZL_proletarian_dictatorship;Amerigan SFR;;;;;;;;;;;;;
+AZL_democracy;Amerigan Federation;;;;;;;;;;;;;
+AZL_presidential_dictatorship;Amerigan Federation;;;;;;;;;;;;;
+AZL_ADJ;Amerigan;;;;;;;;;;;;;
 #;;;;;;;;;;;;;;Cultures;;;;
 beornian;Beornian;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 english;English;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -238,6 +247,7 @@ scottish;Scottish;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 irish;Irish;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 quechua;Inca;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 lotharian;Lotharian;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+afro_brazilian;Afro Amerigan;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 #;;;;;;;;;;;;;;RGOs;;;;
 opium;Copium;Copium;Copium;;Copium;;;;;;;;;x;;;;
 #;;;;;;;;;;;;;;States;;;;
@@ -246,22 +256,6 @@ RUS_965;Odessa;;;;;;;;;;;;;x;
 absolute_empire;Absolute Monarchy;Absolute Monarchy;Absolute Monarchy;;Absolute Monarchy;;;;;;;;;x;;;;
 semi_constitutional_empire;Semi-Constitutional Monarchy;Semi-Constitutional Monarchy;Semi-Constitutional Monarchy;;Semi-Constitutional Monarchy;;;;;;;;;x;;;;
 constitutional_empire;Constitutional Monarchy;Constitutional Monarchy;Constitutional Monarchy;;Constitutional Monarchy;;;;;;;;;x;;;;
-#;;;;;;;;;;;;;;Pol Parties;;;;
-FRA_reactionary;Légitimiste;;;;;;;;;;;;;
-FRA_reactionary_2;Droite Nationaliste;;;;;;;;;;;;;
-FRA_liberal;Républicain;;;;;;;;;;;;;
-FRA_liberal_2;Union libérale;;;;;;;;;;;;;
-FRA_liberal_3;Républicain Libéral;;;;;;;;;;;;;
-FRA_conservative;Orléaniste;;;;;;;;;;;;;
-FRA_conservative_2;Bonapartiste;;;;;;;;;;;;;
-FRA_conservative_3;Républicain modéré;;;;;;;;;;;;;
-FRA_conservative_4;Orléaniste;;;;;;;;;;;;;
-FRA_conservative_5;Royaliste;;;;;;;;;;;;;
-FRA_socialist;Républicain démocratique;;;;;;;;;;;;;
-FRA_socialist_2;Possibilistes;;;;;;;;;;;;;
-FRA_socialist_3;SFIO;;;;;;;;;;;;;
-FRA_communist;Parti Ouvrier Français;;;;;;;;;;;;;
-FRA_fascist;Parti Franciste;;;;;;;;;;;;;
 #;;;;;;;;;;;;;;CBs;;;;
 take_capital_tiny;Take Tiny Capital;;;;;;;;;;;;;
 take_capital_tiny_desc;Take the Tiny Capital region of a §Ycountry§W and force them to move their capital elsewhere;;;;;;;;;;;;;
@@ -307,8 +301,8 @@ a_new_life_in_the_new_world_title;Land of Opportunity;;;;;;;;;;;;x;;;,,,,
 a_new_life_in_the_new_world_desc;Your somalians are causing mass rape!!! /n Well in the name of multiculturalism it's fine.;;;;;;;;;;;;x,,,,
 form_ameriga_title;Form Ameriga;;;;;;;;;;;;x,,,,
 form_ameriga_desc;We have control of all of Ameriga, we can form the Federation!;;;;;;;;;;;;x,,,
-integrate_afro_amerigans_title;Integrate Afro Amerigans;;;;;;;;;;;;x,,,,
-integrate_afro_amerigans_desc;We can now fully guarantee the rights of the Afro Amerigans;;;;;;;;;;;;x,,,,
+integrate_afro_amerigans_title;Integration of the Former Slaves;;;;;;;;;;;;x,,,,
+integrate_afro_amerigans_desc;We have abolished slavery, but the former slaves continue to be excluded from society. We would have everything to gain by making them full citizens, ensuring their prosperity and our national cohesion.;;;;;;;;;;;;x,,,,
 conquest_of_jungle_title;Conquest of the Amazon;;;;;;;;;;;;x,,,,
 conquest_of_jungle_desc;Now that we are the Federation, our claims extend into the Amazon!;;;;;;;;;;;;x,,,
 integrate_beornia_title;Integrate Beornia;;;;;;;;;;;;x,,,,
@@ -319,8 +313,8 @@ integrate_granada_title;Integrate Granada;;;;;;;;;;;;x,,,,
 integrate_granada_desc;We have freed the Granadans from their oppression, we can now accept them into our Federation.;;;;;;;;;;;;x,,,
 integrate_caribbeans_clm_title;Integrate Caribbeans;;;;;;;;;;;;x,,,,
 integrate_caribbeans_clm_desc;We have freed the Caribeans from their oppression, we can now accept them into our nation.;;;;;;;;;;;;x,,,
-integrate_afro_amerigan_clm_title;Integrate Former Slaves;;;;;;;;;;;;x,,,,
-integrate_afro_amerigan_clm_desc;We have freed the previous slave from their oppression, we can now accept them into our nation.;;;;;;;;;;;;x,,,
+integrate_afro_amerigan_clm_title;Integration of the Former Slaves;;;;;;;;;;;;x,,,,
+integrate_afro_amerigan_clm_desc;We have abolished slavery, but the former slaves continue to be excluded from society. We would have everything to gain by making them full citizens, ensuring their prosperity and our national cohesion.;;;;;;;;;;;;x,,,
 congress_clm_title;Congress of Mexico City;;;;;;;;;;;;x,,,,
 congress_clm_desc;The War for Liberation is now long behind us, We can now end the presidential dictatorship and reform our government. In doing so we can guarantee a consitution and rights for all citizens of Gran Colombia!;;;;;;;;;;;;x,,,
 universityMEX_title;University of Mexico City;;;;;;;;;;;;x;;;,,,,

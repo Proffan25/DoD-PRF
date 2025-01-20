@@ -4,7 +4,7 @@ religion = animist
 government = presidential_dictatorship
 plurality = 25.0
 nationalvalue = nv_productivity
-literacy = 0.01
+literacy = 0.51
 non_state_culture_literacy = 0.02
 civilized = yes
 prestige = 5
@@ -31,7 +31,7 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions
 school_reforms = no_schools
 
-ruling_party = BRZ_conservative
+ruling_party = generic_reactionary
 last_election = 1835.1.1
 upper_house = {
 	fascist = 0

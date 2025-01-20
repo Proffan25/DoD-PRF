@@ -5,73 +5,73 @@
     aristocrats = {
         culture = lotharian
         religion = animist
-        size = 1221
+        size = 2854
     }
 
     bureaucrats = {
         culture = lotharian
         religion = animist
-        size = 424
+        size = 1530
     }
 
     officers = {
         culture = lotharian
         religion = animist
-        size = 106
+        size = 260
     }
 
     clergymen = {
         culture = lotharian
         religion = animist
-        size = 531
+        size = 1516
     }
 
     artisans = {
         culture = lotharian
         religion = animist
-        size = 2082
+        size = 20661
     }
 
     soldiers = {
         culture = lotharian
         religion = animist
-        size = 1870
+        size = 6800
     }
 
     farmers = {
         culture = lotharian
         religion = animist
-        size = 42701
+        size = 109810
     }
 
     clergymen = {
         culture = lotharian
         religion = animist
-        size = 61
+        size = 153
     }
 
     artisans = {
         culture = lotharian
         religion = animist
-        size = 307
+        size = 1755
     }
 
     soldiers = {
         culture = lotharian
         religion = animist
-        size = 49
+        size = 197
     }
 
     farmers = {
         culture = lotharian
         religion = animist
-        size = 3881
+        size = 9550
     }
 
     slaves = {
         culture = lotharian
         religion = animist
-        size = 1848
+        size = 12941
     }
 }
 #Paysandu (36000/9000 POPS)

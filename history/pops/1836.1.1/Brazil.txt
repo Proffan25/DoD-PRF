@@ -1861,31 +1861,31 @@
     aristocrats = {
         culture = amazonian
         religion = animist
-        size = 831
+        size = 600
     }
 
     clergymen = {
         culture = amazonian
         religion = animist
-        size = 307
+        size = 200
     }
 
     artisans = {
         culture = amazonian
         religion = animist
-        size = 3388
+        size = 1000
     }
 
     soldiers = {
         culture = amazonian
         religion = animist
-        size = 996
+        size = 600
     }
 
     farmers = {
         culture = amazonian
         religion = animist
-        size = 217285
+        size = 144860
     }
 
     clergymen = {
@@ -1897,25 +1897,25 @@
     artisans = {
         culture = afro_brazilian
         religion = animist
-        size = 63423
+        size = 40000
     }
 
     soldiers = {
         culture = afro_brazilian
         religion = animist
-        size = 744
+        size = 500
     }
 
     farmers = {
         culture = afro_brazilian
         religion = animist
-        size = 6192
+        size = 4000
     }
 
     slaves = {
         culture = afro_brazilian
         religion = animist
-        size = 11092
+        size = 7000
     }
 }
 #Pernambuco Region (516000)
@@ -2769,31 +2769,31 @@
 #Uberaba (68000/17000 POPS)
 2445 = {
     aristocrats = {
-        culture = amazonian
+        culture = lotharian
         religion = animist
         size = 431
     }
 
     clergymen = {
-        culture = amazonian
+        culture = lotharian
         religion = animist
         size = 152
     }
 
     artisans = {
-        culture = amazonian
+        culture = lotharian
         religion = animist
         size = 337
     }
 
     soldiers = {
-        culture = amazonian
+        culture = lotharian
         religion = animist
         size = 369
     }
 
     farmers = {
-        culture = amazonian
+        culture = lotharian
         religion = animist
         size = 7610
     }
@@ -2895,75 +2895,63 @@
 #Rio de Janeiro (696000/174000 POPS)
 2447 = {
     aristocrats = {
-        culture = lotharian
+        culture = amazonian
         religion = animist
-        size = 3265
-    }
-
-    bureaucrats = {
-        culture = lotharian
-        religion = animist
-        size = 2212
-    }
-
-    officers = {
-        culture = lotharian
-        religion = animist
-        size = 307
+        size = 231
     }
 
     clergymen = {
-        culture = lotharian
+        culture = amazonian
         religion = animist
-        size = 1971
+        size = 107
     }
 
     artisans = {
-        culture = lotharian
+        culture = amazonian
         religion = animist
-        size = 37158
+        size = 1388
     }
 
     soldiers = {
-        culture = lotharian
+        culture = amazonian
         religion = animist
-        size = 9860
+        size = 396
     }
 
     farmers = {
-        culture = lotharian
+        culture = amazonian
         religion = animist
-        size = 134218
+        size = 72430
     }
 
     clergymen = {
         culture = afro_brazilian
         religion = animist
-        size = 183
+        size = 30
     }
 
     artisans = {
         culture = afro_brazilian
         religion = animist
-        size = 2896
+        size = 23423
     }
 
     soldiers = {
         culture = afro_brazilian
         religion = animist
-        size = 295
+        size = 244
     }
 
     farmers = {
         culture = afro_brazilian
         religion = animist
-        size = 11338
+        size = 2192
     }
 
     slaves = {
         culture = afro_brazilian
         religion = animist
-        size = 22185
+        size = 4092
     }
 }
 #Campos (160000/40000 POPS)
@@ -3997,87 +3985,73 @@
     aristocrats = {
         culture = lotharian
         religion = animist
-        size = 1262
+        size = 2895
     }
 
     bureaucrats = {
         culture = lotharian
         religion = animist
-        size = 984
+        size = 2090
     }
 
     officers = {
         culture = lotharian
         religion = animist
-        size = 152
+        size = 306
     }
 
     clergymen = {
         culture = lotharian
         religion = animist
-        size = 553
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        size = 1538
     }
 
     artisans = {
         culture = lotharian
         religion = animist
-        size = 2125
+        size = 20704
     }
 
     soldiers = {
         culture = lotharian
         religion = animist
-        size = 986
+        size = 1134
     }
 
     farmers = {
         culture = lotharian
         religion = animist
-        size = 47420
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        size = 114529
     }
 
     clergymen = {
         culture = afro_brazilian
         religion = animist
-        size = 61
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        size = 153
     }
 
     artisans = {
         culture = afro_brazilian
         religion = animist
-        size = 800
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        size = 2248
     }
 
     soldiers = {
         culture = afro_brazilian
         religion = animist
-        size = 122
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        size = 270
     }
 
     farmers = {
         culture = afro_brazilian
         religion = animist
-        size = 5145
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        size = 10814
     }
 
     slaves = {
         culture = afro_brazilian
         religion = animist
-        size = 9860
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        size = 20953
     }
 }
 #Sao Pedro (44000/11000 POPS)

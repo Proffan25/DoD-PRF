@@ -10,32 +10,38 @@ political_decisions = {
 			NOT = {has_country_flag = ameriga_empire}
 		}
 		allow = {
-				AMA = {
-						all_core = {
+			AMA = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
 							OR = {
-								owned_by = THIS
-								owner = {
-									vassal_of = THIS
-								}
+								in_sphere = THIS
+								vassal_of = THIS
 							}
-						} 
+						}
 					}
-					LOT = {
-						all_core = {
-							OR = {
-								owned_by = THIS
-								owner = {
-									vassal_of = THIS
-								}
+				}
+			}
+			LOT = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+						  OR = {
+							in_sphere = THIS
+							vassal_of = THIS
 							}
-						} 
+						}
 					}
+				}
+			}
 		}
 		effect = {
 			set_country_flag = ameriga_empire
 			change_tag = AZL
-			AMA = { all_core = { add_core = AZL } }
-			LOT = { all_core = { add_core = AZL } }
+			AMA = { all_core = { add_core = AZL remove_core = AMA } }
+			LOT = { all_core = { add_core = AZL remove_core = LOT } }
 			any_country = {
 				limit = {
 					primary_culture = amazonian
@@ -66,31 +72,35 @@ political_decisions = {
 	}
 	
 	integrate_afro_amerigans = {
+        picture = acceptation_afro
 		potential = {
-			tag = AZL
-			NOT = {has_country_flag = integrate_afro_amerigans}
+			or = {
+				tag = AZL
+				tag = LOT
+				tag = AMA
+			}
+			NOT = { has_country_flag = integrate_afro_amerigans	}
 		}
 		allow = {
 			nationalism_n_imperialism = 1
 			slavery = no_slavery
-			NOT = { war = yes }
 		}
 		effect = {
 			set_country_flag = integrate_afro_amerigans
 			add_accepted_culture = afro_brazilian
 		}
 	}
+	
 	conquest_of_jungle = {
 		potential = {
 			tag = AZL
-			NOT = {has_country_flag = conquest_of_jungle}
+			NOT = { has_country_flag = conquest_of_jungle }
 		}
 		allow = {
 			medicine = 1
-			idealism = 1
-			2418 = {empty = yes}
-			2413 = {empty = yes}
-			2415 = {empty = yes}
+			2418 = { empty = yes }
+			2413 = { empty = yes }
+			2415 = { empty = yes }
 		}
 		effect = {
 			set_country_flag = conquest_of_jungle
@@ -114,46 +124,43 @@ political_decisions = {
 			2401 = {secede_province = AZL}
 		}
 	}
+	
 	integrate_beornia = {
 		potential = {
 			tag = AZL
-			NOT = {has_country_flag = integrate_beornia}
+			NOT = { has_country_flag = integrate_beornia }
 		}
 		allow = {
 			state_n_government = 1
-					NAN = {
-						all_core = {
-							OR = {
-								owned_by = THIS
-								owner = {
-								  OR = {
-									in_sphere = THIS
-									vassal_of = THIS
-									}
-								}
-							}
-						} 
-					}
+			ARG_2355 = {
+				owned_by = THIS
+			}
+			ARG_2377 = {
+				owned_by = THIS
+			}
+			ARG_2384 = {
+				owned_by = THIS
+			}
 		}
 		effect = {
 			set_country_flag = integrate_beornia
 			any_country = {
 				limit = {
-					primary_culture = beornian
-					 OR = {
+					tag = NAN
+					OR = {
 					   in_sphere = THIS
 					   vassal_of = THIS
-					}
-					NOT = {
-						tag = THIS
 					}
 				}
 				annex_to = THIS
 			}
 			add_accepted_culture = beornian
-			NAN = {all_core = {add_core = AZL}}
+			ARG_2355 = { add_core = AZL }
+			ARG_2377 = { add_core = AZL }
+			ARG_2384 = { add_core = AZL }
 		}
 	}
+	
 	integrate_granada = {
 		potential = {
 			tag = AZL 
