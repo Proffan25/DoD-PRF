@@ -32,7 +32,7 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions 
 school_reforms = no_schools
 
-ruling_party = BRZ_conservative
+ruling_party = generic_conservative
 last_election = 1835.1.1
 upper_house = {
 	fascist = 0
