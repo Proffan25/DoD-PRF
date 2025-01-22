@@ -98,14 +98,16 @@ political_decisions = {
 		}
 		allow = {
 			medicine = 1
-			2418 = { empty = yes }
-			2413 = { empty = yes }
-			2415 = { empty = yes }
+			2422 = { empty = yes }
 		}
 		effect = {
 			set_country_flag = conquest_of_jungle
+			2321 = {secede_province = AZL}
+			2320 = {secede_province = AZL}
 			2418 = {secede_province = AZL}
 			2417 = {secede_province = AZL}
+			2422 = {secede_province = AZL}
+			2423 = {secede_province = AZL}
 			2550 = {secede_province = AZL}
 			2549 = {secede_province = AZL}
 			2407 = {secede_province = AZL}
@@ -114,14 +116,6 @@ political_decisions = {
 			2600 = {secede_province = AZL}
 			2413 = {secede_province = AZL}
 			2411 = {secede_province = AZL}
-			2412 = {secede_province = AZL}
-			2415 = {secede_province = AZL}
-			2414 = {secede_province = AZL}
-			2408 = {secede_province = AZL}
-			2402 = {secede_province = AZL}
-			2403 = {secede_province = AZL}
-			2532 = {secede_province = AZL}
-			2401 = {secede_province = AZL}
 		}
 	}
 	
