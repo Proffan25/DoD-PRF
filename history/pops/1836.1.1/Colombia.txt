@@ -69,7 +69,7 @@
     }
 
     slaves = {
-        culture = granadan
+        culture = afro_caribbean
         religion = animist
         size = 1741
     }
@@ -155,7 +155,7 @@
     }
 
     slaves = {
-        culture = granadan
+        culture = afro_caribbean
         religion = animist
         size = 345
     }
@@ -399,7 +399,7 @@
     }
 
     slaves = {
-        culture = granadan
+        culture = afro_caribbean
         religion = animist
         size = 4183
     }
@@ -485,7 +485,7 @@
     }
 
     slaves = {
-        culture = granadan
+        culture = afro_caribbean
         religion = animist
         size = 6977
     }
@@ -547,7 +547,7 @@
     }
 
     slaves = {
-        culture = granadan
+        culture = afro_caribbean
         religion = animist
         size = 5581
     }
@@ -633,7 +633,7 @@
     }
 
     slaves = {
-        culture = granadan
+        culture = afro_caribbean
         religion = animist
         size = 4183
     }
@@ -733,7 +733,7 @@
     }
 
     slaves = {
-        culture = granadan
+        culture = afro_caribbean
         religion = animist
         size = 1043
     }
@@ -875,7 +875,7 @@
     }
 
     slaves = {
-        culture = granadan
+        culture = afro_caribbean
         religion = animist
         size = 6977
     }
@@ -1131,7 +1131,7 @@
     }
 
     slaves = {
-        culture = granadan
+        culture = afro_caribbean
         religion = animist
         size = 1741
     }

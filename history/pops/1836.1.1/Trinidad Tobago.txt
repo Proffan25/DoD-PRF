@@ -3,45 +3,39 @@
 #Trinidad (44000/11000 POPS)
 2237 = {
     aristocrats = {
-        culture = burgundian
+        culture = granadan
         religion = animist
-        size = 25
+        size = 30
     }
 
     bureaucrats = {
-        culture = burgundian
+        culture = granadan
         religion = animist
         size = 15
     }
 
     clergymen = {
-        culture = burgundian
+        culture = granadan
         religion = animist
-        size = 25
+        size = 100
     }
 
     artisans = {
-        culture = burgundian
+        culture = granadan
         religion = animist
         size = 500
     }
 
     soldiers = {
-        culture = burgundian
+        culture = granadan
         religion = animist
-        size = 25
+        size = 125
     }
 
     farmers = {
-        culture = burgundian
-        religion = animist
-        size = 410
-    }
-
-    clergymen = {
         culture = afro_caribbean
         religion = animist
-        size = 75
+        size = 410
     }
 
     artisans = {
@@ -50,13 +44,7 @@
         size = 750
     }
 
-    soldiers = {
-        culture = afro_caribbean
-        religion = animist
-        size = 100
-    }
-
-    farmers = {
+    slaves = {
         culture = afro_caribbean
         religion = animist
         size = 9075

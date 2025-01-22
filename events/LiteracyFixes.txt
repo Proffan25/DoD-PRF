@@ -1,14 +1,14 @@
-#Starting 1836 Literacy Fix for Italian POPs in Austria
+#Starting 1836 Literacy Fix for minority POPs in Colombia
 country_event = {
 	id = 123412346
 	title = "Education Fix"
-	desc = "for Italians and Hungarians"
+	desc = "for minorities in Colombia"
 	picture = "Administration"
 	
 	
 	trigger = {
 		year = 1836
-		tag = AUS
+		tag = CLM
 	} 
 
 	fire_only_once = yes
@@ -21,29 +21,14 @@ country_event = {
 		name = "Learn 2 read dud"
 		any_pop = {
 			limit = {
-				has_pop_culture = north_italian
-			}
-			literacy = 0.30 #20 percent increase
-		}
-		641 = {
-			state_scope = { 
-				any_pop = {
-					limit = {
-						has_pop_culture = hungarian
-					}
-					literacy = 0.15 #15 percent increase
+				or = {				
+					has_pop_culture = central_american
+					has_pop_culture = granadan
+					has_pop_culture = lusitanian
+					has_pop_culture = quechua
 				}
 			}
-		}
-		623 = {
-			state_scope = { 
-				any_pop = {
-					limit = {
-						has_pop_culture = hungarian
-					}
-					literacy = 0.15 #15 percent increase
-				}
-			}
+			literacy = 0.12 #20 percent increase
 		}
 		any_owned = {
 			any_pop = {
