@@ -3,7 +3,7 @@
 #Belize (7200/1800 POPS)
 2190 = {
     artisans = {
-        culture = english
+        culture = central_american
         religion = animist
         size = 25
     }

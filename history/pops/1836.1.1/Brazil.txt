@@ -321,8 +321,8 @@
         culture = amazonian
         religion = animist
         size = 122
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 
     artisans = {
@@ -341,88 +341,88 @@
         culture = amazonian
         religion = animist
         size = 8842
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 
     clergymen = {
         culture = afro_brazilian
         religion = animist
         size = 61
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 
     artisans = {
         culture = afro_brazilian
         religion = animist
         size = 307
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 
     soldiers = {
         culture = afro_brazilian
         religion = animist
         size = 247
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 
     farmers = {
         culture = afro_brazilian
         religion = animist
         size = 1416
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 
     slaves = {
         culture = afro_brazilian
         religion = animist
         size = 3081
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 
     aristocrats = {
         culture = amazonian
         religion = animist
         size = 61
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 
     clergymen = {
         culture = amazonian
         religion = animist
         size = 91
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 
     artisans = {
         culture = amazonian
         religion = animist
         size = 183
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 
     soldiers = {
         culture = amazonian
         religion = animist
         size = 121
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 
     farmers = {
         culture = amazonian
         religion = animist
         size = 3327
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 }
 #Santarem (20000/5000 POPS)
@@ -437,8 +437,8 @@
         culture = native_american_minor
         religion = animist
         size = 49
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 
     artisans = {
@@ -457,80 +457,80 @@
         culture = native_american_minor
         religion = animist
         size = 1725
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 
     clergymen = {
         culture = afro_brazilian
         religion = animist
         size = 24
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 
     artisans = {
         culture = afro_brazilian
         religion = animist
         size = 49
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 
     soldiers = {
         culture = afro_brazilian
         religion = animist
         size = 9
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 
     farmers = {
         culture = afro_brazilian
         religion = animist
         size = 310
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 
     slaves = {
         culture = afro_brazilian
         religion = animist
         size = 591
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 
     clergymen = {
         culture = native_american_minor
         religion = animist
         size = 24
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 
     artisans = {
         culture = native_american_minor
         religion = animist
         size = 98
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 
     soldiers = {
         culture = native_american_minor
         religion = animist
         size = 24
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 
     farmers = {
         culture = native_american_minor
         religion = animist
         size = 1824
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 }
 #Under loose authority of Brazil 1836
@@ -596,8 +596,8 @@
         culture = native_american_minor
         religion = animist
         size = 24
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 
     artisans = {
@@ -616,48 +616,48 @@
         culture = native_american_minor
         religion = animist
         size = 887
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 
     aristocrats = {
         culture = native_american_minor
         religion = animist
         size = 24
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 
     clergymen = {
         culture = native_american_minor
         religion = animist
         size = 49
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 
     artisans = {
         culture = native_american_minor
         religion = animist
         size = 98
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 
     soldiers = {
         culture = native_american_minor
         religion = animist
         size = 24
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 
     farmers = {
         culture = native_american_minor
         religion = animist
         size = 1774
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 }
 #Amapa (8000/2000 POPS)
@@ -711,7 +711,7 @@
     }
 
     slaves = {
-        culture = native_american_minor
+        culture = afro_caribeno
         religion = animist
         size = 680
     }
@@ -802,8 +802,8 @@
         culture = native_american_minor
         religion = animist
         size = 24
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 
     artisans = {
@@ -822,48 +822,48 @@
         culture = native_american_minor
         religion = animist
         size = 887
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 
     aristocrats = {
         culture = native_american_minor
         religion = animist
         size = 24
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 
     clergymen = {
         culture = native_american_minor
         religion = animist
         size = 49
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 
     artisans = {
         culture = native_american_minor
         religion = animist
         size = 98
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 
     soldiers = {
         culture = native_american_minor
         religion = animist
         size = 24
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 
     farmers = {
         culture = native_american_minor
         religion = animist
         size = 1774
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 }
 #Mato Grosso Region (108000)
@@ -1408,8 +1408,8 @@
         culture = amazonian
         religion = animist
         size = 400
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 
     artisans = {
@@ -1428,48 +1428,48 @@
         culture = amazonian
         religion = animist
         size = 27576
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 
     clergymen = {
         culture = afro_brazilian
         religion = animist
         size = 91
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 
     artisans = {
         culture = afro_brazilian
         religion = animist
         size = 923
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 
     soldiers = {
         culture = afro_brazilian
         religion = animist
         size = 744
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 
     farmers = {
         culture = afro_brazilian
         religion = animist
         size = 6192
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 
     slaves = {
         culture = afro_brazilian
         religion = animist
         size = 11092
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 }
 #Chapada (48000/12000 POPS)
@@ -1502,40 +1502,40 @@
         culture = amazonian
         religion = animist
         size = 10012
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 
     clergymen = {
         culture = amazonian
         religion = animist
         size = 52
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 
     artisans = {
         culture = amazonian
         religion = animist
         size = 318
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 
     soldiers = {
         culture = amazonian
         religion = animist
         size = 212
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 
     farmers = {
         culture = amazonian
         religion = animist
         size = 5843
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 }
 #Teresina (160000/40000 POPS)
@@ -4066,8 +4066,8 @@
         culture = lotharian
         religion = animist
         size = 91
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 
     artisans = {
@@ -4086,48 +4086,48 @@
         culture = lotharian
         religion = animist
         size = 7795
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 
     clergymen = {
         culture = afro_brazilian
         religion = animist
         size = 61
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 
     artisans = {
         culture = afro_brazilian
         religion = animist
         size = 246
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 
     soldiers = {
         culture = afro_brazilian
         religion = animist
         size = 49
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 
     farmers = {
         culture = afro_brazilian
         religion = animist
         size = 1478
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 
     slaves = {
         culture = afro_brazilian
         religion = animist
         size = 3081
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 }
 #Passo Fundo (112000/28000 POPS)
@@ -4142,8 +4142,8 @@
         culture = lotharian
         religion = animist
         size = 307
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 
     artisans = {
@@ -4162,80 +4162,80 @@
         culture = lotharian
         religion = animist
         size = 20057
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 
     clergymen = {
         culture = afro_brazilian
         religion = animist
         size = 61
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 
     artisans = {
         culture = afro_brazilian
         religion = animist
         size = 307
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 
     soldiers = {
         culture = afro_brazilian
         religion = animist
         size = 49
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 
     farmers = {
         culture = afro_brazilian
         religion = animist
         size = 2095
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 
     slaves = {
         culture = afro_brazilian
         religion = animist
         size = 3697
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 
     clergymen = {
         culture = lotharian
         religion = animist
         size = 106
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 
     artisans = {
         culture = lotharian
         religion = animist
         size = 531
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 
     soldiers = {
         culture = lotharian
         religion = animist
         size = 85
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 
     farmers = {
         culture = lotharian
         religion = animist
         size = 9881
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 }
 #Santa Maria (88000/22000 POPS)
@@ -4250,8 +4250,8 @@
         culture = lotharian
         religion = animist
         size = 246
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 
     artisans = {
@@ -4270,48 +4270,48 @@
         culture = lotharian
         religion = animist
         size = 17901
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 
     clergymen = {
         culture = afro_brazilian
         religion = animist
         size = 61
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 
     artisans = {
         culture = afro_brazilian
         religion = animist
         size = 368
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 
     soldiers = {
         culture = afro_brazilian
         religion = animist
         size = 73
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 
     farmers = {
         culture = afro_brazilian
         religion = animist
         size = 2556
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 
     slaves = {
         culture = afro_brazilian
         religion = animist
         size = 4313
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 }
 #Alegrete (64000/16000 POPS)
@@ -4320,8 +4320,8 @@
         culture = lotharian
         religion = animist
         size = 91
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 
     artisans = {
@@ -4340,48 +4340,48 @@
         culture = lotharian
         religion = animist
         size = 4528
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 
     aristocrats = {
         culture = lotharian
         religion = animist
         size = 158
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 
     clergymen = {
         culture = lotharian
         religion = animist
         size = 106
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 
     artisans = {
         culture = lotharian
         religion = animist
         size = 531
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 
     soldiers = {
         culture = lotharian
         religion = animist
         size = 85
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 
     farmers = {
         culture = lotharian
         religion = animist
         size = 9721
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
+        #militancy = 8
+        #rebel_type = anarcho_liberal_rebels
     }
 }
 #Beni Region (32000) #see Bolivia.txt for balance of region

@@ -1,97 +1,124 @@
-political_decisions = {	
-	integrate_afro_amerigan_clm = {
+political_decisions = {
+	congress_clm = {
+        picture = conference1
+		potential = { 
+			tag = CLM
+            NOT = { accepted_culture = lusitanian }
+            NOT = { accepted_culture = central_american }
+            NOT = { accepted_culture = granadan }
+		}		
+		allow = {
+			ideological_thought = 1
+			war = no
+		}
+		effect = {
+			add_accepted_culture = central_american
+			add_accepted_culture = lusitanian
+			add_accepted_culture = granadan
+		}		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	proclaim_empire_clm = {
+        picture = emperor_colombia
 		potential = {
 			tag = CLM
-			NOT = {has_country_flag = integrate_afro_amerigan_clm}
+			NOT = { has_country_flag = chosen_destiny_clm }
+		}
+		allow = {
+			and = {
+				accepted_culture = lusitanian
+				accepted_culture = central_american
+				accepted_culture = granadan
+			}
+		}
+		effect = {
+			set_country_flag = chosen_destiny_clm
+			government = hms_government
+			political_reform = state_equal_weight
+			political_reform = universal_weighted_voting
+			political_reform = yes_meeting
+			political_reform = free_press
+			political_reform = non_socialist
+			political_reform = first_past_the_post
+			political_reform = non_secret_ballots
+		}
+	}
+	
+	proclaim_republic_clm = {
+        picture = colombia_freed
+		potential = {
+			tag = CLM
+			NOT = { has_country_flag = chosen_destiny_clm }
+		}
+		allow = {
+			and = {
+				accepted_culture = lusitanian
+				accepted_culture = central_american
+				accepted_culture = granadan
+			}
+		}
+		effect = {
+			set_country_flag = chosen_destiny_clm			
+			government = democracy
+			political_reform = state_equal_weight
+			political_reform = universal_weighted_voting
+			political_reform = yes_meeting
+			political_reform = free_press
+			political_reform = non_socialist
+			political_reform = first_past_the_post
+			political_reform = non_secret_ballots
+		}
+	}
+	
+	integrate_afro_amerigan_clm = {
+		picture = acceptation_afro
+		potential = {
+			tag = CLM
+            NOT = { accepted_culture = afro_caribeno }
 		}
 		allow = {
 			nationalism_n_imperialism = 1
 			slavery = no_slavery
-			NOT = { war = yes }
 		}
 		effect = {
-			set_country_flag = integrate_afro_amerigan_clm
-			add_accepted_culture = afro_american
+			add_accepted_culture = afro_caribeno
 			add_accepted_culture = afro_brazilian
 		}
 	}
+	
 	integrate_caribbeans_clm = {
+		picture = cuba
 		potential = {
-			tag = CLM 
-			NOT = {has_country_flag = integrate_caribbeans}
+			tag = CLM
+            NOT = { accepted_culture = caribeno }
 		}
 		allow = {
 			state_n_government = 1
-			OR = {
-				CUB = {all_core = {owned_by = THIS}}
-				HAI = {all_core = {owned_by = THIS}}
+			SPA_2209 = {
+				owned_by = THIS
 			}
 		}
 		effect = {
-			set_country_flag = integrate_caribbeans
-			add_accepted_culture = afro_caribeno
+			SPA_2209 = { add_core = CLM }
 			add_accepted_culture = caribeno
-			add_accepted_culture = afro_caribbean
 		}
 	}
-	congress_clm = { 
-		potential = { 
-			tag = CLM
-	        war= no
-			NOT = { has_country_flag = fired_congress }
-		}
-		
-		allow = { 
-           ideological_thought = 1
-		}
-		
-		effect = { 
-			set_country_flag = fired_congress
-			any_pop = {
-			limit = {
-				OR = { 
-					NOT = { culture = mexican }
-					NOT = { culture = lusitanian }
-					NOT = { culture = central_american }
-					}
-			}
-			militancy = 2
-      		consciousness = 4
-		}
-		add_accepted_culture = mexican
-		add_accepted_culture = central_american
-		add_accepted_culture = granadan
-		add_accepted_culture = lusitanian
-		government = democracy
-		political_reform = state_equal_weight
-		political_reform = universal_weighted_voting
-		political_reform = yes_meeting
-		political_reform = free_press
-		political_reform = non_socialist
-		political_reform = first_past_the_post
-		political_reform = non_secret_ballots
-		prestige = 25
-		}
-		
-		ai_will_do =  {
-		factor = 1
-		}
-	}
-	universityMEX = { 
-		picture = universidad_mexico 
-		
-		potential = { 
-		tag = CLM 
-		NOT = { has_country_flag = university_MEX }
-		}
-		
+	
+	universityMEX = {
+		picture = universidad_mexico
+		potential = {
+			tag = CLM 
+			NOT = { has_country_flag = university_MEX }
+		}		
 		allow = { 
 			biologism = 1 
-		}
-		
-		effect = { 
+		}		
+		effect = {
 			set_country_flag = university_MEX
-			add_country_modifier = { 
+			add_country_modifier = {
 				name = Mexican_Education
 				duration = 7300
 			}
