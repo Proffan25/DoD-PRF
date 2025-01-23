@@ -33,19 +33,19 @@
     }
 
     farmers = {
-        culture = afro_caribbean
+        culture = afro_caribeno
         religion = animist
         size = 410
     }
 
     artisans = {
-        culture = afro_caribbean
+        culture = afro_caribeno
         religion = animist
         size = 750
     }
 
     slaves = {
-        culture = afro_caribbean
+        culture = afro_caribeno
         religion = animist
         size = 9075
     }
