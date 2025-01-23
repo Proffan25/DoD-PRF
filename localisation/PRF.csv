@@ -58,6 +58,10 @@ integrate_granada_title;Integrate Granada;;;;;;;;;;;;x,,,,
 integrate_granada_desc;We have freed the Granadans from their oppression, we can now accept them into our Federation.;;;;;;;;;;;;x,,,
 integrate_caribbeans_azl_title;Integrate Caribbeans;;;;;;;;;;;;x,,,,
 integrate_caribbeans_azl_desc;We have freed the Caribeans from their oppression, we can now accept them into our nation.;;;;;;;;;;;;x,,,
+proclaim_empire_clm_title;Crown an Emperor;;;;;;;;;;;;x,,,,
+proclaim_empire_clm_desc;Now that we secured our independence it's time to decide how the country should be ran. There are those that defend the idea of a Republic where all citizens are equal with no blood prerogatives, however, there's a growing movement within congress that argues that a Monarchy would help legitimize our state in the minds of European nations.;;;;;;;;;;;;x,,,
+proclaim_republic_clm_title;Proclaim the Republic;;;;;;;;;;;;x,,,,
+proclaim_republic_clm_desc;Now that we secured our independence it's time to decide how the country should be ran. There are those that defend the idea of a Republic where all citizens are equal with no blood prerogatives, however, there's a growing movement within congress that argues that a Monarchy would help legitimize our state in the minds of European nations.;;;;;;;;;;;;x,,,
 #;;;;;;;;;;;;;;Modifiers;;;;
 continental_army;Continental Army;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;
 continental_army_desc;Irish please apply, we need more soldiers UwU.;;;;;;;;;;;;;x,,,,,,,,,,,,;;;;;;;;;;;

@@ -69,7 +69,7 @@
     }
 
     slaves = {
-        culture = lotharian
+        culture = afro_brazilian
         religion = animist
         size = 12941
     }

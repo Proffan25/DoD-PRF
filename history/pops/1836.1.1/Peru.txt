@@ -32,12 +32,6 @@
         size = 345
     }
 
-    soldiers = {
-        culture = quechua
-        religion = animist
-        size = 56
-    }
-
     farmers = {
         culture = quechua
         religion = animist
@@ -54,12 +48,6 @@
         culture = quechua
         religion = animist
         size = 230
-    }
-
-    soldiers = {
-        culture = quechua
-        religion = animist
-        size = 56
     }
 
     farmers = {
@@ -89,7 +77,7 @@
     soldiers = {
         culture = quechua
         religion = animist
-        size = 240
+        size = 359
     }
 
     farmers = {
@@ -128,12 +116,6 @@
         size = 7
     }
 
-    soldiers = {
-        culture = granadan
-        religion = animist
-        size = 1
-    }
-
     farmers = {
         culture = granadan
         religion = animist
@@ -150,12 +132,6 @@
         culture = granadan
         religion = animist
         size = 5
-    }
-
-    soldiers = {
-        culture = granadan
-        religion = animist
-        size = 1
     }
 
     farmers = {
@@ -180,12 +156,6 @@
         culture = granadan
         religion = animist
         size = 24
-    }
-
-    soldiers = {
-        culture = granadan
-        religion = animist
-        size = 5
     }
 
     farmers = {
@@ -218,7 +188,7 @@
     soldiers = {
         culture = quechua
         religion = animist
-        size = 56
+        size = 57
     }
 
     farmers = {
@@ -243,12 +213,6 @@
         culture = granadan
         religion = animist
         size = 7
-    }
-
-    soldiers = {
-        culture = granadan
-        religion = animist
-        size = 1
     }
 
     farmers = {
@@ -280,7 +244,7 @@
     soldiers = {
         culture = quechua
         religion = animist
-        size = 56
+        size = 57
     }
 
     farmers = {
@@ -305,12 +269,6 @@
         culture = granadan
         religion = animist
         size = 7
-    }
-
-    soldiers = {
-        culture = granadan
-        religion = animist
-        size = 1
     }
 
     farmers = {
@@ -342,7 +300,7 @@
     soldiers = {
         culture = quechua
         religion = animist
-        size = 139
+        size = 142
     }
 
     farmers = {
@@ -367,12 +325,6 @@
         culture = granadan
         religion = animist
         size = 17
-    }
-
-    soldiers = {
-        culture = granadan
-        religion = animist
-        size = 3
     }
 
     farmers = {
@@ -415,12 +367,6 @@
         size = 1390
     }
 
-    soldiers = {
-        culture = quechua
-        religion = animist
-        size = 300
-    }
-
     farmers = {
         culture = quechua
         religion = animist
@@ -442,7 +388,7 @@
     soldiers = {
         culture = quechua
         religion = animist
-        size = 610
+        size = 928
     }
 
     farmers = {
@@ -481,12 +427,6 @@
         size = 28
     }
 
-    soldiers = {
-        culture = granadan
-        religion = animist
-        size = 6
-    }
-
     farmers = {
         culture = granadan
         religion = animist
@@ -503,12 +443,6 @@
         culture = granadan
         religion = animist
         size = 61
-    }
-
-    soldiers = {
-        culture = granadan
-        religion = animist
-        size = 12
     }
 
     farmers = {
@@ -540,7 +474,7 @@
     soldiers = {
         culture = quechua
         religion = animist
-        size = 118
+        size = 422
     }
 
     farmers = {
@@ -561,12 +495,6 @@
         size = 1159
     }
 
-    soldiers = {
-        culture = quechua
-        religion = animist
-        size = 240
-    }
-
     farmers = {
         culture = quechua
         religion = animist
@@ -585,12 +513,6 @@
         size = 230
     }
 
-    soldiers = {
-        culture = quechua
-        religion = animist
-        size = 56
-    }
-
     farmers = {
         culture = quechua
         religion = animist
@@ -598,9 +520,9 @@
     }
 
     slaves = {
-        culture = quechua
+        culture = afro_caribeno
         religion = animist
-        size = 1738
+        size = 1773
     }
 
     aristocrats = {
@@ -621,12 +543,6 @@
         size = 7
     }
 
-    soldiers = {
-        culture = granadan
-        religion = animist
-        size = 2
-    }
-
     farmers = {
         culture = granadan
         religion = animist
@@ -643,12 +559,6 @@
         culture = granadan
         religion = animist
         size = 24
-    }
-
-    soldiers = {
-        culture = granadan
-        religion = animist
-        size = 5
     }
 
     farmers = {
@@ -669,22 +579,10 @@
         size = 5
     }
 
-    soldiers = {
-        culture = granadan
-        religion = animist
-        size = 1
-    }
-
     farmers = {
         culture = granadan
         religion = animist
         size = 52
-    }
-
-    slaves = {
-        culture = granadan
-        religion = animist
-        size = 35
     }
 }
 #Trujillo (68000/17000 POPS)
@@ -710,7 +608,7 @@
     soldiers = {
         culture = quechua
         religion = animist
-        size = 177
+        size = 483
     }
 
     farmers = {
@@ -731,12 +629,6 @@
         size = 1042
     }
 
-    soldiers = {
-        culture = quechua
-        religion = animist
-        size = 240
-    }
-
     farmers = {
         culture = quechua
         religion = animist
@@ -755,12 +647,6 @@
         size = 230
     }
 
-    soldiers = {
-        culture = quechua
-        religion = animist
-        size = 56
-    }
-
     farmers = {
         culture = quechua
         religion = animist
@@ -768,9 +654,9 @@
     }
 
     slaves = {
-        culture = quechua
+        culture = afro_caribeno
         religion = animist
-        size = 1738
+        size = 1773
     }
 
     aristocrats = {
@@ -791,12 +677,6 @@
         size = 14
     }
 
-    soldiers = {
-        culture = granadan
-        religion = animist
-        size = 4
-    }
-
     farmers = {
         culture = granadan
         religion = animist
@@ -813,12 +693,6 @@
         culture = granadan
         religion = animist
         size = 21
-    }
-
-    soldiers = {
-        culture = granadan
-        religion = animist
-        size = 5
     }
 
     farmers = {
@@ -839,22 +713,10 @@
         size = 5
     }
 
-    soldiers = {
-        culture = granadan
-        religion = animist
-        size = 1
-    }
-
     farmers = {
         culture = granadan
         religion = animist
         size = 52
-    }
-
-    slaves = {
-        culture = granadan
-        religion = animist
-        size = 35
     }
 }
 #Moyobamba (24000/6000 POPS)
@@ -880,7 +742,7 @@
     soldiers = {
         culture = quechua
         religion = animist
-        size = 56
+        size = 132
     }
 
     farmers = {
@@ -899,12 +761,6 @@
         culture = quechua
         religion = animist
         size = 115
-    }
-
-    soldiers = {
-        culture = quechua
-        religion = animist
-        size = 18
     }
 
     farmers = {
@@ -931,12 +787,6 @@
         size = 345
     }
 
-    soldiers = {
-        culture = quechua
-        religion = animist
-        size = 56
-    }
-
     farmers = {
         culture = quechua
         religion = animist
@@ -961,12 +811,6 @@
         size = 5
     }
 
-    soldiers = {
-        culture = granadan
-        religion = animist
-        size = 1
-    }
-
     farmers = {
         culture = granadan
         religion = animist
@@ -983,12 +827,6 @@
         culture = granadan
         religion = animist
         size = 2
-    }
-
-    soldiers = {
-        culture = granadan
-        religion = animist
-        size = 0
     }
 
     farmers = {
@@ -1013,12 +851,6 @@
         culture = granadan
         religion = animist
         size = 7
-    }
-
-    soldiers = {
-        culture = granadan
-        religion = animist
-        size = 1
     }
 
     farmers = {
@@ -1052,7 +884,7 @@
     soldiers = {
         culture = quechua
         religion = animist
-        size = 56
+        size = 238
     }
 
     farmers = {
@@ -1071,12 +903,6 @@
         culture = quechua
         religion = animist
         size = 811
-    }
-
-    soldiers = {
-        culture = quechua
-        religion = animist
-        size = 177
     }
 
     farmers = {
@@ -1103,12 +929,6 @@
         size = 5
     }
 
-    soldiers = {
-        culture = granadan
-        religion = animist
-        size = 1
-    }
-
     farmers = {
         culture = granadan
         religion = animist
@@ -1125,12 +945,6 @@
         culture = granadan
         religion = animist
         size = 17
-    }
-
-    soldiers = {
-        culture = granadan
-        religion = animist
-        size = 4
     }
 
     farmers = {
@@ -1159,12 +973,6 @@
         size = 230
     }
 
-    soldiers = {
-        culture = quechua
-        religion = animist
-        size = 56
-    }
-
     farmers = {
         culture = quechua
         religion = animist
@@ -1186,7 +994,7 @@
     soldiers = {
         culture = quechua
         religion = animist
-        size = 300
+        size = 363
     }
 
     farmers = {
@@ -1213,12 +1021,6 @@
         size = 5
     }
 
-    soldiers = {
-        culture = granadan
-        religion = animist
-        size = 1
-    }
-
     farmers = {
         culture = granadan
         religion = animist
@@ -1235,12 +1037,6 @@
         culture = granadan
         religion = animist
         size = 31
-    }
-
-    soldiers = {
-        culture = granadan
-        religion = animist
-        size = 6
     }
 
     farmers = {
@@ -1284,7 +1080,7 @@
     soldiers = {
         culture = quechua
         religion = animist
-        size = 118
+        size = 676
     }
 
     farmers = {
@@ -1303,12 +1099,6 @@
         culture = quechua
         religion = animist
         size = 2665
-    }
-
-    soldiers = {
-        culture = quechua
-        religion = animist
-        size = 545
     }
 
     farmers = {
@@ -1347,12 +1137,6 @@
         size = 9
     }
 
-    soldiers = {
-        culture = granadan
-        religion = animist
-        size = 2
-    }
-
     farmers = {
         culture = granadan
         religion = animist
@@ -1369,12 +1153,6 @@
         culture = granadan
         religion = animist
         size = 54
-    }
-
-    soldiers = {
-        culture = granadan
-        religion = animist
-        size = 11
     }
 
     farmers = {
@@ -1426,7 +1204,7 @@
     soldiers = {
         culture = quechua
         religion = animist
-        size = 28903
+        size = 30046
     }
 
     farmers = {
@@ -1447,12 +1225,6 @@
         size = 1853
     }
 
-    soldiers = {
-        culture = quechua
-        religion = animist
-        size = 424
-    }
-
     farmers = {
         culture = quechua
         religion = animist
@@ -1471,12 +1243,6 @@
         size = 4637
     }
 
-    soldiers = {
-        culture = quechua
-        religion = animist
-        size = 118
-    }
-
     farmers = {
         culture = quechua
         religion = animist
@@ -1484,9 +1250,9 @@
     }
 
     slaves = {
-        culture = quechua
+        culture = afro_caribeno
         religion = animist
-        size = 3478
+        size = 3549
     }
 
     aristocrats = {
@@ -1525,12 +1291,6 @@
         size = 104
     }
 
-    soldiers = {
-        culture = granadan
-        religion = animist
-        size = 590
-    }
-
     farmers = {
         culture = granadan
         religion = animist
@@ -1547,12 +1307,6 @@
         culture = granadan
         religion = animist
         size = 38
-    }
-
-    soldiers = {
-        culture = granadan
-        religion = animist
-        size = 9
     }
 
     farmers = {
@@ -1573,22 +1327,10 @@
         size = 95
     }
 
-    soldiers = {
-        culture = granadan
-        religion = animist
-        size = 2
-    }
-
     farmers = {
         culture = granadan
         religion = animist
         size = 66
-    }
-
-    slaves = {
-        culture = granadan
-        religion = animist
-        size = 71
     }
 }
 #Ica (60000/15000 POPS)
@@ -1614,7 +1356,7 @@
     soldiers = {
         culture = quechua
         religion = animist
-        size = 118
+        size = 422
     }
 
     farmers = {
@@ -1635,12 +1377,6 @@
         size = 1159
     }
 
-    soldiers = {
-        culture = quechua
-        religion = animist
-        size = 240
-    }
-
     farmers = {
         culture = quechua
         religion = animist
@@ -1659,12 +1395,6 @@
         size = 115
     }
 
-    soldiers = {
-        culture = quechua
-        religion = animist
-        size = 56
-    }
-
     farmers = {
         culture = quechua
         religion = animist
@@ -1672,9 +1402,9 @@
     }
 
     slaves = {
-        culture = quechua
+        culture = afro_caribeno
         religion = animist
-        size = 926
+        size = 945
     }
 
     aristocrats = {
@@ -1695,12 +1425,6 @@
         size = 9
     }
 
-    soldiers = {
-        culture = granadan
-        religion = animist
-        size = 2
-    }
-
     farmers = {
         culture = granadan
         religion = animist
@@ -1717,12 +1441,6 @@
         culture = granadan
         religion = animist
         size = 24
-    }
-
-    soldiers = {
-        culture = granadan
-        religion = animist
-        size = 5
     }
 
     farmers = {
@@ -1743,22 +1461,10 @@
         size = 2
     }
 
-    soldiers = {
-        culture = granadan
-        religion = animist
-        size = 1
-    }
-
     farmers = {
         culture = granadan
         religion = animist
         size = 24
-    }
-
-    slaves = {
-        culture = granadan
-        religion = animist
-        size = 19
     }
 }
 #Huaraz (100000/25000 POPS)
@@ -1784,7 +1490,7 @@
     soldiers = {
         culture = quechua
         religion = animist
-        size = 177
+        size = 671
     }
 
     farmers = {
@@ -1805,12 +1511,6 @@
         size = 1971
     }
 
-    soldiers = {
-        culture = quechua
-        religion = animist
-        size = 424
-    }
-
     farmers = {
         culture = quechua
         religion = animist
@@ -1829,12 +1529,6 @@
         size = 230
     }
 
-    soldiers = {
-        culture = quechua
-        religion = animist
-        size = 56
-    }
-
     farmers = {
         culture = quechua
         religion = animist
@@ -1842,9 +1536,9 @@
     }
 
     slaves = {
-        culture = quechua
+        culture = afro_caribeno
         religion = animist
-        size = 1738
+        size = 1773
     }
 
     aristocrats = {
@@ -1865,12 +1559,6 @@
         size = 14
     }
 
-    soldiers = {
-        culture = granadan
-        religion = animist
-        size = 4
-    }
-
     farmers = {
         culture = granadan
         religion = animist
@@ -1887,12 +1575,6 @@
         culture = granadan
         religion = animist
         size = 40
-    }
-
-    soldiers = {
-        culture = granadan
-        religion = animist
-        size = 9
     }
 
     farmers = {
@@ -1913,22 +1595,10 @@
         size = 5
     }
 
-    soldiers = {
-        culture = granadan
-        religion = animist
-        size = 1
-    }
-
     farmers = {
         culture = granadan
         religion = animist
         size = 52
-    }
-
-    slaves = {
-        culture = granadan
-        religion = animist
-        size = 35
     }
 }
 #Ucayali Region (32000)
@@ -1939,12 +1609,6 @@
         culture = quechua
         religion = animist
         size = 30
-    }
-
-    bureaucrats = {
-        culture = quechua
-        religion = animist
-        size = 0
     }
 
     clergymen = {
@@ -1962,7 +1626,7 @@
     soldiers = {
         culture = quechua
         religion = animist
-        size = 18
+        size = 138
     }
 
     farmers = {
@@ -1987,12 +1651,6 @@
         culture = quechua
         religion = animist
         size = 463
-    }
-
-    soldiers = {
-        culture = quechua
-        religion = animist
-        size = 118
     }
 
     farmers = {
@@ -2025,12 +1683,6 @@
         size = 2
     }
 
-    soldiers = {
-        culture = granadan
-        religion = animist
-        size = 0
-    }
-
     farmers = {
         culture = granadan
         religion = animist
@@ -2053,12 +1705,6 @@
         culture = granadan
         religion = animist
         size = 9
-    }
-
-    soldiers = {
-        culture = granadan
-        religion = animist
-        size = 2
     }
 
     farmers = {
@@ -2090,7 +1736,7 @@
     soldiers = {
         culture = quechua
         religion = animist
-        size = 56
+        size = 57
     }
 
     farmers = {
@@ -2115,12 +1761,6 @@
         culture = granadan
         religion = animist
         size = 7
-    }
-
-    soldiers = {
-        culture = granadan
-        religion = animist
-        size = 1
     }
 
     farmers = {
@@ -2166,7 +1806,7 @@
     soldiers = {
         culture = quechua
         religion = animist
-        size = 2697
+        size = 3811
     }
 
     farmers = {
@@ -2185,12 +1825,6 @@
         culture = quechua
         religion = animist
         size = 4869
-    }
-
-    soldiers = {
-        culture = quechua
-        religion = animist
-        size = 1038
     }
 
     farmers = {
@@ -2229,12 +1863,6 @@
         size = 35
     }
 
-    soldiers = {
-        culture = granadan
-        religion = animist
-        size = 55
-    }
-
     farmers = {
         culture = granadan
         religion = animist
@@ -2251,12 +1879,6 @@
         culture = granadan
         religion = animist
         size = 99
-    }
-
-    soldiers = {
-        culture = granadan
-        religion = animist
-        size = 21
     }
 
     farmers = {
@@ -2288,7 +1910,7 @@
     soldiers = {
         culture = quechua
         religion = animist
-        size = 118
+        size = 742
     }
 
     farmers = {
@@ -2307,12 +1929,6 @@
         culture = quechua
         religion = animist
         size = 2665
-    }
-
-    soldiers = {
-        culture = quechua
-        religion = animist
-        size = 610
     }
 
     farmers = {
@@ -2339,12 +1955,6 @@
         size = 7
     }
 
-    soldiers = {
-        culture = granadan
-        religion = animist
-        size = 2
-    }
-
     farmers = {
         culture = granadan
         religion = animist
@@ -2361,12 +1971,6 @@
         culture = granadan
         religion = animist
         size = 54
-    }
-
-    soldiers = {
-        culture = granadan
-        religion = animist
-        size = 12
     }
 
     farmers = {
@@ -2398,7 +2002,7 @@
     soldiers = {
         culture = quechua
         religion = animist
-        size = 118
+        size = 488
     }
 
     farmers = {
@@ -2417,12 +2021,6 @@
         culture = quechua
         religion = animist
         size = 1623
-    }
-
-    soldiers = {
-        culture = quechua
-        religion = animist
-        size = 361
     }
 
     farmers = {
@@ -2449,12 +2047,6 @@
         size = 9
     }
 
-    soldiers = {
-        culture = granadan
-        religion = animist
-        size = 2
-    }
-
     farmers = {
         culture = granadan
         religion = animist
@@ -2471,12 +2063,6 @@
         culture = granadan
         religion = animist
         size = 33
-    }
-
-    soldiers = {
-        culture = granadan
-        religion = animist
-        size = 7
     }
 
     farmers = {
@@ -2522,7 +2108,7 @@
     soldiers = {
         culture = quechua
         religion = animist
-        size = 118
+        size = 615
     }
 
     farmers = {
@@ -2541,12 +2127,6 @@
         culture = quechua
         religion = animist
         size = 2549
-    }
-
-    soldiers = {
-        culture = quechua
-        religion = animist
-        size = 485
     }
 
     farmers = {
@@ -2585,12 +2165,6 @@
         size = 12
     }
 
-    soldiers = {
-        culture = granadan
-        religion = animist
-        size = 2
-    }
-
     farmers = {
         culture = granadan
         religion = animist
@@ -2607,12 +2181,6 @@
         culture = granadan
         religion = animist
         size = 52
-    }
-
-    soldiers = {
-        culture = granadan
-        religion = animist
-        size = 10
     }
 
     farmers = {

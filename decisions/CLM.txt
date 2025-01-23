@@ -12,8 +12,8 @@ political_decisions = {
 			war = no
 		}
 		effect = {
-			add_accepted_culture = central_american
 			add_accepted_culture = lusitanian
+			add_accepted_culture = central_american
 			add_accepted_culture = granadan
 		}		
 		ai_will_do = {

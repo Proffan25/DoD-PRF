@@ -57,7 +57,7 @@
     }
 
     slaves = {
-        culture = central_american
+        culture = afro_caribeno
         religion = animist
         size = 1062
     }
@@ -131,7 +131,7 @@
     }
 
     slaves = {
-        culture = central_american
+        culture = afro_caribeno
         religion = animist
         size = 2337
     }
@@ -193,7 +193,7 @@
     }
 
     slaves = {
-        culture = central_american
+        culture = afro_caribeno
         religion = animist
         size = 531
     }
@@ -255,7 +255,7 @@
     }
 
     slaves = {
-        culture = central_american
+        culture = afro_caribeno
         religion = animist
         size = 531
     }
