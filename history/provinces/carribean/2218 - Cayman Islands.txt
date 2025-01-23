@@ -1,5 +1,6 @@
-owner = BRG
-controller = BRG
+owner = SPA
+controller = SPA
+add_core = CUB
 trade_goods = fruit
 life_rating = 35
 colonial = 2

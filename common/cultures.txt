@@ -1958,7 +1958,7 @@ african_diaspora_cultures = {
 		Gutiérrez Hurtado Jiménez Jorrín Lam Leyva López Maceo Moré Morel
 		Peraza Pérez Piñeiro Pozo Repilado Rodríguez Santamaría Schomburg Valdés Villa }
 	}
-	afro_brazilian = {
+	afro_antillean = {
 		color = {52 52 52}
 		first_names = { Afonso Aleixo Alexandre Anderson André Artur Cândido Carlos Denílson Djalma
 		Félix Francisco Guilherme Itamar João Joaquim Jorge José Kléber Leandro
@@ -1968,7 +1968,7 @@ african_diaspora_cultures = {
 		"de Souza" "dos Reis" "dos Santos" Fidalgo Filho Gil Gomes "Machado de Assis" Nunes Oliveira
 		Otelo Paim Pandeiro Peçanha Pereira Pitanga Rodrigues Santos Silva Teixeira }
 	}
-	afro_antillean = { 
+	afro_brazilian = { 
 		color = {24 44 49}
 		first_names = { Alexis André Anténor Antoine Augustin Balthazar Beaubrun Céligny Charlemagne Charles
 		Cincinnatus Dantès Demesvar Denys Emmanuel Eugène Fabre Faustin Florvil François

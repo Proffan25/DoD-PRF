@@ -1,63 +1,57 @@
 #Leeward Islands Region - 61600
 #Ruled by Britain 1836
-#Antigua (25000/6250 POPS) #now independent
+#Antigua (25000/6250 POPS)
 2224 = {
     aristocrats = {
-        culture = burgundian
+        culture = catalan
         religion = animist
         size = 50
     }
 
     bureaucrats = {
-        culture = burgundian
+        culture = catalan
         religion = animist
         size = 30
     }
 
     clergymen = {
-        culture = burgundian
+        culture = catalan
         religion = animist
         size = 10
     }
 
     artisans = {
-        culture = burgundian
+        culture = catalan
         religion = animist
         size = 200
     }
 
-    soldiers = {
-        culture = burgundian
-        religion = animist
-        size = 10
-    }
-
     farmers = {
-        culture = burgundian
+        culture = catalan
         religion = animist
         size = 200
     }
 
     clergymen = {
-        culture = afro_caribbean
+        culture = afro_caribeno
         religion = animist
         size = 75
     }
 
     artisans = {
-        culture = afro_caribbean
+        culture = afro_caribeno
         religion = animist
         size = 150
     }
 
     soldiers = {
-        culture = afro_caribbean
+        culture = afro_caribeno
         religion = animist
-        size = 50
+        size = 60
     }
 
     farmers = {
-        culture = afro_caribbean
+        culture = afro_caribeno
         religion = animist
         size = 5470
     }
@@ -115,81 +109,81 @@
 #Tortola (4800/1200 POPS) #still British Colony
 2226 = {
     aristocrats = {
-        culture = scandinavian
+        culture = anglois
         religion = animist
         size = 10
     }
 
     clergymen = {
-        culture = scandinavian
+        culture = anglois
         religion = animist
         size = 27
     }
 
     artisans = {
-        culture = scandinavian
+        culture = anglois
         religion = animist
         size = 40
     }
 
     farmers = {
-        culture = scandinavian
+        culture = anglois
         religion = animist
         size = 40
     }
 
     clergymen = {
-        culture = afro_caribbean
+        culture = afro_brazilian
         religion = animist
         size = 40
     }
 
     artisans = {
-        culture = afro_caribbean
+        culture = afro_brazilian
         religion = animist
         size = 35
     }
 
     soldiers = {
-        culture = afro_caribbean
+        culture = afro_brazilian
         religion = animist
         size = 10
     }
 
     farmers = {
-        culture = afro_caribbean
+        culture = afro_brazilian
         religion = animist
-        size = 1040
+        size = 240
+    }
+
+    slaves = {
+        culture = afro_brazilian
+        religion = animist
+        size = 800
     }
 }
 #Saint Kitts (26500/6625 POPS) #now independent
 2227 = {
     aristocrats = {
-        culture = burgundian
+        culture = scandinavian
         religion = animist
         size = 75
     }
 
     clergymen = {
-        culture = burgundian
+        culture = scandinavian
         religion = animist
         size = 15
     }
 
     artisans = {
-        culture = burgundian
+        culture = scandinavian
         religion = animist
         size = 225
     }
 
-    soldiers = {
-        culture = burgundian
-        religion = animist
-        size = 50
-    }
-
     farmers = {
-        culture = burgundian
+        culture = scandinavian
         religion = animist
         size = 260
     }
@@ -209,12 +203,18 @@
     soldiers = {
         culture = afro_caribbean
         religion = animist
-        size = 75
+        size = 125
     }
 
     farmers = {
         culture = afro_caribbean
         religion = animist
-        size = 5900
+        size = 900
+    }
+
+    slaves = {
+        culture = afro_caribbean
+        religion = animist
+        size = 5000
     }
 }

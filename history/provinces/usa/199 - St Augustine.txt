@@ -1,16 +1,7 @@
-owner = PLA
-controller = PLA 
-add_core = PLA 
+owner = VEN
+controller = VEN
 trade_goods = cotton
 life_rating = 35
 is_slave = yes
 colony = 2
-1861.1.1 = {
-	colony = 0
-
-	controller = CSA
-	owner = CSA
-	add_core = CSA
-	railroad = 3 
-}
-
+naval_base = 1

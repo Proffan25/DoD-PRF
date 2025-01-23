@@ -1,7 +1,5 @@
-owner = DUA
-controller = DUA
-add_core = WIF
+owner = SPA
+controller = SPA
 trade_goods = cotton
 life_rating = 35
 colonial = 2
-

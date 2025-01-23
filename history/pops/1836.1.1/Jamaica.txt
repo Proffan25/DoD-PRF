@@ -26,12 +26,6 @@
         size = 2500
     }
 
-    soldiers = {
-        culture = burgundian
-        religion = animist
-        size = 50
-    }
-
     farmers = {
         culture = burgundian
         religion = animist
@@ -39,46 +33,58 @@
     }
 
     clergymen = {
-        culture = afro_caribbean
+        culture = afro_brazilian
         religion = animist
         size = 625
     }
 
     artisans = {
-        culture = afro_caribbean
+        culture = afro_brazilian
         religion = animist
         size = 2000
     }
 
     soldiers = {
-        culture = afro_caribbean
+        culture = afro_brazilian
         religion = animist
-        size = 1100
+        size = 1150
     }
 
     farmers = {
-        culture = afro_caribbean
+        culture = afro_brazilian
         religion = animist
-        size = 84375
+        size = 14375
+    }
+
+    slaves = {
+        culture = afro_brazilian
+        religion = animist
+        size = 70000
     }
 }
 #Cayman Islands : (1200/300 POPS) #still a British Colony
 2218 = {
     clergymen = {
-        culture = afro_caribbean
+        culture = afro_caribeno
         religion = animist
         size = 5
     }
 
     artisans = {
-        culture = afro_caribbean
+        culture = afro_caribeno
         religion = animist
         size = 15
     }
 
     farmers = {
-        culture = afro_caribbean
+        culture = afro_caribeno
         religion = animist
-        size = 280
+        size = 80
+    }
+
+    slaves = {
+        culture = afro_caribeno
+        religion = animist
+        size = 200
     }
 }

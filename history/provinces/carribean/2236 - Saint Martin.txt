@@ -1,7 +1,5 @@
-owner = BRG
-controller = BRG
-add_core = WIF
+owner = DUA
+controller = DUA
 trade_goods = tobacco
 life_rating = 35
 colonial = 2
-

@@ -3,61 +3,55 @@
 #The Bahamas (20000/5000 POPS)
 2219 = {
     clergymen = {
-        culture = afro_caribbean
+        culture = afro_caribeno
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = afro_caribbean
+        culture = afro_caribeno
         religion = animist
         size = 100
     }
 
     soldiers = {
-        culture = afro_caribbean
+        culture = afro_caribeno
         religion = animist
-        size = 50
+        size = 75
     }
 
     farmers = {
-        culture = afro_caribbean
+        culture = afro_caribeno
         religion = animist
         size = 4050
     }
 
     aristocrats = {
-        culture = burgundian
+        culture = north_italian
         religion = animist
         size = 15
     }
 
     bureaucrats = {
-        culture = burgundian
+        culture = north_italian
         religion = animist
         size = 5
     }
 
     clergymen = {
-        culture = burgundian
+        culture = north_italian
         religion = animist
         size = 15
     }
 
     artisans = {
-        culture = burgundian
+        culture = north_italian
         religion = animist
         size = 150
     }
 
-    soldiers = {
-        culture = burgundian
-        religion = animist
-        size = 25
-    }
-
     farmers = {
-        culture = burgundian
+        culture = north_italian
         religion = animist
         size = 540
     }
@@ -65,25 +59,25 @@
 #Turks & Caicos Islands (3000/750 POPS) #still a British colony
 2220 = {
     clergymen = {
-        culture = afro_caribbean
+        culture = north_italian
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = afro_caribbean
+        culture = afro_caribeno
         religion = animist
         size = 100
     }
 
     soldiers = {
-        culture = afro_caribbean
+        culture = afro_caribeno
         religion = animist
         size = 50
     }
 
     farmers = {
-        culture = afro_caribbean
+        culture = afro_caribeno
         religion = animist
         size = 550
     }

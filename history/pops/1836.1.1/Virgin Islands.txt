@@ -3,45 +3,44 @@
 #Saint Thomas (44000/11000 POPS)
 2223 = {
 	aristocrats = {
-		culture = afro_caribbean
+		culture = anglois
 		religion = animist
 		size = 200
 	}
 
 	bureaucrats = {
-		culture = afro_caribbean
+		culture = anglois
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = afro_caribbean
+		culture = anglois
 		religion = animist
 		size = 375
 	}
 
 	farmers = {
-		culture = danish
+		culture = anglois
 		religion = animist
 		size = 400
 	}
 
 	artisans = {
-		culture = afro_caribbean
+		culture = afro_brazilian
 		religion = animist
 		size = 150
 	}
 
 	farmers = {
-		culture = afro_caribbean
+		culture = afro_brazilian
 		religion = animist
 		size = 3350
 	}
 
 	slaves = {
-		culture = afro_caribbean
+		culture = afro_brazilian
 		religion = animist
 		size = 6500
 	}
-
 }

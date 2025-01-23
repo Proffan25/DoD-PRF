@@ -2,33 +2,27 @@
 #Barbados (100000/25000 POPS) #now independent
 2229 = {
     aristocrats = {
-        culture = afro_caribbean
+        culture = pomeranian
         religion = animist
         size = 50
     }
 
     bureaucrats = {
-        culture = afro_caribbean
+        culture = pomeranian
         religion = animist
         size = 100
     }
 
     clergymen = {
-        culture = afro_caribbean
+        culture = pomeranian
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = afro_caribbean
+        culture = pomeranian
         religion = animist
         size = 1750
-    }
-
-    soldiers = {
-        culture = afro_caribbean
-        religion = animist
-        size = 50
     }
 
     farmers = {
@@ -52,7 +46,7 @@
     soldiers = {
         culture = afro_caribbean
         religion = animist
-        size = 250
+        size = 300
     }
 
     farmers = {
@@ -64,123 +58,99 @@
 #Saint Lucia (18000/4500 POPS) #now independent
 2231 = {
     aristocrats = {
-        culture = english
+        culture = catalan
         religion = animist
         size = 10
     }
 
     clergymen = {
-        culture = english
+        culture = catalan
         religion = animist
         size = 10
     }
 
     artisans = {
-        culture = english
+        culture = catalan
         religion = animist
         size = 136
     }
 
     farmers = {
-        culture = english
+        culture = catalan
         religion = animist
         size = 104
     }
 
     clergymen = {
-        culture = afro_caribbean
+        culture = afro_caribeno
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = afro_caribbean
+        culture = afro_caribeno
         religion = animist
         size = 100
     }
 
     soldiers = {
-        culture = afro_caribbean
+        culture = afro_caribeno
         religion = animist
         size = 50
     }
 
     farmers = {
-        culture = afro_caribbean
+        culture = afro_caribeno
         religion = animist
         size = 4050
-    }
-
-    aristocrats = {
-        culture = anglois
-        religion = animist
-        size = 0
-    }
-
-    clergymen = {
-        culture = anglois
-        religion = animist
-        size = 0
-    }
-
-    artisans = {
-        culture = anglois
-        religion = animist
-        size = 4
-    }
-
-    farmers = {
-        culture = anglois
-        religion = animist
-        size = 3
     }
 }
 #Dominica (19000/4750 POPS) #now independent
 2232 = {
     aristocrats = {
-        culture = burgundian
+        culture = spanish
         religion = animist
         size = 10
     }
 
     clergymen = {
-        culture = burgundian
+        culture = spanish
         religion = animist
         size = 10
     }
 
     artisans = {
-        culture = burgundian
+        culture = spanish
         religion = animist
         size = 130
     }
 
     farmers = {
-        culture = burgundian
+        culture = spanish
         religion = animist
         size = 100
     }
 
     clergymen = {
-        culture = afro_caribbean
+        culture = afro_caribeno
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = afro_caribbean
+        culture = afro_caribeno
         religion = animist
         size = 150
     }
 
     soldiers = {
-        culture = afro_caribbean
+        culture = afro_caribeno
         religion = animist
         size = 50
     }
 
     farmers = {
-        culture = afro_caribbean
+        culture = afro_caribeno
         religion = animist
         size = 4250
     }
@@ -188,15 +158,33 @@
 #Grenada (30000/7500 POPS) #now independent
 2233 = {
     aristocrats = {
-        culture = afro_caribbean
+        culture = polish
         religion = animist
         size = 25
     }
 
     clergymen = {
-        culture = afro_caribbean
+        culture = polish
         religion = animist
         size = 20
+    }
+
+    artisans = {
+        culture = polish
+        religion = animist
+        size = 150
+    }
+
+    farmers = {
+        culture = polish
+        religion = animist
+        size = 200
+    }
+
+    clergymen = {
+        culture = afro_caribbean
+        religion = animist
+        size = 50
     }
 
     artisans = {
@@ -208,31 +196,7 @@
     soldiers = {
         culture = afro_caribbean
         religion = animist
-        size = 5
-    }
-
-    farmers = {
-        culture = afro_caribbean
-        religion = animist
-        size = 200
-    }
-
-    clergymen = {
-        culture = afro_caribbean
-        religion = animist
-        size = 50
-    }
-
-    artisans = {
-        culture = afro_caribbean
-        religion = animist
-        size = 150
-    }
-
-    soldiers = {
-        culture = afro_caribbean
-        religion = animist
-        size = 75
+        size = 80
     }
 
     farmers = {
@@ -244,74 +208,56 @@
 #Saint Vincent (21000/5250 POPS) #now independent
 2409 = {
     aristocrats = {
-        culture = english
+        culture = portuguese
         religion = animist
         size = 10
     }
 
     clergymen = {
-        culture = english
+        culture = portuguese
         religion = animist
         size = 10
     }
 
     artisans = {
-        culture = english
+        culture = portuguese
         religion = animist
         size = 136
     }
 
     farmers = {
-        culture = english
+        culture = portuguese
         religion = animist
         size = 104
     }
 
     clergymen = {
-        culture = afro_caribbean
+        culture = portuguese
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = afro_caribbean
+        culture = afro_caribeno
         religion = animist
         size = 200
     }
 
     soldiers = {
-        culture = afro_caribbean
+        culture = afro_caribeno
         religion = animist
         size = 50
     }
 
     farmers = {
-        culture = afro_caribbean
+        culture = afro_caribeno
         religion = animist
-        size = 4700
+        size = 700
     }
 
-    aristocrats = {
-        culture = anglois
+    slaves = {
+        culture = afro_caribeno
         religion = animist
-        size = 0
-    }
-
-    clergymen = {
-        culture = anglois
-        religion = animist
-        size = 0
-    }
-
-    artisans = {
-        culture = anglois
-        religion = animist
-        size = 4
-    }
-
-    farmers = {
-        culture = anglois
-        religion = animist
-        size = 3
+        size = 4000
     }
 }

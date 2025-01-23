@@ -3,112 +3,113 @@
 #Santo Domingo (68000/17000 POPS) #now part of Dominican Republic
 2214 = {
     aristocrats = {
-        culture = caribeno
+        culture = scandinavian
         religion = animist
         size = 300
     }
 
     clergymen = {
-        culture = caribeno
+        culture = scandinavian
         religion = animist
         size = 337
     }
 
     artisans = {
-        culture = caribeno
+        culture = scandinavian
         religion = animist
         size = 350
     }
 
     soldiers = {
-        culture = caribeno
+        culture = scandinavian
         religion = animist
-        size = 75
+        size = 175
     }
 
     farmers = {
-        culture = caribeno
+        culture = scandinavian
         religion = animist
         size = 6150
     }
 
     clergymen = {
-        culture = afro_caribeno
+        culture = afro_caribbean
         religion = animist
         size = 135
     }
 
     artisans = {
-        culture = afro_caribeno
+        culture = afro_caribbean
         religion = animist
         size = 500
     }
 
-    soldiers = {
-        culture = afro_caribeno
+    farmers = {
+        culture = afro_caribbean
         religion = animist
-        size = 100
+        size = 1350
     }
 
-    farmers = {
-        culture = afro_caribeno
+    slaves = {
+        culture = afro_caribbean
         religion = animist
-        size = 9350
+        size = 8000
     }
 }
+
 #La Vega (56000/15000 POPS) #now part of Dominican Republic
 2216 = {
     aristocrats = {
-        culture = caribeno
+        culture = scandinavian
         religion = animist
         size = 250
     }
 
     clergymen = {
-        culture = caribeno
+        culture = scandinavian
         religion = animist
         size = 270
     }
 
     artisans = {
-        culture = caribeno
+        culture = scandinavian
         religion = animist
         size = 400
     }
 
     soldiers = {
-        culture = caribeno
+        culture = scandinavian
         religion = animist
-        size = 75
+        size = 150
     }
 
     farmers = {
-        culture = caribeno
+        culture = scandinavian
         religion = animist
         size = 7175
     }
 
     clergymen = {
-        culture = afro_caribeno
+        culture = afro_caribbean
         religion = animist
         size = 135
     }
 
     artisans = {
-        culture = afro_caribeno
+        culture = afro_caribbean
         religion = animist
         size = 300
     }
 
-    soldiers = {
-        culture = afro_caribeno
+    farmers = {
+        culture = afro_caribbean
         religion = animist
-        size = 75
+        size = 1575
     }
 
-    farmers = {
-        culture = afro_caribeno
+    slaves = {
+        culture = afro_caribbean
         religion = animist
-        size = 5575
+        size = 4000
     }
 }

@@ -3,93 +3,62 @@
 #Puerto Rico (356000/89000 POPS)
 2222 = {
 	aristocrats = {
-		culture = spanish
+		culture = scandinavian
 		religion = animist
-		size = 250
+		size = 1350
 	}
 
 	bureaucrats = {
-		culture = spanish
+		culture = scandinavian
 		religion = animist
 		size = 75
 	}
 
 	clergymen = {
-		culture = spanish
+		culture = scandinavian
 		religion = animist
 		size = 300
 	}
 
 	artisans = {
-		culture = spanish
+		culture = scandinavian
 		religion = animist
 		size = 800
 	}
 
-	soldiers = {
-		culture = spanish
-		religion = animist
-		size = 50
-	}
-
-	aristocrats = {
-		culture = caribeno
-		religion = animist
-		size = 1100
-	}
-
-	bureaucrats = {
-		culture = caribeno
-		religion = animist
-		size = 25
-	}
-
 	clergymen = {
-		culture = caribeno
+		culture = afro_caribbean
 		religion = animist
 		size = 200
 	}
 
-	artisans = {
-		culture = caribeno
-		religion = animist
-		size = 3000
-	}
-
-	soldiers = {
-		culture = caribeno
-		religion = animist
-		size = 450
-	}
-
 	farmers = {
-		culture = caribeno
+		culture = afro_caribbean
 		religion = animist
 		size = 40850
 	}
 
 	artisans = {
-		culture = afro_caribeno
+		culture = afro_caribbean
 		religion = animist
-		size = 1100
+		size = 4125
 	}
 
 	soldiers = {
-		culture = afro_caribeno
+		culture = afro_caribbean
 		religion = animist
-		size = 400
+		size = 900
 	}
 
 	farmers = {
-		culture = afro_caribeno
+		culture = afro_caribbean
 		religion = animist
 		size = 30600
 	}
 
 	slaves = {
-		culture = afro_caribeno
+		culture = afro_caribbean
 		religion = animist
 		size = 10000
 	}
-
 }
