@@ -7653,89 +7653,89 @@
 #St Augustine (48000/12000 POPS)
 199 = {
     aristocrats = {
-        culture = plantagenian
+        culture = north_italian
         religion = animist
-        size = 187
+        size = 200
     }
 
     clergymen = {
-        culture = plantagenian
+        culture = north_italian
         religion = animist
-        size = 62
+        size = 250
     }
 
     artisans = {
-        culture = plantagenian
+        culture = north_italian
         religion = animist
-        size = 406
+        size = 2000
     }
 
     soldiers = {
-        culture = plantagenian
+        culture = north_italian
         religion = animist
-        size = 337
-    }
-
-    farmers = {
-        culture = plantagenian
-        religion = animist
-        size = 9187
+        size = 3200
     }
 
     clergymen = {
-        culture = afro_brazilian
+        culture = afro_caribeno
         religion = animist
-        size = 12
+        size = 200
     }
 
     artisans = {
-        culture = afro_brazilian
+        culture = afro_caribeno
         religion = animist
-        size = 100
+        size = 800
     }
 
     farmers = {
-        culture = afro_brazilian
+        culture = afro_caribeno
         religion = animist
-        size = 12
+        size = 29000
     }
 
     slaves = {
-        culture = afro_brazilian
+        culture = afro_caribeno
         religion = animist
-        size = 4875
+        size = 15000
     }
 }
 #Tampa (8000/2000 POPS)
 200 = {
     aristocrats = {
-        culture = native_american_minor
+        culture = north_italian
         religion = animist
-        size = 31
+        size = 50
     }
 
     clergymen = {
-        culture = native_american_minor
+        culture = north_italian
         religion = animist
-        size = 62
+        size = 200
     }
 
     artisans = {
-        culture = native_american_minor
+        culture = north_italian
         religion = animist
-        size = 125
+        size = 1500
     }
 
     soldiers = {
-        culture = native_american_minor
+        culture = north_italian
         religion = animist
-        size = 67
+        size = 600
     }
 
     farmers = {
         culture = native_american_minor
         religion = animist
-        size = 2250
+        size = 6250
+    }
+
+    slaves = {
+        culture = afro_caribeno
+        religion = animist
+        size = 8000
     }
 }
 #Georgia Region (628000)
