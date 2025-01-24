@@ -1,3 +1,25 @@
+leader = {
+	name = "Philippe-Joseph Deville"
+	type = land
+	date = 1836.1.1
+	personality = defence_1.1
+	background = attack_1.1
+}
+leader = {
+	name = "André Wangermée"
+	type = land
+	date = 1836.1.1
+	personality = defence_1.1
+	background = attack_1.1
+}
+leader = {
+	name = "Gustave Davignon"
+	type = land
+	date = 1836.1.1
+	personality = defence_1.1
+	background = attack_1.1
+}
+
 army = {
 	name = "First Amazonian Army"
 	location = 2431

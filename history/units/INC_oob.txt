@@ -1,29 +1,23 @@
 leader = {
 	name = "Sapa Inca"
-	picture = aus_gen_windischgraetz
-	date = 1829.1.1
+	date = 1836.1.1
 	type = land
 	personality = defence_1.1
 	background = attack_1.1
-	prestige = 0.3
 }
 leader = {
 	name = "Amaru Wankahauri"
-	picture = aus_gen_rukavina
-	date = 1829.1.1
+	date = 1836.1.1
 	type = land
 	personality = defence_1.1
 	background = attack_1.1
-	prestige = 0.2
 }
 leader = {
 	name = "Sosko Huaman"
-	picture = aus_gen_nugent
-	date = 1815.1.1
+	date = 1836.1.1
 	type = land
 	personality = defence_1.1
 	background = attack_1.1
-	prestige = 0.3
 }
 
 army = {

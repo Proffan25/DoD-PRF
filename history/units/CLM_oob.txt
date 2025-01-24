@@ -1,29 +1,44 @@
 leader = {
-	name = "Manuel Blanco"
-	picture = aus_gen_windischgraetz
-	date = 1826.1.1
+	name = "Juan Manuel Santos"
+	date = 1836.1.1
 	type = land
 	personality = defence_1.1
 	background = attack_1.1
-	prestige = 0.3
 }
 leader = {
-	name = "Jose Joaquú‹ Prieto"
-	picture = aus_gen_rukavina
-	date = 1829.1.1
+	name = "Angelino Garzón"
+	date = 1836.1.1
 	type = land
 	personality = defence_1.1
 	background = attack_1.1
-	prestige = 0.2
+}
+leader = {
+	name = "Francisco de Miranda"
+	date = 1836.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
 }
 leader = {
 	name = "Manuel Bulnes"
-	picture = aus_gen_nugent
-	date = 1815.1.1
+	date = 1836.1.1
 	type = land
 	personality = defence_1.1
 	background = attack_1.1
-	prestige = 0.3
+}
+leader = {
+	name = "José Manuel Portález"
+	date = 1836.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+}
+leader = {
+	name = "Marcos Aragonés"
+	date = 1836.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
 }
 
 army = {
