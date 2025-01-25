@@ -3584,112 +3584,22 @@
 #ruled by USA in 1836
 #Little Rock (56000/14000 POPS)
 143 = {
-    aristocrats = {
-        culture = plantagenian
-        religion = animist
-        size = 125
-    }
-
-    bureaucrats = {
-        culture = plantagenian
-        religion = animist
-        size = 312
-    }
-
-    officers = {
-        culture = plantagenian
-        religion = animist
-        size = 18
-    }
-
     clergymen = {
-        culture = plantagenian
-        religion = animist
-        size = 31
-    }
-
-    artisans = {
-        culture = plantagenian
-        religion = animist
-        size = 250
-    }
-
-    soldiers = {
-        culture = plantagenian
-        religion = animist
-        size = 202
-    }
-
-    farmers = {
-        culture = plantagenian
-        religion = animist
-        size = 6250
-    }
-
-    aristocrats = {
         culture = native_american_minor
         religion = animist
         size = 62
     }
 
-    bureaucrats = {
-        culture = native_american_minor
-        religion = animist
-        size = 156
-    }
-
-    officers = {
-        culture = native_american_minor
-        religion = animist
-        size = 12
-    }
-
-    clergymen = {
-        culture = native_american_minor
-        religion = animist
-        size = 18
-    }
-
     artisans = {
         culture = native_american_minor
         religion = animist
-        size = 250
-    }
-
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 202
+        size = 436
     }
 
     farmers = {
         culture = native_american_minor
         religion = animist
-        size = 6250
-    }
-
-    clergymen = {
-        culture = afro_brazilian
-        religion = animist
-        size = 62
-    }
-
-    artisans = {
-        culture = afro_brazilian
-        religion = animist
-        size = 168
-    }
-
-    farmers = {
-        culture = afro_brazilian
-        religion = animist
-        size = 18
-    }
-
-    slaves = {
-        culture = afro_brazilian
-        religion = animist
-        size = 4750
+        size = 6452
     }
 }
 #Hot Springs (16000/4000 POPS)
@@ -3721,30 +3631,6 @@
 #Fayetteville (16000/4000 POPS)
 145 = {
     clergymen = {
-        culture = plantagenian
-        religion = animist
-        size = 43
-    }
-
-    artisans = {
-        culture = plantagenian
-        religion = animist
-        size = 125
-    }
-
-    soldiers = {
-        culture = plantagenian
-        religion = animist
-        size = 67
-    }
-
-    farmers = {
-        culture = plantagenian
-        religion = animist
-        size = 2500
-    }
-
-    clergymen = {
         culture = native_american_minor
         religion = animist
         size = 43
@@ -3756,16 +3642,10 @@
         size = 125
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 67
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
-        size = 2500
+        size = 2567
     }
 }
 #Missouri Region (365000)
@@ -7655,19 +7535,19 @@
     aristocrats = {
         culture = north_italian
         religion = animist
-        size = 200
+        size = 250
     }
 
     clergymen = {
         culture = north_italian
         religion = animist
-        size = 250
+        size = 400
     }
 
     artisans = {
         culture = north_italian
         religion = animist
-        size = 2000
+        size = 5000
     }
 
     soldiers = {
@@ -7679,25 +7559,25 @@
     clergymen = {
         culture = afro_caribeno
         religion = animist
-        size = 200
+        size = 500
     }
 
     artisans = {
         culture = afro_caribeno
         religion = animist
-        size = 800
+        size = 4800
     }
 
     farmers = {
         culture = afro_caribeno
         religion = animist
-        size = 29000
+        size = 45000
     }
 
     slaves = {
         culture = afro_caribeno
         religion = animist
-        size = 15000
+        size = 25000
     }
 }
 #Tampa (8000/2000 POPS)
@@ -7705,19 +7585,19 @@
     aristocrats = {
         culture = north_italian
         religion = animist
-        size = 50
+        size = 100
     }
 
     clergymen = {
         culture = north_italian
         religion = animist
-        size = 200
+        size = 400
     }
 
     artisans = {
         culture = north_italian
         religion = animist
-        size = 1500
+        size = 2500
     }
 
     soldiers = {
@@ -7729,13 +7609,13 @@
     farmers = {
         culture = native_american_minor
         religion = animist
-        size = 6250
+        size = 7500
     }
 
     slaves = {
         culture = afro_caribeno
         religion = animist
-        size = 8000
+        size = 15000
     }
 }
 #Georgia Region (628000)
@@ -7861,25 +7741,25 @@
     clergymen = {
         culture = plantagenian
         religion = animist
-        size = 62
+        size = 105
     }
 
     artisans = {
         culture = plantagenian
         religion = animist
-        size = 343
+        size = 468
     }
 
     soldiers = {
         culture = plantagenian
         religion = animist
-        size = 337
+        size = 404
     }
 
     farmers = {
         culture = plantagenian
         religion = animist
-        size = 33000
+        size = 35500
     }
 
     clergymen = {
@@ -7894,72 +7774,72 @@
         size = 93
     }
 
-    farmers = {
-        culture = afro_brazilian
-        religion = animist
-        size = 12
-    }
-
     slaves = {
         culture = afro_brazilian
         religion = animist
-        size = 4875
+        size = 4887
     }
 }
 #Savannah (200000/50000 POPS)
-204 = {
+204 = {	
     aristocrats = {
         culture = plantagenian
         religion = animist
-        size = 875
+        size = 1000
+    }
+	
+    officers = {
+        culture = plantagenian
+        religion = animist
+        size = 18
     }
 
     clergymen = {
         culture = plantagenian
         religion = animist
-        size = 250
+        size = 281
     }
 
     artisans = {
         culture = plantagenian
         religion = animist
-        size = 1468
+        size = 2030
     }
 
     soldiers = {
         culture = plantagenian
         religion = animist
-        size = 1350
+        size = 1552
     }
 
     farmers = {
         culture = plantagenian
         religion = animist
-        size = 33031
+        size = 39281
     }
 
     clergymen = {
         culture = afro_brazilian
         religion = animist
-        size = 31
+        size = 93
     }
 
     artisans = {
         culture = afro_brazilian
         religion = animist
-        size = 593
+        size = 761
     }
 
     farmers = {
         culture = afro_brazilian
         religion = animist
-        size = 31
+        size = 49
     }
 
     slaves = {
         culture = afro_brazilian
         religion = animist
-        size = 25593
+        size = 30343
     }
 }
 #Augusta (140000/35000 POPS)

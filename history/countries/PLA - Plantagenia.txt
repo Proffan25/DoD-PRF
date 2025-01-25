@@ -3,8 +3,8 @@ primary_culture = plantagenian
 religion = animist
 government = hms_government
 plurality = 25.0
-nationalvalue = nv_equality
-literacy = 0.01
+nationalvalue = nv_order
+literacy = 0.45
 non_state_culture_literacy = 0.01
 civilized = yes
 
@@ -61,7 +61,7 @@ mechanized_mining = 1
 consciousness = 3
 nonstate_consciousness = 1
 
-ruling_party = FRA_liberal
+ruling_party = generic_conservative
 last_election = 1834.6.21
 upper_house = {
 	fascist = 0
@@ -71,11 +71,6 @@ upper_house = {
 	anarcho_liberal = 0
 	socialist = 0
 	communist = 0
-}
-
-govt_flag = {
-	government = hms_government
-	flag = presidential_dictatorship
 }
 
 schools = culture_tech_school
