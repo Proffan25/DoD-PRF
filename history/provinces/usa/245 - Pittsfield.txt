@@ -1,11 +1,7 @@
 owner = NBG
 controller = NBG
 add_core = NBG
-#add_core = NEN
+add_core = VIN
 trade_goods = iron
 life_rating = 35
 railroad = 1
-1861.1.1 = { railroad = 3 }
-
-
-
