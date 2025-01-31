@@ -47,7 +47,7 @@ cusco_capital_desc;Finally, we have taken back from the barbarian Westerners our
 ameriga_form_title;Form Ameriga;;;;;;;;;;;;x,,,,
 ameriga_form_desc;We have control of all of Ameriga, we can form the Federation!;;;;;;;;;;;;x,,,
 integrate_afro_amerigans_title;Integrate Afro Amerigans;;;;;;;;;;;;x,,,,
-integrate_afro_amerigans_desc;We can now fully guarantee the rights of the Afro Amerigans;;;;;;;;;;;;x,,,,
+integrate_afro_amerigans_desc;We can now fully guarantee the rights of the Afro Amerigans.;;;;;;;;;;;;x,,,,
 conquest_of_jungle_title;Conquest of the Amazon;;;;;;;;;;;;x,,,,
 conquest_of_jungle_desc;Now that we are the Federation, our claims extend into the Amazon!;;;;;;;;;;;;x,,,
 integrate_beornia_title;Integrate Beornia;;;;;;;;;;;;x,,,,
@@ -62,6 +62,18 @@ proclaim_empire_clm_title;Crown an Emperor;;;;;;;;;;;;x,,,,
 proclaim_empire_clm_desc;Now that we secured our independence it's time to decide how the country should be ran. There are those that defend the idea of a Republic where all citizens are equal with no blood prerogatives, however, there's a growing movement within congress that argues that a Monarchy would help legitimize our state in the minds of European nations.;;;;;;;;;;;;x,,,
 proclaim_republic_clm_title;Proclaim the Republic;;;;;;;;;;;;x,,,,
 proclaim_republic_clm_desc;Now that we secured our independence it's time to decide how the country should be ran. There are those that defend the idea of a Republic where all citizens are equal with no blood prerogatives, however, there's a growing movement within congress that argues that a Monarchy would help legitimize our state in the minds of European nations.;;;;;;;;;;;;x,,,
+destiny_of_the_north_title;Destiny of the North;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+destiny_of_the_north_desc;We should spread our greatness across all of northern Arcadia.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+destiny_of_the_east_title;Destiny of the East;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+destiny_of_the_east_desc;We should spread our greatness across all of eastern Arcadia.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+destiny_of_the_south_title;Destiny of the South;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+destiny_of_the_south_desc;We should spread our greatness across all of southern Arcadia.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+form_arcadia_title;Proclaim the Unification of Arcadia;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+form_arcadia_desc;With Arcadia doubtlessly dominated by our country, we can now establish a country with a more fitting name.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+form_arcadia_vin_title;Proclaim the Unification of Arcadia;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+form_arcadia_vin_desc;With Arcadia doubtlessly dominated by our country, we can now establish a country with a more fitting name.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+integrate_afro_arcadians_title;Integrate Afro Arcadians;;;;;;;;;;;;x,,,,
+integrate_afro_arcadians_desc;We can now fully guarantee the rights of the Afro Arcadians.;;;;;;;;;;;;x,,,,
 #;;;;;;;;;;;;;;Modifiers;;;;
 continental_army;Continental Army;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;
 continental_army_desc;Irish please apply, we need more soldiers UwU.;;;;;;;;;;;;;x,,,,,,,,,,,,;;;;;;;;;;;
@@ -69,6 +81,10 @@ rev_fervor;Revolutionary Fervor;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 rev_fervor_desc;Erm no taxes please;;;;;;;;;;;;;x,,,,,,,,,,,,;;;;;;;;;;;
 ukrainian_breadbasket;Inca Breadbasket;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;
 ukrainian_breadbasket_desc;"Secret Inca LGBT black magic showed us the secret to male pregnancy, thus boosting our birthrates.";;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;
+#;;;;;;;;;;;;;;Events;;;;
+EVTNAME200300;Inca Pop Growth Boost;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;
+EVTDESC200300;Secret Inca LGBT black magic showed us the secret to male pregnancy, thus boosting our birthrates.;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;
+EVTOPTA200300;Finally, true gender equality;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;
 #;;;;;;;;;;;;;;Country names;;;;
 JAP;Japan;;;;;;;;;;;;;
 JAP_absolute_monarchy;Empire of Japan;;;;;;;;;;;;;
@@ -268,7 +284,16 @@ PLA_presidential_dictatorship_ADJ;South Arcadia;;;;;;;;;;;;;
 NBG;Belgium;;;;;;;;;;;;;
 NBG_ADJ;Belgian;;;;;;;;;;;;;
 VIN;Vinland;;;;;;;;;;;;;
-VIN_ADJ;Vinlander;;;;;;;;;;;;;
+VIN_ADJ;Vinlandic;;;;;;;;;;;;;
+ARC;Arcadia;;;;;;;;;;;;;
+ARC_absolute_monarchy;Arcadian Empire;;;;;;;;;;;;;
+ARC_prussian_constitutionalism;Arcadian Empire;;;;;;;;;;;;;
+ARC_hms_government;Arcadian Empire;;;;;;;;;;;;;
+ARC_fascist_dictatorship;Arcadian State;;;;;;;;;;;;;
+ARC_proletarian_dictatorship;Arcadian SFR;;;;;;;;;;;;;
+ARC_democracy;Arcadian Federation;;;;;;;;;;;;;
+ARC_presidential_dictatorship;Arcadian Federation;;;;;;;;;;;;;
+ARC_ADJ;Arcadian;;;;;;;;;;;;;
 #;;;;;;;;;;;;;;Cultures;;;;
 beornian;Beornian;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 english;English;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -284,7 +309,7 @@ afro_caribeno;Afro-Latino;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 afro_caribbean;Afro-Germanic;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 plantagenian;Plantagenian;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 septiman;Septiman;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-vinlander;Vinlander;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+vinlander;Vinlandic;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 #;;;;;;;;;;;;;;RGOs;;;;
 opium;Copium;Copium;Copium;;Copium;;;;;;;;;x;;;;
 #;;;;;;;;;;;;;;States;;;;

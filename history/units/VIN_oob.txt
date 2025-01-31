@@ -1,3 +1,32 @@
+leader = {
+	name = "Anders Suenson"
+	date = 1836.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+}
+leader = {
+	name = "Olav Wedel-Heinen"
+	date = 1836.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+}
+leader = {
+	name = "Vilhelm Neergaard"
+	date = 1836.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+}
+leader = {
+	name = "Sven Ahlefeldt"
+	date = 1836.1.1
+	type = sea
+	personality = defence_1.1
+	background = attack_1.1
+}
+
 army = {
 	name = "First Vinlander Army"
 	location = 65

@@ -402,13 +402,14 @@ political_decisions = {
 	}
 	
 	a_new_life_in_the_new_world = {
+        picture = new_life
 		potential = {
 			OR = {
 				capital_scope = { continent = north_america }
 				capital_scope = { continent = south_america }
 				tag = BTV
 			}
-			NOT = {tag = INC}
+			NOT = { tag = INC }
 			NOT = { has_country_flag = come_to_the_new_world }
 			number_of_states = 2
 			num_of_ports = 1
