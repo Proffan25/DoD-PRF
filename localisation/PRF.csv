@@ -294,6 +294,10 @@ ARC_proletarian_dictatorship;Arcadian SFR;;;;;;;;;;;;;
 ARC_democracy;Arcadian Federation;;;;;;;;;;;;;
 ARC_presidential_dictatorship;Arcadian Federation;;;;;;;;;;;;;
 ARC_ADJ;Arcadian;;;;;;;;;;;;;
+GRA;Granada;;;;;;;;;;;;x
+GRA_ADJ;Granadan;;;;;;;;;;;;x
+UCA;Central America;;;;;;;;;;;;x
+UCA_ADJ;Central American;;;;;;;;;;;;x
 #;;;;;;;;;;;;;;Cultures;;;;
 beornian;Beornian;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 english;English;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
