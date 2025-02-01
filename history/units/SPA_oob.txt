@@ -119,7 +119,7 @@ leader = {
 #Army
 army = {
 	name = "Ejército Cristino del Centro"
-	location = 521
+	location = 133
 	regiment = {
 		name= "1. Granaderos del Rey"
 		type = hussar
@@ -183,7 +183,7 @@ army = {
 
 army = {
 	name = "Ejército del Norte"
-	location = 509
+	location = 2183
 	
 	regiment = {
 		name= "4. Brigada de Infantería 'San Jorge'"
@@ -202,6 +202,22 @@ army = {
 		type = infantry
 		home = 482
 	}
+
+	regiment = {
+		name= "11. Brigada de Infantería"
+		type = artillery
+		home = 516
+	}
+	
+	regiment = {
+		name= "12. Brigada de Infantería"
+		type = artillery
+		home = 515
+	}
+}
+army = {
+	name = "Ejército del Nort"
+	location = 2271
 	
 	regiment = {
 		name= "6. Brigada de Infantería 'La Granja'"
@@ -232,23 +248,11 @@ army = {
 		type = artillery
 		home = 510
 	}
-
-	regiment = {
-		name= "11. Brigada de Infantería"
-		type = artillery
-		home = 516
-	}
-	
-	regiment = {
-		name= "12. Brigada de Infantería"
-		type = artillery
-		home = 515
-	}
 }
 
 army = {
 	name = "Ejército de Cuba"
-	location = 2212
+	location = 2270
 	
 	regiment = {
 		name = "1. Brigada Colonial"
@@ -313,7 +317,7 @@ army = {
 
 navy = {
 	name = "Armada Real Española"
-	location = 512
+	location = 133
 	
 	ship = {
 		name = "Santiago"
