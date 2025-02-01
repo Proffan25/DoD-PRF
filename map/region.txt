@@ -84,7 +84,7 @@ ENG_9 = { 6 7 8 11 9 10 43 44 45 2596 2598 } #Northwest Territories
 
 #ENG_43 = { 43 44 45 } #Nunavut
 
-ENG_13 = { 13 14 15 2629 20 16 19 21 22 2595 24 23 2597 } #Columbia-Alberta
+ENG_13 = { 13 14 15 2629 20 16 19 21 22 24 23 2597 } #Columbia-Alberta
 
 #ENG_22 = { 22 26 29 12 2595 25 24 27 28 23 2597 } #Alberta
 
