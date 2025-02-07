@@ -425,31 +425,31 @@
     aristocrats = {
         culture = qingqiuan
         religion = animist
-        size = 250
+        size = 1266
     }
 
     clergymen = {
         culture = qingqiuan
         religion = animist
-        size = 375
+        size = 1899
     }
 
     artisans = {
         culture = qingqiuan
         religion = animist
-        size = 750
+        size = 3797
     }
 
     soldiers = {
         culture = qingqiuan
         religion = animist
-        size = 500
+        size = 633
     }
 
     farmers = {
         culture = qingqiuan
         religion = animist
-        size = 13500
+        size = 68446
     }
 }
 #Vancouver Island (8000/2000 POPS)
@@ -457,31 +457,31 @@
     aristocrats = {
         culture = qingqiuan
         religion = animist
-        size = 125
+        size = 633
     }
 
     clergymen = {
         culture = qingqiuan
         religion = animist
-        size = 250
+        size = 1266
     }
 
     artisans = {
         culture = qingqiuan
         religion = animist
-        size = 500
+        size = 2532
     }
 
     soldiers = {
         culture = qingqiuan
         religion = animist
-        size = 500
+        size = 633
     }
 
     farmers = {
         culture = qingqiuan
         religion = animist
-        size = 8750
+        size = 44303
     }
 }
 #Prince Rupert (8000/2000 POPS)
@@ -489,31 +489,31 @@
     aristocrats = {
         culture = qingqiuan
         religion = animist
-        size = 125
+        size = 633
     }
 
     clergymen = {
         culture = qingqiuan
         religion = animist
-        size = 250
+        size = 1266
     }
 
     artisans = {
         culture = qingqiuan
         religion = animist
-        size = 500
+        size = 2532
     }
 
     soldiers = {
         culture = qingqiuan
         religion = animist
-        size = 500
+        size = 633
     }
 
     farmers = {
         culture = qingqiuan
         religion = animist
-        size = 8750
+        size = 44303
     }
 }
 #Glenora (4000/1000 POPS)
@@ -521,31 +521,31 @@
     aristocrats = {
         culture = qingqiuan
         religion = animist
-        size = 50
+        size = 253
     }
 
     clergymen = {
         culture = qingqiuan
         religion = animist
-        size = 125
+        size = 633
     }
 
     artisans = {
         culture = qingqiuan
         religion = animist
-        size = 250
+        size = 1266
     }
 
     soldiers = {
         culture = qingqiuan
         religion = animist
-        size = 300
+        size = 380
     }
 
     farmers = {
         culture = qingqiuan
         religion = animist
-        size = 4500
+        size = 22741
     }
 }
 #Atlin (4000/1000 POPS)

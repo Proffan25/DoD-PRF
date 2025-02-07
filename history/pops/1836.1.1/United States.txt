@@ -344,188 +344,189 @@
     aristocrats = {
         culture = qingqiuan
         religion = animist
-        size = 500
+        size = 985
     }
 
     clergymen = {
         culture = qingqiuan
         religion = animist
-        size = 750
+        size = 1477
     }
 
     artisans = {
         culture = qingqiuan
         religion = animist
-        size = 1500
+        size = 2953
     }
 
     soldiers = {
         culture = qingqiuan
         religion = animist
-        size = 1000
+        size = 1969
     }
 
     farmers = {
         culture = qingqiuan
         religion = animist
-        size = 27000
+        size = 53166
     }
 }
 79 = {
     aristocrats = {
         culture = qingqiuan
         religion = animist
-        size = 100
+        size = 197
     }
 
     clergymen = {
         culture = qingqiuan
         religion = animist
-        size = 250
+        size = 492
     }
 
     artisans = {
         culture = qingqiuan
         religion = animist
-        size = 500
+        size = 985
     }
 
     soldiers = {
         culture = qingqiuan
         religion = animist
-        size = 600
+        size = 1181
     }
 
     farmers = {
         culture = qingqiuan
         religion = animist
-        size = 9000
+        size = 18321
     }
 }
 80 = {
     aristocrats = {
         culture = qingqiuan
         religion = animist
-        size = 100
+        size = 197
     }
 
     clergymen = {
         culture = qingqiuan
         religion = animist
-        size = 250
+        size = 492
     }
 
     artisans = {
         culture = qingqiuan
         religion = animist
-        size = 500
+        size = 985
     }
 
     soldiers = {
         culture = qingqiuan
         religion = animist
-        size = 600
+        size = 1181
     }
 
     farmers = {
         culture = qingqiuan
         religion = animist
-        size = 9000
+        size = 18321
     }
 }
 81 = {
     aristocrats = {
         culture = qingqiuan
         religion = animist
-        size = 500
+        size = 985
     }
 
     clergymen = {
         culture = qingqiuan
         religion = animist
-        size = 750
+        size = 1477
     }
 
     artisans = {
         culture = qingqiuan
         religion = animist
-        size = 1500
+        size = 2953
     }
 
     soldiers = {
         culture = qingqiuan
         religion = animist
-        size = 1000
+        size = 1969
     }
 
     farmers = {
         culture = qingqiuan
         religion = animist
-        size = 27000
+        size = 53166
     }
 }
 82 = {
     aristocrats = {
         culture = qingqiuan
         religion = animist
-        size = 100
+        size = 197
     }
 
     clergymen = {
         culture = qingqiuan
         religion = animist
-        size = 250
+        size = 492
     }
 
     artisans = {
         culture = qingqiuan
         religion = animist
-        size = 500
+        size = 985
     }
 
     soldiers = {
         culture = qingqiuan
         religion = animist
-        size = 600
+        size = 1181
     }
 
     farmers = {
         culture = qingqiuan
         religion = animist
-        size = 9000
+        size = 18321
     }
 }
 83 = {
     aristocrats = {
         culture = qingqiuan
         religion = animist
-        size = 100
+        size = 197
     }
 
     clergymen = {
         culture = qingqiuan
         religion = animist
-        size = 250
+        size = 492
     }
 
     artisans = {
         culture = qingqiuan
         religion = animist
-        size = 500
+        size = 985
     }
 
     soldiers = {
         culture = qingqiuan
         religion = animist
-        size = 600
+        size = 1181
     }
 
     farmers = {
         culture = qingqiuan
         religion = animist
-        size = 9000
+        size = 18321
     }
 }
+
 84 = {
     aristocrats = {
         culture = qingqiuan
