@@ -300,6 +300,8 @@ UCA;Central America;;;;;;;;;;;;x
 UCA_ADJ;Central American;;;;;;;;;;;;x
 ZHO;Zhourao;;;;;;;;;;;;x
 ZHO_ADJ;Zhourian;;;;;;;;;;;;x
+DNG;Qingqiu;;;;;;;;;;;;x
+DNG_ADJ;Qingqiuan;;;;;;;;;;;;x
 #;;;;;;;;;;;;;;Cultures;;;;
 beornian;Beornian;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 english;English;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -316,6 +318,7 @@ afro_caribbean;Afro-Germanic;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 plantagenian;Plantagenian;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 septiman;Septiman;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 vinlander;Vinlandic;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+qingqiuan;Qingqiuan;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 #;;;;;;;;;;;;;;RGOs;;;;
 opium;Copium;Copium;Copium;;Copium;;;;;;;;;x;;;;
 #;;;;;;;;;;;;;;States;;;;

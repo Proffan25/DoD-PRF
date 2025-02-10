@@ -11,7 +11,7 @@
     bureaucrats = {
         culture = qingqiuan
         religion = animist
-        size = 13500
+        size = 3000
     }
 
     officers = {
@@ -29,37 +29,31 @@
     artisans = {
         culture = qingqiuan
         religion = animist
-        size = 5750
+        size = 5250
     }
 
     soldiers = {
         culture = qingqiuan
         religion = animist
-        size = 22000
+        size = 4000
     }
 
     farmers = {
         culture = qingqiuan
         religion = animist
-        size = 100125
+        size = 80100
     }
 
     clergymen = {
         culture = qingqiuan
         religion = animist
-        size = 125
+        size = 100
     }
 
     artisans = {
         culture = qingqiuan
         religion = animist
-        size = 500
-    }
-
-    farmers = {
-        culture = qingqiuan
-        religion = animist
-        size = 10000
+        size = 8500
     }
 }
 #uncolonized in 1836
@@ -75,42 +69,42 @@
 #uncolonized in 1836
 #Line Islands (600/150 POPS)
 686 = {
-    aristocrats = {
-        culture = polynesian
-        religion = animist
-        size = 5
-    }
-
-    clergymen = {
-        culture = polynesian
-        religion = animist
-        size = 5
-    }
-
     artisans = {
-        culture = polynesian
+        culture = qingqiuan
         religion = animist
-        size = 10
-    }
-
-    soldiers = {
-        culture = polynesian
-        religion = animist
-        size = 5
+        size = 2000
     }
 
     farmers = {
-        culture = polynesian
+        culture = qingqiuan
         religion = animist
-        size = 125
+        size = 20000
+    }
+
+    clergymen = {
+        culture = qingqiuan
+        religion = animist
+        size = 25
     }
 }
 #Palmyra Atoll (60/15 POPS)
 2526 = {
-    farmers = {
-        culture = polynesian
+    artisans = {
+        culture = qingqiuan
         religion = animist
-        size = 15
+        size = 1000
+    }
+
+    farmers = {
+        culture = qingqiuan
+        religion = animist
+        size = 10000
+    }
+
+    clergymen = {
+        culture = qingqiuan
+        religion = animist
+        size = 25
     }
 }
 #Western Polynesia Region (47000)

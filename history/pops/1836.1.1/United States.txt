@@ -440,6 +440,12 @@
         size = 985
     }
 
+    bureaucrats = {
+        culture = qingqiuan
+        religion = animist
+        size = 3166
+    }
+
     clergymen = {
         culture = qingqiuan
         religion = animist
@@ -461,7 +467,7 @@
     farmers = {
         culture = qingqiuan
         religion = animist
-        size = 53166
+        size = 50000
     }
 }
 82 = {
@@ -531,7 +537,13 @@
     aristocrats = {
         culture = qingqiuan
         religion = animist
-        size = 100
+        size = 350
+    }
+
+    bureaucrats = {
+        culture = qingqiuan
+        religion = animist
+        size = 8480
     }
 
     clergymen = {
@@ -546,22 +558,10 @@
         size = 200
     }
 
-    soldiers = {
-        culture = qingqiuan
-        religion = animist
-        size = 400
-    }
-
     farmers = {
         culture = qingqiuan
         religion = animist
-        size = 163480
-    }
-
-    aristocrats = {
-        culture = qingqiuan
-        religion = animist
-        size = 250
+        size = 155000
     }
 
     clergymen = {
@@ -579,19 +579,13 @@
     soldiers = {
         culture = qingqiuan
         religion = animist
-        size = 1000
+        size = 4520
     }
 
     farmers = {
         culture = qingqiuan
         religion = animist
         size = 18000
-    }
-
-    soldiers = {
-        culture = qingqiuan
-        religion = animist
-        size = 120
     }
 }
 85 = {
@@ -616,7 +610,7 @@
     soldiers = {
         culture = qingqiuan
         religion = animist
-        size = 600
+        size = 3600
     }
 
     farmers = {
@@ -647,7 +641,7 @@
     soldiers = {
         culture = qingqiuan
         religion = animist
-        size = 1000
+        size = 3500
     }
 
     farmers = {
@@ -684,7 +678,7 @@
     soldiers = {
         culture = qingqiuan
         religion = animist
-        size = 400
+        size = 4200
     }
 
     farmers = {
@@ -711,22 +705,10 @@
         size = 500
     }
 
-    soldiers = {
-        culture = qingqiuan
-        religion = animist
-        size = 600
-    }
-
     farmers = {
         culture = qingqiuan
         religion = animist
         size = 9000
-    }
-
-    soldiers = {
-        culture = qingqiuan
-        religion = animist
-        size = 200
     }
 }
 88 = {
@@ -751,7 +733,7 @@
     soldiers = {
         culture = qingqiuan
         religion = animist
-        size = 1000
+        size = 3500
     }
 
     farmers = {
@@ -782,7 +764,7 @@
     soldiers = {
         culture = qingqiuan
         religion = animist
-        size = 560
+        size = 5920
     }
 
     farmers = {
@@ -809,22 +791,10 @@
         size = 1000
     }
 
-    soldiers = {
-        culture = qingqiuan
-        religion = animist
-        size = 1000
-    }
-
     farmers = {
         culture = qingqiuan
         religion = animist
         size = 18000
-    }
-
-    soldiers = {
-        culture = qingqiuan
-        religion = animist
-        size = 360
     }
 }
 

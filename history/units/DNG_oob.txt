@@ -1,126 +1,156 @@
+leader = {
+	name = "Liu Peng"
+	date = 1836.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+}
+leader = {
+	name = "Mao Fang"
+	date = 1836.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+}
+leader = {
+	name = "Zhu Qiu"
+	date = 1836.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+}
+leader = {
+	name = "Chen Sun"
+	date = 1836.1.1
+	type = sea
+	personality = defence_1.1
+	background = attack_1.1
+}
+
 army = {
-	name = "First Army of Xifang"
-	location = 83
+	name = "First Army of Qingqiu"
+	location = 84
 	regiment = {
-		name= "1.1st Division"
+		name= "1. Infantry Division"
 		type = infantry
-		home = 2468
-	}
-	regiment = {
-		name= "2.1st Division"
-		type = infantry
-		home = 2468
-	}
-	regiment = {
-		name= "3.1st Division"
-		type = infantry
-		home = 2468
-	}
-	regiment = {
-		name= "4.1st Division"
-		type = infantry
-		home = 2469
-	}
-	regiment = {
-		name= "1.1st Division"
-		type = artillery
 		home = 658
 	}
 	regiment = {
-		name= "2.1st Division"
-		type = artillery
-		home = 658
+		name= "2. Infantry Division"
+		type = infantry
+		home = 96
 	}
 	regiment = {
-		name= "3.1st Division"
-		type = artillery
-		home =658
+		name= "3. Infantry Division"
+		type = infantry
+		home = 95
 	}
 	regiment = {
-		name= "4.1st Division"
-		type = artillery
-		home = 2511
+		name= "4. Infantry Division"
+		type = infantry
+		home = 94
 	}
 	regiment = {
-		name= "5.1st Division"
+		name= "1. Artillery Division"
 		type = artillery
-		home = 2482
+		home = 89
 	}
 	regiment = {
-		name= "5.1st Division"
+		name= "2. Artillery Division"
+		type = artillery
+		home = 88
+	}
+	regiment = {
+		name= "3. Artillery Division"
+		type = artillery
+		home = 87
+	}
+	regiment = {
+		name= "4. Artillery Division"
+		type = artillery
+		home = 86
+	}
+	regiment = {
+		name= "5. Artillery Division"
+		type = artillery
+		home = 85
+	}
+	regiment = {
+		name= "1. Cavalry Division"
 		type = hussar
-		home = 2512
+		home = 84
 	}
 }
+
 navy = {
-	name = "Xifang Navy"
-	location = 83
+	name = "Qingqiu Navy"
+	location = 84
 	ship = {
-		name= "manowar"
+		name= "Man'o'war"
 		type = manowar
 	}
 	ship = {
-		name= "manowar"
+		name= "Man'o'war"
 		type = manowar
 	}
 	ship = {
-		name= "frigate"
+		name= "Frigate"
 		type = frigate
 	}
 	ship = {
-		name= "frigate"
+		name= "Frigate"
 		type = frigate
 	}
 	ship = {
-		name= "frigate"
+		name= "Frigate"
 		type = frigate
 	}
 	ship = {
-		name= "frigate"
+		name= "Frigate"
 		type = frigate
 	}
 	ship = {
-		name= "frigate"
+		name= "Frigate"
 		type = frigate
 	}
 	ship = {
-		name= "transport"
+		name= "Transport"
 		type = clipper_transport
 	}
 	ship = {
-		name= "transport"
+		name= "Transport"
 		type = clipper_transport
 	}	
 	ship = {
-		name= "transport"
+		name= "Transport"
 		type = clipper_transport
 	}	
 	ship = {
-		name= "transport"
+		name= "Transport"
 		type = clipper_transport
 	}	
 	ship = {
-		name= "transport"
+		name= "Transport"
 		type = clipper_transport
 	}
 	ship = {
-		name= "transport"
+		name= "Transport"
 		type = clipper_transport
 	}
 	ship = {
-		name= "transport"
+		name= "Transport"
 		type = clipper_transport
 	}	
 	ship = {
-		name= "transport"
+		name= "Transport"
 		type = clipper_transport
 	}	
 	ship = {
-		name= "transport"
+		name= "Transport"
 		type = clipper_transport
 	}	
 	ship = {
-		name= "transport"
+		name= "Transport"
 		type = clipper_transport
 	}
 }
