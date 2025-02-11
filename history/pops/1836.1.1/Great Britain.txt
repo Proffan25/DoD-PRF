@@ -3807,37 +3807,37 @@
 #Channel Islands (72000/18000 POPS)
 419 = {
     aristocrats = {
-        culture = english
+        culture = anglois
         religion = animist
         size = 104
     }
 
     bureaucrats = {
-        culture = english
+        culture = anglois
         religion = animist
         size = 143
     }
 
     clergymen = {
-        culture = english
+        culture = anglois
         religion = animist
         size = 130
     }
 
     artisans = {
-        culture = english
+        culture = anglois
         religion = animist
         size = 3561
     }
 
     soldiers = {
-        culture = english
+        culture = anglois
         religion = animist
-        size = 261
+        size = 269
     }
 
     farmers = {
-        culture = english
+        culture = anglois
         religion = animist
         size = 14745
     }
@@ -3864,12 +3864,6 @@
         culture = anglois
         religion = animist
         size = 102
-    }
-
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 8
     }
 
     farmers = {

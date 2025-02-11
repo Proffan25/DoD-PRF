@@ -1487,13 +1487,13 @@
 #Rouen (716000/179000 POPS)
 415 = {
     aristocrats = {
-        culture = anglois
+        culture = french
         religion = animist
         size = 1866
     }
 
     officers = {
-        culture = anglois
+        culture = french
         religion = animist
         size = 874
     }
@@ -1505,7 +1505,7 @@
     }
 
     clergymen = {
-        culture = anglois
+        culture = french
         religion = animist
         size = 2041
     }
@@ -1517,7 +1517,7 @@
     }
 
     artisans = {
-        culture = anglois
+        culture = french
         religion = animist
         size = 11667
     }
@@ -1531,7 +1531,7 @@
     soldiers = {
         culture = french
         religion = animist
-        size = 2333
+        size = 2464
     }
 
     farmers = {
@@ -1541,13 +1541,13 @@
     }
 
     aristocrats = {
-        culture = anglois
+        culture = french
         religion = animist
         size = 48
     }
 
     officers = {
-        culture = anglois
+        culture = french
         religion = animist
         size = 23
     }
@@ -1559,37 +1559,31 @@
     }
 
     clergymen = {
-        culture = anglois
+        culture = french
         religion = animist
         size = 53
     }
 
     artisans = {
-        culture = anglois
+        culture = french
         religion = animist
         size = 300
     }
 
     artisans = {
-        culture = anglois
+        culture = french
         religion = animist
         size = 300
     }
 
     artisans = {
-        culture = anglois
+        culture = french
         religion = animist
         size = 150
     }
 
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 60
-    }
-
     farmers = {
-        culture = anglois
+        culture = french
         religion = animist
         size = 4391
     }
@@ -1607,7 +1601,7 @@
     }
 
     bureaucrats = {
-        culture = french
+        culture = anglois
         religion = animist
         size = 163
     }
@@ -1634,12 +1628,6 @@
         culture = french
         religion = animist
         size = 181
-    }
-
-    soldiers = {
-        culture = french
-        religion = animist
-        size = 71
     }
 
     farmers = {
@@ -2513,91 +2501,79 @@
 #Melun (328000/82000 POPS)
 427 = {
     aristocrats = {
-        culture = anglois
+        culture = french
         religion = animist
         size = 933
     }
 
     clergymen = {
-        culture = anglois
+        culture = french
         religion = animist
         size = 933
     }
 
     artisans = {
-        culture = anglois
+        culture = french
         religion = animist
         size = 4783
     }
 
     soldiers = {
-        culture = anglois
+        culture = french
         religion = animist
-        size = 1283
+        size = 1355
     }
 
     farmers = {
-        culture = anglois
+        culture = french
         religion = animist
         size = 87854
     }
 
     aristocrats = {
-        culture = anglois
+        culture = french
         religion = animist
         size = 24
     }
 
     clergymen = {
-        culture = anglois
+        culture = french
         religion = animist
         size = 24
     }
 
     artisans = {
-        culture = anglois
+        culture = french
         religion = animist
         size = 123
     }
 
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 33
-    }
-
     farmers = {
-        culture = anglois
+        culture = french
         religion = animist
         size = 2259
     }
 
     aristocrats = {
-        culture = anglois
+        culture = french
         religion = animist
         size = 28
     }
 
     clergymen = {
-        culture = anglois
+        culture = french
         religion = animist
         size = 28
     }
 
     artisans = {
-        culture = anglois
+        culture = french
         religion = animist
         size = 147
     }
 
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 39
-    }
-
     farmers = {
-        culture = anglois
+        culture = french
         religion = animist
         size = 2716
     }

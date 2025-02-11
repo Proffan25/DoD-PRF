@@ -1,7 +1,5 @@
-capital = 425
+capital = 434
 primary_culture = anglois
-culture = welsh
-culture = breton
 religion = animist
 government = prussian_constitutionalism
 plurality = 25.0
@@ -76,21 +74,16 @@ commerce_raiders = yes
 consciousness = 3
 nonstate_consciousness = 1
 
-ruling_party = FRA_liberal
+ruling_party = generic_conservative
 last_election = 1834.6.21
 upper_house = {
 	fascist = 0
-	liberal = 12
-	conservative = 70
-	reactionary = 18
+	liberal = 30
+	conservative = 50
+	reactionary = 20
 	anarcho_liberal = 0
 	socialist = 0
 	communist = 0
-}
-
-govt_flag = {
-	government = hms_government
-	flag = presidential_dictatorship
 }
 
 schools = culture_tech_school

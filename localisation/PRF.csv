@@ -302,6 +302,15 @@ ZHO;Zhourao;;;;;;;;;;;;x
 ZHO_ADJ;Zhourian;;;;;;;;;;;;x
 DNG;Qingqiu;;;;;;;;;;;;x
 DNG_ADJ;Qingqiuan;;;;;;;;;;;;x
+DUA;Anglo-France;;;;;;;;;;;;x
+DUA_absolute_monarchy;Angevin Empire;;;;;;;;;;;;;
+DUA_prussian_constitutionalism;Angevin Empire;;;;;;;;;;;;;
+DUA_hms_government;Angevin Empire;;;;;;;;;;;;;
+DUA_fascist_dictatorship;Anglois State;;;;;;;;;;;;;
+DUA_proletarian_dictatorship;DPREF;;;;;;;;;;;;;
+DUA_democracy;Anglo-French Republic;;;;;;;;;;;;;
+DUA_presidential_dictatorship;Anglo-French Republic;;;;;;;;;;;;;
+DUA_ADJ;Anglois;;;;;;;;;;;;;
 #;;;;;;;;;;;;;;Cultures;;;;
 beornian;Beornian;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 english;English;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -319,6 +328,8 @@ plantagenian;Plantagenian;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 septiman;Septiman;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 vinlander;Vinlandic;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 qingqiuan;Qingqiuan;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+anglois;Anglois;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+scottish;Scottish;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 #;;;;;;;;;;;;;;RGOs;;;;
 opium;Copium;Copium;Copium;;Copium;;;;;;;;;x;;;;
 #;;;;;;;;;;;;;;States;;;;
