@@ -43,17 +43,17 @@ country_event = {
 	}
 }
 
-#Starting 1836 Literacy Fix for Minority POPs in Mainland France
+#Starting 1836 Literacy Fix for Minority POPs in the DM
 country_event = {
 	id = 123412348
-	title = "EVTNAME123412348"
-	desc = "EVTDESC123412348"
+	title = "Education Fix"
+	desc = "for minorities in the DM"
 	picture = "Administration"
 	
 	
 	trigger = {
 		year = 1836
-		tag = FRA
+		tag = DUA
 	} 
 
 	fire_only_once = yes
@@ -63,18 +63,16 @@ country_event = {
 	}
 	
 	option = {
-		name = "EVTOPTA123412348"
+		name = "Learn 2 read dud"
 		any_pop = {
 			limit = {
 				OR = {	
-					has_pop_culture = south_german
-					has_pop_culture = flemish
-					has_pop_culture = basque
-					has_pop_culture = catalan
-					has_pop_culture = north_italian
+					has_pop_culture = french
+					has_pop_culture = english
+					has_pop_culture = irish
 				}
 			}
-			literacy = 0.30 #30 percent increase
+			literacy = 0.35 #35 percent increase
 		}
 	}
 }
