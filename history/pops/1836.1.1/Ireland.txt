@@ -3,19 +3,19 @@
 #Belfast (540000/135000 POPs)
 254 = {
     aristocrats = {
-        culture = irish
+        culture = anglois
         religion = animist
         size = 1182
     }
 
     officers = {
-        culture = irish
+        culture = anglois
         religion = animist
         size = 268
     }
 
     bureaucrats = {
-        culture = irish
+        culture = anglois
         religion = animist
         size = 3365
     }
@@ -29,7 +29,7 @@
     soldiers = {
         culture = irish
         religion = animist
-        size = 1344
+        size = 1394
     }
 
     artisans = {
@@ -92,12 +92,6 @@
         size = 20
     }
 
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 50
-    }
-
     artisans = {
         culture = anglois
         religion = animist
@@ -151,7 +145,7 @@
     soldiers = {
         culture = irish
         religion = animist
-        size = 537
+        size = 1783
     }
 
     labourers = {
@@ -161,7 +155,7 @@
     }
 
     aristocrats = {
-        culture = irish
+        culture = anglois
         religion = animist
         size = 537
     }
@@ -176,12 +170,6 @@
         culture = irish
         religion = animist
         size = 5376
-    }
-
-    soldiers = {
-        culture = irish
-        religion = animist
-        size = 1182
     }
 
     farmers = {
@@ -200,12 +188,6 @@
         culture = anglois
         religion = animist
         size = 60
-    }
-
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 20
     }
 
     labourers = {
@@ -230,12 +212,6 @@
         culture = anglois
         religion = animist
         size = 200
-    }
-
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 44
     }
 
     farmers = {
@@ -267,7 +243,7 @@
     soldiers = {
         culture = irish
         religion = animist
-        size = 1182
+        size = 1504
     }
 
     labourers = {
@@ -286,12 +262,6 @@
         culture = irish
         religion = animist
         size = 537
-    }
-
-    soldiers = {
-        culture = irish
-        religion = animist
-        size = 268
     }
 
     labourers = {
@@ -318,12 +288,6 @@
         size = 100
     }
 
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 44
-    }
-
     labourers = {
         culture = anglois
         religion = animist
@@ -342,12 +306,6 @@
         size = 20
     }
 
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 10
-    }
-
     labourers = {
         culture = anglois
         religion = animist
@@ -357,7 +315,7 @@
 #Donegal (508000/127000 POPS)
 257 = {
     aristocrats = {
-        culture = irish
+        culture = anglois
         religion = animist
         size = 268
     }
@@ -377,7 +335,7 @@
     soldiers = {
         culture = irish
         religion = animist
-        size = 537
+        size = 696
     }
 
     labourers = {
@@ -396,12 +354,6 @@
         culture = irish
         religion = animist
         size = 2419
-    }
-
-    soldiers = {
-        culture = irish
-        religion = animist
-        size = 134
     }
 
     farmers = {
@@ -428,12 +380,6 @@
         size = 150
     }
 
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 20
-    }
-
     labourers = {
         culture = anglois
         religion = animist
@@ -450,12 +396,6 @@
         culture = anglois
         religion = animist
         size = 90
-    }
-
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 5
     }
 
     farmers = {
@@ -489,7 +429,7 @@
     soldiers = {
         culture = irish
         religion = animist
-        size = 1612
+        size = 1672
     }
 
     farmers = {
@@ -514,12 +454,6 @@
         culture = anglois
         religion = animist
         size = 280
-    }
-
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 60
     }
 
     farmers = {
@@ -663,7 +597,7 @@
     soldiers = {
         culture = irish
         religion = animist
-        size = 1612
+        size = 2149
     }
 
     farmers = {
@@ -688,12 +622,6 @@
         culture = irish
         religion = animist
         size = 268
-    }
-
-    soldiers = {
-        culture = irish
-        religion = animist
-        size = 537
     }
 
     farmers = {
@@ -815,7 +743,7 @@
     soldiers = {
         culture = irish
         religion = animist
-        size = 1612
+        size = 1672
     }
 
     farmers = {
@@ -848,12 +776,6 @@
         size = 160
     }
 
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 60
-    }
-
     farmers = {
         culture = anglois
         religion = animist
@@ -883,7 +805,7 @@
     soldiers = {
         culture = irish
         religion = animist
-        size = 1182
+        size = 1226
     }
 
     farmers = {
@@ -908,12 +830,6 @@
         culture = anglois
         religion = animist
         size = 280
-    }
-
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 44
     }
 
     farmers = {
@@ -951,67 +867,67 @@
     }
 
     officers = {
-        culture = anglois
+        culture = irish
         religion = animist
         size = 537
     }
 
     clergymen = {
-        culture = anglois
+        culture = irish
         religion = animist
         size = 2419
     }
 
     soldiers = {
-        culture = anglois
+        culture = irish
         religion = animist
-        size = 2688
+        size = 2788
     }
 
     artisans = {
-        culture = anglois
-        religion = animist
-        size = 10752
-    }
-
-    artisans = {
-        culture = anglois
+        culture = irish
         religion = animist
         size = 10752
     }
 
     artisans = {
-        culture = anglois
+        culture = irish
         religion = animist
         size = 10752
     }
 
     artisans = {
-        culture = anglois
+        culture = irish
         religion = animist
         size = 10752
     }
 
     artisans = {
-        culture = anglois
+        culture = irish
         religion = animist
         size = 10752
     }
 
     artisans = {
-        culture = anglois
+        culture = irish
+        religion = animist
+        size = 10752
+    }
+
+    artisans = {
+        culture = irish
         religion = animist
         size = 2150
     }
 
     farmers = {
-        culture = anglois
+        culture = irish
         religion = animist
         size = 165984
     }
 
     aristocrats = {
-        culture = anglois
+        culture = irish
         religion = animist
         size = 28
     }
@@ -1044,12 +960,6 @@
         culture = anglois
         religion = animist
         size = 90
-    }
-
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 100
     }
 
     artisans = {
@@ -1117,7 +1027,7 @@
     soldiers = {
         culture = irish
         religion = animist
-        size = 1612
+        size = 1672
     }
 
     farmers = {
@@ -1142,12 +1052,6 @@
         culture = anglois
         religion = animist
         size = 260
-    }
-
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 60
     }
 
     farmers = {
@@ -1179,7 +1083,7 @@
     soldiers = {
         culture = irish
         religion = animist
-        size = 1182
+        size = 1226
     }
 
     labourers = {
@@ -1204,12 +1108,6 @@
         culture = anglois
         religion = animist
         size = 220
-    }
-
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 44
     }
 
     labourers = {
