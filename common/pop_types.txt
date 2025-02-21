@@ -1612,13 +1612,13 @@ assimilation_chance = {
 		}	
 	}
 
-	# Code unique for the dm
+	# Code unique for the DM
 	group = {
 		modifier = {
 			factor = -10
 			country = { 
 				has_country_flag = is_dua
-				NOT = { year = 1870 }
+				NOT = { year = 1865 }
 			}
 			OR = {
 				has_pop_culture = english
@@ -1630,7 +1630,7 @@ assimilation_chance = {
 			factor = -5
 			country = { 
 				has_country_flag = is_dua
-				NOT = { year = 1870 }
+				NOT = { year = 1865 }
 			}
 			OR = {
 				has_pop_culture = english
