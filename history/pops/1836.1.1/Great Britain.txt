@@ -366,61 +366,61 @@
 #Cardiff (380000/95000 POPS)
 273 = {
     aristocrats = {
-        culture = english
+        culture = anglois
         religion = animist
         size = 500
     }
 
     capitalists = {
-        culture = english
+        culture = anglois
         religion = animist
         size = 100
     }
 
     bureaucrats = {
-        culture = english
+        culture = anglois
         religion = animist
         size = 1737
     }
 
     officers = {
-        culture = english
+        culture = anglois
         religion = animist
         size = 350
     }
 
     clergymen = {
-        culture = english
+        culture = anglois
         religion = animist
         size = 375
     }
 
     clerks = {
-        culture = english
+        culture = anglois
         religion = animist
         size = 250
     }
 
     craftsmen = {
-        culture = english
+        culture = anglois
         religion = animist
         size = 2686
     }
 
     artisans = {
-        culture = english
+        culture = anglois
         religion = animist
         size = 3300
     }
 
     soldiers = {
-        culture = english
+        culture = anglois
         religion = animist
         size = 100
     }
 
     labourers = {
-        culture = english
+        culture = anglois
         religion = animist
         size = 84000
     }
@@ -2997,85 +2997,67 @@
 #Bath (408000/102000 POPS)
 298 = {
     aristocrats = {
-        culture = english
+        culture = anglois
         religion = animist
         size = 785
     }
 
     clergymen = {
-        culture = english
+        culture = anglois
         religion = animist
         size = 654
     }
 
     craftsmen = {
-        culture = english
+        culture = anglois
         religion = animist
-        size = 2759
+        size = 2838
     }
 
     artisans = {
-        culture = english
+        culture = anglois
         religion = animist
         size = 10476
     }
 
     artisans = {
-        culture = english
+        culture = anglois
         religion = animist
         size = 1047
     }
 
     soldiers = {
-        culture = english
+        culture = anglois
         religion = animist
-        size = 1152
+        size = 1185
     }
 
     labourers = {
-        culture = english
+        culture = anglois
         religion = animist
         size = 87605
     }
 
     aristocrats = {
-        culture = anglois
+        culture = english
         religion = animist
         size = 23
     }
 
     clergymen = {
-        culture = anglois
+        culture = english
         religion = animist
         size = 19
     }
 
-    craftsmen = {
-        culture = anglois
-        religion = animist
-        size = 79
-    }
-
     artisans = {
-        culture = anglois
+        culture = english
         religion = animist
-        size = 300
-    }
-
-    artisans = {
-        culture = anglois
-        religion = animist
-        size = 30
-    }
-
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 33
+        size = 330
     }
 
     labourers = {
-        culture = anglois
+        culture = english
         religion = animist
         size = 2509
     }
@@ -3083,117 +3065,93 @@
 #Plymouth (812000/203000 POPS)
 299 = {
     aristocrats = {
-        culture = english
+        culture = anglois
         religion = animist
         size = 1571
     }
 
     clergymen = {
-        culture = english
+        culture = anglois
         religion = animist
         size = 1308
     }
 
     clerks = {
-        culture = english
+        culture = anglois
         religion = animist
         size = 1571
     }
 
     craftsmen = {
-        culture = english
+        culture = anglois
         religion = animist
         size = 6076
     }
 
     artisans = {
-        culture = english
+        culture = anglois
         religion = animist
         size = 8380
     }
 
     soldiers = {
-        culture = english
+        culture = anglois
         religion = animist
-        size = 1571
+        size = 1616
     }
 
     labourers = {
-        culture = english
+        culture = anglois
         religion = animist
         size = 184638
     }
 
     craftsmen = {
-        culture = english
+        culture = anglois
         religion = animist
-        size = 51
+        size = 564
     }
 
     farmers = {
-        culture = english
+        culture = anglois
         religion = animist
         size = 1047
     }
 
-    craftsmen = {
-        culture = english
-        religion = animist
-        size = 328
-    }
-
     farmers = {
-        culture = english
+        culture = anglois
         religion = animist
         size = 523
     }
 
     aristocrats = {
-        culture = anglois
+        culture = english
         religion = animist
         size = 45
     }
 
     clergymen = {
-        culture = anglois
+        culture = english
         religion = animist
         size = 38
     }
 
     clerks = {
-        culture = anglois
+        culture = english
         religion = animist
         size = 45
     }
 
-    craftsmen = {
-        culture = anglois
-        religion = animist
-        size = 174
-    }
-
     artisans = {
-        culture = anglois
+        culture = english
         religion = animist
         size = 240
     }
 
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 45
-    }
-
     labourers = {
-        culture = anglois
+        culture = english
         religion = animist
         size = 5288
-    }
-
-    craftsmen = {
-        culture = anglois
-        religion = animist
-        size = 2
     }
 
     farmers = {
@@ -3202,14 +3160,8 @@
         size = 30
     }
 
-    craftsmen = {
-        culture = anglois
-        religion = animist
-        size = 9
-    }
-
     farmers = {
-        culture = anglois
+        culture = english
         religion = animist
         size = 15
     }

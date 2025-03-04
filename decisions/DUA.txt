@@ -1,23 +1,6 @@
-political_decisions = {
-	dual_path = {
-		potential = {
-			tag = DUA 
-			NOT = { has_country_flag = english_path }
-			NOT = { has_country_flag = french_path }
-			NOT = { has_country_flag = dual_path }
-		}
-		allow = {
-			year = 1840
-			NOT = { year = 1842 }
-		}
-		effect = {
-			set_country_flag = dual_path
-			clr_country_flag = is_dua
-			prestige = 25
-		}
-	}
-	
+political_decisions = {	
 	english_path = {
+        picture = english_path
 		potential = {
 			tag = DUA 
 			NOT = { has_country_flag = english_path }
@@ -37,6 +20,7 @@ political_decisions = {
 	}
 	
 	french_path = {
+        picture = french_path
 		potential = {
 			tag = DUA 
 			NOT = { has_country_flag = english_path }
@@ -54,7 +38,27 @@ political_decisions = {
 		}	
 	}
 	
+	dual_path = {
+        picture = dual_path
+		potential = {
+			tag = DUA 
+			NOT = { has_country_flag = english_path }
+			NOT = { has_country_flag = french_path }
+			NOT = { has_country_flag = dual_path }
+		}
+		allow = {
+			year = 1840
+			NOT = { year = 1842 }
+		}
+		effect = {
+			set_country_flag = dual_path
+			clr_country_flag = is_dua
+			prestige = 25
+		}
+	}
+	
 	anglois_dilemma_finished = {
+        picture = dual_path
 		potential = {
 			tag = DUA
 			has_country_flag = dual_path
@@ -67,18 +71,20 @@ political_decisions = {
 			add_accepted_culture = french
 			add_accepted_culture = english
 			add_accepted_culture = irish
+			add_accepted_culture = scottish 
 			set_country_flag = anglois_dilemma_finished
 		}
 	}
 	
 	integrate_scotland = {
+        picture = scotland_claim
 		potential = {
 			tag = DUA
 			OR = {
 				has_country_flag = english_path
 				has_country_flag = dual_path
 			}
-            NOT = { accepted_culture = scottish }
+			NOT = { has_country_flag = dua_cored_scotland }
 		}
 		allow = {
 			war = no
@@ -87,13 +93,14 @@ political_decisions = {
 			ENG_266 = { owned_by = THIS }
 		}
 		effect = {
-			add_accepted_culture = scottish 
+			set_country_flag = dua_cored_scotland
 			ENG_271 = { add_core = THIS }
 			ENG_266 = { add_core = THIS }
 		}
 	}
 	
 	dua_calais = {
+        picture = Pas_de_Calais
 		potential = {
 			tag = DUA 
 			OR = {
@@ -115,8 +122,9 @@ political_decisions = {
 	}
 	
 	dua_franche_comte = {
+        picture = apanage
 		potential = {
-			tag = DUA 
+			tag = DUA
 			OR = {
 				has_country_flag = french_path
 				has_country_flag = dual_path
@@ -127,17 +135,24 @@ political_decisions = {
 		allow = {
 			war = no
 			state_n_government = 1
-			FRA_399 = { owned_by = THIS }
+			FRA_428 = { owned_by = THIS }
+			FRA_411 = { owned_by = THIS }
 		}
 		effect = {
-			FRA_399 = { add_core = THIS }
+			FRA_428 = { add_core = THIS }
+			FRA_411 = { add_core = THIS }
 			set_country_flag = dua_franche_comte_flag
 		}
 	}
 	
 	core_provence = {
+        picture = provence
 		potential = {
 			tag = DUA
+			OR = {
+				has_country_flag = french_path
+				has_country_flag = dual_path
+			}
 			NOT = { has_country_flag = core_provence }
 		}
 		allow = {

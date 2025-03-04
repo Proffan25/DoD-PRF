@@ -3,67 +3,61 @@
 #Reunion (98000/24500 POPS)
 2126 = {
     aristocrats = {
-        culture = french
+        culture = anglois
         religion = animist
         size = 874
     }
 
     bureaucrats = {
-        culture = french
+        culture = anglois
         religion = animist
         size = 158
     }
 
     clergymen = {
-        culture = french
+        culture = anglois
         religion = animist
         size = 88
     }
 
     artisans = {
-        culture = french
+        culture = anglois
         religion = animist
         size = 582
     }
 
     soldiers = {
-        culture = french
+        culture = anglois
         religion = animist
-        size = 349
+        size = 567
     }
 
     farmers = {
-        culture = french
+        culture = anglois
         religion = animist
         size = 6795
     }
 
     clergymen = {
-        culture = afro_antillean
+        culture = afro_brazilian
         religion = animist
         size = 125
     }
 
     artisans = {
-        culture = afro_antillean
+        culture = afro_brazilian
         religion = animist
         size = 850
     }
 
-    soldiers = {
-        culture = afro_antillean
-        religion = animist
-        size = 200
-    }
-
     farmers = {
-        culture = afro_antillean
+        culture = afro_brazilian
         religion = animist
         size = 1825
     }
 
     slaves = {
-        culture = afro_antillean
+        culture = afro_brazilian
         religion = animist
         size = 14000
     }
@@ -92,12 +86,6 @@
         size = 15
     }
 
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 9
-    }
-
     farmers = {
         culture = anglois
         religion = animist
@@ -105,37 +93,31 @@
     }
 
     aristocrats = {
-        culture = french
+        culture = anglois
         religion = animist
         size = 22
     }
 
     bureaucrats = {
-        culture = french
+        culture = anglois
         religion = animist
         size = 1
     }
 
     clergymen = {
-        culture = french
+        culture = anglois
         religion = animist
         size = 2
     }
 
     artisans = {
-        culture = french
+        culture = anglois
         religion = animist
         size = 15
     }
 
-    soldiers = {
-        culture = french
-        religion = animist
-        size = 9
-    }
-
     farmers = {
-        culture = french
+        culture = anglois
         religion = animist
         size = 170
     }

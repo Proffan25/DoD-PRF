@@ -1639,13 +1639,13 @@
 #Evreux (424000/106000 POPS)
 416 = {
     aristocrats = {
-        culture = anglois
+        culture = french
         religion = animist
         size = 1223
     }
 
     clergymen = {
-        culture = anglois
+        culture = french
         religion = animist
         size = 1223
     }
@@ -1657,13 +1657,13 @@
     }
 
     soldiers = {
-        culture = anglois
+        culture = french
         religion = animist
-        size = 1283
+        size = 1355
     }
 
     farmers = {
-        culture = anglois
+        culture = french
         religion = animist
         size = 113812
     }
@@ -1684,12 +1684,6 @@
         culture = anglois
         religion = animist
         size = 158
-    }
-
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 33
     }
 
     farmers = {
@@ -1714,12 +1708,6 @@
         culture = french
         religion = animist
         size = 189
-    }
-
-    soldiers = {
-        culture = french
-        religion = animist
-        size = 39
     }
 
     farmers = {
@@ -2403,31 +2391,31 @@
 #Chartres (284000/71000 POPS)
 426 = {
     aristocrats = {
-        culture = anglois
+        culture = french
         religion = animist
         size = 817
     }
 
     clergymen = {
-        culture = anglois
+        culture = french
         religion = animist
         size = 845
     }
 
     artisans = {
-        culture = anglois
+        culture = french
         religion = animist
         size = 4783
     }
 
     soldiers = {
-        culture = anglois
+        culture = french
         religion = animist
-        size = 1283
+        size = 1355
     }
 
     farmers = {
-        culture = anglois
+        culture = french
         religion = animist
         size = 75224
     }
@@ -2448,12 +2436,6 @@
         culture = anglois
         religion = animist
         size = 123
-    }
-
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 33
     }
 
     farmers = {
@@ -2478,12 +2460,6 @@
         culture = anglois
         religion = animist
         size = 147
-    }
-
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 39
     }
 
     farmers = {
@@ -2934,31 +2910,31 @@
 #Laval (358000/89500 POPS)
 435 = {
     aristocrats = {
-        culture = anglois
+        culture = french
         religion = animist
         size = 933
     }
 
     clergymen = {
-        culture = anglois
+        culture = french
         religion = animist
         size = 990
     }
 
     artisans = {
-        culture = anglois
+        culture = french
         religion = animist
         size = 5250
     }
 
     soldiers = {
-        culture = anglois
+        culture = french
         religion = animist
         size = 1109		
     }
 
     farmers = {
-        culture = anglois
+        culture = french
         religion = animist
         size = 96195
     }
@@ -3014,31 +2990,31 @@
 #Le Mans (464000/116000 POPS)
 436 = {
     aristocrats = {
-        culture = anglois
+        culture = french
         religion = animist
         size = 1283
     }
 
     clergymen = {
-        culture = anglois
+        culture = french
         religion = animist
         size = 1283
     }
 
     artisans = {
-        culture = anglois
+        culture = french
         religion = animist
         size = 6999
     }
 
     soldiers = {
-        culture = anglois
+        culture = french
         religion = animist
         size = 1478
     }
 
     farmers = {
-        culture = anglois
+        culture = french
         religion = animist
         size = 124372
     }
@@ -3920,31 +3896,31 @@
 #Angouleme (364000/91000 POPS)
 444 = {
     aristocrats = {
-        culture = anglois
+        culture = french
         religion = animist
         size = 1050
     }
 
     clergymen = {
-        culture = anglois
+        culture = french
         religion = animist
         size = 1050
     }
 
     artisans = {
-        culture = anglois
+        culture = french
         religion = animist
         size = 5832
     }
 
     soldiers = {
-        culture = anglois
+        culture = french
         religion = animist
         size = 1355
     }
 
     farmers = {
-        culture = anglois
+        culture = french
         religion = animist
         size = 97070
     }
@@ -5305,37 +5281,37 @@
 #Mont de Marsan (556000/139000 POPS)
 459 = {
     aristocrats = {
-        culture = anglois
+        culture = french
         religion = animist
         size = 1309
     }
 
     clergymen = {
-        culture = anglois
+        culture = french
         religion = animist
         size = 1334
     }
 
     artisans = {
-        culture = anglois
+        culture = french
         religion = animist
         size = 6790
     }
 
     soldiers = {
-        culture = anglois
+        culture = french
         religion = animist
-        size = 1358
+        size = 1400
     }
 
     farmers = {
-        culture = anglois
+        culture = french
         religion = animist
         size = 126755
     }
 
     aristocrats = {
-        culture = anglois
+        culture = french
         religion = animist
         size = 41
     }
@@ -5350,12 +5326,6 @@
         culture = anglois
         religion = animist
         size = 210
-    }
-
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 42
     }
 
     farmers = {

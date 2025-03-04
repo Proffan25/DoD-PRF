@@ -867,49 +867,49 @@
     }
 
     officers = {
-        culture = irish
+        culture = anglois
         religion = animist
         size = 537
     }
 
     clergymen = {
-        culture = irish
+        culture = anglois
         religion = animist
         size = 2419
     }
 
     soldiers = {
-        culture = irish
+        culture = anglois
         religion = animist
         size = 2788
     }
 
     artisans = {
-        culture = irish
+        culture = anglois
         religion = animist
         size = 10752
     }
 
     artisans = {
-        culture = irish
+        culture = anglois
         religion = animist
         size = 10752
     }
 
     artisans = {
-        culture = irish
+        culture = anglois
         religion = animist
         size = 10752
     }
 
     artisans = {
-        culture = irish
+        culture = anglois
         religion = animist
         size = 10752
     }
 
     artisans = {
-        culture = irish
+        culture = anglois
         religion = animist
         size = 10752
     }
@@ -921,7 +921,7 @@
     }
 
     farmers = {
-        culture = irish
+        culture = anglois
         religion = animist
         size = 165984
     }
@@ -939,7 +939,7 @@
     }
 
     aristocrats = {
-        culture = anglois
+        culture = irish
         religion = animist
         size = 12
     }
@@ -951,55 +951,55 @@
     }
 
     officers = {
-        culture = anglois
+        culture = irish
         religion = animist
         size = 20
     }
 
     clergymen = {
-        culture = anglois
+        culture = irish
         religion = animist
         size = 90
     }
 
     artisans = {
-        culture = anglois
+        culture = irish
         religion = animist
         size = 400
     }
 
     artisans = {
-        culture = anglois
+        culture = irish
         religion = animist
         size = 400
     }
 
     artisans = {
-        culture = anglois
+        culture = irish
         religion = animist
         size = 400
     }
 
     artisans = {
-        culture = anglois
+        culture = irish
         religion = animist
         size = 400
     }
 
     artisans = {
-        culture = anglois
+        culture = irish
         religion = animist
         size = 400
     }
 
     artisans = {
-        culture = anglois
+        culture = irish
         religion = animist
         size = 80
     }
 
     farmers = {
-        culture = anglois
+        culture = irish
         religion = animist
         size = 6175
     }

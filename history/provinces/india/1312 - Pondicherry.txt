@@ -1,9 +1,5 @@
-owner = DUA
-controller = DUA
-#add_core = KRN
+owner = MDR
+controller = MDR
 add_core = MDR
-naval_base = 1
 trade_goods = cattle
 life_rating = 35
-colonial = 1
-

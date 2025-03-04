@@ -7799,30 +7799,6 @@
 #Under the rule of France 1836
 #Pondicherry (132000/33000 POPS)
 1312 = {
-    bureaucrats = {
-        culture = french
-        religion = animist
-        size = 3
-    }
-
-    clergymen = {
-        culture = french
-        religion = animist
-        size = 18
-    }
-
-    artisans = {
-        culture = french
-        religion = animist
-        size = 28
-    }
-
-    soldiers = {
-        culture = french
-        religion = animist
-        size = 28
-    }
-
     clergymen = {
         culture = dravidian
         religion = animist
@@ -7870,82 +7846,10 @@
         religion = animist
         size = 2600
     }
-
-    bureaucrats = {
-        culture = anglois
-        religion = animist
-        size = 0
-    }
-
-    clergymen = {
-        culture = anglois
-        religion = animist
-        size = 0
-    }
-
-    artisans = {
-        culture = anglois
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 1
-    }
-
-    bureaucrats = {
-        culture = french
-        religion = animist
-        size = 0
-    }
-
-    clergymen = {
-        culture = french
-        religion = animist
-        size = 0
-    }
-
-    artisans = {
-        culture = french
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = french
-        religion = animist
-        size = 1
-    }
 }
 #Under the rule of Denmark 1836
 #Trankebar (14000/4000 POPS)
 3251 = {
-    bureaucrats = {
-        culture = anglois
-        religion = animist
-        size = 26
-    }
-
-    clergymen = {
-        culture = anglois
-        religion = animist
-        size = 50
-    }
-
-    artisans = {
-        culture = anglois
-        religion = animist
-        size = 75
-    }
-
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 50
-    }
-
     clergymen = {
         culture = dravidian
         religion = animist
