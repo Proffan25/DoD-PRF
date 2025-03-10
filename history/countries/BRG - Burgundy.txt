@@ -1,11 +1,11 @@
-capital = 387
+capital = 390
 primary_culture = burgundian
 culture = dutch
 religion = animist
 government = hms_government
 plurality = 25.0
 nationalvalue = nv_order
-literacy = 0.01
+literacy = 0.5
 non_state_culture_literacy = 0.01
 civilized = yes
 prestige = 77 
@@ -65,7 +65,7 @@ practical_steam_engine = 1
 mechanical_production = 1
 private_bank_money_bill_printing = 1
 
-ruling_party = WLL_conservative
+ruling_party = generic_conservative
 upper_house = {
 	fascist = 0
 	liberal = 28
@@ -75,4 +75,5 @@ upper_house = {
 	socialist = 0
 	communist = 0
 }
+
 oob = "BRG_oob.txt"

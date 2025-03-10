@@ -60,7 +60,7 @@ BTV = {
 }
 army = {
 	name = "1e Divisie"
-	location = 375 
+	location = 390
 	regiment = {
 		name= "1e Cavalerie Brigade"
 		type = hussar
@@ -190,61 +190,61 @@ army = {
 	name = "3e Divisie"
 	location = 428
 	regiment = {
-		name= "1e Cavalerie Brigade"
+		name= "1. Cavalerie Brigade"
 		type = hussar
 		home = 431
 	}
 
 	regiment = {
-		name= "2e Cavalerie Brigade"
+		name= "1. Infanterie Brigade"
 		type = infantry
 		home = 428
 	}
 
 	regiment = {
-		name= "3e Cavalerie Brigade"
+		name= "2. Infanterie Brigade"
 		type = infantry
 		home = 429
 	}
 
 	regiment = {
-		name = "1e Infanterie Brigade"
+		name = "3. Infanterie Brigade"
 		type = infantry
-		home = 430
+		home = 575
 	}
 
 	regiment = {
-		name = "4e Infanterie Brigade"
+		name = "4. Infanterie Brigade"
 		type = infantry
 		home = 432
 	}
 
 	regiment = {
-		name = "5e Infanterie Brigade"
+		name = "1. Artillerie Brigade"
 		type = artillery
 		home = 432
 	}
 
 	regiment = {
-		name = "6e Infanterie Brigade"
+		name = "2. Artillerie Brigade"
 		type = artillery
 		home = 432
 	}
 	
 	regiment = {
-		name = "7e Infanterie Brigade"
+		name = "3. Artillerie Brigade"
 		type = artillery
 		home = 407
 	}
 	
 	regiment = {
-		name = "8e Infanterie Brigade"
+		name = "4. Artillerie Brigade"
 		type = artillery
 		home = 411
 	}
 	
 	regiment = {
-		name = "8e Infanterie Brigade"
+		name = "5. Artillerie Brigade"
 		type = artillery
 		home = 414
 	}
@@ -314,8 +314,8 @@ army = {
 	}
 }
 navy = {
-	name = "Dutch Navy"
-	location = 375
+	name = "Burgundian Navy"
+	location = 390
 	ship = {
 		name= "manowar"
 		type = manowar

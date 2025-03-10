@@ -87,17 +87,17 @@ country_event = {
 	}
 }
 
-#Starting 1836 Literacy Fix for Irish in the United Kingdom
+#Starting 1836 Literacy Fix for Minority POPs in Burgundy
 country_event = {
 	id = 123412349
-	title = "EVTNAME123412349"
-	desc = "EVTDESC123412349"
+	title = "Education Fix"
+	desc = "for minorities in Burgundy"
 	picture = "Administration"
 	
 	
 	trigger = {
 		year = 1836
-		tag = ENG
+		tag = BRG
 	} 
 
 	fire_only_once = yes
@@ -107,12 +107,25 @@ country_event = {
 	}
 	
 	option = {
-		name = "EVTOPTA123412349"
+		name = "Learn 2 read dud"
 		any_pop = {
 			limit = {
-				has_pop_culture = irish
+				OR = {	
+					has_pop_culture = dutch
+					has_pop_culture = rheinish
+				}
 			}
-			literacy = 0.20 #20 percent increase
+			literacy = 0.4 #40 percent increase
+		}
+		any_owned = {
+			any_pop = {
+				limit = { 
+					is_primary_culture = no
+					is_accepted_culture = no
+					type = bureaucrats
+				}
+				pop_type = artisans
+			}				
 		}
 	}
 }

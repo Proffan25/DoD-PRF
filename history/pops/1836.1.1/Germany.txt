@@ -5278,85 +5278,79 @@
 #Kleves (356000/89000 POPS)
 577 = {
     aristocrats = {
-        culture = rheinish
+        culture = dutch
         religion = animist
         size = 768
     }
 
     clergymen = {
-        culture = rheinish
+        culture = dutch
         religion = animist
         size = 768
     }
 
     artisans = {
-        culture = rheinish
+        culture = dutch
         religion = animist
         size = 3840
     }
 
     clerks = {
-        culture = rheinish
+        culture = dutch
         religion = animist
         size = 48
     }
 
     craftsmen = {
-        culture = rheinish
+        culture = dutch
         religion = animist
         size = 960
     }
 
     soldiers = {
-        culture = rheinish
+        culture = dutch
         religion = animist
-        size = 1435
+        size = 1560
     }
 
     farmers = {
-        culture = rheinish
+        culture = dutch
         religion = animist
         size = 68208
     }
 
     aristocrats = {
-        culture = rheinish
+        culture = dutch
         religion = animist
         size = 96
     }
 
     clergymen = {
-        culture = rheinish
+        culture = dutch
         religion = animist
         size = 72
     }
 
     artisans = {
-        culture = rheinish
+        culture = dutch
         religion = animist
         size = 432
     }
 
-    soldiers = {
-        culture = rheinish
-        religion = animist
-        size = 62
-    }
-
     farmers = {
-        culture = rheinish
+        culture = dutch
         religion = animist
         size = 7944
     }
 
     farmers = {
-        culture = rheinish
+        culture = dutch
         religion = animist
         size = 773
     }
 
     farmers = {
-        culture = rheinish
+        culture = dutch
         religion = animist
         size = 34
     }
@@ -5391,12 +5385,6 @@
         size = 40
     }
 
-    soldiers = {
-        culture = burgundian
-        religion = animist
-        size = 60
-    }
-
     farmers = {
         culture = burgundian
         religion = animist
@@ -5419,12 +5407,6 @@
         culture = burgundian
         religion = animist
         size = 18
-    }
-
-    soldiers = {
-        culture = burgundian
-        religion = animist
-        size = 3
     }
 
     farmers = {

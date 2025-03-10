@@ -614,127 +614,115 @@
 #Troyes (252000/63000 POPS)
 406 = {
     aristocrats = {
-        culture = french
+        culture = burgundian
         religion = animist
         size = 874
     }
 
     officers = {
-        culture = french
+        culture = burgundian
         religion = animist
         size = 349
     }
 
     bureaucrats = {
-        culture = french
+        culture = burgundian
         religion = animist
         size = 2433
     }
 
     clergymen = {
-        culture = french
+        culture = burgundian
         religion = animist
         size = 874
     }
 
     artisans = {
-        culture = french
+        culture = burgundian
         religion = animist
         size = 4374
     }
 
     soldiers = {
-        culture = french
+        culture = burgundian
         religion = animist
-        size = 283
+        size = 349
     }
 
     farmers = {
-        culture = french
+        culture = burgundian
         religion = animist
         size = 64985
     }
 
     aristocrats = {
-        culture = anglois
+        culture = burgundian
         religion = animist
         size = 23
     }
 
     officers = {
-        culture = anglois
+        culture = burgundian
         religion = animist
         size = 9
     }
 
     bureaucrats = {
-        culture = anglois
+        culture = burgundian
         religion = animist
         size = 60
     }
 
     clergymen = {
-        culture = anglois
+        culture = burgundian
         religion = animist
         size = 23
     }
 
     artisans = {
-        culture = anglois
+        culture = burgundian
         religion = animist
         size = 113
     }
 
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 33
-    }
-
     farmers = {
-        culture = anglois
+        culture = burgundian
         religion = animist
         size = 1671
     }
 
     aristocrats = {
-        culture = french
+        culture = burgundian
         religion = animist
         size = 27
     }
 
     officers = {
-        culture = french
+        culture = burgundian
         religion = animist
         size = 11
     }
 
     bureaucrats = {
-        culture = french
+        culture = burgundian
         religion = animist
         size = 72
     }
 
     clergymen = {
-        culture = french
+        culture = burgundian
         religion = animist
         size = 27
     }
 
     artisans = {
-        culture = french
+        culture = burgundian
         religion = animist
         size = 135
     }
 
-    soldiers = {
-        culture = french
-        religion = animist
-        size = 39
-    }
-
     farmers = {
-        culture = french
+        culture = burgundian
         religion = animist
         size = 2010
     }
@@ -780,127 +768,115 @@
 #Chalons (348000/87000 POPS)
 408 = {
     aristocrats = {
-        culture = french
+        culture = burgundian
         religion = animist
         size = 933
     }
 
     clergymen = {
-        culture = french
+        culture = burgundian
         religion = animist
         size = 990
     }
 
     artisans = {
-        culture = french
+        culture = burgundian
         religion = animist
         size = 3324
     }
 
     clerks = {
-        culture = french
+        culture = burgundian
         religion = animist
         size = 174
     }
 
     craftsmen = {
-        culture = french
+        culture = burgundian
         religion = animist
         size = 3565
     }
 
     soldiers = {
-        culture = french
+        culture = burgundian
         religion = animist
-        size = 1283
+        size = 1355
     }
 
     farmers = {
-        culture = french
+        culture = burgundian
         religion = animist
         size = 84586
     }
 
     aristocrats = {
-        culture = anglois
+        culture = burgundian
         religion = animist
         size = 24
     }
 
     clergymen = {
-        culture = anglois
+        culture = burgundian
         religion = animist
         size = 26
     }
 
     artisans = {
-        culture = anglois
+        culture = burgundian
         religion = animist
         size = 86
     }
 
     clerks = {
-        culture = anglois
+        culture = burgundian
         religion = animist
         size = 5
     }
 
     craftsmen = {
-        culture = anglois
+        culture = burgundian
         religion = animist
         size = 92
     }
 
-    soldiers = {
-        culture = anglois
-        religion = animist
-        size = 33
-    }
-
     farmers = {
-        culture = anglois
+        culture = burgundian
         religion = animist
         size = 2175
     }
 
     aristocrats = {
-        culture = french
+        culture = burgundian
         religion = animist
         size = 28
     }
 
     clergymen = {
-        culture = french
+        culture = burgundian
         religion = animist
         size = 31
     }
 
     artisans = {
-        culture = french
+        culture = burgundian
         religion = animist
         size = 102
     }
 
     clerks = {
-        culture = french
+        culture = burgundian
         religion = animist
         size = 4
     }
 
     craftsmen = {
-        culture = french
+        culture = burgundian
         religion = animist
         size = 110
     }
 
-    soldiers = {
-        culture = french
-        religion = animist
-        size = 39
-    }
-
     farmers = {
-        culture = french
+        culture = burgundian
         religion = animist
         size = 2616
     }
