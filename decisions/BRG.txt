@@ -1,0 +1,50 @@
+political_decisions = {	
+	brg_accept_rheinish = {
+        picture = froehliche_rheinland
+		potential = {
+			tag = BRG
+            NOT = { accepted_culture = rheinish }
+		}
+		allow = {
+			owns = 575
+			nationalism_n_imperialism = 1
+			experimental_psychology = 1
+		}
+		effect = {
+			add_accepted_culture = rheinish
+		}
+	}
+	
+	contest_crown_france = {
+        picture = french_path
+		potential = {
+			tag = BRG 
+			NOT = { has_country_flag = brg_crown_france_flag }
+		}
+		allow = {
+			FRA_425 = {
+				owned_by = THIS
+			}
+			FRA_404 = {
+				owned_by = THIS
+			}
+			FRA_418 = {
+				owned_by = THIS
+			}
+			FRA_438 = {
+				owned_by = THIS
+			}
+			FRA_442 = {
+				owned_by = THIS
+			}
+		}
+		effect = {
+			set_country_flag = brg_crown_france_flag
+			FRA_425 = { add_core = BRG }
+			FRA_404 = { add_core = BRG }
+			FRA_418 = { add_core = BRG }
+			FRA_438 = { add_core = BRG }
+			FRA_442 = { add_core = BRG }
+		}
+	}
+}
