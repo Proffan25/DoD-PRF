@@ -1,8 +1,6 @@
-owner = SAK
-controller = SAK
-add_core = SAK
+owner = DJA
+controller = DJA
+add_core = DJA
 #add_core = INO
 trade_goods = grain
 life_rating = 32
-
-

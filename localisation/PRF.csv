@@ -314,6 +314,10 @@ BRG_proletarian_dictatorship;Burgundian SR;;;;;;;;;;;;;
 BRG_democracy;Burgundian Republic;;;;;;;;;;;;;
 BRG_presidential_dictatorship;Burgundian Republic;;;;;;;;;;;;;
 BRG_ADJ;Burgundian;;;;;;;;;;;;;
+JOH;Malacca;;;;;;;;;;;;x
+JOH_ADJ;Malaccan;;;;;;;;;;;;;
+DJA;Palembang;;;;;;;;;;;;x
+DJA_ADJ;Palembang;;;;;;;;;;;;;
 #;;;;;;;;;;;;;;Cultures;;;;
 beornian;Beornian;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 english;English;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

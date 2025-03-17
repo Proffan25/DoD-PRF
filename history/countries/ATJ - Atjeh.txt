@@ -4,10 +4,10 @@ religion = animist
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_order
-literacy = 0.01
+literacy = 0.1
 non_state_culture_literacy = 0.01
 
-ruling_party = ATJ_conservative
+ruling_party = generic_conservative
 upper_house = {
 	fascist = 0
 	liberal = 15
@@ -23,7 +23,6 @@ consciousness = 0
 nonstate_consciousness = 0
 
 oob = "ATJ_oob.txt"
-
 
 slavery = no_slavery
 upper_house_composition = appointed
