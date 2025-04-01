@@ -1,7 +1,5 @@
-owner = PLC
-controller = PLC
-add_core = PLC
+owner = RUT
+controller = RUT
 add_core = RUT
 trade_goods = cattle
 life_rating = 37
-

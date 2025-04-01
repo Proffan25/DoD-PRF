@@ -1040,11 +1040,11 @@ AUS_647 = { 647 651 652 653 } #Alfold
 
 AUS_623 = { 623 639 640 642 643 644 } #Transdanubia
 
-AUS_736 = { 736 737 } #Friuli
+#AUS_736 = { 736 737 } #Friuli
 
-AUS_778 = { 778 769 770 } #Istria
+AUS_778 = { 736 737 778 769 770 } #Istria
 
-AUS_729 = { 729 730 731 732 733 } #Venetia
+AUS_729 = { 729 730 731 732 733 734 } #Venetia
 
 AUS_726 = { 726 727 728 2568 } #Lombardia
 
@@ -1056,11 +1056,11 @@ AUS_641 = { 641 645 646 648 649 650 } #Central Hungary
 
 #AUS_613 = { 616 618 617 } #Karnten-Steiermark
 
-#AUS_612 = { 612 613 614 615 } #Tirol
+AUS_612 = { 612 613 614 615 735 } #Tirol
 
-AUS_619 = { 619 620 621 622 624 612 613 614 615 616 618 617 } #Osterreich
+AUS_619 = { 619 620 621 622 624 616 618 617 } #Osterreich
 
-AUS_734 = { 734 735 } #South Tirol
+#AUS_734 = { 734 735 } #South Tirol
 
 AUS_768 = { 767 768 } #Slovenia
 
@@ -1109,9 +1109,9 @@ CHI_1086 = { 1086 1087 1088 1089 } #Sakhalin-Kuriles
 
 #BOL_2305 = { 2305 2307 2308 2309 }
 
-RUS_707 = { 936 937 938 939 940 } #Brest
+RUS_707 = { 719 936 937 938 939 940 } #Brest
 
-RUS_706 = { 708 709 711 715 719 } #Mazowieckie
+RUS_706 = { 708 709 711 715 } #Mazowieckie
 
 RUS_955 = { 955 956 957 } #Rovne
 
