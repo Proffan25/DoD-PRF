@@ -918,7 +918,7 @@ RUS_336 = { 336 337 338 341 342 982 } #Northern Finland
 
 RUS_354 = { 349 350 351 352 353 354 355 356 } #Northern Baltics
 
-RUS_360 = { 357 358 359 360 361 362 363 364 365 } #Southern Baltics
+RUS_360 = { 357 358 359 360 361 362 363 364 365 707 947 } #Southern Baltics
 
 RUS_981 = { 981 2589 985 986 2588 2699 2688 2687 } #Arkhangelsk
 
@@ -1067,15 +1067,14 @@ AUS_768 = { 767 768 } #Slovenia
 #AUS_777 = { 791 792 2538 }
 
 
-PRU_701 = { 699 700 701 691 690 } #Posen
+PRU_701 = { 699 700 701 } #Posen
 
 PRU_581 = { 581 580 582 583 584 585 578 579 2561 } #Westfalen
 
 PRU_553 = { 553 554 555 556 557 536 537 } #Magdeburg
 
-PRU_690 = { 693 694 696 695 697 698 } #Westpreussen
+PRU_690 = { 690 691 692 693	694 } #Westpreussen
 
-#PRU_695 = { 695 697 698 } #Ostpreussen
 
 PRU_572 = { 570 571 572 573 574 575 576 409 } #Rheinland
 
@@ -1083,7 +1082,7 @@ PRU_572 = { 570 571 572 573 574 575 576 409 } #Rheinland
 
 PRU_682 = { 682 683 684 685 } #Silesia
 
-PRU_549 = { 549 550 551 552 } #Brandenburg
+PRU_549 = { 549 550 551 552 681 } #Brandenburg
 
 #MEC_544 = { 369 370 371 529 530 }
 
@@ -1109,15 +1108,15 @@ CHI_1086 = { 1086 1087 1088 1089 } #Sakhalin-Kuriles
 
 #BOL_2305 = { 2305 2307 2308 2309 }
 
-RUS_707 = { 719 936 937 938 939 940 } #Brest
+RUS_707 = { 936 937 938 939 940 } #Brest
 
-RUS_706 = { 707 708 709 711 715 } #Mazowieckie
+RUS_706 = { 708 709 711 715 719 } #Mazowieckie
 
 RUS_955 = { 955 956 957 } #Rovne
 
 RUS_958 = { 954 958 959 960 961 } #Kiev
 
-RUS_718 = { 718 941 942 945 946 947 948 } #Minsk
+RUS_718 = { 718 941 942 945 946 948 } #Minsk
 
 #New/Modified REGIONS - GM
 
@@ -1435,7 +1434,7 @@ NET_385 = { 377 382 3257 383 385 386 384 3256 } #Friesland
 
 #PRU_546 = { 546 } #Vorpommern
 
-PRU_679 = { 679 680 692 546 681 } #Hinterpommern
+PRU_679 = { 679 680 546 } #Hinterpommern
 
 MEC_545 = { 530 544 545 528 369 529 547 548 } #Mecklenburg
 
