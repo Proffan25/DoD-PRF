@@ -545,85 +545,85 @@
 #Venice (448000/112000 POPS)
 729 = {
     aristocrats = {
-        culture = venetian
+        culture = north_italian
         religion = animist
         size = 2300
     }
 
     bureaucrats = {
-        culture = venetian
+        culture = north_italian
         religion = animist
         size = 1600
     }
 
     craftsmen = {
-        culture = venetian
+        culture = north_italian
         religion = animist
         size = 10045
     }
 
     officers = {
-        culture = venetian
+        culture = north_italian
         religion = animist
         size = 400
     }
 
     clergymen = {
-        culture = venetian
+        culture = north_italian
         religion = animist
         size = 1125
     }
 
     artisans = {
-        culture = venetian
+        culture = north_italian
         religion = animist
         size = 10000
     }
 
     artisans = {
-        culture = venetian
+        culture = north_italian
         religion = animist
         size = 10000
     }
 
     artisans = {
-        culture = venetian
+        culture = north_italian
         religion = animist
         size = 10000
     }
 
     artisans = {
-        culture = venetian
+        culture = north_italian
         religion = animist
         size = 10000
     }
 
     artisans = {
-        culture = venetian
+        culture = north_italian
         religion = animist
         size = 4000
     }
 
     soldiers = {
-        culture = venetian
+        culture = north_italian
         religion = animist
         size = 1150
     }
 
     farmers = {
-        culture = venetian
+        culture = north_italian
         religion = animist
         size = 60925
     }
 
     clergymen = {
-        culture = venetian
+        culture = north_italian
         religion = animist
         size = 10
     }
 
     artisans = {
-        culture = venetian
+        culture = north_italian
         religion = animist
         size = 490
     }
@@ -631,37 +631,37 @@
 #Verona (516000/129000 POPS)
 730 = {
     aristocrats = {
-        culture = venetian
+        culture = north_italian
         religion = animist
         size = 2650
     }
 
     clergymen = {
-        culture = venetian
+        culture = north_italian
         religion = animist
         size = 1300
     }
 
     artisans = {
-        culture = venetian
+        culture = north_italian
         religion = animist
         size = 10000
     }
 
     artisans = {
-        culture = venetian
+        culture = north_italian
         religion = animist
         size = 2000
     }
 
     soldiers = {
-        culture = venetian
+        culture = north_italian
         religion = animist
         size = 1300
     }
 
     farmers = {
-        culture = venetian
+        culture = north_italian
         religion = animist
         size = 111050
     }
@@ -669,31 +669,31 @@
 #Padua (564000/141000 POPS)
 731 = {
     aristocrats = {
-        culture = venetian
+        culture = north_italian
         religion = animist
         size = 2900
     }
 
     clergymen = {
-        culture = venetian
+        culture = north_italian
         religion = animist
         size = 1425
     }
 
     artisans = {
-        culture = venetian
+        culture = north_italian
         religion = animist
         size = 7500
     }
 
     soldiers = {
-        culture = venetian
+        culture = north_italian
         religion = animist
         size = 1400
     }
 
     farmers = {
-        culture = venetian
+        culture = north_italian
         religion = animist
         size = 127775
     }
@@ -701,31 +701,31 @@
 #Treviso (232000/58000 POPS)
 732 = {
     aristocrats = {
-        culture = venetian
+        culture = north_italian
         religion = animist
         size = 1175
     }
 
     clergymen = {
-        culture = venetian
+        culture = north_italian
         religion = animist
         size = 575
     }
 
     artisans = {
-        culture = venetian
+        culture = north_italian
         religion = animist
         size = 2900
     }
 
     soldiers = {
-        culture = venetian
+        culture = north_italian
         religion = animist
         size = 550
     }
 
     farmers = {
-        culture = venetian
+        culture = north_italian
         religion = animist
         size = 52800
     }
@@ -733,31 +733,31 @@
 #Udine (300000/75000 POPS)
 733 = {
     aristocrats = {
-        culture = venetian
+        culture = north_italian
         religion = animist
         size = 1550
     }
 
     clergymen = {
-        culture = venetian
+        culture = north_italian
         religion = animist
         size = 750
     }
 
     artisans = {
-        culture = venetian
+        culture = north_italian
         religion = animist
         size = 3750
     }
 
     soldiers = {
-        culture = venetian
+        culture = north_italian
         religion = animist
         size = 750
     }
 
     farmers = {
-        culture = venetian
+        culture = north_italian
         religion = animist
         size = 68200
     }
@@ -767,61 +767,61 @@
 #Trent (276000/69000 POPS) #now part of Italy
 734 = {
     aristocrats = {
-        culture = venetian
+        culture = north_italian
         religion = animist
         size = 60
     }
 
     clergymen = {
-        culture = venetian
+        culture = north_italian
         religion = animist
         size = 80
     }
 
     bureaucrats = {
-        culture = venetian
+        culture = north_italian
         religion = animist
         size = 4000
     }
 
     artisans = {
-        culture = venetian
+        culture = north_italian
         religion = animist
         size = 200
     }
 
     soldiers = {
-        culture = venetian
+        culture = north_italian
         religion = animist
         size = 50
     }
 
     farmers = {
-        culture = venetian
+        culture = north_italian
         religion = animist
         size = 4610
     }
 
     clergymen = {
-        culture = venetian
+        culture = north_italian
         religion = animist
         size = 575
     }
 
     artisans = {
-        culture = venetian
+        culture = north_italian
         religion = animist
         size = 2800
     }
 
     soldiers = {
-        culture = venetian
+        culture = north_italian
         religion = animist
         size = 550
     }
 
     farmers = {
-        culture = venetian
+        culture = north_italian
         religion = animist
         size = 60075
     }
@@ -886,141 +886,110 @@
 #under the rule of Austria in 1836
 #Trieste (112000/28000 POPS)
 736 = {
-    aristocrats = {
-        culture = venetian
-        religion = animist
-        size = 425
-    }
+	aristocrats = {
+		culture = north_italian
+		religion = animist
+		size = 500
+	}
 
-    bureaucrats = {
-        culture = venetian
-        religion = animist
-        size = 1000
-    }
+	bureaucrats = {
+		culture = north_italian
+		religion = animist
+		size = 2250
+	}
 
-    bureaucrats = {
-        culture = venetian
-        religion = animist
-        size = 2250
-    }
+	officers = {
+		culture = north_italian
+		religion = animist
+		size = 100
+	}
 
-    officers = {
-        culture = venetian
-        religion = animist
-        size = 100
-    }
+	clergymen = {
+		culture = north_italian
+		religion = animist
+		size = 250
+	}
 
-    clergymen = {
-        culture = venetian
-        religion = animist
-        size = 175
-    }
+	clergymen = {
+		culture = croat
+		religion = animist
+		size = 108
+	}
 
-    artisans = {
-        culture = venetian
-        religion = animist
-        size = 10000
-    }
+	artisans = {
+		culture = north_italian
+		religion = animist
+		size = 14000
+	}
 
-    artisans = {
-        culture = venetian
-        religion = animist
-        size = 3500
-    }
+	artisans = {
+		culture = croat
+		religion = animist
+		size = 4200
+	}
 
-    soldiers = {
-        culture = venetian
-        religion = animist
-        size = 175
-    }
+	soldiers = {
+		culture = north_italian
+		religion = animist
+		size = 600
+	}
 
-    farmers = {
-        culture = venetian
-        religion = animist
-        size = 2375
-    }
+	farmers = {
+		culture = north_italian
+		religion = animist
+		size = 19000
+	}
 
-    clergymen = {
-        culture = slovene
-        religion = animist
-        size = 100
-    }
-
-    artisans = {
-        culture = slovene
-        religion = animist
-        size = 4500
-    }
-
-    soldiers = {
-        culture = slovene
-        religion = animist
-        size = 100
-    }
-
-    farmers = {
-        culture = slovene
-        religion = animist
-        size = 6300
-    }
+	farmers = {
+		culture = croat
+		religion = animist
+		size = 5000
+	}
 }
 #Gorizia (180000/45000 POPS)
 737 = {
-    aristocrats = {
-        culture = venetian
-        religion = animist
-        size = 700
-    }
+	aristocrats = {
+		culture = north_italian
+		religion = animist
+		size = 700
+	}
 
-    clergymen = {
-        culture = venetian
-        religion = animist
-        size = 125
-    }
+	clergymen = {
+		culture = croat
+		religion = animist
+		size = 425
+	}
 
-    artisans = {
-        culture = venetian
-        religion = animist
-        size = 1250
-    }
+	artisans = {
+		culture = north_italian
+		religion = animist
+		size = 1175
+	}
 
-    soldiers = {
-        culture = venetian
-        religion = animist
-        size = 125
-    }
+	artisans = {
+		culture = croat
+		religion = animist
+		size = 1175
+	}
 
-    farmers = {
-        culture = venetian
-        religion = animist
-        size = 10800
-    }
+	soldiers = {
+		culture = north_italian
+		religion = animist
+		size = 450
+	}
 
-    clergymen = {
-        culture = slovene
-        religion = animist
-        size = 300
-    }
+	farmers = {
+		culture = north_italian
+		religion = animist
+		size = 16325
+	}
 
-    artisans = {
-        culture = slovene
-        religion = animist
-        size = 1100
-    }
-
-    soldiers = {
-        culture = slovene
-        religion = animist
-        size = 325
-    }
-
-    farmers = {
-        culture = slovene
-        religion = animist
-        size = 30375
-    }
+	farmers = {
+		culture = croat
+		religion = animist
+		size = 16325
+	}
 }
-#Emilia Region (1120000)
 #under the rule of Parma in 1836
 #Parma (472000/118000 POPS)
 738 = {

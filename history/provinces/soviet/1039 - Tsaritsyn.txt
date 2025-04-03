@@ -1,8 +1,6 @@
-owner = ASK
-controller = ASK
+owner = MUS
+controller = MUS
+add_core = MUS
 add_core = ASK
-add_core = CRI
-#add_core = UKR
 trade_goods = cattle
 life_rating = 35
-

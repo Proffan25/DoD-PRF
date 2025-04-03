@@ -189,51 +189,51 @@
 #under the rule of Austria in 1836
 #Kotor (64000/16000 POPS)
 2582 = {
-    clergymen = {
-        culture = croat
-        religion = animist
-        size = 135
-    }
+	clergymen = {
+		culture = croat
+		religion = animist
+		size = 135
+	}
 
-    artisans = {
-        culture = croat
-        religion = animist
-        size = 682
-    }
+	artisans = {
+		culture = croat
+		religion = animist
+		size = 682
+	}
 
-    soldiers = {
-        culture = croat
-        religion = animist
-        size = 135
-    }
+	soldiers = {
+		culture = north_italian
+		religion = animist
+		size = 954
+	}
 
-    farmers = {
-        culture = croat
-        religion = animist
-        size = 12713
-    }
+	farmers = {
+		culture = croat
+		religion = animist
+		size = 9753
+	}
 
-    clergymen = {
-        culture = serb
-        religion = animist
-        size = 272
-    }
+	clergymen = {
+		culture = serb
+		religion = animist
+		size = 272
+	}
 
-    artisans = {
-        culture = serb
-        religion = animist
-        size = 1502
-    }
+	artisans = {
+		culture = serb
+		religion = animist
+		size = 1502
+	}
 
-    soldiers = {
-        culture = serb
-        religion = animist
-        size = 340
-    }
+	farmers = {
+		culture = serb
+		religion = animist
+		size = 20643
+	}
 
-    farmers = {
-        culture = serb
-        religion = animist
-        size = 27957
-    }
+	artisans = {
+		culture = north_italian
+		religion = animist
+		size = 6747
+	}
 }

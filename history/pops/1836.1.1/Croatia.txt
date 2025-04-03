@@ -3,31 +3,31 @@
 #Pola (188000/47000 POPS) #now part of Croatia
 770 = {
     aristocrats = {
-        culture = venetian
+        culture = north_italian
         religion = animist
         size = 937
     }
 
     clergymen = {
-        culture = venetian
+        culture = north_italian
         religion = animist
         size = 250
     }
 
     artisans = {
-        culture = venetian
+        culture = north_italian
         religion = animist
         size = 1812
     }
 
     soldiers = {
-        culture = venetian
+        culture = north_italian
         religion = animist
         size = 281
     }
 
     farmers = {
-        culture = venetian
+        culture = north_italian
         religion = animist
         size = 26093
     }
@@ -294,59 +294,77 @@
 }
 #Senj (96000/24000 POPS)
 774 = {
-    aristocrats = {
-        culture = croat
-        religion = animist
-        size = 428
-    }
+	aristocrats = {
+		culture = north_italian
+		religion = animist
+		size = 428
+	}
 
-    clergymen = {
-        culture = croat
-        religion = animist
-        size = 195
-    }
+	bureaucrats = {
+		culture = north_italian
+		religion = animist
+		size = 1679
+	}
 
-    artisans = {
-        culture = croat
-        religion = animist
-        size = 1015
-    }
+	clergymen = {
+		culture = croat
+		religion = animist
+		size = 152
+	}
 
-    soldiers = {
-        culture = croat
-        religion = animist
-        size = 195
-    }
+	clergymen = {
+		culture = north_italian
+		religion = animist
+		size = 82
+	}
 
-    farmers = {
-        culture = croat
-        religion = animist
-        size = 18007
-    }
+	clergymen = {
+		culture = serb
+		religion = animist
+		size = 86
+	}
 
-    clergymen = {
-        culture = serb
-        religion = animist
-        size = 125
-    }
+	artisans = {
+		culture = croat
+		religion = animist
+		size = 790
+	}
 
-    artisans = {
-        culture = serb
-        religion = animist
-        size = 687
-    }
+	artisans = {
+		culture = north_italian
+		religion = animist
+		size = 440
+	}
 
-    soldiers = {
-        culture = serb
-        religion = animist
-        size = 156
-    }
+	artisans = {
+		culture = serb
+		religion = animist
+		size = 472
+	}
 
-    farmers = {
-        culture = serb
-        religion = animist
-        size = 12781
-    }
+	soldiers = {
+		culture = north_italian
+		religion = animist
+		size = 351
+	}
+
+	farmers = {
+		culture = croat
+		religion = animist
+		size = 14016
+	}
+
+	farmers = {
+		culture = north_italian
+		religion = animist
+		size = 7996
+	}
+
+	farmers = {
+		culture = serb
+		religion = animist
+		size = 8776
+	}
 }
 #Varadzin (68000/17000 POPS)
 775 = {
@@ -488,83 +506,53 @@
 }
 #Fiume (52000/13000 POPS)
 778 = {
-    clergymen = {
-        culture = croat
-        religion = animist
-        size = 77
-    }
+	aristocrats = {
+		culture = north_italian
+		religion = animist
+		size = 500
+	}
 
-    artisans = {
-        culture = croat
-        religion = animist
-        size = 1875
-    }
+	clergymen = {
+		culture = croat
+		religion = animist
+		size = 108
+	}
 
-    soldiers = {
-        culture = croat
-        religion = animist
-        size = 77
-    }
+	artisans = {
+		culture = croat
+		religion = animist
+		size = 2187
+	}
 
-    farmers = {
-        culture = croat
-        religion = animist
-        size = 7343
-    }
+	soldiers = {
+		culture = north_italian
+		religion = animist
+		size = 549
+	}
 
-    aristocrats = {
-        culture = venetian
-        religion = animist
-        size = 187
-    }
+	farmers = {
+		culture = croat
+		religion = animist
+		size = 8218
+	}
 
-    clergymen = {
-        culture = venetian
-        religion = animist
-        size = 62
-    }
+	clergymen = {
+		culture = north_italian
+		religion = animist
+		size = 93
+	}
 
-    artisans = {
-        culture = venetian
-        religion = animist
-        size = 1625
-    }
+	artisans = {
+		culture = north_italian
+		religion = animist
+		size = 1937
+	}
 
-    soldiers = {
-        culture = venetian
-        religion = animist
-        size = 93
-    }
-
-    farmers = {
-        culture = venetian
-        religion = animist
-        size = 5531
-    }
-
-    clergymen = {
-        culture = hungarian
-        religion = animist
-        size = 31
-    }
-
-    artisans = {
-        culture = hungarian
-        religion = animist
-        size = 312
-    }
-
-    soldiers = {
-        culture = hungarian
-        religion = animist
-        size = 31
-    }
-
-    farmers = {
-        culture = hungarian
-        religion = animist
-        size = 875
-    }
+	farmers = {
+		culture = north_italian
+		religion = animist
+		size = 17681
+	}
 }
 #Baranya Region (180000) #see Hungary.txt for balance of Region
 #under the rule of Austria in 1836
@@ -682,243 +670,183 @@
 #under the rule of Austria in 1836
 #Split (140000/35000 POPS)
 780 = {
-    aristocrats = {
-        culture = croat
-        religion = animist
-        size = 625
-    }
+	aristocrats = {
+		culture = north_italian
+		religion = animist
+		size = 625
+	}
 
-    clergymen = {
-        culture = croat
-        religion = animist
-        size = 546
-    }
+	clergymen = {
+		culture = croat
+		religion = animist
+		size = 455
+	}
 
-    artisans = {
-        culture = croat
-        religion = animist
-        size = 3125
-    }
+	clergymen = {
+		culture = north_italian
+		religion = animist
+		size = 122
+	}
 
-    soldiers = {
-        culture = croat
-        religion = animist
-        size = 546
-    }
+	artisans = {
+		culture = croat
+		religion = animist
+		size = 2606
+	}
 
-    farmers = {
-        culture = croat
-        religion = animist
-        size = 53671
-    }
+	artisans = {
+		culture = north_italian
+		religion = animist
+		size = 1144
+	}
 
-    clergymen = {
-        culture = venetian
-        religion = animist
-        size = 31
-    }
+	soldiers = {
+		culture = north_italian
+		religion = animist
+		size = 577
+	}
 
-    artisans = {
-        culture = venetian
-        religion = animist
-        size = 625
-    }
+	farmers = {
+		culture = croat
+		religion = animist
+		size = 44749
+	}
 
-    soldiers = {
-        culture = venetian
-        religion = animist
-        size = 31
-    }
-
-    farmers = {
-        culture = venetian
-        religion = animist
-        size = 562
-    }
+	farmers = {
+		culture = north_italian
+		religion = animist
+		size = 9484
+	}
 }
 #Zadar (128000/32000 POPS)
 781 = {
-    aristocrats = {
-        culture = croat
-        religion = animist
-        size = 390
-    }
+	aristocrats = {
+		culture = north_italian
+		religion = animist
+		size = 390
+	}
 
-    bureaucrats = {
-        culture = croat
-        religion = animist
-        size = 781
-    }
+	bureaucrats = {
+		culture = north_italian
+		religion = animist
+		size = 1249
+	}
 
-    officers = {
-        culture = croat
-        religion = animist
-        size = 116
-    }
+	officers = {
+		culture = croat
+		religion = animist
+		size = 116
+	}
 
-    clergymen = {
-        culture = croat
-        religion = animist
-        size = 351
-    }
+	clergymen = {
+		culture = croat
+		religion = animist
+		size = 285
+	}
 
-    artisans = {
-        culture = croat
-        religion = animist
-        size = 937
-    }
+	clergymen = {
+		culture = north_italian
+		religion = animist
+		size = 226
+	}
 
-    soldiers = {
-        culture = croat
-        religion = animist
-        size = 351
-    }
+	clergymen = {
+		culture = serb
+		religion = animist
+		size = 26
+	}
 
-    farmers = {
-        culture = croat
-        religion = animist
-        size = 32070
-    }
+	artisans = {
+		culture = croat
+		religion = animist
+		size = 762
+	}
 
-    bureaucrats = {
-        culture = venetian
-        religion = animist
-        size = 468
-    }
+	artisans = {
+		culture = north_italian
+		religion = animist
+		size = 1320
+	}
 
-    clergymen = {
-        culture = venetian
-        religion = animist
-        size = 93
-    }
+	artisans = {
+		culture = serb
+		religion = animist
+		size = 105
+	}
 
-    artisans = {
-        culture = venetian
-        religion = animist
-        size = 875
-    }
+	soldiers = {
+		culture = north_italian
+		religion = animist
+		size = 475
+	}
 
-    soldiers = {
-        culture = venetian
-        religion = animist
-        size = 31
-    }
+	farmers = {
+		culture = croat
+		religion = animist
+		size = 26082
+	}
 
-    farmers = {
-        culture = venetian
-        religion = animist
-        size = 2656
-    }
+	farmers = {
+		culture = north_italian
+		religion = animist
+		size = 14535
+	}
 
-    clergymen = {
-        culture = serb
-        religion = animist
-        size = 93
-    }
-
-    artisans = {
-        culture = serb
-        religion = animist
-        size = 375
-    }
-
-    soldiers = {
-        culture = serb
-        religion = animist
-        size = 93
-    }
-
-    farmers = {
-        culture = serb
-        religion = animist
-        size = 8187
-    }
+	farmers = {
+		culture = serb
+		religion = animist
+		size = 2296
+	}
 }
 #Dubrovnik (52000/13000 POPS)
 782 = {
-    aristocrats = {
-        culture = croat
-        religion = animist
-        size = 116
-    }
+	aristocrats = {
+		culture = north_italian
+		religion = animist
+		size = 178
+	}
 
-    clergymen = {
-        culture = croat
-        religion = animist
-        size = 156
-    }
+	clergymen = {
+		culture = croat
+		religion = animist
+		size = 123
+	}
 
-    artisans = {
-        culture = croat
-        religion = animist
-        size = 781
-    }
+	clergymen = {
+		culture = north_italian
+		religion = animist
+		size = 126
+	}
 
-    soldiers = {
-        culture = croat
-        religion = animist
-        size = 156
-    }
+	artisans = {
+		culture = croat
+		religion = animist
+		size = 614
+	}
 
-    farmers = {
-        culture = croat
-        religion = animist
-        size = 14413
-    }
+	artisans = {
+		culture = north_italian
+		religion = animist
+		size = 917
+	}
 
-    aristocrats = {
-        culture = venetian
-        religion = animist
-        size = 62
-    }
+	soldiers = {
+		culture = north_italian
+		religion = animist
+		size = 218
+	}
 
-    clergymen = {
-        culture = venetian
-        religion = animist
-        size = 31
-    }
+	farmers = {
+		culture = croat
+		religion = animist
+		size = 11324
+	}
 
-    artisans = {
-        culture = venetian
-        religion = animist
-        size = 625
-    }
-
-    soldiers = {
-        culture = venetian
-        religion = animist
-        size = 31
-    }
-
-    farmers = {
-        culture = venetian
-        religion = animist
-        size = 500
-    }
-
-    clergymen = {
-        culture = serb
-        religion = animist
-        size = 62
-    }
-
-    artisans = {
-        culture = serb
-        religion = animist
-        size = 125
-    }
-
-    soldiers = {
-        culture = serb
-        religion = animist
-        size = 31
-    }
-
-    farmers = {
-        culture = serb
-        religion = animist
-        size = 2281
-    }
+	farmers = {
+		culture = north_italian
+		religion = animist
+		size = 5870
+	}
 }
 #Banat-Bacska Region (104000) #See Serbia.txt and Romania.txt for balance of region
 #under the rule of Austria in 1836

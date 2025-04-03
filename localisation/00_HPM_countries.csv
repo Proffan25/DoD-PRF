@@ -2426,17 +2426,6 @@ BYZ_democracy;The Greek Federation;;;;;;;;;;;;;x
 BYZ_presidential_dictatorship;The Greek Federation;;;;;;;;;;;;;x
 BYZ_bourgeois_dictatorship;The Greek Federation;;;;;;;;;;;;;x
 BYZ_proletarian_dictatorship;The Socialist Greek Union;;;;;;;;;;;;;x
-TUR;Turkey;;;;;;;;;x;;;;
-TUR_ADJ;Turkish;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-TUR_absolute_monarchy;The Ottoman Empire;;;;;;;;;;;;;;;;;;;;;;;;x
-TUR_absolute_monarchy_ADJ;Ottoman;;;;;;;;;;;;;;;;;;;;;;;;x
-TUR_prussian_constitutionalism;The Ottoman Empire;;;;;;;;;;;;;;;;;;;;;;;x
-TUR_prussian_constitutionalism_ADJ;Ottoman;;;;;;;;;;;;;;;;;;;;;;;;x
-TUR_hms_government;The Ottoman Empire;;;;;;;;;;;;;;;;;;;;;;;;x
-TUR_hms_government_ADJ;Ottoman;;;;;;;;;;;;;;;;;;;;;;;;x
-TUR_bourgeois_dictatorship;Turkish Free State;;;;;;;;;;;;;x
-TUR_proletarian_dictatorship;Turkish Socialist Republic;;;;;;;;;;;;;x
-TUR_proletarian_dictatorship_ADJ;Turkish;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
 TUR_reactionary;Nizam-i Alem;;;;;;;;;;;;;x
 TUR_reactionary_2;Ittihad-i Muhammedi Firkasi;;;;;;;;;;;;;x
 TUR_reactionary_3;Halâskâr Zabitân;;;;;;;;;;;;;x
@@ -2570,16 +2559,6 @@ UZB_anarcho_liberal;The Radical Faction;Faction radicale;Die radikale Fraktion;;
 UZB_socialist;The Socialist Faction;Faction socialiste;Die sozialistische Fraktion;;;;;;;;;;;;x;;;;;;;;;;;;;;
 UZB_communist;The Communist Faction;Faction communiste;Die kommunistische Fraktion;;;;;;;;;;;;x;;;;;;;;;;;;;;
 UZB_fascist;The Fascist Faction;Faction fasciste;Die faschistische Fraktion;;;;;;;;;;;;x;;;;;;;;;;;;;;
-VEN_democracy;The Republic of San Marco;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-VEN_presidential_dictatorship;The Republic of San Marco;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-VEN_reactionary;Monarchici;Monarchici;Monarchici;;Monarchici;;;;;;;;;x
-VEN_liberal;Intransigenti;Intransigenti;Intransige nti;;Intransigenti;;;;;;;;;x
-VEN_conservative;Transigenti;Transigenti;Transigen ti;;Transigenti;;;;;;;;;x
-VEN_socialist;Socialisti;Socialisti;Socialisti;;So cialisti;;;;;;;;;x
-VEN_communist;Rivoluzionari;Rivoluzionari;Rivoluzionari;;Rivoluzio nari;;;;;;;;;x
-VEN_reactionary_2;Cattolici;Cattolici;Cattolici;;C attolici;;;;;;;;;x
-VEN_anarcho_liberal;Radicali;Radicali;Radicali;;Radicali;;;;;;;;;x
-VEN_fascist;Fascisti;Fascisti;Fascisti;;Fascisti;;;;;;;;;x
 VIC;Victoria;Victoria;Victoria;;;;;;;;;;;x
 VIC_ADJ;Victorian;Victorian;Victorian;;;;;;;;;;;x
 VIC_conservative;Conservative Faction;Conservative Faction;Conservative Faction;;;;;;;;;;;x

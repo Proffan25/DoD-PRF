@@ -1,6 +1,5 @@
 capital = 729
-primary_culture = venetian
-culture = north_italian
+primary_culture = north_italian
 religion = animist
 government = democracy
 plurality = 25.0
@@ -57,7 +56,7 @@ water_wheel_power = 1
 publishing_industry = 1
 ad_hoc_money_bill_printing = 1
 
-ruling_party = VEN_conservative
+ruling_party = generic_conservative
 upper_house = {
 	fascist = 0
 	liberal = 30
@@ -67,4 +66,5 @@ upper_house = {
 	socialist = 0
 	communist = 0
 }
+
 oob = "VEN_oob.txt"

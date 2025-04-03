@@ -257,25 +257,25 @@
     }
 
     clergymen = {
-        culture = slovene
+        culture = croat
         religion = animist
         size = 198
     }
 
     artisans = {
-        culture = slovene
+        culture = croat
         religion = animist
         size = 1080
     }
 
     soldiers = {
-        culture = slovene
+        culture = croat
         religion = animist
         size = 341
     }
 
     farmers = {
-        culture = slovene
+        culture = croat
         religion = animist
         size = 18983
     }

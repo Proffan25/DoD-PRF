@@ -318,6 +318,25 @@ JOH;Malacca;;;;;;;;;;;;x
 JOH_ADJ;Malaccan;;;;;;;;;;;;;
 DJA;Palembang;;;;;;;;;;;;x
 DJA_ADJ;Palembang;;;;;;;;;;;;;
+VEN;Venice;;;;;;;;;;;;;
+VEN_ADJ;Venetian;;;;;;;;;;;;;
+MAC;Macedonia;;;;;;;;;;;;;
+MAC_ADJ;Macedonian;;;;;;;;;;;;;
+TUR;Turkey;;;;;;;;;x;;;;
+TUR_ADJ;Turkish;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+TUR_absolute_monarchy;Ottoman Empire;;;;;;;;;;;;;;;;;;;;;;;;x
+TUR_absolute_monarchy_ADJ;Ottoman;;;;;;;;;;;;;;;;;;;;;;;;x
+TUR_prussian_constitutionalism;Ottoman Empire;;;;;;;;;;;;;;;;;;;;;;;x
+TUR_prussian_constitutionalism_ADJ;Ottoman;;;;;;;;;;;;;;;;;;;;;;;;x
+TUR_hms_government;Ottoman Empire;;;;;;;;;;;;;;;;;;;;;;;;x
+TUR_hms_government_ADJ;Ottoman;;;;;;;;;;;;;;;;;;;;;;;;x
+TUR_proletarian_dictatorship;Turkish SR;;;;;;;;;;;;;x
+TUR_proletarian_dictatorship_ADJ;Turkish;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+TUR_fascist_dictatorship;Turkish State;;;;;;;;;;;;;
+TUR_presidential_dictatorship;Republic of Turkey;;;;;;;;;;;;;
+TUR_democracy;Republic of Turkey;;;;;;;;;;;;;
+CRO;Illyria;;;;;;;;;x;;;;
+CRO_ADJ;Illyrian;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 #;;;;;;;;;;;;;;Cultures;;;;
 beornian;Beornian;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 english;English;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -338,6 +357,7 @@ qingqiuan;Qingqiuan;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 anglois;Anglois;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 scottish;Scottish;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 burgundian;Burgundian;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+croat;Illyrian;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 #;;;;;;;;;;;;;;RGOs;;;;
 opium;Copium;Copium;Copium;;Copium;;;;;;;;;x;;;;
 #;;;;;;;;;;;;;;States;;;;

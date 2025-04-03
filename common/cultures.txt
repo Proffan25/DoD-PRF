@@ -891,7 +891,7 @@ baltic = {
 levantine = {
 	leader = european
 	greek = {
-		color = {200 50 100}
+		color = { 122  180  210 }
 		first_names = { Adamantios Alexandros Anastasios Andreas Antonios Aristidis Athanasios Augustinos Benizelos Charalambos
 		Charilaos Dimitrios Diomidis Eleftherios Emmanouil Epameinontas Evripidis Gennaios Georgios Ilias
 		Ionnis Kitsos Konstantinos Kyriakos Kyriakoulis Leonidas Makarios Markos Mikhael Militiadis

@@ -1,6 +1,8 @@
 capital = 834
 primary_culture = greek
 culture = bulgarian
+culture = turkish
+culture = sephardic
 religion = animist
 government = absolute_monarchy
 plurality = 0.0
@@ -29,7 +31,7 @@ pensions = no_pensions
 
 school_reforms = no_schools
 
-ruling_party = GRE_conservative
+ruling_party = generic_conservative
 upper_house = {
 	fascist = 0
 	liberal = 35

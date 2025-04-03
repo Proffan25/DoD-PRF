@@ -39,25 +39,25 @@
     }
 
     clergymen = {
-        culture = slovene
+        culture = croat
         religion = animist
         size = 568
     }
 
     artisans = {
-        culture = slovene
+        culture = croat
         religion = animist
         size = 2024
     }
 
     soldiers = {
-        culture = slovene
+        culture = croat
         religion = animist
         size = 852
     }
 
     farmers = {
-        culture = slovene
+        culture = croat
         religion = animist
         size = 55027
     }
@@ -67,43 +67,43 @@
 #Ljubljana (280000/70000 POPS)
 768 = {
     aristocrats = {
-        culture = slovene
+        culture = croat
         religion = animist
         size = 1042
     }
 
     bureaucrats = {
-        culture = slovene
+        culture = croat
         religion = animist
         size = 1422
     }
 
     officers = {
-        culture = slovene
+        culture = croat
         religion = animist
         size = 126
     }
 
     clergymen = {
-        culture = slovene
+        culture = croat
         religion = animist
         size = 885
     }
 
     artisans = {
-        culture = slovene
+        culture = croat
         religion = animist
         size = 5060
     }
 
     soldiers = {
-        culture = slovene
+        culture = croat
         religion = animist
         size = 2086
     }
 
     farmers = {
-        culture = slovene
+        culture = croat
         religion = animist
         size = 79884
     }
@@ -111,31 +111,31 @@
 #Postojna (180000/45000 POPS)
 769 = {
     aristocrats = {
-        culture = slovene
+        culture = croat
         religion = animist
         size = 500
     }
 
     clergymen = {
-        culture = slovene
+        culture = croat
         religion = animist
         size = 425
     }
 
     artisans = {
-        culture = slovene
+        culture = croat
         religion = animist
         size = 2100
     }
 
     soldiers = {
-        culture = slovene
+        culture = croat
         religion = animist
         size = 425
     }
 
     farmers = {
-        culture = slovene
+        culture = croat
         religion = animist
         size = 39575
     }
