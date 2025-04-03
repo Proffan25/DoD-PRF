@@ -54,6 +54,7 @@ PRV		= "countries/Provence.txt"
 OCC		= "countries/Occitania.txt"
 WLS		= "countries/Wales.txt"
 BRT		= "countries/Brittany.txt"
+HIS		= "countries/Hispanic Empire.txt"
 
 # Germany
 ANH		= "countries/Anhalt.txt"

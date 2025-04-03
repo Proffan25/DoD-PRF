@@ -337,6 +337,8 @@ TUR_presidential_dictatorship;Republic of Turkey;;;;;;;;;;;;;
 TUR_democracy;Republic of Turkey;;;;;;;;;;;;;
 CRO;Illyria;;;;;;;;;x;;;;
 CRO_ADJ;Illyrian;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+HIS;Hispanic Empire;;;;;;;;;x;;;;
+HIS_ADJ;Hispanic;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 #;;;;;;;;;;;;;;Cultures;;;;
 beornian;Beornian;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 english;English;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
