@@ -2,163 +2,163 @@
 #under the rule of Ottoman Empire in 1836
 #Nicosia (64000/16000 POPS)
 855 = {
-    aristocrats = {
-        culture = greek
-        religion = animist
-        size = 275
-    }
+	aristocrats = {
+		culture = north_italian
+		religion = animist
+		size = 275
+	}
 
-    bureaucrats = {
-        culture = greek
-        religion = animist
-        size = 250
-    }
+	bureaucrats = {
+		culture = north_italian
+		religion = animist
+		size = 250
+	}
 
-    officers = {
-        culture = greek
-        religion = animist
-        size = 50
-    }
+	officers = {
+		culture = north_italian
+		religion = animist
+		size = 50
+	}
 
-    clergymen = {
-        culture = greek
-        religion = animist
-        size = 75
-    }
+	clergymen = {
+		culture = greek
+		religion = animist
+		size = 131
+	}
 
-    artisans = {
-        culture = greek
-        religion = animist
-        size = 500
-    }
+	artisans = {
+		culture = greek
+		religion = animist
+		size = 1062
+	}
 
-    soldiers = {
-        culture = greek
-        religion = animist
-        size = 175
-    }
+	soldiers = {
+		culture = north_italian
+		religion = animist
+		size = 175
+	}
 
-    farmers = {
-        culture = greek
-        religion = animist
-        size = 2875
-    }
+	farmers = {
+		culture = greek
+		religion = animist
+		size = 8425
+	}
 
-    clergymen = {
-        culture = greek
-        religion = animist
-        size = 100
-    }
+	clergymen = {
+		culture = north_italian
+		religion = animist
+		size = 44
+	}
 
-    artisans = {
-        culture = greek
-        religion = animist
-        size = 750
-    }
+	artisans = {
+		culture = north_italian
+		religion = animist
+		size = 188
+	}
 
-    farmers = {
-        culture = greek
-        religion = animist
-        size = 11150
-    }
+	farmers = {
+		culture = north_italian
+		religion = animist
+		size = 5600
+	}
 }
 #Limassol (44000/11000 POPS)
 856 = {
-    aristocrats = {
-        culture = greek
-        religion = animist
-        size = 200
-    }
+	aristocrats = {
+		culture = north_italian
+		religion = animist
+		size = 200
+	}
 
-    clergymen = {
-        culture = greek
-        religion = animist
-        size = 50
-    }
+	clergymen = {
+		culture = greek
+		religion = animist
+		size = 106
+	}
 
-    artisans = {
-        culture = greek
-        religion = animist
-        size = 300
-    }
+	artisans = {
+		culture = greek
+		religion = animist
+		size = 595
+	}
 
-    soldiers = {
-        culture = greek
-        religion = animist
-        size = 100
-    }
+	soldiers = {
+		culture = north_italian
+		religion = animist
+		size = 100
+	}
 
-    farmers = {
-        culture = greek
-        religion = animist
-        size = 1350
-    }
+	farmers = {
+		culture = greek
+		religion = animist
+		size = 5915
+	}
 
-    clergymen = {
-        culture = greek
-        religion = animist
-        size = 75
-    }
+	clergymen = {
+		culture = north_italian
+		religion = animist
+		size = 19
+	}
 
-    artisans = {
-        culture = greek
-        religion = animist
-        size = 400
-    }
+	artisans = {
+		culture = north_italian
+		religion = animist
+		size = 105
+	}
 
-    farmers = {
-        culture = greek
-        religion = animist
-        size = 8525
-    }
+	farmers = {
+		culture = north_italian
+		religion = animist
+		size = 3961
+	}
 }
 #Famagusta (44000/11000 POPS)
 857 = {
-    aristocrats = {
-        culture = greek
-        religion = animist
-        size = 200
-    }
+	aristocrats = {
+		culture = north_italian
+		religion = animist
+		size = 200
+	}
 
-    clergymen = {
-        culture = greek
-        religion = animist
-        size = 50
-    }
+	clergymen = {
+		culture = greek
+		religion = animist
+		size = 100
+	}
 
-    artisans = {
-        culture = greek
-        religion = animist
-        size = 150
-    }
+	artisans = {
+		culture = greek
+		religion = animist
+		size = 440
+	}
 
-    soldiers = {
-        culture = greek
-        religion = animist
-        size = 100
-    }
+	soldiers = {
+		culture = north_italian
+		religion = animist
+		size = 100
+	}
 
-    farmers = {
-        culture = greek
-        religion = animist
-        size = 2500
-    }
+	farmers = {
+		culture = greek
+		religion = animist
+		size = 6020
+	}
 
-    clergymen = {
-        culture = greek
-        religion = animist
-        size = 75
-    }
+	clergymen = {
+		culture = north_italian
+		religion = animist
+		size = 25
+	}
 
-    artisans = {
-        culture = greek
-        religion = animist
-        size = 400
-    }
+	artisans = {
+		culture = north_italian
+		religion = animist
+		size = 110
+	}
 
-    farmers = {
-        culture = greek
-        religion = animist
-        size = 7525
-    }
+	farmers = {
+		culture = north_italian
+		religion = animist
+		size = 4005
+	}
 }
