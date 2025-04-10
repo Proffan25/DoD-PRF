@@ -49,7 +49,7 @@ political_decisions = {
 		effect = {
 			add_accepted_culture = lusitanian
 			add_accepted_culture = mexican
-			add_accepted_culture = salvadorian
+			add_accepted_culture = central_american
 			add_accepted_culture = granadan
 			SPA = { all_core = { add_core = HIS remove_core = SPA } }
 			CLM = { all_core = { add_core = HIS } }
