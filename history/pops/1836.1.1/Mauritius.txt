@@ -3,61 +3,37 @@
 #Mauritius (98000/24500 POPS)
 2125 = {
     bureaucrats = {
-        culture = burgundian
-        religion = animist
-        size = 20
-    }
-
-    clergymen = {
-        culture = burgundian
-        religion = animist
-        size = 25
-    }
-
-    artisans = {
-        culture = burgundian
-        religion = animist
-        size = 130
-    }
-
-    soldiers = {
-        culture = burgundian
-        religion = animist
-        size = 25
-    }
-
-    aristocrats = {
-        culture = french
+        culture = portuguese
         religion = animist
         size = 50
     }
 
-    bureaucrats = {
-        culture = french
+    clergymen = {
+        culture = portuguese
         religion = animist
-        size = 30
+        size = 45
     }
 
     artisans = {
-        culture = french
+        culture = portuguese
         religion = animist
-        size = 180
-    }
-
-    clergymen = {
-        culture = french
-        religion = animist
-        size = 20
+        size = 310
     }
 
     soldiers = {
-        culture = french
+        culture = portuguese
         religion = animist
-        size = 20
+        size = 295
+    }
+
+    aristocrats = {
+        culture = portuguese
+        religion = animist
+        size = 50
     }
 
     farmers = {
-        culture = french
+        culture = portuguese
         religion = animist
         size = 200
     }
@@ -72,12 +48,6 @@
         culture = malagasy
         religion = animist
         size = 1100
-    }
-
-    soldiers = {
-        culture = malagasy
-        religion = animist
-        size = 250
     }
 
     farmers = {

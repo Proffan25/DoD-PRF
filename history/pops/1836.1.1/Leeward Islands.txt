@@ -165,55 +165,55 @@
 #Saint Kitts (26500/6625 POPS) #now independent
 2227 = {
     aristocrats = {
-        culture = scandinavian
+        culture = spanish
         religion = animist
         size = 75
     }
 
     clergymen = {
-        culture = scandinavian
+        culture = spanish
         religion = animist
         size = 15
     }
 
     artisans = {
-        culture = scandinavian
+        culture = spanish
         religion = animist
         size = 225
     }
 
     farmers = {
-        culture = scandinavian
+        culture = spanish
         religion = animist
         size = 260
     }
 
     clergymen = {
-        culture = afro_caribbean
+        culture = afro_caribeno
         religion = animist
         size = 75
     }
 
     artisans = {
-        culture = afro_caribbean
+        culture = afro_caribeno
         religion = animist
         size = 150
     }
 
     soldiers = {
-        culture = afro_caribbean
+        culture = afro_caribeno
         religion = animist
         size = 125
     }
 
     farmers = {
-        culture = afro_caribbean
+        culture = afro_caribeno
         religion = animist
         size = 900
     }
 
     slaves = {
-        culture = afro_caribbean
+        culture = afro_caribeno
         religion = animist
         size = 5000
     }

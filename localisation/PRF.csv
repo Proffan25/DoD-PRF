@@ -66,8 +66,10 @@ dm_assim_nerf_removal_title;Assimilation nerf removal;;;;;;;;;;;;x,,,,
 dm_assim_nerf_removal_desc;\n\n§GAllows you assimilate French, English and Irish pops regardless of which path you chose.;;;;;;;;;;;;x,,,,
 brg_accept_rheinish_title;Integration of the Rheinland;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 brg_accept_rheinish_desc;The Rhine River has been the official border of the Kingdom of Burgundy since the conquests of Charles the Bold of 1483, even if it would take time to integrate the various duchies and cities in the Burgundian state. While they never enjoyed the same relation the Dutch had with the Valois the Rhineland was not a rebellious area, that is until the German revolution. Ever since the contract between Burgundy and the Rhenish seemed to have been broken. Eventually with efficient policies of integration this trust can be rebuild as to secure the loyalty of the Rhineland to Anvers.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-contest_crown_france_title;Contest the Crown of France;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-contest_crown_france_desc;Long have the Platagenets neglect the lands of France. With the French duchies now under our control, we can claim the crown as a way to get letimaticy in our new acquired territories.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+form_iberia_title;Unite Iberia;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+form_iberia_desc;Uniting Iberia was one of the ambitions of medieval monarchs of the Iberian peninsula. Sancho III of Navarre and Alfonso VII of León and Castile both took the title Imperator Totius Hispaniae, meaning 'Emperor of All Hispania' centuries before. But with the rise of the Dual Monarchy in the East it was too dangerous for Castille to extend its territories and instead of the planned union with Aragon, the Kingdom of Spain was created by merging the crowns of Castille and Portugal. With our control of the former Aragonese lands of Catalunya we can proclaim the Iberian Union.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+form_hipanic_empire_title;The Hispanic Commonwealth;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+form_hipanic_empire_desc;Liberalisation has changed our society and the old relationship between peninsulares and criollos, based on inequality and submission to the metropolis, can no longer stand. It is time to move on to a new era of brotherhood between the Hispanic peoples and create a Commonwealth bringing together in harmony the metropolis and its erstwhile colonies. Spain and Colombia, bonded by blood and fire, from the conquest of the Indies to the bloody revolutionary warfare, enter a new age of reconciliation and equality.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 #;;;;;;;;;;;;;;Modifiers;;;;
 continental_army;Continental Army;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;
 continental_army_desc;Irish please apply, we need more soldiers UwU.;;;;;;;;;;;;;x,,,,,,,,,,,,;;;;;;;;;;;
@@ -337,8 +339,24 @@ TUR_presidential_dictatorship;Republic of Turkey;;;;;;;;;;;;;
 TUR_democracy;Republic of Turkey;;;;;;;;;;;;;
 CRO;Illyria;;;;;;;;;x;;;;
 CRO_ADJ;Illyrian;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-HIS;Hispanic Empire;;;;;;;;;x;;;;
-HIS_ADJ;Hispanic;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+IBE;Iberia;;;;;;;;;;;;x
+IBE_absolute_monarchy;Iberian Empire;;;;;;;;;;;;;
+IBE_prussian_constitutionalism;Iberian Empire;;;;;;;;;;;;;
+IBE_hms_government;Iberian Empire;;;;;;;;;;;;;
+IBE_fascist_dictatorship;Iberian State;;;;;;;;;;;;;
+IBE_proletarian_dictatorship;Iberian SFR;;;;;;;;;;;;;
+IBE_democracy;Iberian Federation;;;;;;;;;;;;;
+IBE_presidential_dictatorship;Iberian Federation;;;;;;;;;;;;;
+IBE_ADJ;Iberian;;;;;;;;;;;;;
+HIS;Hispania;;;;;;;;;;;;x
+HIS_absolute_monarchy;Hispanic Empire;;;;;;;;;;;;;
+HIS_prussian_constitutionalism;Hispanic Empire;;;;;;;;;;;;;
+HIS_hms_government;Hispanic Empire;;;;;;;;;;;;;
+HIS_fascist_dictatorship;Hispanic State;;;;;;;;;;;;;
+HIS_proletarian_dictatorship;Hispanic SFR;;;;;;;;;;;;;
+HIS_democracy;Hispanic Federation;;;;;;;;;;;;;
+HIS_presidential_dictatorship;Hispanic Federation;;;;;;;;;;;;;
+HIS_ADJ;Hispanic;;;;;;;;;;;;;
 #;;;;;;;;;;;;;;Cultures;;;;
 beornian;Beornian;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 english;English;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -360,6 +378,7 @@ anglois;Anglois;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 scottish;Scottish;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 burgundian;Burgundian;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 croat;Illyrian;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+spanish;Castilian;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 #;;;;;;;;;;;;;;RGOs;;;;
 opium;Copium;Copium;Copium;;Copium;;;;;;;;;x;;;;
 #;;;;;;;;;;;;;;States;;;;

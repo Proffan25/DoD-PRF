@@ -3122,31 +3122,31 @@
         size = 403150
     }
 }
-#Ruled by Portugal in 1836
+#Ruled by Spain in 1836
 #Macao (22000/5500 POPS)
 1498 = {
     bureaucrats = {
-        culture = burgundian
+        culture = portuguese
         religion = animist
         size = 5
     }
 
     clergymen = {
-        culture = burgundian
+        culture = portuguese
         religion = animist
         size = 10
     }
 
     artisans = {
-        culture = burgundian
+        culture = portuguese
         religion = animist
         size = 210
     }
 
     soldiers = {
-        culture = burgundian
+        culture = portuguese
         religion = animist
-        size = 25
+        size = 125
     }
 
     clergymen = {
@@ -3159,12 +3159,6 @@
         culture = nanfaren
         religion = animist
         size = 935
-    }
-
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 50
     }
 
     farmers = {
@@ -3185,16 +3179,10 @@
         size = 200
     }
 
-    soldiers = {
-        culture = nanfaren
-        religion = animist
-        size = 50
-    }
-
     farmers = {
         culture = nanfaren
         religion = animist
-        size = 3700
+        size = 4500
     }
 }
 #Guangxi Region (8572000)

@@ -2,55 +2,55 @@
 #La Coruna (796000/199000 POPS)
 474 = {
     aristocrats = {
-        culture = spanish
+        culture = portuguese
         religion = animist
         size = 2200
     }
 
     officers = {
-        culture = spanish
+        culture = portuguese
         religion = animist
         size = 450
     }
 
     bureaucrats = {
-        culture = spanish
+        culture = portuguese
         religion = animist
         size = 3250
     }
 
     clergymen = {
-        culture = spanish
+        culture = portuguese
         religion = animist
         size = 2000
     }
 
     artisans = {
-        culture = spanish
+        culture = portuguese
         religion = animist
         size = 6300
     }
 
     clerks = {
-        culture = spanish
+        culture = portuguese
         religion = animist
         size = 50
     }
 
     craftsmen = {
-        culture = spanish
+        culture = portuguese
         religion = animist
         size = 6000
     }
 
     soldiers = {
-        culture = spanish
+        culture = portuguese
         religion = animist
         size = 3000
     }
 
     farmers = {
-        culture = spanish
+        culture = portuguese
         religion = animist
         size = 148350
     }
@@ -108,31 +108,31 @@
 #Vigo (328000/82000 POPS)
 476 = {
     aristocrats = {
-        culture = spanish
+        culture = portuguese
         religion = animist
         size = 700
     }
 
     clergymen = {
-        culture = spanish
+        culture = portuguese
         religion = animist
         size = 800
     }
 
     artisans = {
-        culture = spanish
+        culture = portuguese
         religion = animist
         size = 4000
     }
 
     soldiers = {
-        culture = spanish
+        culture = portuguese
         religion = animist
         size = 1100
     }
 
     farmers = {
-        culture = spanish
+        culture = portuguese
         religion = animist
         size = 75500
     }

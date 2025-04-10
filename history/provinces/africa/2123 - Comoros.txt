@@ -1,11 +1,6 @@
-owner = SPA
-controller = SPA
+owner = BRG
+controller = BRG
 naval_base = 1
 trade_goods = fish
 life_rating = 35
 colonial = 1
-1861.1.1 = {
-	owner = FRA
-	controller = FRA
-	colonial = 2
-}

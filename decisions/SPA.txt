@@ -1,58 +1,58 @@
 political_decisions = {
 	form_iberia = {
+        picture = iberian
 		potential = {
 			tag = SPA
 		}
 		allow = {
 			state_n_government = 1
-			SPA = {all_core = {owned_by = THIS}}
-			POR = {all_core = {owned_by = THIS}}
-			SPA_498 = {owned_by = THIS}
-			SPA_503 = {owned_by = THIS}
 			war = no
+			SPA = { all_core = { owned_by = THIS } }
+			POR = { all_core = { owned_by = THIS } }
+			SPA_498 = { owned_by = THIS }
+			SPA_503 = { owned_by = THIS }
 		}
 		effect = {
 			add_accepted_culture = catalan
-			SPA = {all_core = {add_core = IBE remove_core = SPA }}
-			SPA_498 = {add_core = IBE}
-			SPA_492 = {add_core = IBE}
-			SPA_503 = {add_core = IBE}
+			SPA = { all_core = { add_core = IBE remove_core = SPA } }
+			SPA_498 = { add_core = IBE }
+			SPA_492 = { add_core = IBE }
+			SPA_503 = { add_core = IBE }
 			change_tag = IBE
 		}
 	}
 
-	form_hipanish_empire = {
+	form_hipanic_empire = {
+        picture = spanish_commonwealth
 		potential = {
 			tag = SPA
 		}
 		allow = {
 			nationalism_n_imperialism = 1
-			SPA = {all_core = {owned_by = THIS}}
-			POR = {all_core = {owned_by = THIS}}
-			MEX_2172 = {owned_by = THIS}
-			MEX_2150 = {owned_by = THIS}
-			MEX_2153 = {owned_by = THIS}
-			MEX_2166 = {owned_by = THIS}
-			MEX_2179 = {owned_by = THIS}
-			UCA_2186 = {owned_by = THIS}
-			MEX_2183 = {owned_by = THIS}
-			UCA_2191 = {owned_by = THIS}
-			UCA_2197 = {owned_by = THIS}
-			CLM_1724 = {owned_by = THIS}
-			CLM_2251 = {owned_by = THIS}
-			CLM_2247 = {owned_by = THIS}
-			VNZ_2234 = {owned_by = THIS}
-			ENG_1979 = {owned_by = THIS}
-			SPA_2209 = {owned_by = THIS}
 			war = no
+			MEX_2172 = { owned_by = THIS }
+			MEX_2150 = { owned_by = THIS }
+			MEX_2153 = { owned_by = THIS }
+			MEX_2166 = { owned_by = THIS }
+			MEX_2179 = { owned_by = THIS }
+			UCA_2186 = { owned_by = THIS }
+			MEX_2183 = { owned_by = THIS }
+			UCA_2191 = { owned_by = THIS }
+			UCA_2197 = { owned_by = THIS }
+			CLM_1724 = { owned_by = THIS }
+			CLM_2251 = { owned_by = THIS }
+			CLM_2247 = { owned_by = THIS }
+			VNZ_2234 = { owned_by = THIS }
+			ENG_1979 = { owned_by = THIS }
+			SPA_2209 = { owned_by = THIS }
 		}
 		effect = {
-			add_accepted_culture = mexican
 			add_accepted_culture = lusitanian
+			add_accepted_culture = mexican
 			add_accepted_culture = salvadorian
 			add_accepted_culture = granadan
-			add_accepted_culture = inca
-			SPA = {all_core = {add_core = HIS remove_core = SPA }}
+			SPA = { all_core = { add_core = HIS remove_core = SPA } }
+			CLM = { all_core = { add_core = HIS } }
 			change_tag = HIS
 		}
 	}

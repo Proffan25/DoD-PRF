@@ -1,8 +1,7 @@
-owner = BRG
-controller = BRG
+owner = SPA
+controller = SPA
 add_core = CHI
-#add_core = TPG
-colonial = 2
+naval_base = 1
 trade_goods = silk
-life_rating = 32
-
+life_rating = 35
+colonial = 2

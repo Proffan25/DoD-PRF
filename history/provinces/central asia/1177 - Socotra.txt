@@ -1,6 +1,7 @@
-owner = NEJ
-controller = NEJ
-add_core = NEJ
+owner = SPA
+controller = SPA
+add_core = YEM
+naval_base = 1
 trade_goods = fish
 life_rating = 35
-
+colonial = 1
