@@ -29,41 +29,35 @@
 	soldiers = {
 		culture = spanish
 		religion = animist
-		size = 200
+		size = 700
 	}
 
 	aristocrats = {
-		culture = caribeno
+		culture = central_american
 		religion = animist
 		size = 650
 	}
 
-	bureaucrats = {
-		culture = caribeno
-		religion = animist
-		size = 50
-	}
-
 	clergymen = {
-		culture = caribeno
+		culture = central_american
 		religion = animist
 		size = 175
 	}
 
 	artisans = {
-		culture = caribeno
+		culture = central_american
 		religion = animist
 		size = 10000
 	}
 
 	artisans = {
-		culture = caribeno
+		culture = central_american
 		religion = animist
-		size = 6000
+		size = 6050
 	}
 
 	farmers = {
-		culture = caribeno
+		culture = central_american
 		religion = animist
 		size = 28625
 	}
@@ -72,12 +66,6 @@
 		culture = afro_caribeno
 		religion = animist
 		size = 6000
-	}
-
-	soldiers = {
-		culture = afro_caribeno
-		religion = animist
-		size = 500
 	}
 
 	farmers = {
@@ -95,31 +83,31 @@
 #Jagua (252000/63000 POPS)
 2210 = {
 	aristocrats = {
-		culture = caribeno
+		culture = central_american
 		religion = animist
 		size = 600
 	}
 
 	clergymen = {
-		culture = caribeno
+		culture = central_american
 		religion = animist
 		size = 375
 	}
 
 	artisans = {
-		culture = caribeno
+		culture = central_american
 		religion = animist
 		size = 1200
 	}
 
 	soldiers = {
-		culture = caribeno
+		culture = central_american
 		religion = animist
-		size = 250
+		size = 400
 	}
 
 	farmers = {
-		culture = caribeno
+		culture = central_american
 		religion = animist
 		size = 21575
 	}
@@ -128,12 +116,6 @@
 		culture = afro_caribeno
 		religion = animist
 		size = 2000
-	}
-
-	soldiers = {
-		culture = afro_caribeno
-		religion = animist
-		size = 150
 	}
 
 	farmers = {
@@ -151,31 +133,31 @@
 #Camaguey (168000/42000 POPS)
 2211 = {
 	aristocrats = {
-		culture = caribeno
+		culture = central_american
 		religion = animist
 		size = 450
 	}
 
 	clergymen = {
-		culture = caribeno
+		culture = central_american
 		religion = animist
 		size = 400
 	}
 
 	artisans = {
-		culture = caribeno
+		culture = central_american
 		religion = animist
 		size = 3500
 	}
 
 	soldiers = {
-		culture = caribeno
+		culture = central_american
 		religion = animist
-		size = 150
+		size = 450
 	}
 
 	farmers = {
-		culture = caribeno
+		culture = central_american
 		religion = animist
 		size = 8500
 	}
@@ -184,12 +166,6 @@
 		culture = afro_caribeno
 		religion = animist
 		size = 1500
-	}
-
-	soldiers = {
-		culture = afro_caribeno
-		religion = animist
-		size = 300
 	}
 
 	farmers = {
@@ -207,31 +183,31 @@
 #Santiago de Cuba (128000/32000 POPS)
 2212 = {
 	aristocrats = {
-		culture = caribeno
+		culture = central_american
 		religion = animist
 		size = 200
 	}
 
 	clergymen = {
-		culture = caribeno
+		culture = central_american
 		religion = animist
 		size = 175
 	}
 
 	artisans = {
-		culture = caribeno
+		culture = central_american
 		religion = animist
 		size = 3500
 	}
 
 	soldiers = {
-		culture = caribeno
+		culture = central_american
 		religion = animist
-		size = 150
+		size = 350
 	}
 
 	farmers = {
-		culture = caribeno
+		culture = central_american
 		religion = animist
 		size = 8975
 	}
@@ -240,12 +216,6 @@
 		culture = afro_caribeno
 		religion = animist
 		size = 1500
-	}
-
-	soldiers = {
-		culture = afro_caribeno
-		religion = animist
-		size = 200
 	}
 
 	farmers = {
