@@ -1,5 +1,7 @@
-color = { 237 41 57  }
-graphical_culture = EuropeanGC
+color = {
+    237 41 57
+}
+graphical_culture = Generic
 
 party = {
 	name = "generic_conservative"

@@ -1,0 +1,567 @@
+political_decisions = {	
+	form_elbians = {
+		potential = {
+			tag = BOH
+		}
+		allow = {
+			OR = {
+				AND = {
+					BOH = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+									in_sphere = THIS
+								}
+							}
+						} 
+					}
+					BRN = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+									in_sphere = THIS
+								}
+							}
+						} 
+					}
+					THU = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+									in_sphere = THIS
+								}
+							}
+						} 
+					}
+					BRA = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+									in_sphere = THIS
+								}
+							}
+						} 
+					}
+					HAN = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+									in_sphere = THIS
+								}
+							}
+						} 
+					}
+					BRE = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+									in_sphere = THIS
+								}
+							}
+						} 
+					}
+					POM = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+									in_sphere = THIS
+								}
+							}
+						} 
+					}
+					HOL = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+									in_sphere = THIS
+								}
+							}
+						} 
+					}
+				}
+				AND = {
+					BOH = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+									in_sphere = THIS
+								}
+							}
+						} 
+					}
+					BRN = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+									in_sphere = THIS
+								}
+							}
+						} 
+					}
+					THU = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+									in_sphere = THIS
+								}
+							}
+						} 
+					}
+					BRA = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+									in_sphere = THIS
+								}
+							}
+						} 
+					}
+					HAN = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+									in_sphere = THIS
+								}
+							}
+						} 
+					}
+					BRE = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+									in_sphere = THIS
+								}
+							}
+						} 
+					}
+					HEK = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+									in_sphere = THIS
+								}
+							}
+						} 
+					}
+					POM = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+									in_sphere = THIS
+								}
+							}
+						} 
+					}
+					HOL = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+									in_sphere = THIS
+								}
+							}
+						} 
+					}
+				}
+			}
+		}
+		effect = {
+			add_accepted_culture = north_german
+			add_accepted_culture = pomeranian
+			add_accepted_culture = rheinish
+			any_country = {
+				limit = {
+					primary_culture = north_german
+					NOT = { tag = PRU }
+					NOT = { tag = FRI }
+					  OR = {
+					   in_sphere = THIS
+					   vassal_of = THIS
+					}
+					NOT = {
+						tag = THIS
+					}
+				}
+				annex_to = THIS
+			}
+			any_country = {
+				limit = {
+					primary_culture = pomeranian
+					NOT = { tag = PRU }
+					NOT = { tag = FRI }
+					  OR = {
+					   in_sphere = THIS
+					   vassal_of = THIS
+					}
+					NOT = {
+						tag = THIS
+					}
+				}
+				annex_to = THIS
+			}
+			BOH = {all_core = {add_core = ELB remove_core = BOH}}
+			POM = {all_core = {add_core = ELB remove_core = POM}}
+			HOL = {all_core = {add_core = ELB remove_core = HOL}}
+			THU = {all_core = {add_core = ELB remove_core = THU}}
+			BRA = {all_core = {add_core = ELB remove_core = BRA}}
+			HAN = {all_core = {add_core = ELB remove_core = HAN}}
+			BRE = {all_core = {add_core = ELB remove_core = BRE}}
+			HEK = {all_core = {add_core = ELB remove_core = HEK}}
+			LIP = {all_core = {add_core = ELB remove_core = LIP}}
+			OLD = {all_core = {add_core = ELB remove_core = OLD}}
+			FRI = {all_core = {add_core = ELB remove_core = FRI}}
+			change_tag = ELB
+		}
+	}
+	claim_prussia = {
+		potential = {
+			tag = ELB
+			NOT = {has_country_flag = claim_prussia}
+		}
+		allow = {
+		war = no
+		PRU_690 = { owned_by = THIS }
+		PRU_695 = { owned_by = THIS }
+		}
+		effect = {
+			set_country_flag = claim_prussia
+			PRU = {all_core = {remove_core = PRU}}
+		}
+	}
+	
+	form_holy_roman_empire = {
+		potential = {
+			tag = BOH
+		}
+		allow = {
+					BOH = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+									in_sphere = THIS
+								}
+							}
+						} 
+					}
+					BRN = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+									in_sphere = THIS
+								}
+							}
+						} 
+					}
+					THU = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+									in_sphere = THIS
+								}
+							}
+						} 
+					}
+					BRA = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+									in_sphere = THIS
+								}
+							}
+						} 
+					}
+					HAN = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+									in_sphere = THIS
+								}
+							}
+						} 
+					}
+					BRE = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+									in_sphere = THIS
+								}
+							}
+						} 
+					}
+					POM = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+									in_sphere = THIS
+								}
+							}
+						} 
+					}
+					HOL = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+									in_sphere = THIS
+								}
+							}
+						} 
+					}
+					BAV = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+									in_sphere = THIS
+								}
+							}
+						} 
+					}
+					WUR = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+									in_sphere = THIS
+								}
+							}
+						} 
+					}
+					BAD = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+									in_sphere = THIS
+								}
+							}
+						} 
+					}
+					HES = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+									in_sphere = THIS
+								}
+							}
+						} 
+					}
+					FRM = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+									in_sphere = THIS
+								}
+							}
+						} 
+					}
+					HEK = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+									in_sphere = THIS
+								}
+							}
+						} 
+					}
+					NAS = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+									in_sphere = THIS
+								}
+							}
+						} 
+					}
+					BEG = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+									in_sphere = THIS
+								}
+							}
+						} 
+					}
+					OLD = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+									in_sphere = THIS
+								}
+							}
+						} 
+					}
+					FRI = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+									in_sphere = THIS
+								}
+							}
+						} 
+					}
+					LIP = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+									in_sphere = THIS
+								}
+							}
+						} 
+					}
+					MNR = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+									in_sphere = THIS
+								}
+							}
+						} 
+					}
+					TIR = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+									in_sphere = THIS
+								}
+							}
+						} 
+					}
+					SWI = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+									in_sphere = THIS
+								}
+							}
+						} 
+					}
+			}
+		
+		effect = {
+			add_accepted_culture = north_german
+			add_accepted_culture = pomeranian
+			add_accepted_culture = rheinish
+			add_accepted_culture = south_german
+			AUS_619 = { add_core = HRE remove_core = AUS }
+			767 = { secede_province = AUS }
+			768 = { secede_province = AUS }
+			
+			any_country = {
+				limit = {
+					primary_culture = south_german
+					NOT = { tag = PRU }
+					  OR = {
+					   in_sphere = THIS
+					   vassal_of = THIS
+					}
+					NOT = {
+						tag = THIS
+					}
+				}
+				annex_to = THIS
+			}
+			any_country = {
+				limit = {
+					primary_culture = rheinish
+					NOT = { tag = PRU }
+					  OR = {
+					   in_sphere = THIS
+					   vassal_of = THIS
+					}
+					NOT = {
+						tag = THIS
+					}
+				}
+				annex_to = THIS
+			}
+			any_country = {
+				limit = {
+					primary_culture = north_german
+					NOT = { tag = PRU }
+					  OR = {
+					   in_sphere = THIS
+					   vassal_of = THIS
+					}
+					NOT = {
+						tag = THIS
+					}
+				}
+				annex_to = THIS
+			}
+			any_country = {
+				limit = {
+					primary_culture = pomeranian
+					NOT = { tag = PRU }
+					  OR = {
+					   in_sphere = THIS
+					   vassal_of = THIS
+					}
+					NOT = {
+						tag = THIS
+					}
+				}
+				annex_to = THIS
+			}
+			BOH = {all_core = {add_core = HRE remove_core = BOH}}
+			POM = {all_core = {add_core = HRE remove_core = POM}}
+			HOL = {all_core = {add_core = HRE remove_core = HOL}}
+			THU = {all_core = {add_core = HRE remove_core = THU}}
+			BRA = {all_core = {add_core = HRE remove_core = BRA}}
+			HAN = {all_core = {add_core = HRE remove_core = HAN}}
+			BRE = {all_core = {add_core = HRE remove_core = BRE}}
+			HEK = {all_core = {add_core = HRE remove_core = HEK}}
+			LIP = {all_core = {add_core = HRE remove_core = LIP}}
+			OLD = {all_core = {add_core = HRE remove_core = OLD}}
+			FRI = {all_core = {add_core = HRE remove_core = FRI}}
+			BEG = {all_core = {add_core = HRE remove_core = BEG}}
+			NAS = {all_core = {add_core = HRE remove_core = NAS}}
+			FRM = {all_core = {add_core = HRE remove_core = FRM}}
+			HES = {all_core = {add_core = HRE remove_core = HES}}
+			BAD = {all_core = {add_core = HRE remove_core = BAD}}
+			WUR = {all_core = {add_core = HRE remove_core = WUR}}
+			BAV = {all_core = {add_core = HRE remove_core = BAV}}
+			BRN = {all_core = {add_core = HRE remove_core = BRN}}
+			SAX = {all_core = {add_core = HRE remove_core = SAX}}
+			MNR = {all_core = {add_core = HRE remove_core = MNR}}
+			SWI = {all_core = {add_core = HRE remove_core = SWI}}
+			TIR = {all_core = {add_core = HRE remove_core = TIR}}
+			change_tag = HRE
+		}
+	}
+}
+

@@ -278,6 +278,9 @@ political_decisions = {
 					tag = VNZ
 					tag = WAL
 					tag = MOL
+					tag = BOH
+					tag = HRE
+					tag = ELB
 				}
 			}
 		}

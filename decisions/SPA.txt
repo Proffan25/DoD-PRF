@@ -16,7 +16,6 @@ political_decisions = {
 			add_accepted_culture = catalan
 			SPA = { all_core = { add_core = IBE remove_core = SPA } }
 			SPA_498 = { add_core = IBE }
-			SPA_492 = { add_core = IBE }
 			SPA_503 = { add_core = IBE }
 			change_tag = IBE
 		}

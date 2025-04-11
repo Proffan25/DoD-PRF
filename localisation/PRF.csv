@@ -357,6 +357,8 @@ HIS_proletarian_dictatorship;Hispanic SFR;;;;;;;;;;;;;
 HIS_democracy;Hispanic Federation;;;;;;;;;;;;;
 HIS_presidential_dictatorship;Hispanic Federation;;;;;;;;;;;;;
 HIS_ADJ;Hispanic;;;;;;;;;;;;;
+HRE;Holy Roman Empire;;;;;;;;;;;;x
+HIS_ADJ;Roman Empire;;;;;;;;;;;;;
 #;;;;;;;;;;;;;;Cultures;;;;
 beornian;Beornian;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 english;English;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

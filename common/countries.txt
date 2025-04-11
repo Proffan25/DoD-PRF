@@ -3,10 +3,11 @@
 REB 	= 	"countries/rebels.txt"
 
 #DoD Countries
+HRE     = "countries/Holy Roman Empire.txt"
 DUA		= "countries/Dual Monarchy.txt"
 BRG		= "countries/Burgundy.txt"
 ARN		= "countries/Aragon.txt"
-CAE		= "countries/Elbian Confederation.txt"
+ELB		= "countries/Elbian Confederation.txt"
 IBE     	= "countries/Iberia.txt"
 ARI		= "countries/AragonItaly.txt"
 ARY		= "countries/Aryanam.txt"
