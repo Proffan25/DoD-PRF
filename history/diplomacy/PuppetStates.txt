@@ -1,0 +1,24 @@
+substate = {
+	first = PLC
+	second = PRU
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+substate = {
+	first = PLC
+	second = LIT
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+substate = {
+	first = PLC
+	second = BYE
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+substate = {
+	first = PLC
+	second = UKR
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
