@@ -1,0 +1,36 @@
+political_decisions = {
+	unite_the_principalities = {
+		potential = {
+			OR = {
+				tag = WAL
+				tag = MOL
+			}
+			NOT = { exists = ROM }
+		}
+
+		allow = {
+		
+			is_vassal = no
+			
+			WAL_665 = {
+				owned_by = THIS
+			}
+			MOL_673 = {
+				owned_by = THIS
+			}
+			RUS_676 = {
+				owned_by = THIS
+			}
+			
+		}
+
+		effect = {
+		
+			change_tag = ROM
+			
+			MOL = { all_core = { add_core = ROM remove_core = MOL } }
+			WAL = { all_core = { add_core = ROM remove_core = WAL } }
+			
+		}
+	}
+}
