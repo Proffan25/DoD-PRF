@@ -1,5 +1,5 @@
-owner = LIT
-controller = LIT
+owner = PLC
+controller = PLC
 add_core = LIT
 add_core = RUT
 add_core = PLC
