@@ -541,37 +541,37 @@
 #Eisenstadt (196000/49000 POPS)
 624 = {
     aristocrats = {
-        culture = south_german
+        culture = hungarian
         religion = animist
         size = 859
     }
 
     clergymen = {
-        culture = south_german
+        culture = hungarian
         religion = animist
         size = 583
     }
 
     artisans = {
-        culture = south_german
+        culture = hungarian
         religion = animist
         size = 2887
     }
 
     craftsmen = {
-        culture = south_german
+        culture = hungarian
         religion = animist
-        size = 30
+        size = 90
     }
 
     soldiers = {
-        culture = south_german
+        culture = hungarian
         religion = animist
         size = 854
     }
 
     farmers = {
-        culture = south_german
+        culture = hungarian
         religion = animist
         size = 50872
     }
@@ -579,48 +579,18 @@
     clergymen = {
         culture = south_german
         religion = animist
-        size = 121
+        size = 242
     }
 
     artisans = {
         culture = south_german
         religion = animist
-        size = 183
-    }
-
-    craftsmen = {
-        culture = south_german
-        religion = animist
-        size = 30
+        size = 366
     }
 
     farmers = {
         culture = south_german
         religion = animist
-        size = 3255
-    }
-
-    clergymen = {
-        culture = south_german
-        religion = animist
-        size = 121
-    }
-
-    artisans = {
-        culture = south_german
-        religion = animist
-        size = 183
-    }
-
-    craftsmen = {
-        culture = south_german
-        religion = animist
-        size = 30
-    }
-
-    farmers = {
-        culture = south_german
-        religion = animist
-        size = 2026
+        size = 5281
     }
 }
