@@ -1,9 +1,9 @@
 political_decisions = {
-	reclaim_croats = {
+	reclaim_croatia = {
         picture = reclaim_croatia
 		potential = {
 			tag = HUN
-			NOT = {771 = {is_core = HUN}}
+			NOT = { 771 = { is_core = HUN } }
 		}
 		allow = {
 			OR = {
@@ -18,7 +18,7 @@ political_decisions = {
 			AUS_771 = { add_core = HUN }
 		}
 	}
-	accept_croats = {
+	croatian_compromise = {
         picture = croatian_compromise
 		potential = {
 			tag = HUN
@@ -57,7 +57,7 @@ political_decisions = {
 			add_accepted_culture = romanian
 		}
 	}
-	accept_serb = {
+	accept_serbs = {
         picture = despotate_serbia
 		potential = {
 			tag = HUN
