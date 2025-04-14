@@ -558,113 +558,71 @@
 #under the rule of Austria in 1836
 #Osijek (180000/45000 POPS)
 779 = {
-    clergymen = {
-        culture = croat
-        religion = animist
-        size = 390
-    }
+	clergymen = {
+		culture = croat
+		religion = animist
+		size = 390
+	}
 
-    artisans = {
-        culture = croat
-        religion = animist
-        size = 2031
-    }
+	artisans = {
+		culture = croat
+		religion = animist
+		size = 2031
+	}
 
-    soldiers = {
-        culture = croat
-        religion = animist
-        size = 428
-    }
+	soldiers = {
+		culture = hungarian
+		religion = animist
+		size = 708
+	}
 
-    farmers = {
-        culture = croat
-        religion = animist
-        size = 37772
-    }
+	farmers = {
+		culture = croat
+		religion = animist
+		size = 37772
+	}
 
-    clergymen = {
-        culture = serb
-        religion = animist
-        size = 62
-    }
+	clergymen = {
+		culture = serb
+		religion = animist
+		size = 62
+	}
 
-    artisans = {
-        culture = serb
-        religion = animist
-        size = 437
-    }
+	artisans = {
+		culture = serb
+		religion = animist
+		size = 437
+	}
 
-    soldiers = {
-        culture = serb
-        religion = animist
-        size = 125
-    }
+	farmers = {
+		culture = serb
+		religion = animist
+		size = 8125
+	}
 
-    farmers = {
-        culture = serb
-        religion = animist
-        size = 8125
-    }
+	aristocrats = {
+		culture = hungarian
+		religion = animist
+		size = 1124
+	}
 
-    aristocrats = {
-        culture = hungarian
-        religion = animist
-        size = 687
-    }
+	clergymen = {
+		culture = hungarian
+		religion = animist
+		size = 124
+	}
 
-    clergymen = {
-        culture = hungarian
-        religion = animist
-        size = 62
-    }
+	artisans = {
+		culture = hungarian
+		religion = animist
+		size = 812
+	}
 
-    artisans = {
-        culture = hungarian
-        religion = animist
-        size = 375
-    }
-
-    soldiers = {
-        culture = hungarian
-        religion = animist
-        size = 93
-    }
-
-    farmers = {
-        culture = hungarian
-        religion = animist
-        size = 6281
-    }
-
-    aristocrats = {
-        culture = hungarian
-        religion = animist
-        size = 437
-    }
-
-    clergymen = {
-        culture = hungarian
-        religion = animist
-        size = 62
-    }
-
-    artisans = {
-        culture = hungarian
-        religion = animist
-        size = 437
-    }
-
-    soldiers = {
-        culture = hungarian
-        religion = animist
-        size = 62
-    }
-
-    farmers = {
-        culture = hungarian
-        religion = animist
-        size = 6625
-    }
+	farmers = {
+		culture = hungarian
+		religion = animist
+		size = 12906
+	}
 }
 #Dalmatia Region (320000) #see Montenegro.txt for balance of region
 #under the rule of Austria in 1836
@@ -852,81 +810,69 @@
 #under the rule of Austria in 1836
 #Vukovar (104000/26000 POPS) #part of Croatia today
 793 = {
-    clergymen = {
-        culture = croat
-        religion = animist
-        size = 233
-    }
+	clergymen = {
+		culture = croat
+		religion = animist
+		size = 233
+	}
 
-    artisans = {
-        culture = croat
-        religion = animist
-        size = 1250
-    }
+	artisans = {
+		culture = croat
+		religion = animist
+		size = 1250
+	}
 
-    soldiers = {
-        culture = croat
-        religion = animist
-        size = 272
-    }
+	soldiers = {
+		culture = hungarian
+		religion = animist
+		size = 428
+	}
 
-    farmers = {
-        culture = croat
-        religion = animist
-        size = 23241
-    }
+	farmers = {
+		culture = croat
+		religion = animist
+		size = 23241
+	}
 
-    clergymen = {
-        culture = serb
-        religion = animist
-        size = 93
-    }
+	clergymen = {
+		culture = serb
+		religion = animist
+		size = 93
+	}
 
-    artisans = {
-        culture = serb
-        religion = animist
-        size = 437
-    }
+	artisans = {
+		culture = serb
+		religion = animist
+		size = 437
+	}
 
-    soldiers = {
-        culture = serb
-        religion = animist
-        size = 125
-    }
+	farmers = {
+		culture = serb
+		religion = animist
+		size = 9343
+	}
 
-    farmers = {
-        culture = serb
-        religion = animist
-        size = 9343
-    }
+	aristocrats = {
+		culture = hungarian
+		religion = animist
+		size = 62
+	}
 
-    aristocrats = {
-        culture = hungarian
-        religion = animist
-        size = 62
-    }
+	clergymen = {
+		culture = hungarian
+		religion = animist
+		size = 50
+	}
 
-    clergymen = {
-        culture = hungarian
-        religion = animist
-        size = 50
-    }
+	artisans = {
+		culture = hungarian
+		religion = animist
+		size = 125
+	}
 
-    artisans = {
-        culture = hungarian
-        religion = animist
-        size = 125
-    }
-
-    soldiers = {
-        culture = hungarian
-        religion = animist
-        size = 31
-    }
-
-    farmers = {
-        culture = hungarian
-        religion = animist
-        size = 2231
-    }
+	farmers = {
+		culture = hungarian
+		religion = animist
+		size = 2231
+	}
 }

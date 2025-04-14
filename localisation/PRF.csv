@@ -358,7 +358,16 @@ HIS_democracy;Hispanic Federation;;;;;;;;;;;;;
 HIS_presidential_dictatorship;Hispanic Federation;;;;;;;;;;;;;
 HIS_ADJ;Hispanic;;;;;;;;;;;;;
 HRE;Holy Roman Empire;;;;;;;;;;;;x
-HIS_ADJ;Roman Empire;;;;;;;;;;;;;
+HRE_ADJ;Roman Empire;;;;;;;;;;;;;
+HUN;Hungary;;;;;;;;;;;;x
+HUN_absolute_monarchy;Kingdom of Hungary;;;;;;;;;;;;;
+HUN_prussian_constitutionalism;Kingdom of Hungary;;;;;;;;;;;;;
+HUN_hms_government;Kingdom of Hungary;;;;;;;;;;;;;
+HUN_fascist_dictatorship;Hungarian State;;;;;;;;;;;;;
+HUN_proletarian_dictatorship;Hungarian People's Republic;;;;;;;;;;;;;
+HUN_democracy;Hungarian Republic;;;;;;;;;;;;;
+HUN_presidential_dictatorship;Hungarian Republic;;;;;;;;;;;;;
+HUN_ADJ;Hungarian;;;;;;;;;;;;;
 #;;;;;;;;;;;;;;Cultures;;;;
 beornian;Beornian;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 english;English;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
