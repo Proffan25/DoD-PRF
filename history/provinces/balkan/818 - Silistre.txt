@@ -2,8 +2,6 @@ owner = TUR
 controller = TUR
 add_core = BUL
 add_core = TUR
-#add_core = ROM
- 
+add_core = WAL
 trade_goods = grain
 life_rating = 35
-
