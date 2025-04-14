@@ -1,5 +1,6 @@
 political_decisions = {
 	reclaim_croats = {
+        picture = reclaim_croatia
 		potential = {
 			tag = HUN
 			NOT = {771 = {is_core = HUN}}
@@ -9,7 +10,7 @@ political_decisions = {
 				  year = 1845
 				  AUS_771 = {
                 	owned_by = THIS
-            	  }
+            	}
 			}
 			war = no
 		}
@@ -18,6 +19,7 @@ political_decisions = {
 		}
 	}
 	accept_croats = {
+        picture = croatian_compromise
 		potential = {
 			tag = HUN
 			NOT = {accepted_culture = croat}
@@ -34,6 +36,7 @@ political_decisions = {
 		}
 	}
 	accept_romanians = {
+        picture = vladislav_vlaicu
 		potential = {
 			tag = HUN
 			NOT = {accepted_culture = romanian}
@@ -55,6 +58,7 @@ political_decisions = {
 		}
 	}
 	accept_serb = {
+        picture = despotate_serbia
 		potential = {
 			tag = HUN
 			NOT = {accepted_culture = serb}
