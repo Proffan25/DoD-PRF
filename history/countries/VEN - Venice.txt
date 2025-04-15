@@ -4,7 +4,7 @@ religion = animist
 government = democracy
 plurality = 25.0
 nationalvalue = nv_order
-literacy = 0.01
+literacy = 0.4
 civilized = yes
 
 set_country_flag = greek_italy

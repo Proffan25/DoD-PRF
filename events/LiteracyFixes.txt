@@ -273,3 +273,47 @@ country_event = {
 		}
 	}
 }
+
+#Starting 1836 Literacy Fix for Minority POPs in Venice
+country_event = {
+	id = 123412354
+	title = "Education Fix"
+	desc = "for minorities in Venice"
+	picture = "Administration"
+	
+	
+	trigger = {
+		year = 1836
+		tag = VEN
+	} 
+
+	fire_only_once = yes
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = "Learn 2 read dud"
+		any_pop = {
+			limit = {
+				OR = {	
+					has_pop_culture = greek
+					has_pop_culture = croat
+					has_pop_culture = serb
+				}
+			}
+			literacy = 0.25 #25 percent increase
+		}
+		any_owned = {
+			any_pop = {
+				limit = { 
+					is_primary_culture = no
+					is_accepted_culture = no
+					type = bureaucrats
+				}
+				pop_type = artisans
+			}				
+		}
+	}
+}

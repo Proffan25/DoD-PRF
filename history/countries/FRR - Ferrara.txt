@@ -1,13 +1,12 @@
-capital = 746
+capital = 742
 primary_culture = north_italian
 religion = animist
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_order
-literacy = 0.01
+literacy = 0.38
 civilized = yes
 prestige = 1
-is_releasable_vassal = no	#In accordance with group rules
 
 # Political reforms
 slavery = no_slavery

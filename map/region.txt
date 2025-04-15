@@ -1463,23 +1463,23 @@ SAR_720 = { 720 3255 722 723 724 725 472 } #Piedmont
 
 SAR_765 = { 765 766 473 } #Sardegna
 
-TUS_744 = { 744 745 747 748 740 746 } #Toscana
+TUS_744 = { 744 745 747 748 746 } #Toscana
 
-PAP_741 = { 741 742 743 739 738 } #Emilia-Romagna
+PAP_741 = { 741 742 743 739 738 740 } #Emilia-Romagna
 
-PAP_752 = { 749 750 754 2567 755 3258 } #Lazio-Compania
+#PAP_752 = { 749 750 } #Lazio-Compania
 
-#SIC_754 = { 754 2567 755 } #Campania
+SIC_754 = { 754 2567 755 } #Campania
 
 SIC_756 = { 756 759 761 760 758 3259 } #Apulia-Calabria
 
-ITA_753 = { 752 753 751 757 3260 } #Abruzzo-Marche
+#ITA_753 = { 752 751 } #Abruzzo-Marche
 
-#PAP_752 = { 749 752 750 751 } #Lazio
+PAP_752 = { 749 752 750 751 } #Lazio
 
 #SIC_754 = { 754 755 759 760 761 2567 } #Campania
 
-#SIC_753 = { 753 756 757 758 759 } #Puglia
+SIC_753 = { 757 753 3258 3260 } #Puglia
 
 SIC_763 = { 762 763 764 854 } #Sicily
 
