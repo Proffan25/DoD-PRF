@@ -6,6 +6,7 @@ political_decisions = {
 		}
 		allow = {
 				state_n_government = 1
+				year = 1845
 				SAR_720 = {
 				owned_by = THIS
 				}
