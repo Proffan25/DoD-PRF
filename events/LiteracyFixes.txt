@@ -317,3 +317,93 @@ country_event = {
 		}
 	}
 }
+
+#Starting 1836 Literacy Fix for Minority POPs in the PLC
+country_event = {
+	id = 123412355
+	title = "Education Fix"
+	desc = "for minorities in the PLC"
+	picture = "Administration"
+	
+	
+	trigger = {
+		year = 1836
+		tag = PLC
+	} 
+
+	fire_only_once = yes
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = "Learn 2 read dud"
+		any_pop = {
+			limit = {
+				OR = {	
+					has_pop_culture = lithuanian
+					has_pop_culture = ukrainian
+					has_pop_culture = ashkenazi
+					has_pop_culture = pomeranian
+				}
+			}
+			literacy = 0.3 #30 percent increase
+		}
+		any_owned = {
+			any_pop = {
+				limit = { 
+					is_primary_culture = no
+					is_accepted_culture = no
+					type = bureaucrats
+				}
+				pop_type = artisans
+			}				
+		}
+	}
+}
+
+#Starting 1836 Literacy Fix for Minority POPs in Lithuania
+country_event = {
+	id = 123412356
+	title = "Education Fix"
+	desc = "for minorities in Lithuania"
+	picture = "Administration"
+	
+	
+	trigger = {
+		year = 1836
+		tag = LIT
+	} 
+
+	fire_only_once = yes
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = "Learn 2 read dud"
+		any_pop = {
+			limit = {
+				OR = {	
+					has_pop_culture = polish
+					has_pop_culture = ukrainian
+					has_pop_culture = ashkenazi
+					has_pop_culture = pomeranian
+				}
+			}
+			literacy = 0.25 #25 percent increase
+		}
+		any_owned = {
+			any_pop = {
+				limit = { 
+					is_primary_culture = no
+					is_accepted_culture = no
+					type = bureaucrats
+				}
+				pop_type = artisans
+			}				
+		}
+	}
+}
