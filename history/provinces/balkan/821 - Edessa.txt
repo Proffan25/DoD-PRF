@@ -1,6 +1,6 @@
 owner = MAC
 controller = MAC
 add_core = MAC
+add_core = TUR
 trade_goods = silk
 life_rating = 35
-
