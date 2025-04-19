@@ -192,4 +192,44 @@ political_decisions = {
             }
         }
     }
+
+    egypt_is_free = {
+        potential = {
+            tag = EGY
+            1745 = { is_core = TUR }
+        }
+        allow = {
+            NOT = { war_with = TUR }
+        }
+        effect = {
+           EGY_1745 = { remove_core = TUR }
+           EGY_1767 = { remove_core = TUR }
+        }
+    }
+
+    macedonia_is_free = {
+        potential = {
+            tag = MAC
+            805 = { is_core = TUR }
+        }
+        allow = {
+            NOT = { war_with = TUR }
+        }
+        effect = {
+           TUR_805 = { remove_core = TUR }
+        }
+    }
+
+    albania_is_free = {
+        potential = {
+            tag = ALB
+            849 = { is_core = TUR }
+        }
+        allow = {
+            NOT = { war_with = TUR }
+        }
+        effect = {
+           TUR_853 = { remove_core = TUR }
+        }
+    }
 }

@@ -1,0 +1,18 @@
+name = "Ottoman Restoration of Egypt"
+
+1835.1.1 = {
+	add_attacker = TUR
+	add_defender = EGY
+	
+	war_goal = {
+		casus_belli = conquest
+		actor = TUR
+		receiver = EGY
+	}
+
+}
+
+1837.1.1 = {
+	rem_attacker = TUR
+	rem_defender = EGY
+}

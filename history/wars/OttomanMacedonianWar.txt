@@ -1,0 +1,18 @@
+name = "Ottoman Restoration of Macedonia"
+
+1835.1.1 = {
+	add_attacker = TUR
+	add_defender = MAC
+	
+	war_goal = {
+		casus_belli = conquest
+		actor = TUR
+		receiver = MAC
+	}
+
+}
+
+1837.1.1 = {
+	rem_attacker = TUR
+	rem_defender = MAC
+}
