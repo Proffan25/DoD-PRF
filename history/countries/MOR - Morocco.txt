@@ -1,4 +1,4 @@
-capital = 1680
+capital = 1697
 primary_culture = maghrebi
 culture = berber
 religion = animist
@@ -28,7 +28,7 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions 
 school_reforms = no_schools
 
-ruling_party = MOR_conservative
+ruling_party = generic_conservative
 upper_house = {
 	fascist = 0
 	liberal = 14

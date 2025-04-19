@@ -1,4 +1,4 @@
-capital = 1725
+capital = 1730
 primary_culture = maghrebi
 religion = animist
 government = absolute_monarchy
@@ -27,7 +27,7 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions 
 school_reforms = no_schools
 
-ruling_party = TUN_conservative
+ruling_party = generic_conservative
 upper_house = {
 	fascist = 0
 	liberal = 26
