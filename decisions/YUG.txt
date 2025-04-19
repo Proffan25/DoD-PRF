@@ -1,0 +1,50 @@
+political_decisions = {
+    form_yugoslavia = {
+        potential = {
+            TAG = CRO
+        }
+        allow = {
+            state_n_government = 1
+            war = no
+            AUS_771 = {
+                owned_by = THIS
+            }
+            AUS_768 = {
+                owned_by = THIS
+            }
+            AUS_780 = {
+                owned_by = THIS
+            }
+            AUS_2538 = {
+                owned_by = THIS
+            }
+            SER_794 = {
+                owned_by = THIS
+            }
+            MON = { all_core = { owned_by = THIS } }
+        }
+        effect = {
+            add_accepted_culture = serb
+            add_accepted_culture = bulgarian
+
+            AUS_771 = { add_core = YUG remove_core = CRO }
+            AUS_768 = { add_core = YUG remove_core = CRO }
+            AUS_780 = { add_core = YUG remove_core = CRO }
+            AUS_2538 = { add_core = YUG remove_core = CRO }
+            SER_794 = { add_core = YUG }
+            MON = { all_core = { add_core = YUG  } }
+
+            all_core = {
+                limit = {
+                    owner = { tag = YUG }
+                }
+                add_province_modifier = {
+                    name = baby_boom
+                    duration = 1825
+                }
+            }
+
+			change_tag = YUG
+        }
+    }
+}
