@@ -10,6 +10,7 @@ political_decisions = {
 					is_culture_group = scandinavian
 					is_culture_group = italian
 					is_culture_group = arab
+					is_culture_group = south_slavic
 					tag = ECU
 					tag = CLM
 					tag = VNZ
@@ -18,6 +19,8 @@ political_decisions = {
 					tag = BOH
 					tag = HRE
 					tag = ELB
+					tag = YUG
+					tag = CRO
 				}
 			}
 		}

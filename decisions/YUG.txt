@@ -24,16 +24,15 @@ political_decisions = {
             MON = { all_core = { owned_by = THIS } }
         }
         effect = {
-            add_accepted_culture = serb
-            add_accepted_culture = bulgarian
-
             AUS_771 = { add_core = YUG remove_core = CRO }
             AUS_768 = { add_core = YUG remove_core = CRO }
             AUS_780 = { add_core = YUG remove_core = CRO }
             AUS_2538 = { add_core = YUG remove_core = CRO }
             SER_794 = { add_core = YUG }
             MON = { all_core = { add_core = YUG  } }
-
+			change_tag = YUG
+            add_accepted_culture = serb
+            add_accepted_culture = bulgarian
             all_core = {
                 limit = {
                     owner = { tag = YUG }
@@ -43,8 +42,6 @@ political_decisions = {
                     duration = 1825
                 }
             }
-
-			change_tag = YUG
         }
     }
 }
