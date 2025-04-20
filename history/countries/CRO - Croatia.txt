@@ -4,7 +4,7 @@ religion = animist
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_order
-literacy = 0.01
+literacy = 0.2
 civilized = yes
 
 # Political reforms
@@ -23,16 +23,15 @@ work_hours = no_work_hour_limit
 safety_regulations = no_safety
 health_care = no_health_care
 unemployment_subsidies = no_subsidies
-pensions = no_pensions 
+pensions = no_pensions
 school_reforms = no_schools
 
-ruling_party = CRO_conservative
+ruling_party = generic_conservative
 upper_house = {
 	fascist = 0
-	liberal = 20
+	liberal = 25
 	conservative = 65
 	reactionary = 10
-	anarcho_liberal = 5
 	socialist = 0
 	communist = 0
 }

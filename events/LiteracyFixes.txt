@@ -407,3 +407,43 @@ country_event = {
 		}
 	}
 }
+
+#Starting 1836 Literacy Fix for Minority POPs in Croatia
+country_event = {
+	id = 123412357
+	title = "Education Fix"
+	desc = "for minorities in Croatia"
+	picture = "Administration"
+	
+	
+	trigger = {
+		year = 1836
+		tag = CRO
+	} 
+
+	fire_only_once = yes
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = "Learn 2 read dud"
+		any_pop = {
+			limit = {
+				has_pop_culture = serb
+			}
+			literacy = 0.2 #20 percent increase
+		}
+		any_owned = {
+			any_pop = {
+				limit = { 
+					is_primary_culture = no
+					is_accepted_culture = no
+					type = bureaucrats
+				}
+				pop_type = artisans
+			}				
+		}
+	}
+}

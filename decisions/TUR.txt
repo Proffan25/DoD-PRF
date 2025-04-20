@@ -194,6 +194,7 @@ political_decisions = {
     }
 
     egypt_is_free = {
+        picture = remove_karaboga
         potential = {
             tag = EGY
             1745 = { is_core = TUR }
@@ -208,6 +209,7 @@ political_decisions = {
     }
 
     macedonia_is_free = {
+        picture = remove_karaboga
         potential = {
             tag = MAC
             805 = { is_core = TUR }
@@ -221,6 +223,7 @@ political_decisions = {
     }
 
     albania_is_free = {
+        picture = remove_karaboga
         potential = {
             tag = ALB
             849 = { is_core = TUR }
