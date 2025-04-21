@@ -22,3 +22,15 @@ substate = {
 	start_date = 1836.1.1
 	end_date = 1937.1.1
 }
+vassal = {
+	first = ARN
+	second = PAP
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+vassal = {
+	first = ARN
+	second = FRR
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}

@@ -7,6 +7,7 @@ political_decisions = {
 		allow = {
 				state_n_government = 1
 				year = 1845
+				war = no
 				SAR_720 = {
 					owned_by = THIS
 				}
@@ -56,5 +57,240 @@ political_decisions = {
 			set_country_flag = greek_accepted
 		}
 	}
+	integrate_papal = {
+		potential = {
+			tag = ARN
+			PAP = {
+				any_core = {
+					owned_by = PAP
+				}
+			}
+		}
+		allow = {
+			state_n_government = 1
+			PAP = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							vassal_of = THIS
+						}
+					}
+				} 
+			}
+		}
+		effect = {
+			inherit = PAP
+			badboy = 10
+		}
+	}
+	integrate_ferrara = {
+		potential = {
+			tag = ARN
+			FRR = {
+				any_core = {
+					owned_by = FRR
+				}
+			}
+		}
+		allow = {
+			state_n_government = 1
+			FRR = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							vassal_of = THIS
+						}
+					}
+				} 
+			}
+		}
+		effect = {
+			inherit = FRR
+			badboy = 10
+		}
+	}
+	form_ara_italy = {
+		potential = {
+			tag = ARN
+		}
+		allow = {
+			state_n_government = 1
+			war = no
+			OR = {
+				AND = {
+					SIC = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+									OR = {
+										in_sphere = THIS
+										vassal_of = THIS
+									}
+								}
+							}
+						} 
+					}
+					SAR = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+									OR = {
+									in_sphere = THIS
+											vassal_of = THIS
+									}
+								}
+							}
+						} 
+					}
+					PAP = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+									OR = {
+										in_sphere = THIS
+										vassal_of = THIS
+									}
+								}
+							}
+						} 
+					}
+					TUS = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+									OR = {
+										in_sphere = THIS
+										vassal_of = THIS
+									}
+								}
+							}
+						} 
+					}
+					FRR = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+									OR = {
+										in_sphere = THIS
+										vassal_of = THIS
+									}
+								}
+							}
+						} 
+					}
+					MOD = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+									OR = {
+										in_sphere = THIS
+										vassal_of = THIS
+									}
+								}
+							}
+						} 
+					}
+					PAR = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+									OR = {
+										in_sphere = THIS
+										vassal_of = THIS
+									}
+								}
+							}
+						} 
+					}
+					LOM = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+									OR = {
+										in_sphere = THIS
+										vassal_of = THIS
+									}
+								}
+							}
+						} 
+					}
+					LUC = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+								  OR = {
+										in_sphere = THIS
+										vassal_of = THIS
+									}
+								}
+							}
+						} 
+					}
+				}
+				ITA = {
+					all_core = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								OR = {
+									in_sphere = THIS
+									vassal_of = THIS
+								}
+							}
+						}
+					} 
+				}
+			}
+		}
+		effect = {
+			add_accepted_culture = north_italian
+			any_country = {
+				limit = {
+					primary_culture = north_italian
+					OR = {
+						in_sphere = THIS
+					    vassal_of = THIS
+					}
+					NOT = {
+						tag = VEN
+					}
+				}
+				annex_to = THIS
+			}
+			any_country = {
+				limit = {
+					primary_culture = south_italian
+					OR = {
+						in_sphere = THIS
+					    vassal_of = THIS
+					}
+				}
+				annex_to = THIS
+			}
+			ARN = {all_core = {add_core = ARI remove_core = ARN}}
+			SIC = {all_core = {add_core = ARI}}
+			SAR = {all_core = {add_core = ARI}}
+			LOM = {all_core = {add_core = ARI}}
+			PAR = {all_core = {add_core = ARI}}
+			MOD = {all_core = {add_core = ARI}}
+			FRR = {all_core = {add_core = ARI}}
+			TUS = {all_core = {add_core = ARI}}
+			PAP = {all_core = {add_core = ARI}}
+			LUC = {all_core = {add_core = ARI}}
+			ITA = {all_core = {add_core = ARI}}
+			change_tag = ARI
+			capital = 749
+		}
+	}
 }
-	
