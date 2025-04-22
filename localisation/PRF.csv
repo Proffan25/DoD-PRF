@@ -90,6 +90,16 @@ macedonia_is_free_title;Remove Karaboga;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 macedonia_is_free_desc;Weak and feeble karaboga trembles at out might. Dirty roaches need to be driven back to the steppes.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 albania_is_free_title;Remove Karaboga;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 albania_is_free_desc;Weak and feeble karaboga trembles at out might. Dirty roaches need to be driven back to the steppes.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+merge_the_crowns_ari_title;Proclaim the Kingdom of Aragon-Italy;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+merge_the_crowns_ari_desc;For centuries now, the crown of Aragon has been a dominant power on the Italian peninsula. We are now strong enough to strengthen our rule over Italy and proclaim the Dual Kingdom of Aragon and Italy! But let us beware, the other European Great Powers might not take the news kindly...;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+latin_empire_title;The Provençal - Catalan Brotherhood;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+latin_empire_desc;The Provençal are the closest cultural kin to the Catalans, with both cultures sharing a close origin and both languages being mutually intelligible. Over the centuries our peoples have remained mostly separate, with most of the Provençal speaking territory falling to the Anglois Monarchy after the 1532 Languedoc War. However, with our increased power after the end of North Italian autonomy and North Italian intergration, we are finally in a position of sufficient strength to end the Provençal oppression once and for all and embrace them into our realm.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+integrate_papal_title;Integrate the Papal States;;;;;;;;;;;;x;;;,,,,
+integrate_papal_desc;We now have the ability to dissolve the illusion of a free Papal State government, and directly control its territory.;;;;;;;;;;;;x;;;,,,,
+integrate_ferrara_title;Integrate Ferrara;;;;;;;;;;;;x;;;,,,,
+integrate_ferrara_desc;We now have the ability to dissolve the illusion of a free Ferraran government, and directly control its territory.;;;;;;;;;;;;x;;;,,,,
+greek_accepted_title;Greek Integration;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+greek_accepted_desc;Since the repression of the independence movements, our Republic has seen many changes. Our government is now more democratic and the Greek have accepted our rule. It is now time to fully integrate them into our republic!;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 #;;;;;;;;;;;;;;Modifiers;;;;
 continental_army;Continental Army;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;
 continental_army_desc;Irish please apply, we need more soldiers UwU.;;;;;;;;;;;;;x,,,,,,,,,,,,;;;;;;;;;;;
@@ -428,6 +438,10 @@ TUN_presidential_dictatorship;Tunis;;;;;;;;;;;;;
 TUN_ADJ;Tunisian;;;;;;;;;;;;;
 MOR;Maghreb;;;;;;;;;;;;;
 MOR_ADJ;Maghrebi;;;;;;;;;;;;;
+ARN;Aragon;;;;;;;;;;;;;
+ARN_ADJ;Aragonese;;;;;;;;;;;;;
+ARI;Aragon-Italy;;;;;;;;;;;;;
+ARI_ADJ;Aragonese-Italian;;;;;;;;;;;;;
 #;;;;;;;;;;;;;;Cultures;;;;
 beornian;Beornian;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 english;English;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

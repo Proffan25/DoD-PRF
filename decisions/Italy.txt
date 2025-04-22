@@ -1,31 +1,32 @@
 political_decisions = {
 	form_italy = {
+        picture = north_italy
 		potential = {
 			is_culture_group = italian
 			NOT = {has_country_flag = form_italy}
 		}
 		allow = {
-				state_n_government = 1
-				year = 1845
-				war = no
-				SAR_720 = {
-					owned_by = THIS
-				}
-				AUS_726 = {
-					owned_by = THIS
-				}
-				PAP_741 = {
-					owned_by = THIS
-				}		
-				AUS_729 = {
-					owned_by = THIS
-				}	
-				TUS_744 = {
-					owned_by = THIS
-				}
-				PAP_752 = {
-					owned_by = THIS
-				}
+			state_n_government = 1
+			year = 1845
+			war = no
+			SAR_720 = {
+				owned_by = THIS
+			}
+			AUS_726 = {
+				owned_by = THIS
+			}
+			PAP_741 = {
+				owned_by = THIS
+			}		
+			AUS_729 = {
+				owned_by = THIS
+			}	
+			TUS_744 = {
+				owned_by = THIS
+			}
+			PAP_752 = {
+				owned_by = THIS
+			}
 		}
 		effect = {
 			add_accepted_culture = south_italian
@@ -44,9 +45,10 @@ political_decisions = {
 		}
 	}
 	greek_accepted = {
+        picture = form_greece
 		potential = {
 			has_country_flag = greek_italy
-			NOT = {has_country_flag = greek_accepted}
+            NOT = { accepted_culture = greek }
 		}
 		allow = {
 			owns = 834
@@ -54,10 +56,10 @@ political_decisions = {
 		}
 		effect = {
 			add_accepted_culture = greek
-			set_country_flag = greek_accepted
 		}
 	}
 	integrate_papal = {
+        picture = north_italy
 		potential = {
 			tag = ARN
 			PAP = {
@@ -85,6 +87,7 @@ political_decisions = {
 		}
 	}
 	integrate_ferrara = {
+        picture = north_italy
 		potential = {
 			tag = ARN
 			FRR = {
@@ -111,7 +114,8 @@ political_decisions = {
 			badboy = 10
 		}
 	}
-	form_ara_italy = {
+	merge_the_crowns_ari = {
+        picture = ARI
 		potential = {
 			tag = ARN
 		}
@@ -291,6 +295,21 @@ political_decisions = {
 			ITA = {all_core = {add_core = ARI}}
 			change_tag = ARI
 			capital = 749
+		}
+	}
+	latin_empire = {
+		potential = {
+			tag = ARI 
+			NOT = { has_country_flag = province_narbonensis_flag }
+		}
+		allow = {
+			ARI = { all_core = { owned_by = THIS } }
+			revolution_n_counterrevolution = 1
+		}
+		effect = {
+			set_country_flag = province_narbonensis_flag
+			FRA_461 = { add_core = ARI }
+			FRA_467 = { add_core = ARI }
 		}
 	}
 }
