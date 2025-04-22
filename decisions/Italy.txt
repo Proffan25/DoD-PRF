@@ -298,6 +298,7 @@ political_decisions = {
 		}
 	}
 	latin_empire = {
+        picture = cat_occitania
 		potential = {
 			tag = ARI 
 			NOT = { has_country_flag = province_narbonensis_flag }
