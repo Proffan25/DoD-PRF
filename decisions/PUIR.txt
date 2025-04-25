@@ -1105,42 +1105,7 @@ political_decisions = {
 			factor = 1
 		}
 	}
-	milyutin_army_reform = {
-		potential = {
-			tag = RUS
-			NOT = { has_country_flag = milyutin_is_minister }
-		}
-		
-		allow = {
-			war = no
-			OR = {
-				breech_loaded_rifles = 1
-				military_statistics = 1
-			}
-			OR = {
-				NOT = { rank = 8 } #Fell out of GP status
-				has_recently_lost_war = yes #Historical Condition
-				NOT = { total_amount_of_divisions = 100 } #Weak state of military by Russian standards
-				ENG = { stronger_army_than = THIS } #United Kingdom has a bigger army
-			}
-		}
-
-		effect = {
-			set_country_flag = milyutin_is_minister
-			add_country_modifier = {
-				name = dmitry_alekseyevich_milyutin
-				duration = 7300
-			}
-			any_pop = {
-				limit = { type = soldiers }
-				consciousness = 2
-				literacy = 0.05
-			}
-		}
-		ai_will_do = {
-			factor = 1
-		}
-	}
+	
 	soviet_cities = {
 		potential = {
 			tag = RUS
