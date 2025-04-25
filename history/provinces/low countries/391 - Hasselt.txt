@@ -4,8 +4,19 @@ add_core = BRG
 add_core = NET
 trade_goods = coal
 life_rating = 35
-1861.1.1 = { 
-	railroad = 3 
-	remove_core = NET
+state_building = {
+	level = 1
+	building = ammunition_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = artillery_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = canned_food_factory
+	upgrade = yes
 }
 

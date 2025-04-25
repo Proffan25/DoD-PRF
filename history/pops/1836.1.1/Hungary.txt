@@ -237,7 +237,7 @@
 	craftsmen = {
 		culture = hungarian
 		religion = animist
-		size = 3000
+		size = 13000
 	}
 
 	soldiers = {
@@ -249,7 +249,7 @@
 	farmers = {
 		culture = hungarian
 		religion = animist
-		size = 107375
+		size = 93375
 	}
 }
 #Gyor (384000/96000 POPS)

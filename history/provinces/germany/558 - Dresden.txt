@@ -6,7 +6,7 @@ add_core = SAX
 trade_goods = coal
 life_rating = 38
 state_building = {
-	level = 1
+	level = 2
 	building = canned_food_factory
 	upgrade = yes
 }

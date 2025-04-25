@@ -5,23 +5,8 @@ trade_goods = cattle
 life_rating = 40
 fort = 1
 state_building = {
-	level = 1
+	level = 2
 	building = canned_food_factory
 	upgrade = yes
 }
-1861.1.1 = {
-	state_building = {
-	level = 4
-	building = canned_food_factory
-	upgrade = yes
-
-	}
-	state_building = {
-	level = 1
-	building = winery
-	upgrade = yes
-
-	}
-}
-1861.1.1 = { railroad = 3 }
 
