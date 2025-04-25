@@ -2,8 +2,16 @@ owner = NBG
 controller = NBG
 add_core = NBG
 add_core = PLA
-trade_goods = tobacco
-life_rating = 35
+trade_goods = tobacco
+life_rating = 35
 naval_base = 2
-
-
+state_building = {
+	level = 1
+	building = small_arms_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = explosives_factory
+	upgrade = yes
+}

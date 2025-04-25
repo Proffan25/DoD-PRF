@@ -2801,7 +2801,7 @@
     craftsmen = {
         culture = vinlander
         religion = animist
-        size = 44590
+        size = 24525
     }
 
     clergymen = {
@@ -2825,7 +2825,7 @@
     farmers = {
         culture = vinlander
         religion = animist
-        size = 128310
+        size = 148375
     }
 }
 #Sherbrooke (68000/17000 POPS)

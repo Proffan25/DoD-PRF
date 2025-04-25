@@ -561,13 +561,19 @@
     farmers = {
         culture = qingqiuan
         religion = animist
-        size = 155000
+        size = 157058
     }
 
     clergymen = {
         culture = qingqiuan
         religion = animist
         size = 500
+    }
+
+    craftsmen = {
+        culture = qingqiuan
+        religion = animist
+        size = 15942
     }
 
     artisans = {
@@ -580,12 +586,6 @@
         culture = qingqiuan
         religion = animist
         size = 4520
-    }
-
-    farmers = {
-        culture = qingqiuan
-        religion = animist
-        size = 18000
     }
 }
 85 = {
@@ -3219,7 +3219,7 @@
     craftsmen = {
         culture = plantagenian
         religion = animist
-        size = 86531
+        size = 21633
     }
 
     aristocrats = {
@@ -3243,13 +3243,13 @@
     soldiers = {
         culture = plantagenian
         religion = animist
-        size = 675
+        size = 877
     }
 
     farmers = {
         culture = plantagenian
         religion = animist
-        size = 106562
+        size = 171460
     }
 
     aristocrats = {
@@ -3268,12 +3268,6 @@
         culture = plantagenian
         religion = animist
         size = 250
-    }
-
-    soldiers = {
-        culture = plantagenian
-        religion = animist
-        size = 202
     }
 
     farmers = {

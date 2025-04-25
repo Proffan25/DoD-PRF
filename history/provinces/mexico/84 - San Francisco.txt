@@ -1,12 +1,31 @@
 owner = DNG
 controller = DNG
 add_core = DNG
-#add_core = CAL
 trade_goods = fruit
-life_rating = 35
+life_rating = 35
 naval_base = 1
-1861.1.1 = {owner = USAcontroller = USAadd_core = USA}
-1861.1.1 = {
-	naval_base = 1
-	fort = 1
+state_building = {
+	level = 1
+	building = ammunition_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = explosives_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = steel_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = artillery_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = canned_food_factory
+	upgrade = yes
 }
