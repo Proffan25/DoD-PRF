@@ -159,6 +159,7 @@ AUS_778;Istria;Istrie;Istrien;;Istria;;;;;;;;;x;;;;
 AUS_781;North Dalmatia;La Dalmatie du Nord;Nord-Dalmatien;;Dalmacia del norte;;;;;;;;;x;;;;
 AUS_780;Dalmazia;Dalmazia;Dalmazia;;Dalmazia;;;;;;;;;x;;;;
 BEL_395;Franche-Comté;Franche-Comté;Franche-Comté;;Franche-Comté;;;;;;;;x;;;;
+DEN_251;Island og Gronland;;;;;;;;;;;;;x;;
 #############################################;;;;;;;;;;;;;;x
 #State Localisations - Italy;;;;;;;;;;;;;;x
 #############################################;;;;;;;;;;;;;;x
@@ -173,8 +174,8 @@ HAM_528;Lower Elbe;;;;;;;;;;;;;x;;
 SCH_370;Schleswig;;;;;;;;;;;;;x;;
 HOL_369;Holstein;;;;;;;;;;;;;x;;
 GER_533;Heligoland;;;;;;;;;;;;;x;;
-MEC_545;Mecklenburg;;;;;;;;;;;;;x;;
-PRU_679;Hinterpommern;Poméranie plus loin;Hinterpommern;;Más adelante Pomerania;;;;;;;;;x;;;;
+MEC_545;Holsten-Förpommern;;;;;;;;;;;;;x;;
+PRU_679;Hinterpommern;;;;;;;;;;;;;x;;
 PRU_578;Mittelrhein;;;;;;;;;;;;;x;;
 #############################################;;;;;;;;;;;;;;x
 #State Localisations - Russia;;;;;;;;;;;;;;x

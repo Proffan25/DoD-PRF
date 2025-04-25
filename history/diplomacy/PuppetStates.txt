@@ -34,3 +34,9 @@ vassal = {
 	start_date = 1836.1.1
 	end_date = 1937.1.1
 }
+vassal = {
+	first = SCA
+	second = PSV
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
