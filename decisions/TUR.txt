@@ -1,5 +1,6 @@
 political_decisions = {
     move_capital_to_ankara = {
+		picture = move_capital_to_ankara
 		potential = {
 			tag = TUR
 			NOT = {has_country_flag = ankara_capital}
@@ -16,6 +17,7 @@ political_decisions = {
 		}
 	}
 	keep_instanbul_capital = {
+		picture = constantinople
 		potential = {
 			tag = TUR
 			NOT = {has_country_flag = ankara_capital}
@@ -31,6 +33,7 @@ political_decisions = {
 		}
 	}
 	tanzimat_reforms_greek = {
+		picture = greeks
 		potential = {
 			tag = TUR 
 			has_country_flag = istanbul_capital
@@ -47,6 +50,7 @@ political_decisions = {
 		}
 	}	
 	tanzimat_reforms_albanian = {
+		picture = albania
 		potential = {
 			tag = TUR
 			has_country_flag = istanbul_capital
@@ -61,6 +65,7 @@ political_decisions = {
 		}	
 	}
 	tanzimat_reforms_serb = {
+		picture = despotate_serbia
 		potential = {
 			tag = TUR
 			has_country_flag = istanbul_capital
@@ -76,6 +81,7 @@ political_decisions = {
 		}
 	}
 	tanzimat_reforms_croat = {
+		picture = reclaim_croatia
 		potential = {
 			tag = TUR
 			has_country_flag = istanbul_capital
@@ -92,8 +98,9 @@ political_decisions = {
 		}
 	}
 	double_down_balkans = {
+		picture = map_balkans
 		potential = {
-			tag = TUR 
+			tag = TUR
 			has_country_flag = istanbul_capital
 			accepted_culture = bulgarian
 			accepted_culture = albanian
@@ -121,6 +128,7 @@ political_decisions = {
 		}
 	}
 	islamic_reforms_misri = {
+		picture = egypt_levant
 		potential = {
 			tag = TUR 
 			has_country_flag = ankara_capital
@@ -136,6 +144,7 @@ political_decisions = {
 		}
 	}
 	islamic_reforms_bedouin = {
+		picture = map_arabia
 		potential = {
 			tag = TUR 
 			has_country_flag = ankara_capital
@@ -153,6 +162,7 @@ political_decisions = {
 	
 	}
 	islamic_reforms_armenian = {
+		picture = armenian_apostolic_cross
 		potential = {
 			tag = TUR 
 			has_country_flag = ankara_capital
@@ -169,6 +179,7 @@ political_decisions = {
 	
 	}
 	the_caliphate = {
+		picture = caliphate
 		potential = {
 			tag = TUR 
 			has_country_flag = ankara_capital
