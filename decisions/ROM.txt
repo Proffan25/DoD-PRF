@@ -1,5 +1,6 @@
 political_decisions = {
 	unite_the_principalities = {
+        picture = create_romania
 		potential = {
 			OR = {
 				tag = WAL
@@ -7,11 +8,8 @@ political_decisions = {
 			}
 			NOT = { exists = ROM }
 		}
-
 		allow = {
-		
-			is_vassal = no
-			
+			is_vassal = no			
 			WAL_665 = {
 				owned_by = THIS
 			}
@@ -21,16 +19,20 @@ political_decisions = {
 			RUS_676 = {
 				owned_by = THIS
 			}
-			
 		}
-
 		effect = {
-		
 			change_tag = ROM
-			
 			MOL = { all_core = { add_core = ROM remove_core = MOL } }
 			WAL = { all_core = { add_core = ROM remove_core = WAL } }
-			
+            all_core = {
+                limit = {
+                    owner = { tag = ROM }
+                }
+                add_province_modifier = {
+                    name = baby_boom
+                    duration = 1825
+                }
+            }
 		}
 	}
 }

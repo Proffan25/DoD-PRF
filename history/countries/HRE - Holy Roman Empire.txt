@@ -28,12 +28,6 @@ unemployment_subsidies = low_subsidies
 pensions = good_pensions 
 school_reforms = no_schools
 
-govt_flag = 
-{
-	government = hms_government
-	flag = presidential_dictatorship
-}
-
 ruling_party = HRE_conservative
 upper_house = {
 	fascist = 0
