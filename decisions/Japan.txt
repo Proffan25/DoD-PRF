@@ -22,7 +22,7 @@ political_decisions = {
 			year = 1860
 		}
 		effect = {
-			badboy = 15
+			badboy = 20
 			ENG_13 = {add_core = JAP}
 			MEX_85 = {add_core = JAP}
 			USA_78 = {add_core = JAP}

@@ -3,11 +3,12 @@ political_decisions = {
 	man_in_low_castle = {
 		potential = {
 			tag = DNG
-			NOT = {has_country_flag = man_in_low_castle}
+			NOT = {has_country_flag = man_in_low_castle
+			13 = { core = JAP}
 		}
 		allow = {
 			war = no
-			year = 1865
+			truce_with = JAP 
 		}
 		effect = {
 			ENG_13 = { remove_core = JAP}
