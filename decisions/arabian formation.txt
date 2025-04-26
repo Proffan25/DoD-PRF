@@ -1,0 +1,30 @@
+political_decisions = {
+	form_arabia = {
+        potential = { 
+            tag = EGY
+        }
+        allow = {
+            war = no
+            ideological_thought = 1
+            EGY = { all_core = { owned_by = THIS } }
+            EGY_1757 = {
+                owned_by = THIS
+            }
+            EGY_921 = {
+                owned_by = THIS
+            }
+            NEJ_1157 = {
+                owned_by = THIS
+            }
+        }
+        effect = {
+            add_accepted_culture = maghrebi
+            add_accepted_culture = bedouin
+            EGY = { all_core = { add_core = ARA remove_core = EGY } }
+            NEJ = { all_core = { add_core = ARA } }
+            TUR_923 = { add_core = ARA }
+            TUR_902 = { add_core = ARA }
+            change_tag = ARA
+        }
+    }
+}
