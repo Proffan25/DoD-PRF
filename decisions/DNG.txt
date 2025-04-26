@@ -1,0 +1,21 @@
+political_decisions = {
+
+	man_in_low_castle = {
+		potential = {
+			tag = DNG
+			NOT = {has_country_flag = man_in_low_castle}
+		}
+		allow = {
+			war = no
+			year = 1865
+		}
+		effect = {
+			ENG_13 = { remove_core = JAP}
+			MEX_85 = { remove_core = JAP}
+			USA_78 = { remove_core = JAP}
+			set_country_flag = man_in_low_castle
+		}
+	
+	
+	}
+}
