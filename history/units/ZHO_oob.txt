@@ -1,6 +1,67 @@
 army = {
-	
+	name = "Puto el que lee"
+	location = 2468
+	regiment = {
+		name= "1. Banner army"
+		type = hussar
+		home = 2468
+	}
+
+	regiment = {
+		name= "2. Banner army"
+		type = infantry
+		home = 2468
+	}
+
+	regiment = {
+		name= "3. Banner army"
+		type = infantry
+		home = 2468
+	}
+
+	regiment = {
+		name= "4. Banner army"
+		type = infantry
+		home = 2469
+	}
+
+	regiment = {
+		name= "5. Banner army"
+		type = infantry
+		home = 2473
+	}
+
+	regiment = {
+		name= "6. Banner army"
+		type = artillery
+		home = 2482
+	}
+
+	regiment = {
+		name= "7. Banner army"
+		type = artillery
+		home = 2483
+	}
+
+	regiment = {
+		name= "8. Banner army"
+		type = artillery
+		home = 2468
+	}
+
+	regiment = {
+		name= "9. Banner army"
+		type = artillery
+		home = 2505
+	}
+
+	regiment = {
+		name= "10. Banner army"
+		type = artillery
+		home = 2509
+	}
 }
+
 navy = {
 	name = "Xifang Navy"
 	location = 2468

@@ -72,4 +72,4 @@ mechanized_mining = 1
 basic_chemistry = 1
 naval_plans = 1
 
-oob = "empty"
+oob = "ZHO_oob.txt"

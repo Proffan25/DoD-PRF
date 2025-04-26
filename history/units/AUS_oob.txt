@@ -5,22 +5,22 @@ army = {
 	location = 619
 	regiment = {
 		name= "1.1st Division"
-		type = infantry
+		type = artillery
 		home = 622
 	}
 	regiment = {
 		name= "2.1st Division"
-		type = infantry
+		type = artillery
 		home = 617
 	}
 	regiment = {
 		name= "3.1st Division"
-		type = infantry
+		type = artillery
 		home = 620
 	}
 	regiment = {
 		name= "4.1st Division"
-		type = infantry
+		type = artillery
 		home = 619
 	}
 }
