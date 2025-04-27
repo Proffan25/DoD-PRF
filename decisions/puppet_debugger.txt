@@ -35,7 +35,7 @@ political_decisions = {
 		
 		}
 		effect = {
-			end_war = STR
+			end_war = HUG
 		}
 		ai_will_do = {
 			factor = 0
