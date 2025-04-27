@@ -1693,7 +1693,7 @@ american_cultures = {
 neo_european_cultures = {
 	leader = european
 	boer = {
-		color = {17 128 148}
+		color = {220 145 0}
 		first_names = { Sarel Rudolf Andries Hendrik Piet Racheltjie Dirkie Siener Koos Danie Christiaan Louis Petrus Paul Eugene Joubert
 		}
 		last_names = { Cilliers Botha Joubert Kruger Duquesne Potgieter "van Rensburg" "de la Rey" Theron "de Wet" Pretorius Retief "de Beer" Uys 

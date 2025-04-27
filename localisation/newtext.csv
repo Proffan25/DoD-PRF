@@ -351,8 +351,6 @@ CZH_liberal;RSZML;RSZML;RSZML;;RSZML;;;;;;;;;x
 CZH_communist;KSC;KSC;KSC;;KSC;;;;;;;;;x
 CZH_reactionary;CsND;CsND;CsND;;CsND;;;;;;;;;x
 CZH_anarcho_liberal;Ceska strana libertarianismus;Ceska strana libertarianismus;Ceska Strana Libertarianismus;;Ceska strana libertarianismus;;;;;;;;;x
-YUG;Yugoslavia;Yougoslavie;Jugoslawien;;Yugoslavia;;;;;;;;;x
-YUG_ADJ;Yugoslavian;Yougoslavien;Jugoslawisch;;yugoslava;;;;;;;;;x
 YUG_fascist;National Front;Front national;Nationale Front;;Frente Nacional;;;;;;;;;x
 YUG_socialist;Social Democratic Party;Parti social démocratique;Sozialdemokratische Partei;;Partido Democrático Social;;;;;;;;;x
 YUG_conservative;Conservative Party;Parti conservateur;Konservative Partei;;Partido Conservador;;;;;;;;;x
@@ -360,8 +358,6 @@ YUG_liberal;People's Party;Parti populaire;Volkspartei;;Partido del Pueblo;;;;;;
 YUG_communist;Communist Party;Parti communiste ;Kommunistische Partei;;Partido Comunista;;;;;;;;;x
 YUG_reactionary;Monarchist Party;Parti monarchiste;Monarchistische Partei;;Partido Monárquico;;;;;;;;;x
 YUG_anarcho_liberal;Freedom Party;Parti de la liberté;Freiheitspartei;;Partido Libertario;;;;;;;;;x
-AZB;Azerbaijan;Azerbaïdjan;Aserbaidschan;;Azerbaiyán;;;;;;;;;x
-AZB_ADJ;Azerbaijani;Azerbaïdjanais;Aserbaidschanisch;;azerí;;;;;;;;;x
 AZB_fascist;National Front;Front national;Nationale Front;;Frente Nacional;;;;;;;;;x
 AZB_socialist;Muslim Social Democratic Party;Parti social-démocrate musulman;Muslimische sozialdemokratische Partei;;Partido Democrático Social Musulmán;;;;;;;;;x
 AZB_conservative;Ittihad;Ittihad;Ittihad;;Ittihad;;;;;;;;;x

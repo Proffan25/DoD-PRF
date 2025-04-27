@@ -1,7 +1,5 @@
-owner = SCA
-controller = SCA
+owner = PHL
+controller = PHL
 add_core = PHL
 trade_goods = fruit
 life_rating = 35
-colonial = 2
-

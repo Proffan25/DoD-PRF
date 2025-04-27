@@ -1,11 +1,6 @@
-owner = BTV
-controller = BTV
+owner = BRG
+controller = BRG
 add_core = BTV
 trade_goods = wool
 life_rating = 35
-1861.1.1 = {
-	owner = COM
-	controller = COM
-	colonial = 2
-}
-
+colonial = 2
