@@ -3,10 +3,10 @@ primary_culture = indo_aryan
 culture = dravidian
 
 religion = animist
-government = democracy
+government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_equality
-literacy = 0.01
+literacy = 0.05
 civilized = no
 
 ruling_party = HND_conservative
@@ -36,6 +36,7 @@ political_parties = underground_parties
 wage_reform = no_minimum_wage
 work_hours = no_work_hour_limit
 safety_regulations = no_safety
+
 health_care = no_health_care
 unemployment_subsidies = no_subsidies
 pensions = no_pensions 

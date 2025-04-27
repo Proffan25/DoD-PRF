@@ -519,6 +519,8 @@ HRE_proletarian_dictatorship;Central European SFR;;;;;;;;;;;;;
 HRE_democracy;Holy Roman Federation;;;;;;;;;;;;;
 HRE_presidential_dictatorship;Holy Roman Federation;;;;;;;;;;;;;
 HRE_ADJ;Holy Roman;;;;;;;;;;;;;
+NOV;Novgorod;;;;;;;;;;;;;
+NOV_ADJ;Novgorodian;;;;;;;;;;;;;
 #;;;;;;;;;;;;;;Cultures;;;;
 beornian;Beornian;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 english;English;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
