@@ -8,6 +8,7 @@ political_decisions = {
 		allow = {
 			war = no
 			truce_with = JAP 
+			year = 1865
 		}
 		effect = {
 			ENG_13 = { remove_core = JAP}
