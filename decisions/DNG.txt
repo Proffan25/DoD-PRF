@@ -4,7 +4,6 @@ political_decisions = {
 		potential = {
 			tag = DNG
 			NOT = {has_country_flag = man_in_low_castle
-			13 = { core = JAP}
 		}
 		allow = {
 			war = no
