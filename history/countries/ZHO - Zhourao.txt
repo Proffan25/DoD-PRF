@@ -4,11 +4,11 @@ religion = animist
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_order
-literacy = 0.01
+literacy = 0.2
 non_state_culture_literacy = 0.01
 civilized = yes
 
-ruling_party = ZHO_reactionary
+ruling_party = generic_conservative
 upper_house = {
 	fascist = 0
 	liberal = 0
@@ -19,12 +19,9 @@ upper_house = {
 	communist = 0
 }
 
-
 # Starting Consciousness
 consciousness = 0
 nonstate_consciousness = 0
-
-
 
 # Political reforms
 slavery = no_slavery
