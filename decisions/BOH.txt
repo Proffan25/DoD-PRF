@@ -186,7 +186,6 @@ political_decisions = {
 			change_tag = ELB
 			add_accepted_culture = north_german
 			add_accepted_culture = pomeranian
-			add_accepted_culture = rheinish
 			any_country = {
 				limit = {
 					primary_culture = north_german
@@ -228,6 +227,20 @@ political_decisions = {
 			LIP = {all_core = {add_core = ELB remove_core = LIP}}
 			OLD = {all_core = {add_core = ELB remove_core = OLD}}
 			FRI = {all_core = {add_core = ELB remove_core = FRI}}
+		}
+	}
+	
+	integrate_rheinish_boh = {
+        picture = froehliche_rheinland
+		potential = {
+			tag = ELB
+            NOT = { accepted_culture = rheinish }
+		}
+		allow = {
+			empiricism = 1
+		}
+		effect = {
+			add_accepted_culture = rheinish
 		}
 	}
 	
@@ -354,6 +367,8 @@ political_decisions = {
 			HOL = {all_core ={owned_by = THIS}}
 		}
 		effect = {
+			add_accepted_culture = north_german
+			add_accepted_culture = pomeranian
 			SGF = {all_core = {add_core = GER remove_core = SGF}}
 			RHI = {all_core = {add_core = GER}}
 			BEG = {all_core = {add_core = GER}}
@@ -386,126 +401,126 @@ political_decisions = {
 			tag = BOH
 		}
 		allow = {
-					BOH = {
-						all_core = {
-							OR = {
-								owned_by = THIS
-								owner = {
-									in_sphere = THIS
-								}
-							}
-						} 
+			BOH = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
 					}
-					BRN = {
-						all_core = {
-							OR = {
-								owned_by = THIS
-								owner = {
-									in_sphere = THIS
-								}
-							}
-						} 
+				} 
+			}
+			BRN = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
 					}
-					THU = {
-						all_core = {
-							OR = {
-								owned_by = THIS
-								owner = {
-									in_sphere = THIS
-								}
-							}
-						} 
+				} 
+			}
+			THU = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
 					}
-					BRA = {
-						all_core = {
-							OR = {
-								owned_by = THIS
-								owner = {
-									in_sphere = THIS
-								}
-							}
-						} 
+				} 
+			}
+			BRA = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
 					}
-					HAN = {
-						all_core = {
-							OR = {
-								owned_by = THIS
-								owner = {
-									in_sphere = THIS
-								}
-							}
-						} 
+				} 
+			}
+			HAN = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
 					}
-					BRE = {
-						all_core = {
-							OR = {
-								owned_by = THIS
-								owner = {
-									in_sphere = THIS
-								}
-							}
-						} 
+				} 
+			}
+			BRE = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
 					}
-					POM = {
-						all_core = {
-							OR = {
-								owned_by = THIS
-								owner = {
-									in_sphere = THIS
-								}
-							}
-						} 
+				} 
+			}
+			POM = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
 					}
-					HOL = {
-						all_core = {
-							OR = {
-								owned_by = THIS
-								owner = {
-									in_sphere = THIS
-								}
-							}
-						} 
+				} 
 					}
-					BAV = {
-						all_core = {
-							OR = {
-								owned_by = THIS
-								owner = {
-									in_sphere = THIS
-								}
-							}
-						} 
+			HOL = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+							owner = {
+							in_sphere = THIS
+						}
 					}
-					WUR = {
-						all_core = {
-							OR = {
-								owned_by = THIS
-								owner = {
-									in_sphere = THIS
-								}
-							}
-						} 
+				} 
+			}
+			BAV = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
 					}
-					BAD = {
-						all_core = {
-							OR = {
-								owned_by = THIS
-								owner = {
-									in_sphere = THIS
-								}
-							}
-						} 
+				} 
+			}
+			WUR = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
 					}
-					HES = {
-						all_core = {
-							OR = {
-								owned_by = THIS
-								owner = {
-									in_sphere = THIS
-								}
-							}
-						} 
+				} 
+			}
+			BAD = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
 					}
+				} 
+			}
+			HES = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				} 
+			}
 					FRM = {
 						all_core = {
 							OR = {
@@ -700,15 +715,14 @@ political_decisions = {
         picture = frankfurt
         potential = {
             tag = HRE
+            NOT = { accepted_culture = rheinish }
         }
-
         allow = {
             state_n_government = 1
 			HES_2560 = {
 				owned_by = THIS
 			}
         }
-
         effect = {
             set_country_flag = frankfurt_unify
 			add_accepted_culture = north_german
