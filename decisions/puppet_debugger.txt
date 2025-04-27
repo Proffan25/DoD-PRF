@@ -4,7 +4,7 @@ political_decisions = {
 		alert = yes
 		picture = control_puppets
 		potential = {
-			NOT = { war_with = STR }
+			NOT = { war_with = HUG }
 			ai = no
 			num_of_vassals = 1
 			is_vassal = no
@@ -13,7 +13,7 @@ political_decisions = {
 		
 		}
 		effect = {
-			STR = {
+			HUG = {
 				war = {
 					target = THIS
 					attacker_goal = { casus_belli = status_quo }
@@ -29,7 +29,7 @@ political_decisions = {
 		picture = return_puppets
 		potential = {
 			ai = no
-			war_with = STR
+			war_with = HUG
 		}
 		allow = {
 		
