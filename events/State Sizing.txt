@@ -16,26 +16,13 @@ country_event = {
 	}
 
 	option = {
+		name = "I am clinically insane"
 		any_country = { 
 			limit = {
 				OR = {
 					war = no
-					AND = {
-						war = yes
-						OR = {
-							tag = TUR
-							tag = TRI
-							tag = TEX
-							tag = MEX
-							tag = CLM
-							tag = SPA
-						}
-						NOT = { 
-							year = 1837 
-						}
-					}
+					NOT = { year = 1837 }
 				}
-				
 			}
 			any_owned = { 
 				limit = {
@@ -48,28 +35,6 @@ country_event = {
 				remove_core = MED 
 				remove_core = LRG 
 				remove_core = HUG 
-			}
-		}
-		any_country = { 
-			limit = {
-				OR = {
-					war = no
-					AND = {
-						war = yes
-						OR = {
-							tag = TUR
-							tag = TRI
-							tag = TEX
-							tag = MEX
-							tag = CLM
-							tag = SPA
-						}
-						NOT = { 
-							year = 1837 
-						}
-					}
-				}
-				
 			}
 			any_owned = { 
 				limit = {
@@ -84,28 +49,6 @@ country_event = {
 				remove_core = LRG 
 				remove_core = HUG 
 			}
-		}
-		any_country = { 
-			limit = {
-				OR = {
-					war = no
-					AND = {
-						war = yes
-						OR = {
-							tag = TUR
-							tag = TRI
-							tag = TEX
-							tag = MEX
-							tag = CLM
-							tag = SPA
-						}
-						NOT = { 
-							year = 1837 
-						}
-					}
-				}
-				
-			}
 			any_owned = { 
 				limit = {
 					state_scope = { 
@@ -118,28 +61,6 @@ country_event = {
 				remove_core = SMA 
 				remove_core = LRG 
 				remove_core = HUG 
-			} 
-		}		
-		any_country = { 
-			limit = {
-				OR = {
-					war = no
-					AND = {
-						war = yes
-						OR = {
-							tag = TUR
-							tag = TRI
-							tag = TEX
-							tag = MEX
-							tag = CLM
-							tag = SPA
-						}
-						NOT = { 
-							year = 1837 
-						}
-					}
-				}
-				
 			}
 			any_owned = {
 				limit = {
@@ -153,28 +74,6 @@ country_event = {
 			remove_core = SMA 
 			remove_core = MED 
 			remove_core = HUG 
-			} 
-		}
-		any_country = {
-			limit = {
-				OR = {
-					war = no
-					AND = {
-						war = yes
-						OR = {
-							tag = TUR
-							tag = TRI
-							tag = TEX
-							tag = MEX
-							tag = CLM
-							tag = SPA
-						}
-						NOT = { 
-							year = 1837 
-						}
-					}
-				}
-				
 			}
 			any_owned = { 
 				limit = {
@@ -213,22 +112,7 @@ country_event = {
 	option = {
 		any_country = { 
 			limit = {
-				OR = {
-					war = no
-					AND = {
-						war = yes
-						OR = {
-							tag = TUR
-							tag = TRI
-							tag = TEX
-							tag = MEX
-						}
-						NOT = { 
-							year = 1837 
-						}
-					}
-				}
-				
+				war = no
 			}
 			any_owned = { 
 				limit = {
@@ -241,26 +125,6 @@ country_event = {
 				remove_core = MED 
 				remove_core = LRG 
 				remove_core = HUG 
-			}
-		}
-		any_country = { 
-			limit = {
-				OR = {
-					war = no
-					AND = {
-						war = yes
-						OR = {
-							tag = TUR
-							tag = TRI
-							tag = TEX
-							tag = MEX
-						}
-						NOT = { 
-							year = 1837 
-						}
-					}
-				}
-				
 			}
 			any_owned = { 
 				limit = {
@@ -275,26 +139,6 @@ country_event = {
 				remove_core = LRG 
 				remove_core = HUG 
 			}
-		}
-		any_country = { 
-			limit = {
-				OR = {
-					war = no
-					AND = {
-						war = yes
-						OR = {
-							tag = TUR
-							tag = TRI
-							tag = TEX
-							tag = MEX
-						}
-						NOT = { 
-							year = 1837 
-						}
-					}
-				}
-				
-			}
 			any_owned = { 
 				limit = {
 					state_scope = { 
@@ -307,26 +151,6 @@ country_event = {
 				remove_core = SMA 
 				remove_core = LRG 
 				remove_core = HUG 
-			} 
-		}		
-		any_country = { 
-			limit = {
-				OR = {
-					war = no
-					AND = {
-						war = yes
-						OR = {
-							tag = TUR
-							tag = TRI
-							tag = TEX
-							tag = MEX
-						}
-						NOT = { 
-							year = 1837 
-						}
-					}
-				}
-				
 			}
 			any_owned = {
 				limit = {
@@ -340,26 +164,6 @@ country_event = {
 			remove_core = SMA 
 			remove_core = MED 
 			remove_core = HUG 
-			} 
-		}
-		any_country = {
-			limit = {
-				OR = {
-					war = no
-					AND = {
-						war = yes
-						OR = {
-							tag = TUR
-							tag = TRI
-							tag = TEX
-							tag = MEX
-						}
-						NOT = { 
-							year = 1837 
-						}
-					}
-				}
-				
 			}
 			any_owned = { 
 				limit = {
@@ -397,22 +201,7 @@ country_event = {
 	option = {
 		any_country = { 
 			limit = {
-				OR = {
-					war = no
-					AND = {
-						war = yes
-						OR = {
-							tag = TUR
-							tag = TRI
-							tag = TEX
-							tag = MEX
-						}
-						NOT = { 
-							year = 1837 
-						}
-					}
-				}
-				
+				war = no
 			}
 			any_owned = { 
 				limit = {
@@ -425,26 +214,6 @@ country_event = {
 				remove_core = MED 
 				remove_core = LRG 
 				remove_core = HUG 
-			}
-		}
-		any_country = { 
-			limit = {
-				OR = {
-					war = no
-					AND = {
-						war = yes
-						OR = {
-							tag = TUR
-							tag = TRI
-							tag = TEX
-							tag = MEX
-						}
-						NOT = { 
-							year = 1837 
-						}
-					}
-				}
-				
 			}
 			any_owned = { 
 				limit = {
@@ -459,26 +228,6 @@ country_event = {
 				remove_core = LRG 
 				remove_core = HUG 
 			}
-		}
-		any_country = { 
-			limit = {
-				OR = {
-					war = no
-					AND = {
-						war = yes
-						OR = {
-							tag = TUR
-							tag = TRI
-							tag = TEX
-							tag = MEX
-						}
-						NOT = { 
-							year = 1837 
-						}
-					}
-				}
-				
-			}
 			any_owned = { 
 				limit = {
 					state_scope = { 
@@ -491,26 +240,6 @@ country_event = {
 				remove_core = SMA 
 				remove_core = LRG 
 				remove_core = HUG 
-			} 
-		}		
-		any_country = { 
-			limit = {
-				OR = {
-					war = no
-					AND = {
-						war = yes
-						OR = {
-							tag = TUR
-							tag = TRI
-							tag = TEX
-							tag = MEX
-						}
-						NOT = { 
-							year = 1837 
-						}
-					}
-				}
-				
 			}
 			any_owned = {
 				limit = {
@@ -524,26 +253,6 @@ country_event = {
 			remove_core = SMA 
 			remove_core = MED 
 			remove_core = HUG 
-			} 
-		}
-		any_country = {
-			limit = {
-				OR = {
-					war = no
-					AND = {
-						war = yes
-						OR = {
-							tag = TUR
-							tag = TRI
-							tag = TEX
-							tag = MEX
-						}
-						NOT = { 
-							year = 1837 
-						}
-					}
-				}
-				
 			}
 			any_owned = { 
 				limit = {
@@ -556,7 +265,7 @@ country_event = {
 				remove_core = SMA 
 				remove_core = MED 
 				remove_core = LRG 
-			} 
+			}
 		}
 	}
 }
