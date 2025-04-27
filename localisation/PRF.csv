@@ -521,6 +521,8 @@ HRE_presidential_dictatorship;Holy Roman Federation;;;;;;;;;;;;;
 HRE_ADJ;Holy Roman;;;;;;;;;;;;;
 NOV;Novgorod;;;;;;;;;;;;;
 NOV_ADJ;Novgorodian;;;;;;;;;;;;;
+MUS;Muscovy;;;;;;;;;;;;;
+MUS_ADJ;Muscovite;;;;;;;;;;;;;
 #;;;;;;;;;;;;;;Cultures;;;;
 beornian;Beornian;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 english;English;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
