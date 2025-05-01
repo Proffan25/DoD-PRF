@@ -7,6 +7,7 @@ country_event = {
 		year = 1860
 		any_core = {
 			owner = { tag = INC }
+			is_colonial = no
 			NOT = {	has_province_modifier = ukrainian_breadbasket }
 		}	
 	}	
@@ -18,6 +19,7 @@ country_event = {
 		all_core = {
 			limit = {
 				owner = { tag = INC }
+				is_colonial = no
 			}
             add_province_modifier = {
                 name = ukrainian_breadbasket
