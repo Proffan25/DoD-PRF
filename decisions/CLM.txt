@@ -89,24 +89,6 @@ political_decisions = {
 		}
 	}
 	
-	integrate_caribbeans_clm = {
-		picture = cuba
-		potential = {
-			tag = CLM
-            NOT = { accepted_culture = caribeno }
-		}
-		allow = {
-			state_n_government = 1
-			SPA_2209 = {
-				owned_by = THIS
-			}
-		}
-		effect = {
-			SPA_2209 = { add_core = CLM }
-			add_accepted_culture = caribeno
-		}
-	}
-	
 	universityMEX = {
 		picture = universidad_mexico
 		potential = {

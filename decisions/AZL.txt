@@ -179,7 +179,7 @@ political_decisions = {
         picture = Congress_AMA
 		potential = {
 			tag = AZL
-            NOT = { accepted_culture = caribeno }
+            NOT = { accepted_culture = afro_caribeno }
 		}
 		allow = {
 			state_n_government = 1
@@ -190,7 +190,6 @@ political_decisions = {
 		effect = {
 			SPA_2209 = { add_core = AZL }
 			add_accepted_culture = afro_caribeno
-			add_accepted_culture = caribeno
 		}
 	}
 }
