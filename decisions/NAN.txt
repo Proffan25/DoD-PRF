@@ -3,21 +3,19 @@ political_decisions = {
         picture = map_england
 		potential = {
 			tag = NAN
-			NOT = {has_country_flag = coming_home}
 		}
 		allow = {
 			OR = {
-				ENG_280 = {owned_by = THIS}
-				ENG_284 = {owned_by = THIS}
-				ENG_296  = {owned_by = THIS}
-				ENG_277 = {owned_by = THIS}
-				ENG_273 = {owned_by = THIS}
-				ENG_291 = {owned_by = THIS}
-				ENG_300  = {owned_by = THIS}
+				ENG_280 = { owned_by = THIS }
+				ENG_284 = { owned_by = THIS }
+				ENG_296  = { owned_by = THIS }
+				ENG_277 = { owned_by = THIS }
+				ENG_273 = { owned_by = THIS }
+				ENG_291 = { owned_by = THIS }
+				ENG_300  = { owned_by = THIS }
 			}
 		}
 		effect = {
-			set_country_flag = coming_home
 			change_tag = ENG
 			NAN = { all_core = { add_core = ENG } }
 			primary_culture = english 
@@ -29,13 +27,12 @@ political_decisions = {
 		picture = new_camelot
 		potential = {
 			tag = ENG
-			NOT = {has_country_flag = restablish_capital}
+			NOT = { has_country_flag = restablish_capital }
 		}
 		allow = {
-			ENG_303  = {owned_by = THIS}
+			ENG_300  = { owned_by = THIS }
 		}
 		effect = {
-			set_country_flag = restablish_capital
 			capital = 303
 			303 = {
 				life_rating = 5
@@ -45,6 +42,7 @@ political_decisions = {
 				name = the_homestead_act 
 				duration = 3650
 			}
+			set_country_flag = restablish_capital
 		}
 	}
 	
@@ -83,17 +81,16 @@ political_decisions = {
         }
         allow = {
 			and = {
-				ENG_280 = {owned_by = THIS}
-				ENG_284 = {owned_by = THIS}
-				ENG_296  = {owned_by = THIS}
-				ENG_277 = {owned_by = THIS}
-				ENG_273 = {owned_by = THIS}
-				ENG_291 = {owned_by = THIS}
-				ENG_300  = {owned_by = THIS}
+				ENG_280 = { owned_by = THIS }
+				ENG_284 = { owned_by = THIS }
+				ENG_296  = { owned_by = THIS }
+				ENG_277 = { owned_by = THIS }
+				ENG_273 = { owned_by = THIS }
+				ENG_291 = { owned_by = THIS }
+				ENG_300  = { owned_by = THIS }
 			}
         }
         effect = {
-			set_country_flag = reject_anglois_flag
 			277 = {	change_province_name = "Liverpool" }
 			278 = {	change_province_name = "Manchester" }
 			280 = {	change_province_name = "Newcastle-upon-Tyne" }
@@ -108,6 +105,7 @@ political_decisions = {
 			300 = {	change_province_name = "London"	}
 			301 = {	change_province_name = "Canterbury"	}
 			304 = {	change_province_name = "Isle of Man" }
+			set_country_flag = reject_anglois_flag
             prestige = 10
         }
         ai_will_do = { factor = 1 }
@@ -184,12 +182,12 @@ political_decisions = {
         }
 
         effect = {
-			set_global_flag = tapto_are_falklands
             2131 = {
 				change_province_name = "Falkland Islands"
 				state_scope = { change_region_name = "Falklands and South Georgia" }
 			}
 			2133 = { change_province_name = "South Georgia" }
+			set_country_flag = tapto_are_falklands
         }
         ai_will_do = { factor = 1 }
     }

@@ -8,20 +8,21 @@ political_decisions = {
         allow = {
             war = no
 			and = {
-				ENG_280 = {owned_by = THIS}
-				ENG_284 = {owned_by = THIS}
-				ENG_296  = {owned_by = THIS}
-				ENG_277 = {owned_by = THIS}
-				ENG_273 = {owned_by = THIS}
-				ENG_291 = {owned_by = THIS}
-				ENG_300  = {owned_by = THIS}
-				ENG_271 = {owned_by = THIS}
-				ENG_266 = {owned_by = THIS}
+				ENG_280 = { owned_by = THIS }
+				ENG_284 = { owned_by = THIS }
+				ENG_296  = { owned_by = THIS }
+				ENG_277 = { owned_by = THIS }
+				ENG_273 = { owned_by = THIS }
+				ENG_291 = { owned_by = THIS }
+				ENG_300 = { owned_by = THIS }
+				ENG_271 = { owned_by = THIS }
+				ENG_266 = { owned_by = THIS }
 			}
         }
         effect = {
             change_tag = GBR
             add_accepted_culture = scottish
+			ENG = { all_core = { add_core = GBR remove_core = ENG } }
 			SCO = { all_core = { add_core = GBR } }
 			IRE = { all_core = { add_core = GBR } }
         }
