@@ -313,7 +313,6 @@ ZHO;Zhourao;;;;;;;;;;;;x
 ZHO_ADJ;Zhourian;;;;;;;;;;;;x
 DNG;Qingqiu;;;;;;;;;;;;x
 DNG_ADJ;Qingqiuan;;;;;;;;;;;;x
-DUA;Anglo-France;;;;;;;;;;;;x
 DUA_absolute_monarchy;Angevin Empire;;;;;;;;;;;;;
 DUA_prussian_constitutionalism;Angevin Empire;;;;;;;;;;;;;
 DUA_hms_government;Angevin Empire;;;;;;;;;;;;;
@@ -322,6 +321,7 @@ DUA_proletarian_dictatorship;DPREF;;;;;;;;;;;;;
 DUA_democracy;Anglo-French Republic;;;;;;;;;;;;;
 DUA_presidential_dictatorship;Anglo-French Republic;;;;;;;;;;;;;
 DUA_ADJ;Anglois;;;;;;;;;;;;;
+DUA;Anglo-France;;;;;;;;;;;;x
 BRG;Burgundy;;;;;;;;;;;;x
 BRG_absolute_monarchy;Kingdom of Burgundy;;;;;;;;;;;;;
 BRG_prussian_constitutionalism;Kingdom of Burgundy;;;;;;;;;;;;;
@@ -363,7 +363,6 @@ IBE_proletarian_dictatorship;Iberian SFR;;;;;;;;;;;;;
 IBE_democracy;Iberian Federation;;;;;;;;;;;;;
 IBE_presidential_dictatorship;Iberian Federation;;;;;;;;;;;;;
 IBE_ADJ;Iberian;;;;;;;;;;;;;
-HIS;Hispania;;;;;;;;;;;;x
 HIS_absolute_monarchy;Hispanic Empire;;;;;;;;;;;;;
 HIS_prussian_constitutionalism;Hispanic Empire;;;;;;;;;;;;;
 HIS_hms_government;Hispanic Empire;;;;;;;;;;;;;
@@ -372,6 +371,7 @@ HIS_proletarian_dictatorship;Hispanic SFR;;;;;;;;;;;;;
 HIS_democracy;Hispanic Federation;;;;;;;;;;;;;
 HIS_presidential_dictatorship;Hispanic Federation;;;;;;;;;;;;;
 HIS_ADJ;Hispanic;;;;;;;;;;;;;
+HIS;Hispania;;;;;;;;;;;;x
 HRE;Holy Roman Empire;;;;;;;;;;;;x
 HRE_ADJ;Roman Empire;;;;;;;;;;;;;
 HUN;Hungary;;;;;;;;;;;;x
