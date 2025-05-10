@@ -1,5 +1,6 @@
 political_decisions = {
 	form_russia = {
+        picture = tsardom
 		potential = {
 			OR = {
 				tag = MUS
@@ -7,53 +8,53 @@ political_decisions = {
 			}
 		}
 		allow = {
-			state_n_government = 1
 			war = no
-				MUS = {
-						all_core = {
-							OR = {
-								owned_by = THIS
-								owner = {
-								  OR = {
-									in_sphere = THIS
-									vassal_of = THIS
-									}
-								}
+			state_n_government = 1
+			MUS = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+						  OR = {
+							in_sphere = THIS
+							vassal_of = THIS
 							}
-						} 
+						}
 					}
-				NOV = {
-						all_core = {
+				} 
+			}
+			NOV = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
 							OR = {
-								owned_by = THIS
-								owner = {
-								  OR = {
-									in_sphere = THIS
-									vassal_of = THIS
-									}
-								}
+								in_sphere = THIS
+								vassal_of = THIS
 							}
-						} 
+						}
 					}
-				PSV = {
-						all_core = {
-							OR = {
-								owned_by = THIS
-								owner = {
-								  OR = {
-									in_sphere = THIS
-									vassal_of = THIS
-									}
-								}
+				} 
+			}
+			PSV = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+						OR = {
+							in_sphere = THIS
+							vassal_of = THIS
 							}
-						} 
+						}
 					}
+				} 
+			}
 		}
 		effect = {
 			any_country = {
 				limit = {
 					primary_culture = russian
-					  OR = {
+					 OR = {
 					   in_sphere = THIS
 					   vassal_of = THIS
 					}
@@ -63,9 +64,9 @@ political_decisions = {
 				}
 				annex_to = THIS
 			}
-			MUS = {all_core = {add_core = RUS remove_core = MUS }}
-			NOV = {all_core = {add_core = RUS remove_core = NOV }}
-			PSV = {all_core = {add_core = RUS remove_core = PSV }}
+			MUS = { all_core = { add_core = RUS remove_core = MUS } }
+			NOV = { all_core = { add_core = RUS remove_core = NOV } }
+			PSV = { all_core = { add_core = RUS remove_core = PSV } }
 			change_tag = RUS
 		}
 	}
