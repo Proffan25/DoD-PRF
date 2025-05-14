@@ -149,7 +149,9 @@ move_to_frankfurt_desc;Despite our efforts, the princes of the Empire did not ac
 integrate_rheinish_boh_title;Integration of the Rhine;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 integrate_rheinish_boh_desc;With our state controlling most of the Rhine region we have gained the support of the locals! Fur die Vaterland!;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 form_russia_title;Proclaim the Tsardom of all Russias;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-form_russia_boh_desc;Our domination over the Eastern Slavs is complete, and the time has come to declare a single states of all the Russians. The Great Bear has finally risen, and now Europe shall fear us!;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+form_russia_desc;Our domination over the Eastern Slavs is complete, and the time has come to declare a single states of all the Russians. The Great Bear has finally risen, and now Europe shall fear us!;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+wild_lands_title;The Wild Lands;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+wild_lands_desc;The Tsardom has competed with the Tatars for centuries and the areas along the Don and the Volga rivers have changed hands regularly. The current balance of power makes us a possible target of the Scandinavians through their puppet of Novgorod but should we rise again we could easily claim the Steppes as ours!;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 #;;;;;;;;;;;;;;Modifiers;;;;
 continental_army;Continental Army;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;
 continental_army_desc;Irish please apply, we need more soldiers UwU.;;;;;;;;;;;;;x,,,,,,,,,,,,;;;;;;;;;;;

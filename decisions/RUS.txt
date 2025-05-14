@@ -15,9 +15,9 @@ political_decisions = {
 					OR = {
 						owned_by = THIS
 						owner = {
-						  OR = {
-							in_sphere = THIS
-							vassal_of = THIS
+							OR = {
+								in_sphere = THIS
+								vassal_of = THIS
 							}
 						}
 					}
@@ -41,9 +41,9 @@ political_decisions = {
 					OR = {
 						owned_by = THIS
 						owner = {
-						OR = {
-							in_sphere = THIS
-							vassal_of = THIS
+							OR = {
+								in_sphere = THIS
+								vassal_of = THIS
 							}
 						}
 					}
@@ -54,9 +54,9 @@ political_decisions = {
 			any_country = {
 				limit = {
 					primary_culture = russian
-					 OR = {
-					   in_sphere = THIS
-					   vassal_of = THIS
+					OR = {
+						in_sphere = THIS
+						vassal_of = THIS
 					}
 					NOT = {
 						tag = THIS
@@ -70,62 +70,66 @@ political_decisions = {
 			change_tag = RUS
 		}
 	}
-	push_north = {
+	
+	push_central_rus = {
 		potential = {
 			tag = RUS
-			NOT = {has_country_flag = push_west}
-			NOT = {has_country_flag = push_north}
-			NOT = {has_country_flag = push_central}
-		}
-		allow = {
-			war = no
-		}	
-		effect = {
-			set_country_flag = push_north
-			RUS_340 = {add_core = RUS}
-			RUS_336 = {add_core = RUS}
-			RUS_354 = {add_core = RUS}
-		}
-	}
-	push_south = {
-		potential = {
-			tag = RUS
-			NOT = {has_country_flag = push_south}
-			NOT = {has_country_flag = push_north}
-			NOT = {has_country_flag = push_central}
-		}
-		allow = {
-			war = no
-		}	
-		effect = {
-			set_country_flag = push_south
-			RUS_964 = {add_core = RUS}
-			RUS_979 = {add_core = RUS}
-			RUS_1041 = {add_core = RUS}
-			RUS_1048 = {add_core = RUS}
-			RUS_1052 = {add_core = RUS}
-			RUS_1090 = {add_core = RUS}
-			RUS_1102 = {add_core = RUS}
-			RUS_1098 = {add_core = RUS}
-		}
-	}
-	push_central = {
-		potential = {
-			tag = RUS
-			NOT = {has_country_flag = push_south}
-			NOT = {has_country_flag = push_north}
-			NOT = {has_country_flag = push_central}
+			NOT = { has_country_flag = push_south }
+			NOT = { has_country_flag = push_north }
+			NOT = { has_country_flag = push_central }
 		}
 		allow = {
 			war = no
 		}	
 		effect = {
 			set_country_flag = push_central
-			RUS_999 = {add_core = RUS}
-			RUS_718 = {add_core = RUS}
+			RUS_999 = { add_core = RUS }
+			RUS_718 = { add_core = RUS }
+			RUS_965 = { add_core = RUS }
 		}
 	}
-	ukrainian = {
+	
+	push_north_rus = {
+		potential = {
+			tag = RUS
+			NOT = { has_country_flag = push_south }
+			NOT = { has_country_flag = push_north }
+			NOT = { has_country_flag = push_central }
+		}
+		allow = {
+			war = no
+		}	
+		effect = {
+			set_country_flag = push_north
+			RUS_340 = { add_core = RUS }
+			RUS_336 = { add_core = RUS }
+			RUS_354 = { add_core = RUS }
+		}
+	}
+	
+	push_south_rus = {
+		potential = {
+			tag = RUS
+			NOT = { has_country_flag = push_south }
+			NOT = { has_country_flag = push_north }
+			NOT = { has_country_flag = push_central }
+		}
+		allow = {
+			war = no
+		}	
+		effect = {
+			set_country_flag = push_south
+			RUS_964 = { add_core = RUS }
+			RUS_979 = { add_core = RUS }
+			RUS_1041 = { add_core = RUS }
+			RUS_1048 = { add_core = RUS }
+			RUS_1052 = { add_core = RUS }
+			RUS_1090 = { add_core = RUS }
+			RUS_1102 = { add_core = RUS }
+		}
+	}
+	
+	accept_ruthenian_rus = {
 		potential = {
 			tag = RUS
 			has_country_flag = push_central
@@ -135,11 +139,11 @@ political_decisions = {
 			war = no
 		}	
 		effect = {
-			set_country_flag = push_central
 			add_accepted_culture = ukrainian
 		}
 	}
-	finland = {
+	
+	accept_north_rus = {
 		potential = {
 			tag = RUS
 			has_country_flag = push_north
@@ -149,12 +153,12 @@ political_decisions = {
 			war = no
 		}	
 		effect = {
-			set_country_flag = push_central
 			add_accepted_culture = finnish
 			add_accepted_culture = latvian
 		}
 	}
-	tatar = {
+	
+	accept_south_rus = {
 		potential = {
 			tag = RUS
 			has_country_flag = push_south
@@ -164,26 +168,30 @@ political_decisions = {
 			war = no
 		}
 		effect = {
-			set_country_flag = push_central
 			add_accepted_culture = tatar
 			add_accepted_culture = armenian
 			add_accepted_culture = georgian
 		}
 	}
-	reclaim_eastern_colonies = {
+	
+	wild_lands = {
+        picture = RUS_tsar
 		potential = {
-			tag = RUS
-			NOT = {has_country_flag = eastern_colonies}
+			OR = {
+				tag = MUS
+				tag = RUS
+			}
+			NOT = { has_country_flag = wild_lands_flag }
 		}
 		allow = {
-			
+			medicine = 1			
 		}
 		effect = {
 			badboy = 7.5
-			NOG = {all_core = {add_core = THIS}}
-			SIB = {all_core = {add_core = THIS}}
-			set_country_flag = eastern_colonies
+			NOG = { all_core = { add_core = THIS } }
+			RUS_1041 = { add_core = THIS }
+			RUS_979 = { add_core = THIS }
+			set_country_flag = wild_lands_flag
 		}
 	}
 }
-

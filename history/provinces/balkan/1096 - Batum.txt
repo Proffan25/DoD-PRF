@@ -1,7 +1,6 @@
-owner = TUR
-controller = TUR
-add_core = TUR
-add_core = ARM
+owner = AZB
+controller = AZB
+add_core = AZB
+add_core = GEO
 trade_goods = coal
 life_rating = 35
-
