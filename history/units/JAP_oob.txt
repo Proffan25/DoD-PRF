@@ -18,8 +18,9 @@ leader = {
 	background = attack_1.1
 	prestige = 0.1
 }
+
 army = {
-	name = "Army of the Tokugawa Shogunate"	
+	name = "Army of Edo"	
 	location = 1635
 	regiment = {
 		name= "1.Edo"
@@ -47,7 +48,7 @@ army = {
 
 	regiment = {
 		name= "2.Choshu"
-		type = infantry
+		type = artillery
 		home = 1638
 	}
 
@@ -85,7 +86,7 @@ army = {
 
 army = {
 	name = "Army of Kyoto"	
-	location = 1651
+	location = 1657
 	regiment = {
 		name= "1. Kyoto"
 		type = infantry
@@ -112,7 +113,7 @@ army = {
 
 	regiment = {
 		name= "5. Kyoto"
-		type = infantry
+		type = artillery
 		home = 1657
 	}
 
@@ -178,7 +179,7 @@ army = {
 
 	regiment = {
 		name= "3.Sendai"
-		type = infantry
+		type = artillery
 		home = 1669
 	}
 	
@@ -217,7 +218,7 @@ army = {
 
 navy = {
 	name = "Imperial Fleet"
-	location = 1650
+	location = 1655
 	ship = {
 		name= "1 Yusosentai1"
 		type = clipper_transport
