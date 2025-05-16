@@ -1,4 +1,3 @@
-
 SAR = {
 	value = 125		#relation
 	level = 5		#3=cordial, 4 = friendly, 5 sphere
@@ -14,6 +13,64 @@ TRA = {
 	level = 5		#3=cordial, 4 = friendly, 5 sphere
 	influence_value = 25
 }
+
+leader = {
+	name = "Elie Gallieni"
+	date = 1836.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+}
+leader = {
+	name = "Henri Vaillant"
+	date = 1836.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+}
+leader = {
+	name = "Léopold Courbet"
+	date = 1836.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+}
+leader = {
+	name = "Antoine Berger"
+	date = 1836.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+}
+leader = {
+	name = "Fernand Arnaud"
+	date = 1836.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+}
+leader = {
+	name = "Gaston Billot"
+	date = 1836.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+}
+leader = {
+	name = "Georges Ney"
+	date = 1836.1.1
+	type = sea
+	personality = defence_1.1
+	background = attack_1.1
+}
+leader = {
+	name = "Douglas Beresford"
+	date = 1836.1.1
+	type = sea
+	personality = defence_1.1
+	background = attack_1.1
+}
+
 army = {
 	name = "Garde Royale"
 	location = 425

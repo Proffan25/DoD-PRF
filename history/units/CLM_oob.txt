@@ -40,6 +40,13 @@ leader = {
 	personality = defence_1.1
 	background = attack_1.1
 }
+leader = {
+	name = "Guillermo Brown"
+	date = 1836.1.1
+	type = sea
+	personality = defence_1.1
+	background = attack_1.1
+}
 
 army = {
 	name = "1. Army"

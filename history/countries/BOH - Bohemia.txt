@@ -70,4 +70,5 @@ upper_house = {
 	socialist = 0
 	communist = 0
 }
+
 oob = "BOH_oob.txt"

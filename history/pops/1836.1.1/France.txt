@@ -5879,7 +5879,7 @@
     artisans = {
         culture = french
         religion = animist
-        size = 8000
+        size = 10000
     }
 
     clerks = {
@@ -5897,7 +5897,7 @@
     soldiers = {
         culture = french
         religion = animist
-        size = 1100
+        size = 8100
     }
 
     farmers = {
@@ -5955,19 +5955,19 @@
     artisans = {
         culture = french
         religion = animist
-        size = 1500
+        size = 2000
     }
 
     soldiers = {
         culture = french
         religion = animist
-        size = 350
+        size = 3350
     }
 
     farmers = {
         culture = french
         religion = animist
-        size = 28600
+        size = 58600
     }
 }
 #Toulon (224000/56000 POPS)
@@ -5987,7 +5987,7 @@
     artisans = {
         culture = french
         religion = animist
-        size = 9000
+        size = 10000
     }
 
     clerks = {
@@ -6005,13 +6005,13 @@
     soldiers = {
         culture = french
         religion = animist
-        size = 1100
+        size = 6100
     }
 
     farmers = {
         culture = french
         religion = animist
-        size = 40950
+        size = 50950
     }
 }
 #Frejus (132000/33000 POPS)
@@ -6031,19 +6031,19 @@
     artisans = {
         culture = french
         religion = animist
-        size = 1600
+        size = 5600
     }
 
     soldiers = {
         culture = french
         religion = animist
-        size = 350
+        size = 3350
     }
 
     farmers = {
         culture = french
         religion = animist
-        size = 30400
+        size = 35400
     }
 }
 #Nice (Sardinian until 1860) (170800/42700 POPS)

@@ -1,0 +1,103 @@
+leader = {
+	name = "Lucien de Montaignac"
+	date = 1836.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+}
+leader = {
+	name = "Philippe Péllissier"
+	date = 1836.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+}
+leader = {
+	name = "Lazare Frossard"
+	date = 1836.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+}
+leader = {
+	name = "Leroy Harispe"
+	date = 1836.1.1
+	type = sea
+	personality = defence_1.1
+	background = attack_1.1
+}
+
+army = {
+	name = "Army of Provence"
+	location = 467
+	regiment = {
+		name= "1. Division"
+		type = infantry
+		home = 467
+	}
+	regiment = {
+		name= "2. Division"
+		type = infantry
+		home = 467
+	}
+	regiment = {
+		name= "3. Division"
+		type = hussar
+		home = 470
+	}
+	regiment = {
+		name= "4. Division"
+		type = artillery
+		home = 470
+	}
+	regiment = {
+		name= "5. Division"
+		type = artillery
+		home = 471
+	}
+	regiment = {
+		name= "6. Division"
+		type = artillery
+		home = 469
+	}
+}
+
+navy = {
+	name = "Provencal Royal Navy"
+	location = 467
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}
+
+}

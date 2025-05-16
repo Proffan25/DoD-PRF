@@ -16,7 +16,38 @@ leader = {
 	type = land
 	personality = defence_1.1
 	background = attack_1.1
-	prestige = 0.1
+}
+
+leader = {
+	name = "Fushimi Hanzo"
+	date = 1836.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+}
+
+leader = {
+	name = "Matsui Katamori"
+	date = 1836.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+}
+
+leader = {
+	name = "Yamamoto Shigeru"
+	date = 1836.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+}
+
+leader = {
+	name = "Yamagata Shichiro"
+	date = 1836.1.1
+	type = sea
+	personality = defence_1.1
+	background = attack_1.1
 }
 
 army = {
