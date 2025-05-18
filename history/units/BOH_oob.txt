@@ -53,6 +53,43 @@ HUN = {
 	level = 5		#3=cordial, 4 = friendly, 5 sphere
 	influence_value = 25
 }
+
+leader = {
+	name = "Alfred Zíbrt"
+	date = 1836.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+}
+leader = {
+	name = "Vitezslav Kafka"
+	date = 1836.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+}
+leader = {
+	name = "Mikulás Novotný"
+	date = 1836.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+}
+leader = {
+	name = "Vincenc Krízkovský"
+	date = 1836.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+}
+leader = {
+	name = "Jaroslav Schubert"
+	date = 1836.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+}
+
 army = {
 	name = "First Army of Bohemia"
 	location = 625
