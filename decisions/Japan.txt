@@ -1,21 +1,23 @@
 political_decisions = {
 	core_korea = {
+		picture = annex_korea
 		potential = {
 			tag = JAP
-			NOT = {has_country_flag = core_korea}
+			NOT = { has_country_flag = core_korea }
 		}
 		allow = {
-			KOR = {all_core = {owned_by = THIS}}
+			KOR = { all_core = { owned_by = THIS } }
 		}
 		effect = {
-			KOR = {all_core = {add_core = THIS}}
+			KOR = {all_core = { add_core = THIS } }
 			set_country_flag = core_korea
 		}
 	}
 	man_in_high_castle = {
+		picture = high_castle
 		potential = {
 			tag = JAP
-			NOT = {has_country_flag = man_in_high_castle}
+			NOT = { has_country_flag = man_in_high_castle_flag }
 		}
 		allow = {
 			war = no
@@ -23,36 +25,32 @@ political_decisions = {
 		}
 		effect = {
 			badboy = 20
-			ENG_13 = {add_core = JAP}
-			MEX_85 = {add_core = JAP}
-			USA_78 = {add_core = JAP}
-			set_country_flag = man_in_high_castle
-		}
-	
-	
+			ENG_13 = { add_core = JAP }
+			MEX_85 = { add_core = JAP }
+			USA_78 = { add_core = JAP }
+			set_country_flag = man_in_high_castle_flag
+		}	
 	}
-	core_formosa  = {
+	taiwan_administration  = {
+		picture = taiwan_china
 		potential = {
 			tag = JAP
-			NOT = {has_country_flag = core_formosa}
+			NOT = { has_country_flag = core_formosa }
 		}
 		allow = {
-            owns = 1485
-            owns = 2562
+			CHI_2562  = { owned_by = THIS }
         }
         effect = {
             prestige = 1
+			CHI_2562 = { add_core = JAP }
             2562 = {
-                add_core = JAP
                 change_province_name = "Tainan Cho"
             }
             1485 = {
-                add_core = JAP
                 change_province_name = "Taihoku"
                 state_scope = { change_region_name = "Takasago" }
             }
             set_country_flag = core_formosa
-		}
-	
+		}	
 	}
 }
