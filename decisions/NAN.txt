@@ -120,7 +120,6 @@ political_decisions = {
             HBE = { exists = no }
 			nationalism_n_imperialism = 1
             war = no
-            government = absolute_monarchy
 			NAN = {
                 all_core = {
                     OR = {
@@ -132,9 +131,9 @@ political_decisions = {
             }
         }
         effect = {
-            NAN = {
-                all_core = { add_core = HBE }
-            }
+			NAN = {
+				all_core = { add_core = HBE remove_core = NAN }
+			}
             INC = {
                 all_core = { add_core = HBE }
             }
@@ -147,19 +146,19 @@ political_decisions = {
             AZL = {
                 all_core = { add_core = HBE }
             }
-			CLM_2262 = { add_core = HBE }
-			CLM_2247 = { add_core = HBE }
-			CLM_2251 = { add_core = HBE }
-			VNZ_2234 = { add_core = HBE }
-			VNZ_2265 = { add_core = HBE }
-			ENG_1979 = { add_core = HBE }
+            GRA = {
+                all_core = { add_core = HBE }
+            }
             change_tag = HBE
-			set_country_flag = north_american_immigrant_nation
 			2348 = {
 				life_rating = 5
 				change_province_name = "Pendragon"
 			}
-        }
+			add_country_modifier = {
+				name = the_homestead_act_mexico
+				duration = 3650
+			}
+		}
         ai_will_do = { factor = 1 }
     }
 

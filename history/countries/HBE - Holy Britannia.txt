@@ -1,27 +1,25 @@
-capital = 2186
-primary_culture = central_american
-culture = mayan
+capital = 2348
+primary_culture = beornian
 religion = animist
-government = democracy
-plurality = 0.0
-nationalvalue = nv_productivity
-literacy = 0.01
+government = absolute_monarchy
+plurality = 25.0
+nationalvalue = nv_order
+literacy = 0.35
 civilized = yes
-prestige = 1
 
 set_country_flag = new_world_nation
 set_country_flag = north_american_immigrant_nation
 set_country_flag = south_american_immigrant_nation
 
 # Political reforms
-slavery = yes_slavery
+slavery = no_slavery
 upper_house_composition = appointed
-vote_franschise = landed_voting
-public_meetings = no_meeting
+vote_franschise = none_voting
+public_meetings = yes_meeting
 press_rights = state_press
 trade_unions = no_trade_unions
 voting_system = first_past_the_post
-political_parties = non_secret_ballots
+political_parties = underground_parties
 
 # Social Reforms
 wage_reform = no_minimum_wage
@@ -32,22 +30,11 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions 
 school_reforms = no_schools
 
-ruling_party = UCA_liberal
-last_election = 1835.2.14
-upper_house = {
-	fascist = 0
-	liberal = 25
-	conservative = 31
-	reactionary = 44
-	anarcho_liberal = 0
-	socialist = 0
-	communist = 0
-}
-
 # Technologies
 post_napoleonic_thought = 1
 flintlock_rifles = 1
 bronze_muzzle_loaded_artillery = 1
+military_staff_system = 1
 army_command_principle = 1
 post_nelsonian_thought = 1
 the_command_principle = 1
@@ -59,11 +46,23 @@ late_enlightenment_philosophy = 1
 enlightenment_thought = 1
 water_wheel_power = 1
 publishing_industry = 1
+mechanized_mining = 1
+basic_chemistry = 1
 
 # Inventions
 
-#Starting Consciousness
-consciousness = 2
-nonstate_consciousness = 0
+# Starting Consciousness
+consciousness = 3
+nonstate_consciousness = 1
 
-oob = "UCA_oob.txt"
+ruling_party = generic_conservative
+last_election = 1835.2.6
+upper_house = {
+	fascist = 0
+	liberal = 12
+	conservative = 83
+	reactionary = 5
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
+}

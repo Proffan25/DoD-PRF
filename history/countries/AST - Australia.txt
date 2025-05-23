@@ -8,6 +8,8 @@ literacy = 0.01
 civilized = yes
 
 set_country_flag = new_world_nation
+set_country_flag = north_american_immigrant_nation
+set_country_flag = south_american_immigrant_nation
 
 # Political reforms
 slavery = no_slavery
@@ -70,7 +72,7 @@ market_structure = 1
 commerce_raiders = yes
 precision_work = yes
 
-ruling_party = AST_liberal_2
+ruling_party = generic_conservative
 upper_house = {
 	fascist = 0
 	liberal = 65

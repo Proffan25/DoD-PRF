@@ -1,6 +1,5 @@
 capital = 2213
 primary_culture = afro_caribeno
-culture = caribeno
 religion = animist
 government = presidential_dictatorship
 plurality = 0.0
@@ -8,6 +7,10 @@ nationalvalue = nv_productivity
 literacy = 0.01
 civilized = yes
 prestige = 1
+
+set_country_flag = new_world_nation
+set_country_flag = north_american_immigrant_nation
+set_country_flag = south_american_immigrant_nation
 
 # Political reforms
 slavery = no_slavery

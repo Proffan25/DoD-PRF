@@ -9,7 +9,9 @@ non_state_culture_literacy = 0.01
 civilized = yes
 is_releasable_vassal = no
 
-
+set_country_flag = new_world_nation
+set_country_flag = north_american_immigrant_nation
+set_country_flag = south_american_immigrant_nation
 
 # Political reforms
 slavery = no_slavery
