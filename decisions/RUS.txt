@@ -87,7 +87,7 @@ political_decisions = {
 			badboy = 7.5
 			RUS_999 = { add_core = RUS }
 			RUS_718 = { add_core = RUS }
-			RUS_965 = { add_core = RUS }
+			RUS_958 = { add_core = RUS }
 		}
 	}
 	
@@ -129,9 +129,9 @@ political_decisions = {
 			RUS_979 = { add_core = RUS }
 			RUS_1041 = { add_core = RUS }
 			RUS_1048 = { add_core = RUS }
+			RUS_964 = { add_core = RUS }
 			RUS_1052 = { add_core = RUS }
 			RUS_1090 = { add_core = RUS }
-			RUS_1102 = { add_core = RUS }
 		}
 	}
 	
@@ -178,7 +178,6 @@ political_decisions = {
 		}
 		effect = {
 			add_accepted_culture = tatar
-			add_accepted_culture = georgian
 			add_accepted_culture = armenian
 		}
 	}
@@ -239,9 +238,9 @@ political_decisions = {
 		}
 		effect = {
 			badboy = 5
-			NOG = { all_core = { add_core = THIS } }
 			RUS_1041 = { add_core = THIS }
 			RUS_979 = { add_core = THIS }
+			RUS_1182 = { add_core = THIS }
 			set_country_flag = wild_lands_flag
 		}
 	}

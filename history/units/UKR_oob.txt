@@ -1,5 +1,13 @@
+leader = {
+	name = "Alexei Radchenko"
+	date = 1836.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+}
+
 army = {
-	name = "First Army of Ukraine"
+	name = "First Army of Ruthenia"
 	location = 958
 	regiment = {
 		name= "1.1st Division"

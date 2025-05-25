@@ -1,12 +1,12 @@
 leader = {
-	name = "Hasan ibn Abu Bakr"
+	name = "Karlo Bosnajk"
 	date = 1836.1.1
 	type = land
 	personality = defence_1.1
 	background = attack_1.1
 }
 leader = {
-	name = "Salim al-Nablusi"
+	name = "Tomislav Stankovaci"
 	date = 1836.1.1
 	type = land
 	personality = defence_1.1
@@ -14,36 +14,35 @@ leader = {
 }
 
 army = {
-	name = "Army of Iraq"
-	location = 926
+	name = "Army of Illyria"
+	location = 771
 	regiment = {
-		name= "1.1st Division"
+		name= "1. Brigade"
 		type = hussar
-		home = 923
+		home = 771
 	}
+
 	regiment = {
-		name= "2.1st Division"
+		name= "1. Artillery"
 		type = artillery
-		home = 925
+		home = 771
 	}
+
 	regiment = {
-		name= "3.1st Division"
+		name= "2. Artillery"
 		type = artillery
-		home = 926
+		home = 772
 	}
+	
 	regiment = {
-		name= "3.1st Division"
+		name= "4. Infanterie Moldovei"
 		type = artillery
-		home = 1117
+		home = 773
 	}
+	
 	regiment = {
-		name= "3.1st Division"
+		name= "5. Infanterie Moldovei"
 		type = artillery
-		home = 1117
-	}
-	regiment = {
-		name= "3.1st Division"
-		type = artillery
-		home = 1122
+		home = 773
 	}
 }

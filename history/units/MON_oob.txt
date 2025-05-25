@@ -7,13 +7,3 @@ leader = {
 	background = attack_1.1
 	prestige = 0.2
 }
-army = {
-	name = "Army of the Prince-Bishop"
-	location = 2583
-	regiment = {
-		name= "1st Montenegrin Infantry"
-		type = irregular
-		home = 2583
-	}
-}
-

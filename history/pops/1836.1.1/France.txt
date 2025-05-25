@@ -5752,89 +5752,101 @@
 #Annecy (258400/64600 POPS)
 465 = {
     aristocrats = {
-        culture = french
+        culture = north_italian
         religion = animist
         size = 600
     }
 
     officers = {
-        culture = french
+        culture = north_italian
         religion = animist
         size = 100
     }
 
     bureaucrats = {
-        culture = french
+        culture = north_italian
         religion = animist
         size = 1000
     }
 
     clergymen = {
-        culture = french
+        culture = north_italian
         religion = animist
         size = 650
     }
 
     artisans = {
-        culture = french
+        culture = north_italian
         religion = animist
         size = 3250
     }
 
     clerks = {
-        culture = french
+        culture = north_italian
         religion = animist
         size = 50
     }
 
     craftsmen = {
-        culture = french
+        culture = north_italian
         religion = animist
         size = 2000
     }
 
     soldiers = {
-        culture = french
+        culture = north_italian
         religion = animist
         size = 1100
     }
 
     farmers = {
+        culture = north_italian
+        religion = animist
+        size = 40000
+    }
+
+    farmers = {
         culture = french
         religion = animist
-        size = 56800
+        size = 16800
     }
 }
 #Chambery (228400/57100 POPS)
 466 = {
     aristocrats = {
-        culture = french
+        culture = north_italian
         religion = animist
         size = 550
     }
 
     clergymen = {
-        culture = french
+        culture = north_italian
         religion = animist
         size = 575
     }
 
     artisans = {
-        culture = french
+        culture = north_italian
         religion = animist
         size = 2800
     }
 
     soldiers = {
-        culture = french
+        culture = north_italian
         religion = animist
         size = 1100
     }
 
     farmers = {
+        culture = north_italian
+        religion = animist
+        size = 40000
+    }
+
+    farmers = {
         culture = french
         religion = animist
-        size = 52175
+        size = 12175
     }
 }
 #Provence Region (1268400)

@@ -171,7 +171,7 @@
     soldiers = {
         culture = north_italian
         religion = animist
-        size = 150
+        size = 375
     }
 
     farmers = {
@@ -181,43 +181,37 @@
     }
 
     aristocrats = {
-        culture = french
+        culture = north_italian
         religion = animist
         size = 267
     }
 
     clergymen = {
-        culture = french
+        culture = north_italian
         religion = animist
         size = 218
     }
 
     artisans = {
-        culture = french
+        culture = north_italian
         religion = animist
         size = 1140
     }
 
-    soldiers = {
-        culture = french
-        religion = animist
-        size = 218
-    }
-
     farmers = {
-        culture = french
+        culture = north_italian
         religion = animist
         size = 20952
     }
 
     aristocrats = {
-        culture = french
+        culture = north_italian
         religion = animist
         size = 8
     }
 
     clergymen = {
-        culture = french
+        culture = north_italian
         religion = animist
         size = 7
     }
@@ -226,12 +220,6 @@
         culture = french
         religion = animist
         size = 35
-    }
-
-    soldiers = {
-        culture = french
-        religion = animist
-        size = 7
     }
 
     farmers = {

@@ -3,7 +3,7 @@ controller = VIN
 add_core = VIN
 trade_goods = grain
 naval_base = 1
-life_rating = 35
+life_rating = 40
 state_building = {
 	level = 1
 	building = steel_factory
@@ -23,11 +23,4 @@ state_building = {
 	level = 1
 	building = canned_food_factory
 	upgrade = yes
-}
-1836.1.2 = {
-	remove_core = COM
-	owner = CAN
-	controller = CAN
-	add_core = CAN
-	colonial = 0
 }

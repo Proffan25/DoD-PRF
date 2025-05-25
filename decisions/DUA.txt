@@ -1,4 +1,23 @@
 political_decisions = {	
+	dual_path = {
+        picture = dual_path
+		potential = {
+			tag = DUA 
+			NOT = { has_country_flag = english_path }
+			NOT = { has_country_flag = french_path }
+			NOT = { has_country_flag = dual_path }
+		}
+		allow = {
+			year = 1840
+			NOT = { year = 1842 }
+		}
+		effect = {
+			set_country_flag = dual_path
+			clr_country_flag = is_dua
+			prestige = 25
+		}
+	}
+	
 	english_path = {
         picture = english_path
 		potential = {
@@ -36,25 +55,6 @@ political_decisions = {
 			set_country_flag = french_path
 			add_accepted_culture = french
 		}	
-	}
-	
-	dual_path = {
-        picture = dual_path
-		potential = {
-			tag = DUA 
-			NOT = { has_country_flag = english_path }
-			NOT = { has_country_flag = french_path }
-			NOT = { has_country_flag = dual_path }
-		}
-		allow = {
-			year = 1840
-			NOT = { year = 1842 }
-		}
-		effect = {
-			set_country_flag = dual_path
-			clr_country_flag = is_dua
-			prestige = 25
-		}
 	}
 	
 	anglois_dilemma_finished = {
