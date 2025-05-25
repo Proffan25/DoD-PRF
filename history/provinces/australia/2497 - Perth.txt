@@ -1,13 +1,2 @@
-owner = ZHO
-controller = ZHO
-add_core = ZHO
 trade_goods = coal
-life_rating = 35
-naval_base = 1
-1836.1.2 = {
-	remove_core = COM
-	owner = AST
-	controller = AST
-	add_core = AST
-	colonial = 0
-}
+life_rating = 25

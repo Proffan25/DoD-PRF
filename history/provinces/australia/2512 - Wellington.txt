@@ -1,12 +1,2 @@
-owner = ZHO
-controller = ZHO
-add_core = ZHO
 trade_goods = timber
-life_rating = 35
-
-1836.1.2 = {
-	remove_core = COM
-	owner = AST
-	controller = AST
-	add_core = AST
-}
+life_rating = 25
