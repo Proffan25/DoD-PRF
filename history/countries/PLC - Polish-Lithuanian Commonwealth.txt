@@ -20,13 +20,13 @@ voting_system = first_past_the_post
 political_parties = gerrymandering
 
 # Social Reforms
-wage_reform = trinket_wage
+wage_reform = no_minimum_wage
 work_hours = no_work_hour_limit
 safety_regulations = no_safety
-health_care = trinket_health_care
-unemployment_subsidies = trinket_subsidies
-pensions = trinket_pensions 
-school_reforms = low_schools
+health_care = no_health_care
+unemployment_subsidies = no_subsidies
+pensions = no_pensions
+school_reforms = no_schools
 
 # Technologies
 post_napoleonic_thought = 1
