@@ -172,7 +172,7 @@
     }
 
     farmers = {
-        culture = sami
+        culture = scandinavian
         religion = animist
         size = 3000
     }
@@ -573,10 +573,16 @@
         size = 1896
     }
 
+    craftsmen = {
+        culture = scandinavian
+        religion = animist
+        size = 8433
+    }
+
     farmers = {
         culture = scandinavian
         religion = animist
-        size = 68433
+        size = 60000
     }
 }
 #Vaxjo (276000/69000 POPS)
@@ -608,7 +614,13 @@
     farmers = {
         culture = scandinavian
         religion = animist
-        size = 104980
+        size = 4980
+    }
+
+    farmers = {
+        culture = scandinavian
+        religion = animist
+        size = 100000
     }
 }
 #Malmo (312000/77000 POPS)
@@ -617,6 +629,12 @@
         culture = scandinavian
         religion = animist
         size = 1237
+    }
+
+    bureaucrats = {
+        culture = scandinavian
+        religion = animist
+        size = 4000
     }
 
     clergymen = {
@@ -628,7 +646,7 @@
     artisans = {
         culture = scandinavian
         religion = animist
-        size = 6187
+        size = 5187
     }
 
     soldiers = {
@@ -637,10 +655,16 @@
         size = 2844
     }
 
+    craftsmen = {
+        culture = scandinavian
+        religion = animist
+        size = 11000
+    }
+
     farmers = {
         culture = scandinavian
         religion = animist
-        size = 114055
+        size = 100055
     }
 }
 #Karlskrona (259000/64750 POPS)
@@ -669,9 +693,15 @@
         size = 1896
     }
 
+    craftsmen = {
+        culture = scandinavian
+        religion = animist
+        size = 8000
+    }
+
     farmers = {
         culture = scandinavian
         religion = animist
-        size = 100030
+        size = 92030
     }
 }

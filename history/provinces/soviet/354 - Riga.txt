@@ -6,3 +6,8 @@ trade_goods = fish
 life_rating = 38
 naval_base = 2
 fort = 1
+state_building = {
+	level = 1
+	building = canned_food_factory
+	upgrade = yes
+}

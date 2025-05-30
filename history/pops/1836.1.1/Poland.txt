@@ -9,9 +9,9 @@
     }
 
     bureaucrats = {
-        culture = pomeranian
+        culture = scandinavian
         religion = animist
-        size = 8775
+        size = 6775
     }
 
     officers = {
@@ -29,7 +29,7 @@
     artisans = {
         culture = pomeranian
         religion = animist
-        size = 7087
+        size = 2087
     }
 
     clerks = {
@@ -47,7 +47,7 @@
     soldiers = {
         culture = pomeranian
         religion = animist
-        size = 3013
+        size = 3019
     }
 
     farmers = {
@@ -78,12 +78,6 @@
         culture = polish
         religion = animist
         size = 50
-    }
-
-    soldiers = {
-        culture = polish
-        religion = animist
-        size = 6
     }
 
     farmers = {

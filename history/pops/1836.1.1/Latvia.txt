@@ -17,7 +17,7 @@
     soldiers = {
         culture = latvian
         religion = animist
-        size = 572
+        size = 932
     }
 
     farmers = {
@@ -33,9 +33,9 @@
     }
 
     bureaucrats = {
-        culture = pomeranian
+        culture = latvian
         religion = animist
-        size = 1350
+        size = 3550
     }
 
     officers = {
@@ -53,13 +53,7 @@
     artisans = {
         culture = pomeranian
         religion = animist
-        size = 9078
-    }
-
-    soldiers = {
-        culture = pomeranian
-        religion = animist
-        size = 139
+        size = 6878
     }
 
     aristocrats = {
@@ -92,12 +86,6 @@
         size = 1650
     }
 
-    soldiers = {
-        culture = scandinavian
-        religion = animist
-        size = 171
-    }
-
     clergymen = {
         culture = ashkenazi
         religion = animist
@@ -108,12 +96,6 @@
         culture = ashkenazi
         religion = animist
         size = 2875
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = animist
-        size = 50
     }
 }
 #Valmeira (516000/129000 POPS)

@@ -172,7 +172,7 @@
     }
 
     farmers = {
-        culture = sami
+        culture = scandinavian
         religion = animist
         size = 3000
     }

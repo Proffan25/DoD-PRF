@@ -91,7 +91,7 @@
     }
 
     farmers = {
-        culture = sami
+        culture = scandinavian
         religion = animist
         size = 750
     }
@@ -353,7 +353,7 @@
     soldiers = {
         culture = finnish
         religion = animist
-        size = 2198
+        size = 2455
     }
 
     farmers = {
@@ -392,14 +392,8 @@
         size = 2887
     }
 
-    soldiers = {
-        culture = scandinavian
-        religion = animist
-        size = 257
-    }
-
-    farmers = {
-        culture = scandinavian
+    craftsmen = {
+        culture = finnish
         religion = animist
         size = 12085
     }

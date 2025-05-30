@@ -43,7 +43,7 @@
     bureaucrats = {
         culture = scandinavian
         religion = animist
-        size = 577
+        size = 3577
     }
 
     officers = {
@@ -61,7 +61,7 @@
     artisans = {
         culture = scandinavian
         religion = animist
-        size = 5362
+        size = 2362
     }
 
     soldiers = {
@@ -178,7 +178,7 @@
     bureaucrats = {
         culture = scandinavian
         religion = animist
-        size = 165
+        size = 2165
     }
 
     clergymen = {
@@ -190,13 +190,7 @@
     artisans = {
         culture = scandinavian
         religion = animist
-        size = 2475
-    }
-
-    soldiers = {
-        culture = scandinavian
-        religion = animist
-        size = 430
+        size = 475
     }
 
     farmers = {
@@ -238,7 +232,7 @@
     soldiers = {
         culture = pomeranian
         religion = animist
-        size = 1052
+        size = 1482
     }
 
     farmers = {
@@ -321,7 +315,7 @@
     bureaucrats = {
         culture = scandinavian
         religion = animist
-        size = 825
+        size = 2825
     }
 
     officers = {
@@ -339,7 +333,7 @@
     artisans = {
         culture = scandinavian
         religion = animist
-        size = 16500
+        size = 14500
     }
 
     artisans = {
