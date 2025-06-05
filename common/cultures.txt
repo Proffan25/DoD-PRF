@@ -1121,17 +1121,42 @@ iranian_turanian = {
 			Shirazi Tabrizi Tahmasebi Zahedi
 			}
 	}
-	kurdish = {
-		color = {176 201 238}
-		first_names = {
-			Abdal Abdulkarim Bedr Hafid Ihsan Mahmud Mohammed Qazi Reshid Said Ubaydallah
-			}
-		
-		last_names = {
-			Badirkhan Barzani Khan Shilak
-			}
-			radicalism = 10
-	}
+    kurdish = {
+        color = {
+            176 201 238
+        }
+        first_names = {
+            Abdal Abdulkarim Bedr Hafid Ihsan Mahmud Mohammed Qazi Reshid Said
+            Ubaydallah
+        }
+
+        last_names = {
+            Badirkhan Barzani Khan Shilak
+        }
+    }
+    pashtun = {
+        color = {
+            199 151 230
+        }
+
+        first_names = {
+            Abdallah "Abd al-Rahman" "Abd al-Quddus" Afzal Ahmad Akbar Akram Ayyub Fath "Firuz al-Din"
+            "Habib Alllah" Haydar Humayun "Inayat Allah" Ishaq Jamal Kamran Kohandil Mahmud Mahsud
+            Mihrdil Muhammad Murad Nadir "Nasr Allah" Omar Qaysar Shahpur "Sher Ali" Shuja
+            Suleyman Timur Yaqub Zaman
+        }
+        last_names = {
+            Khan Ghilzai Adamkhel Afridi Sarbanri Abdali Yusufzai Omarkhel Pashtun Dilazak
+            Atcha Babar Burki Bangash Bannuchi Chamkanni "Daulat Khel" "isa Khel" Davi Durrani
+            Edo-Khel Gandapur Gujjar "Hafiz Khel" Jadoon Jahangiri Kakakhel Khakwani Kakar Kakazai
+            Khalil Kharoti Khattak Khudiadadzai Khulozai Kuchelai Kuchis Kundi Lodhi Mian
+            "Maghdud Khel" "Mahmud Khel" Tanoli Malik Mughal "Mahsud Khel" Mamund Manduri Marwat Mashwanis
+            Mohamedzai Mohmand Mullagori Niazi Noorzai Orakzai Popalzai Qazi Shinwari Sadozai
+            Salarzai Sarbans Shilmani Sulemani Shirani Sumbal Suri Swati Tareen Tarkani
+            Tahirkheli Tokhi Turkhel "Umar Khel" Umarzai "Uthman khel" Wur "Yousafzai" "Yusaf Khel"
+        }
+    }
+	
 	tatar = {
 		color = {45 87 99}
 		first_names = {

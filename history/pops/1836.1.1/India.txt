@@ -4,61 +4,61 @@
 #Peshawar (476000/119000 POPS)
 1218 = {
     bureaucrats = {
-        culture = indo_aryan
+        culture = pashtun
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = indo_aryan
+        culture = pashtun
         religion = animist
         size = 150
     }
 
     soldiers = {
-        culture = indo_aryan
+        culture = pashtun
         religion = animist
         size = 300
     }
 
     aristocrats = {
-        culture = aryan
+        culture = pashtun
         religion = animist
         size = 1200
     }
 
     bureaucrats = {
-        culture = aryan
+        culture = pashtun
         religion = animist
         size = 150
     }
 
     clergymen = {
-        culture = aryan
+        culture = pashtun
         religion = animist
         size = 1200
     }
 
     artisans = {
-        culture = aryan
+        culture = pashtun
         religion = animist
         size = 10000
     }
 
     artisans = {
-        culture = aryan
+        culture = pashtun
         religion = animist
         size = 4500
     }
 
     soldiers = {
-        culture = aryan
+        culture = pashtun
         religion = animist
         size = 4000
     }
 
     farmers = {
-        culture = aryan
+        culture = pashtun
         religion = animist
         size = 108250
     }
@@ -66,31 +66,31 @@
 #Chitral (160000/40000 POPS)
 1223 = {
     aristocrats = {
-        culture = aryan
+        culture = pashtun
         religion = animist
         size = 500
     }
 
     clergymen = {
-        culture = aryan
+        culture = pashtun
         religion = animist
         size = 500
     }
 
     artisans = {
-        culture = aryan
+        culture = pashtun
         religion = animist
         size = 2000
     }
 
     soldiers = {
-        culture = aryan
+        culture = pashtun
         religion = animist
         size = 500
     }
 
     farmers = {
-        culture = aryan
+        culture = pashtun
         religion = animist
         size = 41000
     }
@@ -99,31 +99,31 @@
 #Quetta (124000/31000 POPS)
 1219 = {
     aristocrats = {
-        culture = aryan
+        culture = pashtun
         religion = animist
         size = 350
     }
 
     clergymen = {
-        culture = aryan
+        culture = pashtun
         religion = animist
         size = 325
     }
 
     artisans = {
-        culture = aryan
+        culture = pashtun
         religion = animist
         size = 3000
     }
 
     soldiers = {
-        culture = aryan
+        culture = pashtun
         religion = animist
         size = 7000
     }
 
     farmers = {
-        culture = aryan
+        culture = pashtun
         religion = animist
         size = 20325
     }
@@ -131,31 +131,31 @@
 #Dalbandin (88000/22000 POPS)
 1220 = {
     aristocrats = {
-        culture = aryan
+        culture = pashtun
         religion = animist
         size = 250
     }
 
     clergymen = {
-        culture = aryan
+        culture = pashtun
         religion = animist
         size = 250
     }
 
     artisans = {
-        culture = aryan
+        culture = pashtun
         religion = animist
         size = 1100
     }
 
     soldiers = {
-        culture = aryan
+        culture = pashtun
         religion = animist
         size = 7000
     }
 
     farmers = {
-        culture = aryan
+        culture = pashtun
         religion = animist
         size = 13500
     }
@@ -163,43 +163,43 @@
 #Kalat (104000/26000 POPS)
 1221 = {
     aristocrats = {
-        culture = aryan
+        culture = pashtun
         religion = animist
         size = 250
     }
 
     bureaucrats = {
-        culture = aryan
+        culture = pashtun
         religion = animist
         size = 250
     }
 
     officers = {
-        culture = aryan
+        culture = pashtun
         religion = animist
         size = 75
     }
 
     clergymen = {
-        culture = aryan
+        culture = pashtun
         religion = animist
         size = 250
     }
 
     artisans = {
-        culture = aryan
+        culture = pashtun
         religion = animist
         size = 1250
     }
 
     soldiers = {
-        culture = aryan
+        culture = pashtun
         religion = animist
         size = 7000
     }
 
     farmers = {
-        culture = aryan
+        culture = pashtun
         religion = animist
         size = 16925
     }
@@ -208,43 +208,43 @@
 #Bela (124000/31000 POPS)
 1222 = {
     aristocrats = {
-        culture = aryan
+        culture = pashtun
         religion = animist
         size = 350
     }
 
     bureaucrats = {
-        culture = aryan
+        culture = pashtun
         religion = animist
         size = 25
     }
 
     officers = {
-        culture = aryan
+        culture = pashtun
         religion = animist
         size = 25
     }
 
     clergymen = {
-        culture = aryan
+        culture = pashtun
         religion = animist
         size = 300
     }
 
     artisans = {
-        culture = aryan
+        culture = pashtun
         religion = animist
         size = 1500
     }
 
     soldiers = {
-        culture = aryan
+        culture = pashtun
         religion = animist
         size = 1100
     }
 
     farmers = {
-        culture = aryan
+        culture = pashtun
         religion = animist
         size = 27800
     }
@@ -5781,97 +5781,91 @@
 #Karachi (920000/230000 POPS)
 1288 = {
     aristocrats = {
-        culture = indo_aryan
+        culture = punjabi
         religion = animist
         size = 1900
     }
 
     bureaucrats = {
-        culture = indo_aryan
+        culture = punjabi
         religion = animist
         size = 800
     }
 
     officers = {
-        culture = indo_aryan
+        culture = punjabi
         religion = animist
         size = 300
     }
 
     clergymen = {
-        culture = indo_aryan
+        culture = punjabi
         religion = animist
         size = 1875
     }
 
     artisans = {
-        culture = indo_aryan
+        culture = punjabi
         religion = animist
         size = 9000
     }
 
     soldiers = {
-        culture = indo_aryan
+        culture = punjabi
         religion = animist
-        size = 4000
+        size = 4050
     }
 
     farmers = {
-        culture = indo_aryan
+        culture = punjabi
         religion = animist
         size = 164125
     }
 
     aristocrats = {
-        culture = indo_aryan
+        culture = punjabi
         religion = animist
         size = 50
     }
 
     clergymen = {
-        culture = indo_aryan
+        culture = punjabi
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = indo_aryan
+        culture = punjabi
         religion = animist
         size = 300
     }
 
-    soldiers = {
-        culture = indo_aryan
-        religion = animist
-        size = 50
-    }
-
     farmers = {
-        culture = indo_aryan
+        culture = punjabi
         religion = animist
         size = 5650
     }
 
     aristocrats = {
-        culture = indo_aryan
+        culture = punjabi
         religion = animist
         size = 350
     }
 
     clergymen = {
-        culture = indo_aryan
+        culture = punjabi
         religion = animist
         size = 375
     }
 
     artisans = {
-        culture = indo_aryan
+        culture = punjabi
         religion = animist
         size = 2000
     }
 
     farmers = {
-        culture = indo_aryan
+        culture = punjabi
         religion = animist
         size = 39275
     }
@@ -5879,55 +5873,55 @@
 #Sukkur (348000/87000 POPS)
 1289 = {
     aristocrats = {
-        culture = indo_aryan
+        culture = punjabi
         religion = animist
         size = 850
     }
 
     clergymen = {
-        culture = indo_aryan
+        culture = punjabi
         religion = animist
         size = 850
     }
 
     artisans = {
-        culture = indo_aryan
+        culture = punjabi
         religion = animist
         size = 4000
     }
 
     soldiers = {
-        culture = indo_aryan
+        culture = punjabi
         religion = animist
         size = 4000
     }
 
     farmers = {
-        culture = indo_aryan
+        culture = punjabi
         religion = animist
         size = 73300
     }
 
     aristocrats = {
-        culture = indo_aryan
+        culture = punjabi
         religion = animist
         size = 25
     }
 
     clergymen = {
-        culture = indo_aryan
+        culture = punjabi
         religion = animist
         size = 75
     }
 
     artisans = {
-        culture = indo_aryan
+        culture = punjabi
         religion = animist
         size = 200
     }
 
     farmers = {
-        culture = indo_aryan
+        culture = punjabi
         religion = animist
         size = 3700
     }
@@ -5935,55 +5929,55 @@
 #Umarkot (596000/149000 POPS)
 1290 = {
     aristocrats = {
-        culture = indo_aryan
+        culture = punjabi
         religion = animist
         size = 1350
     }
 
     clergymen = {
-        culture = indo_aryan
+        culture = punjabi
         religion = animist
         size = 1350
     }
 
     artisans = {
-        culture = indo_aryan
+        culture = punjabi
         religion = animist
         size = 6750
     }
 
     soldiers = {
-        culture = indo_aryan
+        culture = punjabi
         religion = animist
         size = 4000
     }
 
     farmers = {
-        culture = indo_aryan
+        culture = punjabi
         religion = animist
         size = 132700
     }
 
     aristocrats = {
-        culture = indo_aryan
+        culture = punjabi
         religion = animist
         size = 125
     }
 
     clergymen = {
-        culture = indo_aryan
+        culture = punjabi
         religion = animist
         size = 125
     }
 
     artisans = {
-        culture = indo_aryan
+        culture = punjabi
         religion = animist
         size = 800
     }
 
     farmers = {
-        culture = indo_aryan
+        culture = punjabi
         religion = animist
         size = 14950
     }
@@ -6407,67 +6401,61 @@
 #Mandvi (312000/78000 POPS)
 1293 = {
     aristocrats = {
-        culture = indo_aryan
+        culture = punjabi
         religion = animist
         size = 725
     }
 
     bureaucrats = {
-        culture = indo_aryan
+        culture = punjabi
         religion = animist
         size = 75
     }
 
     clergymen = {
-        culture = indo_aryan
+        culture = punjabi
         religion = animist
         size = 700
     }
 
     artisans = {
-        culture = indo_aryan
+        culture = punjabi
         religion = animist
         size = 2500
     }
 
     soldiers = {
-        culture = indo_aryan
+        culture = punjabi
         religion = animist
-        size = 7000
+        size = 7075
     }
 
     farmers = {
-        culture = indo_aryan
+        culture = punjabi
         religion = animist
         size = 59050
     }
 
     aristocrats = {
-        culture = indo_aryan
+        culture = punjabi
         religion = animist
         size = 75
     }
 
     clergymen = {
-        culture = indo_aryan
+        culture = punjabi
         religion = animist
         size = 70
     }
 
     artisans = {
-        culture = indo_aryan
+        culture = punjabi
         religion = animist
         size = 1100
     }
 
-    soldiers = {
-        culture = indo_aryan
-        religion = animist
-        size = 75
-    }
-
     farmers = {
-        culture = indo_aryan
+        culture = punjabi
         religion = animist
         size = 5780
     }

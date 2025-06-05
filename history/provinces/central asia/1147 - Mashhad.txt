@@ -1,6 +1,5 @@
-owner = PER
-controller = PER
-add_core = PER
+owner = AFS
+controller = AFS
+add_core = AFS
 trade_goods = coal
 life_rating = 35
-
