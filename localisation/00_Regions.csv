@@ -76,11 +76,11 @@ TRI_1734;Cyrenaica;;;;;;;;;;;;;x;;
 TRI_1731;Tripolitania;;;;;;;;;;;;;x;;
 TRI_1738;Libya;;;;;;;;;;;;;x;;
 EGY_1752;Western Desert;;;;;;;;;;;;;x;;
-EGY_1745;Lower Egypt;;;;;;;;;;;;;x;;
+EGY_1745;Misr al-Sufla;;;;;;;;;;;;;x;;
 EGY_1756;Sinai;;;;;;;;;;;;;x;;
 EGY_1765;Middle Egypt;;;;;;;;;;;;;x;;
 EGY_1770;Red Sea Coast;;;;;;;;;;;;;x;;
-EGY_1767;Upper Egypt;;;;;;;;;;;;;x;;
+EGY_1767;Saeid Misr;;;;;;;;;;;;;x;;
 EGY_1835;Dongola;;;;;;;;;;;;;x;;
 EGY_1827;Sudan;;;;;;;;;;;;;x;;
 MAD_2115;Merina;;;;;;;;;;;;;x;;
@@ -104,7 +104,7 @@ YEM_1173;Hadramaut;;;;;;;;;;;;;x;;
 YEM_1178;Yemen;;;;;;;;;;;;;x;;
 YEM_1412;Socotra;;;;;;;;;;;;;x;;
 NEJ_1160;Jabal Shammar;;;;;;;;;;;;;x;;
-NEJ_1157;Nejd;;;;;;;;;;;;;x;;
+NEJ_1157;Al Arabiyya;;;;;;;;;;;;;x;;
 NEJ_1164;Al Hasa;;;;;;;;;;;;;x;;
 #############################################;;;;;;;;;;;;;;x
 #State Localisations - Pacific;;;;;;;;;;;;;;x

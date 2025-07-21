@@ -461,7 +461,7 @@ PROV3270;Volga River;;;;;;;;;;;;;;;;;;;;;;;;;;;
 PROV3271;Loire River;;;;;;;;;;;;;;;;;;;;;;;;;;;
 PROV3272;Oder River;;;;;;;;;;;;;;;;;;;;;;;;;;;
 PROV3273;Nile River;;;;;;;;;;;;;;;;;;;;;;;;;;;
-PROV3274;Elephantine;;;;;;;;;;;;;;;;;;;;;;;;;;;
+PROV3274;Jazirat al-Fil;;;;;;;;;;;;;;;;;;;;;;;;;;;
 PROV3275;Tigris and Euphrates River;;;;;;;;;;;;;;;;;;;;;;;;;;;
 PROV3276;Indus River;;;;;;;;;;;;;;;;;;;;;;;;;;;
 PROV3277;Ganges River;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -705,8 +705,8 @@ world_bank_funding_desc;World Bank Funding modifier to raise the precious metals
 #Additional States;;;;;;;;;;;;;;x
 #############################################;;;;;;;;;;;;;;x
 DEB_1;Debug Islands;;;;;;;;;;;;;x;;
-ALD_1700;Algiers;;;;;;;;;;;;;x;;
-TUR_923;Iraq;;;;;;;;;;;;;x;;
+ALD_1700;Algèria;;;;;;;;;;;;;x;;
+TUR_923;Al-Iraq;;;;;;;;;;;;;x;;
 RUS_999;Poltava;;;;;;;;;;;;;x;;
 #############################################;;;;;;;;;;;;;;x
 #Additional Cultures;;;;;;;;;;;;;;x

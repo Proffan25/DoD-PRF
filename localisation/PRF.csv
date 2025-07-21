@@ -349,7 +349,7 @@ DUA_fascist_dictatorship;Anglois State;;;;;;;;;;;;;
 DUA_proletarian_dictatorship;DPREF;;;;;;;;;;;;;
 DUA_democracy;Anglo-French Republic;;;;;;;;;;;;;
 DUA_presidential_dictatorship;Anglo-French Republic;;;;;;;;;;;;;
-DUA;Anglo-France;;;;;;;;;;;;x
+DUA;Angevin Empire;;;;;;;;;;;;x
 DUA_ADJ;Anglois;;;;;;;;;;;;;
 BRG_absolute_monarchy;Kingdom of Burgundy;;;;;;;;;;;;;
 BRG_prussian_constitutionalism;Kingdom of Burgundy;;;;;;;;;;;;;
@@ -461,7 +461,6 @@ SCA_fascist_dictatorship;Scandinavian State;;;;;;;;;;;;;
 SCA_proletarian_dictatorship;Scandinavian SFR;;;;;;;;;;;;;
 SCA_democracy;Scandinavian Federation;;;;;;;;;;;;;
 SCA_presidential_dictatorship;Scandinavian Federation;;;;;;;;;;;;;
-SCA;Scandinavia;;;;;;;;;;;;x
 SCA_ADJ;Scandinavian;;;;;;;;;;;;;
 POM;Pomerania;;;;;;;;;;;;;
 POM_ADJ;Pomeranian;;;;;;;;;;;;;
@@ -481,7 +480,7 @@ THU;Thuringia;;;;;;;;;;;;;
 THU_ADJ;Thuringian;;;;;;;;;;;;;
 TIR;Tirol;;;;;;;;;;;;;
 TIR_ADJ;Tirolian;;;;;;;;;;;;;
-HRE;Holy Rome;;;;;;;;;;;;x
+HRE;Holy Roman Empire;;;;;;;;;;;;x
 HRE_absolute_monarchy;Holy Roman Empire;;;;;;;;;;;;;
 HRE_prussian_constitutionalism;Holy Roman Empire;;;;;;;;;;;;;
 HRE_hms_government;Holy Roman Empire;;;;;;;;;;;;;
