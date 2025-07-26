@@ -440,6 +440,11 @@ soldiers =
 				soldiers = 0.05
 			}
 		}
+		modifier = {
+			factor = -100
+			soldiers = 0.025
+			location = { NOT = { is_core = THIS } }
+		}
 	}
 	clergymen =
 	{
