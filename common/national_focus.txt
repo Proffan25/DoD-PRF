@@ -87,8 +87,11 @@ tier_1_focus =
 		outliner_show_as_percent = yes
 		limit = {
 			OR = {
-				NOT = { state_scope = { soldiers = 0.05 } }
-				owner = { has_country_flag = mercenary_state }
+				AND = { 
+					NOT = { state_scope = { soldiers = 0.05 } }  
+					is_core = THIS
+				}
+				NOT = { state_scope = { soldiers = 0.025 } }
 			}
 		}
 	}
@@ -189,8 +192,11 @@ tier_2_focus =
 				has_country_flag = tier_2
 			}
 			OR = {
-				NOT = { state_scope = { soldiers = 0.05 } }
-				owner = { has_country_flag = mercenary_state }
+				AND = { 
+					NOT = { state_scope = { soldiers = 0.05 } }  
+					is_core = THIS
+				}
+				NOT = { state_scope = { soldiers = 0.025 } }
 			}
 		}
 		outliner_show_as_percent = yes
@@ -339,8 +345,11 @@ tier_3_focus =
 				has_country_flag = tier_3
 			}
 			OR = {
-				NOT = { state_scope = { soldiers = 0.05 } }
-				owner = { has_country_flag = mercenary_state }
+				AND = { 
+					NOT = { state_scope = { soldiers = 0.05 } }  
+					is_core = THIS
+				}
+				NOT = { state_scope = { soldiers = 0.025 } }
 			}
 		}
 		outliner_show_as_percent = yes
@@ -486,8 +495,11 @@ tier_4_focus =
 				has_country_flag = tier_4
 			}
 			OR = {
-				NOT = { state_scope = { soldiers = 0.05 } }
-				owner = { has_country_flag = mercenary_state }
+				AND = { 
+					NOT = { state_scope = { soldiers = 0.05 } }  
+					is_core = THIS
+				}
+				NOT = { state_scope = { soldiers = 0.025 } }
 			}
 		}
 		outliner_show_as_percent = yes
@@ -529,8 +541,11 @@ tier_4_focus =
 				has_country_flag = tier_4
 			}
 			OR = {
-				NOT = { state_scope = { soldiers = 0.05 } }
-				owner = { has_country_flag = mercenary_state }
+				AND = { 
+					NOT = { state_scope = { soldiers = 0.05 } }  
+					is_core = THIS
+				}
+				NOT = { state_scope = { soldiers = 0.025 } }
 			}
 		}
 	}
@@ -645,8 +660,11 @@ tier_5_focus =
 				has_country_flag = tier_5
 			}
 			OR = {
-				NOT = { state_scope = { soldiers = 0.05 } }
-				owner = { has_country_flag = mercenary_state }
+				AND = { 
+					NOT = { state_scope = { soldiers = 0.05 } }  
+					is_core = THIS
+				}
+				NOT = { state_scope = { soldiers = 0.025 } }
 			}
 		}
 		outliner_show_as_percent = yes
@@ -800,8 +818,11 @@ tier_6_focus =
 				has_country_flag = tier_6
 			}
 			OR = {
-				NOT = { state_scope = { soldiers = 0.05 } }
-				owner = { has_country_flag = mercenary_state }
+				AND = { 
+					NOT = { state_scope = { soldiers = 0.05 } }  
+					is_core = THIS
+				}
+				NOT = { state_scope = { soldiers = 0.025 } }
 			}
 		}
 		outliner_show_as_percent = yes
@@ -847,8 +868,11 @@ tier_6_focus =
 				has_country_flag = tier_6
 			}
 			OR = {
-				NOT = { state_scope = { soldiers = 0.05 } }
-				owner = { has_country_flag = mercenary_state }
+				AND = { 
+					NOT = { state_scope = { soldiers = 0.05 } }  
+					is_core = THIS
+				}
+				NOT = { state_scope = { soldiers = 0.025 } }
 			}
 		}
 	}
