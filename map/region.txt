@@ -1449,7 +1449,7 @@ MEC_545 = { 370 530 544 545 528 369 529 547 548 } #Mecklenburg
 
 #HAN_538 = { 538 540 541 542 543 } #East Friesland
 
-HAN_536 = { 534 535 539 531 532 538 540 541 542 543 548 547 } #Hannover-Brunswick
+HAN_536 = { 534 535 539 531 532 538 540 541 542 543 } #Hannover-Brunswick
 
 #HAM_528 = { 528 531 532 } #Lower Elbe
 
