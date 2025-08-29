@@ -31,7 +31,7 @@ political_decisions = {
 		effect = {
 			add_accepted_culture = south_italian			
 			SIC = {all_core = {add_core = ITA}}
-			PAP = {all_core = {add_core = ITA remove_core = LOM}}
+			PAP = {all_core = {add_core = ITA}}
 			SAR = {all_core = {add_core = ITA remove_core = SAR}}
 			LOM = {all_core = {add_core = ITA remove_core = LOM}}
 			PAR = {all_core = {add_core = ITA remove_core = PAR}}
