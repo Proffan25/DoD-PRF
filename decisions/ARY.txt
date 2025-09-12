@@ -26,6 +26,7 @@ political_decisions = {
         picture = aryanam_form
 		potential = {
 			tag = AFG
+            NOT = { has_country_flag = PNJ_capital }
 		}
 		allow = {
 			state_n_government = 1
@@ -83,8 +84,7 @@ political_decisions = {
 			IRQ = { all_core = { owned_by = THIS } }
 		}
 		effect = {
-            primary_culture = aryan
-            add_accepted_culture = mashriqi
+            add_accepted_culture = aryan
 			add_accepted_culture = kurdish
 			add_accepted_culture = azerbaijani
 			add_accepted_culture = pashtun
@@ -115,6 +115,7 @@ political_decisions = {
             add_accepted_culture = aryan
 			add_accepted_culture = kurdish
 			add_accepted_culture = pashtun
+			add_accepted_culture = armenian
 			PER = { all_core = { add_core = ARY remove_core = PER } }
 			AFG = { all_core = { add_core = ARY } }
 			AFS = { all_core = { add_core = ARY } }

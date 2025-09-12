@@ -370,63 +370,33 @@
 #Gilgit (264000/66000 POPS)
 1225 = {
     aristocrats = {
-        culture = aryan
-        religion = animist
-        size = 60
-    }
-
-    clergymen = {
-        culture = aryan
-        religion = animist
-        size = 60
-    }
-
-    artisans = {
-        culture = aryan
-        religion = animist
-        size = 300
-    }
-
-    soldiers = {
-        culture = aryan
-        religion = animist
-        size = 60
-    }
-
-    farmers = {
-        culture = aryan
-        religion = animist
-        size = 30520
-    }
-
-    aristocrats = {
         culture = punjabi
         religion = animist
-        size = 302
+        size = 362
     }
 
     clergymen = {
         culture = punjabi
         religion = animist
-        size = 285
+        size = 345
     }
 
     artisans = {
         culture = punjabi
         religion = animist
-        size = 1350
+        size = 1650
     }
 
     soldiers = {
         culture = punjabi
         religion = animist
-        size = 270
+        size = 330
     }
 
     farmers = {
         culture = punjabi
         religion = animist
-        size = 24788
+        size = 55308
     }
 
     aristocrats = {
