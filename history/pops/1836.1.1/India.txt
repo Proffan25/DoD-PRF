@@ -5147,55 +5147,55 @@
 #Amaraoti (1268000/317000 POPS)
 1278 = {
     aristocrats = {
-        culture = indo_aryan
+        culture = dravidian
         religion = animist
         size = 3000
     }
 
     clergymen = {
-        culture = indo_aryan
+        culture = dravidian
         religion = animist
         size = 3000
     }
 
     artisans = {
-        culture = indo_aryan
+        culture = dravidian
         religion = animist
         size = 7500
     }
 
     soldiers = {
-        culture = indo_aryan
+        culture = dravidian
         religion = animist
         size = 3000
     }
 
     farmers = {
-        culture = indo_aryan
+        culture = dravidian
         religion = animist
         size = 280500
     }
 
     clergymen = {
-        culture = indo_aryan
+        culture = dravidian
         religion = animist
         size = 200
     }
 
     artisans = {
-        culture = indo_aryan
+        culture = dravidian
         religion = animist
         size = 8000
     }
 
     soldiers = {
-        culture = indo_aryan
+        culture = dravidian
         religion = animist
         size = 300
     }
 
     farmers = {
-        culture = indo_aryan
+        culture = dravidian
         religion = animist
         size = 11500
     }
@@ -5501,61 +5501,61 @@
 #Aurangabad (1244000/311000 POPS)
 1284 = {
     aristocrats = {
-        culture = indo_aryan
+        culture = dravidian
         religion = animist
         size = 2000
     }
 
     clergymen = {
-        culture = indo_aryan
+        culture = dravidian
         religion = animist
         size = 2250
     }
 
     artisans = {
-        culture = indo_aryan
+        culture = dravidian
         religion = animist
         size = 7500
     }
 
     soldiers = {
-        culture = indo_aryan
+        culture = dravidian
         religion = animist
         size = 2500
     }
 
     farmers = {
-        culture = indo_aryan
+        culture = dravidian
         religion = animist
         size = 249750
     }
 
     aristocrats = {
-        culture = indo_aryan
+        culture = dravidian
         religion = animist
         size = 900
     }
 
     clergymen = {
-        culture = indo_aryan
+        culture = dravidian
         religion = animist
         size = 500
     }
 
     artisans = {
-        culture = indo_aryan
+        culture = dravidian
         religion = animist
         size = 8000
     }
 
     soldiers = {
-        culture = indo_aryan
+        culture = dravidian
         religion = animist
         size = 700
     }
 
     farmers = {
-        culture = indo_aryan
+        culture = dravidian
         religion = animist
         size = 36900
     }
@@ -6498,261 +6498,249 @@
 #Bombay (2680000/670000 POPS)
 1297 = {
     aristocrats = {
-        culture = indo_aryan
+        culture = dravidian
         religion = animist
         size = 6000
     }
 
     clergymen = {
-        culture = indo_aryan
+        culture = dravidian
         religion = animist
         size = 5500
     }
 
     bureaucrats = {
-        culture = indo_aryan
+        culture = dravidian
         religion = animist
         size = 1500
     }
 
     artisans = {
-        culture = indo_aryan
+        culture = dravidian
         religion = animist
         size = 10000
     }
 
     artisans = {
-        culture = indo_aryan
+        culture = dravidian
         religion = animist
         size = 10000
     }
 
     artisans = {
-        culture = indo_aryan
+        culture = dravidian
         religion = animist
         size = 10000
     }
 
     artisans = {
-        culture = indo_aryan
+        culture = dravidian
         religion = animist
         size = 10000
     }
 
     artisans = {
-        culture = indo_aryan
+        culture = dravidian
         religion = animist
         size = 4000
     }
 
     soldiers = {
-        culture = indo_aryan
+        culture = dravidian
         religion = animist
-        size = 5000
+        size = 9500
     }
 
     farmers = {
-        culture = indo_aryan
+        culture = dravidian
         religion = animist
         size = 420000
     }
 
     artisans = {
-        culture = indo_aryan
+        culture = dravidian
         religion = animist
         size = 1100
     }
 
     clergymen = {
-        culture = indo_aryan
+        culture = dravidian
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = indo_aryan
+        culture = dravidian
         religion = animist
         size = 1950
     }
 
     farmers = {
-        culture = indo_aryan
+        culture = dravidian
         religion = animist
         size = 2000
     }
 
     clergymen = {
-        culture = indo_aryan
+        culture = dravidian
         religion = animist
         size = 625
     }
 
     artisans = {
-        culture = indo_aryan
+        culture = dravidian
         religion = animist
         size = 8000
     }
 
     farmers = {
-        culture = indo_aryan
+        culture = dravidian
         religion = animist
         size = 38125
     }
 
     aristocrats = {
-        culture = indo_aryan
+        culture = dravidian
         religion = animist
         size = 500
     }
 
     clergymen = {
-        culture = indo_aryan
+        culture = dravidian
         religion = animist
         size = 1250
     }
 
     bureaucrats = {
-        culture = indo_aryan
+        culture = dravidian
         religion = animist
         size = 500
     }
 
     artisans = {
-        culture = indo_aryan
+        culture = dravidian
         religion = animist
         size = 10000
     }
 
     artisans = {
-        culture = indo_aryan
+        culture = dravidian
         religion = animist
         size = 10000
     }
 
     artisans = {
-        culture = indo_aryan
+        culture = dravidian
         religion = animist
         size = 6000
     }
 
-    soldiers = {
-        culture = indo_aryan
-        religion = animist
-        size = 1500
-    }
-
     farmers = {
-        culture = indo_aryan
+        culture = dravidian
         religion = animist
         size = 97250
     }
 
     clergymen = {
-        culture = indo_aryan
+        culture = dravidian
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = indo_aryan
+        culture = dravidian
         religion = animist
         size = 3875
     }
 
     farmers = {
-        culture = indo_aryan
+        culture = dravidian
         religion = animist
         size = 2075
     }
 
     aristocrats = {
-        culture = english
+        culture = dravidian
         religion = animist
         size = 1125
     }
 
     bureaucrats = {
-        culture = english
+        culture = dravidian
         religion = animist
         size = 250
     }
 
     officers = {
-        culture = english
+        culture = dravidian
         religion = animist
         size = 500
     }
 
     clergymen = {
-        culture = english
+        culture = dravidian
         religion = animist
         size = 125
-    }
-
-    soldiers = {
-        culture = english
-        religion = animist
-        size = 3000
     }
 }
 #Nasik (796000/199000 POPS)
 1298 = {
     aristocrats = {
-        culture = indo_aryan
+        culture = dravidian
         religion = animist
         size = 2000
     }
 
     clergymen = {
-        culture = indo_aryan
+        culture = dravidian
         religion = animist
         size = 1250
     }
 
     artisans = {
-        culture = indo_aryan
+        culture = dravidian
         religion = animist
         size = 5000
     }
 
     soldiers = {
-        culture = indo_aryan
+        culture = dravidian
         religion = animist
         size = 2000
     }
 
     farmers = {
-        culture = indo_aryan
+        culture = dravidian
         religion = animist
         size = 181750
     }
 
     aristocrats = {
-        culture = indo_aryan
+        culture = dravidian
         religion = animist
         size = 50
     }
 
     clergymen = {
-        culture = indo_aryan
+        culture = dravidian
         religion = animist
         size = 75
     }
 
     artisans = {
-        culture = indo_aryan
+        culture = dravidian
         religion = animist
         size = 3000
     }
 
     soldiers = {
-        culture = indo_aryan
+        culture = dravidian
         religion = animist
         size = 100
     }
 
     farmers = {
-        culture = indo_aryan
+        culture = dravidian
         religion = animist
         size = 4775
     }
@@ -6760,37 +6748,37 @@
 #Poona (1196000/299000 POPS)
 1299 = {
     aristocrats = {
-        culture = indo_aryan
+        culture = dravidian
         religion = animist
         size = 3000
     }
 
     clergymen = {
-        culture = indo_aryan
+        culture = dravidian
         religion = animist
         size = 2500
     }
 
     artisans = {
-        culture = indo_aryan
+        culture = dravidian
         religion = animist
         size = 10000
     }
 
     artisans = {
-        culture = indo_aryan
+        culture = dravidian
         religion = animist
         size = 10000
     }
 
     soldiers = {
-        culture = indo_aryan
+        culture = dravidian
         religion = animist
-        size = 3000
+        size = 3250
     }
 
     farmers = {
-        culture = indo_aryan
+        culture = dravidian
         religion = animist
         size = 255500
     }
@@ -6811,12 +6799,6 @@
         culture = dravidian
         religion = animist
         size = 5000
-    }
-
-    soldiers = {
-        culture = dravidian
-        religion = animist
-        size = 250
     }
 
     farmers = {
@@ -6896,31 +6878,31 @@
 #Kolhapur (880000/220000 POPS)
 1301 = {
     aristocrats = {
-        culture = indo_aryan
+        culture = dravidian
         religion = animist
         size = 2250
     }
 
     clergymen = {
-        culture = indo_aryan
+        culture = dravidian
         religion = animist
         size = 2500
     }
 
     artisans = {
-        culture = indo_aryan
+        culture = dravidian
         religion = animist
         size = 8000
     }
 
     soldiers = {
-        culture = indo_aryan
+        culture = dravidian
         religion = animist
-        size = 2250
+        size = 2350
     }
 
     farmers = {
-        culture = indo_aryan
+        culture = dravidian
         religion = animist
         size = 198000
     }
@@ -6941,12 +6923,6 @@
         culture = dravidian
         religion = animist
         size = 3000
-    }
-
-    soldiers = {
-        culture = dravidian
-        religion = animist
-        size = 100
     }
 
     farmers = {
@@ -7065,65 +7041,53 @@
     soldiers = {
         culture = portuguese
         religion = animist
-        size = 25
+        size = 125
     }
 
     aristocrats = {
-        culture = indo_aryan
+        culture = dravidian
         religion = animist
         size = 450
     }
 
-    bureaucrats = {
-        culture = indo_aryan
-        religion = animist
-        size = 75
-    }
-
     clergymen = {
-        culture = indo_aryan
+        culture = dravidian
         religion = animist
         size = 450
     }
 
     artisans = {
-        culture = indo_aryan
+        culture = dravidian
         religion = animist
-        size = 2300
-    }
-
-    soldiers = {
-        culture = indo_aryan
-        religion = animist
-        size = 100
+        size = 2375
     }
 
     farmers = {
-        culture = indo_aryan
+        culture = dravidian
         religion = animist
         size = 45725
     }
 
     clergymen = {
-        culture = indo_aryan
+        culture = dravidian
         religion = animist
         size = 100
     }
 
     artisans = {
-        culture = indo_aryan
+        culture = dravidian
         religion = animist
         size = 500
     }
 
     soldiers = {
-        culture = indo_aryan
+        culture = dravidian
         religion = animist
         size = 100
     }
 
     farmers = {
-        culture = indo_aryan
+        culture = dravidian
         religion = animist
         size = 9300
     }

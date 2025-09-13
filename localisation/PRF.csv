@@ -112,10 +112,10 @@ claim_ireland_title;Claim Ireland;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 claim_ireland_desc;With Ireland now under our total control we must consolidate our administration in the island in order to solidify our rule. §R\nMutually exclusive with "Nordtyskland".;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 baltic_empire_title;Baltic Empire;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 baltic_empire_desc;Now that we control Pomerania, Prussia, Livland, Lithuania and Pskov we can affirm our place as the Masters of the Baltic Sea, our very own Viking Mare Nostrum.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-move_capital_to_ankara_title;Move Capital to Ankara;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-move_capital_to_ankara_desc;Ankara is home to the Turkish national movement, and a more defensible location away from European enemies.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+move_capital_to_ankara_title;Move the Capital to Ankara;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+move_capital_to_ankara_desc;Ankara is the heartland of the Turkic people of Anatolia, and a more defensible location away from European enemies. Moving our capital here will allow us to consolidate our eastern part of the empire. §R\nMutually exclusive with "Maintain Constantinople as the Imperial Capital". §G\nWill allow you to take decisions to accept the Misri, Caucasian Christian, Bedouin, Azerbaijani and Maghrebi.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 keep_instanbul_capital_title;Maintain Constantinople as the Imperial Capital;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-keep_instanbul_capital_desc;As the heart of the Ottoman Empire for centuries, Constantinople stands as a symbol of imperial grandeur, straddling Europe and Asia. While some modernizers argue for relocating the capital to Ankara—a more defensible and central location—abandoning Constantinople would mean turning our backs on centuries of history, prestige, and economic strength. By reaffirming Constantinople as our capital, we preserve our connection to the legacy of the Sultans, maintain control over the vital Bosporus trade routes, and demonstrate our commitment to defending our core lands against foreign encroachment.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+keep_instanbul_capital_desc;As the heart of the Ottoman Empire for centuries, Constantinople stands as a symbol of imperial grandeur, straddling Europe and Asia. While some modernizers argue for relocating the capital to Ankara—a more defensible and central location—abandoning Constantinople would mean turning our backs on centuries of history, prestige, and economic strength. By reaffirming Constantinople as our capital, we preserve our connection to the legacy of the Sultans, maintain control over the vital Bosporus trade routes, and demonstrate our commitment to defending our core lands against foreign encroachment. §R\nMutually exclusive with "Move the Capital to Ankara". §G\nWill allow you to take decisions to accept the Greek, Albanian, Serb and Croat cultures and will let you increase the life rating of your Balkan possessions.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 tanzimat_reforms_greek_title;Recognize Greeks as citizens;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 tanzimat_reforms_greek_desc;With the diverse peoples of the Ottoman Empire living under the Sultan's rule, the Greek population has long been a vital part of our administration, commerce, and intellectual life. By formally recognizing Greek as an accepted culture, we can strengthen loyalty in the region, improve administrative efficiency, and foster greater unity within the empire. This decision will not only appease the Greek populace but also harness their economic and political potential for the benefit of the state.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 tanzimat_reforms_albanian_title;Recognize Albanians as citizens;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -186,6 +186,30 @@ form_aryanam_irq_title;Iranshahr Reborn;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 form_aryanam_irq_desc;Now that Iran is united, from Kabulestan to Mesopotamia, from the Kopet Dag to Makran, our great dynasty can now undisputedly claim the title of legacy of our great predecessors - Cyrus the Great, Mithridates II, Shapur I. Long live the Shahanshah- the King of Kings!;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 form_aryanam_azb_title;Iranshahr Reborn;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 form_aryanam_azb_desc;Now that Iran is united, from Kabulestan to Mesopotamia, from the Kopet Dag to Makran, our great dynasty can now undisputedly claim the title of legacy of our great predecessors - Cyrus the Great, Mithridates II, Shapur I. Long live the Shahanshah- the King of Kings!;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+a_new_life_in_the_new_world_title;Land of Opportunity;;;;;;;;;;;;x;;;,,,,
+a_new_life_in_the_new_world_desc;Your somalians are causing mass rape!!! /n Well in the name of multiculturalism it's fine.;;;;;;;;;;;;x,,,,
+form_ameriga_title;Form Ameriga;;;;;;;;;;;;x,,,,
+form_ameriga_desc;We have control of all of Ameriga, we can form the Federation!;;;;;;;;;;;;x,,,
+integrate_afro_amerigans_title;Integration of the Former Slaves;;;;;;;;;;;;x,,,,
+integrate_afro_amerigans_desc;We have abolished slavery, but the former slaves continue to be excluded from society. We would have everything to gain by making them full citizens, ensuring their prosperity and our national cohesion.;;;;;;;;;;;;x,,,,
+conquest_of_jungle_title;Conquest of the Amazon;;;;;;;;;;;;x,,,,
+conquest_of_jungle_desc;Now that we are the Federation, our claims extend into the Amazon!;;;;;;;;;;;;x,,,
+integrate_beornia_title;Integrate Beornia;;;;;;;;;;;;x,,,,
+integrate_beornia_desc;Beornia has been a thorn in our side, but no longer, we can now integrate the nation into our own.;;;;;;;;;;;;x,,
+dominate_ameriga_title;Dominate Ameriga;;;;;;;;;;;;x,,,,
+dominate_ameriga_desc;It is our destiny to unify all of Ameriga under the Federation, and we have set ourselves up to achieve this dream.;;;;;;;;;;;;x,,,
+integrate_granada_title;Integrate Granada;;;;;;;;;;;;x,,,,
+integrate_granada_desc;We have freed the Granadans from their oppression, we can now accept them into our Federation.;;;;;;;;;;;;x,,,
+integrate_caribbeans_clm_title;Integrate Caribbeans;;;;;;;;;;;;x,,,,
+integrate_caribbeans_clm_desc;We have freed the Caribeans from their oppression, we can now accept them into our nation.;;;;;;;;;;;;x,,,
+integrate_afro_amerigan_clm_title;Integration of the Former Slaves;;;;;;;;;;;;x,,,,
+integrate_afro_amerigan_clm_desc;We have abolished slavery, but the former slaves continue to be excluded from society. We would have everything to gain by making them full citizens, ensuring their prosperity and our national cohesion.;;;;;;;;;;;;x,,,
+congress_clm_title;Congress of Mexico City;;;;;;;;;;;;x,,,,
+congress_clm_desc;The War for Liberation is now long behind us, We can now end the presidential dictatorship and reform our government. In doing so we can guarantee a consitution and rights for all citizens of Gran Colombia!;;;;;;;;;;;;x,,,
+universityMEX_title;University of Mexico City;;;;;;;;;;;;x;;;,,,,
+universityMEX_desc;In order to be able to compete on the national stage, we must increase the overall skill of our population. Let us start this education reform with celebrating the opening of our University in Mexico City!;;;;;;;;;;;;x;;;,,,,
+claim_egyptian_desert_title;Control the Egyptian Desert;;;;;;;;;;;;x,,,,
+claim_egyptian_desert_desc;Controlling the parts of Egypt that were too far away from either sea or river proved impossible during the time of war. Now with the region at peace and new technological advances we'll be able to firmly establish our administration over the deserts.;;;;;;;;;;;x,,,
 #;;;;;;;;;;;;;;Modifiers;;;;
 continental_army;Continental Army;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;
 continental_army_desc;Irish please apply, we need more soldiers UwU.;;;;;;;;;;;;;x,,,,,,,,,,,,;;;;;;;;;;;
@@ -590,6 +614,7 @@ filipino;Christianer;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 armenian;Caucasian Christians;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 punjabi;Western Indo-Aryan;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 pashtun;Pashtun-Baluchi;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+oirat;Oirat;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 #;;;;;;;;;;;;;;RGOs;;;;
 opium;Copium;Copium;Copium;;Copium;;;;;;;;;x;;;;
 #;;;;;;;;;;;;;;States;;;;
@@ -639,25 +664,3 @@ demand_capital_concession_huge;Take Huge Capital Concession;;;;;;;;;;;;;
 demand_capital_concession_huge_desc;Take the Huge Capital region of a ï¿½Ycountryï¿½W and force them to move their capital elsewhere;;;;;;;;;;;;;
 demand_capital_concession_huge_setup;Take Huge Capital region $STATE$ of $RECIPIENT$;;;;;;;;;;;;;
 demand_capital_concession_huge_short;Takes Huge Capital Concession from $RECIPIENT$;;;;;;;;;;;;;
-a_new_life_in_the_new_world_title;Land of Opportunity;;;;;;;;;;;;x;;;,,,,
-a_new_life_in_the_new_world_desc;Your somalians are causing mass rape!!! /n Well in the name of multiculturalism it's fine.;;;;;;;;;;;;x,,,,
-form_ameriga_title;Form Ameriga;;;;;;;;;;;;x,,,,
-form_ameriga_desc;We have control of all of Ameriga, we can form the Federation!;;;;;;;;;;;;x,,,
-integrate_afro_amerigans_title;Integration of the Former Slaves;;;;;;;;;;;;x,,,,
-integrate_afro_amerigans_desc;We have abolished slavery, but the former slaves continue to be excluded from society. We would have everything to gain by making them full citizens, ensuring their prosperity and our national cohesion.;;;;;;;;;;;;x,,,,
-conquest_of_jungle_title;Conquest of the Amazon;;;;;;;;;;;;x,,,,
-conquest_of_jungle_desc;Now that we are the Federation, our claims extend into the Amazon!;;;;;;;;;;;;x,,,
-integrate_beornia_title;Integrate Beornia;;;;;;;;;;;;x,,,,
-integrate_beornia_desc;Beornia has been a thorn in our side, but no longer, we can now integrate the nation into our own.;;;;;;;;;;;;x,,
-dominate_ameriga_title;Dominate Ameriga;;;;;;;;;;;;x,,,,
-dominate_ameriga_desc;It is our destiny to unify all of Ameriga under the Federation, and we have set ourselves up to achieve this dream.;;;;;;;;;;;;x,,,
-integrate_granada_title;Integrate Granada;;;;;;;;;;;;x,,,,
-integrate_granada_desc;We have freed the Granadans from their oppression, we can now accept them into our Federation.;;;;;;;;;;;;x,,,
-integrate_caribbeans_clm_title;Integrate Caribbeans;;;;;;;;;;;;x,,,,
-integrate_caribbeans_clm_desc;We have freed the Caribeans from their oppression, we can now accept them into our nation.;;;;;;;;;;;;x,,,
-integrate_afro_amerigan_clm_title;Integration of the Former Slaves;;;;;;;;;;;;x,,,,
-integrate_afro_amerigan_clm_desc;We have abolished slavery, but the former slaves continue to be excluded from society. We would have everything to gain by making them full citizens, ensuring their prosperity and our national cohesion.;;;;;;;;;;;;x,,,
-congress_clm_title;Congress of Mexico City;;;;;;;;;;;;x,,,,
-congress_clm_desc;The War for Liberation is now long behind us, We can now end the presidential dictatorship and reform our government. In doing so we can guarantee a consitution and rights for all citizens of Gran Colombia!;;;;;;;;;;;;x,,,
-universityMEX_title;University of Mexico City;;;;;;;;;;;;x;;;,,,,
-universityMEX_desc;In order to be able to compete on the national stage, we must increase the overall skill of our population. Let us start this education reform with celebrating the opening of our University in Mexico City!;;;;;;;;;;;;x;;;,,,,

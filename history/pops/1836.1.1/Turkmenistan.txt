@@ -37,55 +37,49 @@
 #Ashkabad (148000/32000 POPS)
 1204 = {
     aristocrats = {
-        culture = aryan
+        culture = turkic
         religion = animist
         size = 500
     }
 
     clergymen = {
-        culture = aryan
+        culture = turkic
         religion = animist
         size = 275
     }
 
     artisans = {
-        culture = aryan
+        culture = turkic
         religion = animist
         size = 1250
     }
 
     soldiers = {
-        culture = aryan
+        culture = turkic
         religion = animist
-        size = 300
+        size = 325
     }
 
     farmers = {
-        culture = aryan
+        culture = turkic
         religion = animist
         size = 25675
     }
 
     clergymen = {
-        culture = aryan
+        culture = turkic
         religion = animist
         size = 25
     }
 
     artisans = {
-        culture = aryan
+        culture = turkic
         religion = animist
         size = 200
     }
 
-    soldiers = {
-        culture = aryan
-        religion = animist
-        size = 25
-    }
-
     farmers = {
-        culture = aryan
+        culture = turkic
         religion = animist
         size = 3750
     }
@@ -93,55 +87,49 @@
 #Kizil Arvut (88000/22000 POPS)
 1205 = {
     aristocrats = {
-        culture = aryan
+        culture = turkic
         religion = animist
         size = 375
     }
 
     clergymen = {
-        culture = aryan
+        culture = turkic
         religion = animist
         size = 175
     }
 
     artisans = {
-        culture = aryan
+        culture = turkic
         religion = animist
         size = 850
     }
 
     soldiers = {
-        culture = aryan
+        culture = turkic
         religion = animist
-        size = 200
+        size = 225
     }
 
     farmers = {
-        culture = aryan
+        culture = turkic
         religion = animist
         size = 17400
     }
 
     clergymen = {
-        culture = aryan
+        culture = turkic
         religion = animist
         size = 25
     }
 
     artisans = {
-        culture = aryan
+        culture = turkic
         religion = animist
         size = 150
     }
 
-    soldiers = {
-        culture = aryan
-        religion = animist
-        size = 25
-    }
-
     farmers = {
-        culture = aryan
+        culture = turkic
         religion = animist
         size = 2800
     }
@@ -150,91 +138,85 @@
 #Merv (132000/33000 POPS)
 1206 = {
     aristocrats = {
-        culture = aryan
+        culture = turkic
         religion = animist
         size = 25
     }
 
     clergymen = {
-        culture = aryan
+        culture = turkic
         religion = animist
         size = 25
     }
 
     artisans = {
-        culture = aryan
+        culture = turkic
         religion = animist
         size = 100
     }
 
     soldiers = {
-        culture = aryan
+        culture = turkic
         religion = animist
         size = 25
     }
 
     farmers = {
-        culture = aryan
+        culture = turkic
         religion = animist
         size = 1825
     }
 
     aristocrats = {
-        culture = aryan
+        culture = turkic
         religion = animist
         size = 400
     }
 
     clergymen = {
-        culture = aryan
+        culture = turkic
         religion = animist
         size = 225
     }
 
     artisans = {
-        culture = aryan
+        culture = turkic
         religion = animist
         size = 1100
     }
 
     soldiers = {
-        culture = aryan
+        culture = turkic
         religion = animist
-        size = 250
+        size = 325
     }
 
     farmers = {
-        culture = aryan
+        culture = turkic
         religion = animist
         size = 21025
     }
 
     aristocrats = {
-        culture = aryan
+        culture = turkic
         religion = animist
         size = 50
     }
 
     clergymen = {
-        culture = aryan
+        culture = turkic
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = aryan
+        culture = turkic
         religion = animist
         size = 400
     }
 
-    soldiers = {
-        culture = aryan
-        religion = animist
-        size = 75
-    }
-
     farmers = {
-        culture = aryan
+        culture = turkic
         religion = animist
         size = 7425
     }

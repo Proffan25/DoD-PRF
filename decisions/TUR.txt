@@ -1,27 +1,11 @@
 political_decisions = {
-    move_capital_to_ankara = {
-		picture = move_capital_to_ankara
-		potential = {
-			tag = TUR
-			NOT = {has_country_flag = ankara_capital}
-			NOT = {has_country_flag = istanbul_capital}
-			owns = 876
-		}
-		allow = {
-			year = 1840
-			war = no
-		}
-		effect = {
-			set_country_flag = ankara_capital
-			capital = 876
-		}
-	}
+	
 	keep_instanbul_capital = {
 		picture = constantinople
 		potential = {
 			tag = TUR
-			NOT = {has_country_flag = ankara_capital}
-			NOT = {has_country_flag = istanbul_capital}
+			NOT = { has_country_flag = ankara_capital }
+			NOT = { has_country_flag = istanbul_capital }
 		}
 		allow = {
 			year = 1840
@@ -32,6 +16,26 @@ political_decisions = {
 			prestige = 5
 		}
 	}
+
+    move_capital_to_ankara = {
+		picture = move_capital_to_ankara
+		potential = {
+			tag = TUR
+			NOT = { has_country_flag = ankara_capital }
+			NOT = { has_country_flag = istanbul_capital }
+			owns = 876
+		}
+		allow = {
+			year = 1840
+			war = no
+		}
+		effect = {
+			set_country_flag = ankara_capital
+			capital = 876
+			accepted_culture = kurdish
+		}
+	}
+	
 	tanzimat_reforms_greek = {
 		picture = greeks
 		potential = {
@@ -48,7 +52,8 @@ political_decisions = {
 		effect = {
 			add_accepted_culture = greek
 		}
-	}	
+	}
+	
 	tanzimat_reforms_albanian = {
 		picture = albania
 		potential = {
@@ -64,6 +69,7 @@ political_decisions = {
 			add_accepted_culture = albanian
 		}	
 	}
+	
 	tanzimat_reforms_serb = {
 		picture = despotate_serbia
 		potential = {
@@ -80,6 +86,7 @@ political_decisions = {
 			add_accepted_culture = serb
 		}
 	}
+	
 	tanzimat_reforms_croat = {
 		picture = reclaim_croatia
 		potential = {
@@ -97,6 +104,7 @@ political_decisions = {
 			add_accepted_culture = croat
 		}
 	}
+	
 	double_down_balkans = {
 		picture = map_balkans
 		potential = {
@@ -118,15 +126,16 @@ political_decisions = {
             TUR_860 = {owned_by = THIS}
 		}
 		effect = {
-			BUL = {all_core = {life_rating = 2}}
-			ALB = {all_core = {life_rating = 2}}
-			MAC = {all_core = {life_rating = 2}}
-			GRE = {all_core = {life_rating = 2}}
-			SER = {all_core = {life_rating = 2}}
-			TUR_860 = {life_rating = 2}
+			BUL = {all_core = {life_rating = 3}}
+			ALB = {all_core = {life_rating = 3}}
+			MAC = {all_core = {life_rating = 3}}
+			GRE = {all_core = {life_rating = 3}}
+			SER = {all_core = {life_rating = 3}}
+			TUR_860 = {life_rating = 3}
 			set_country_flag = double_down_balkans
 		}
 	}
+	
 	islamic_reforms_misri = {
 		picture = egypt_levant
 		potential = {
@@ -143,6 +152,7 @@ political_decisions = {
 			add_accepted_culture = misri
 		}
 	}
+	
 	islamic_reforms_bedouin = {
 		picture = map_arabia
 		potential = {
@@ -161,6 +171,7 @@ political_decisions = {
 		}
 	
 	}
+	
 	islamic_reforms_armenian = {
 		picture = armenian_apostolic_cross
 		potential = {
@@ -178,6 +189,7 @@ political_decisions = {
 		}
 	
 	}
+	
 	the_caliphate = {
 		picture = caliphate
 		potential = {
@@ -205,6 +217,7 @@ political_decisions = {
 		}
 	
 	}
+	
 	egypt_is_free = {
         picture = remove_karaboga
         potential = {
@@ -220,6 +233,7 @@ political_decisions = {
            EGY_1767 = { remove_core = TUR }
         }
     }
+	
     macedonia_is_free = {
         picture = remove_karaboga
         potential = {
@@ -234,6 +248,7 @@ political_decisions = {
            TUR_805 = { remove_core = TUR }
         }
     }
+	
     albania_is_free = {
         picture = remove_karaboga
         potential = {
@@ -248,4 +263,24 @@ political_decisions = {
            TUR_853 = { remove_core = TUR }
         }
     }
+	
+	claim_egyptian_desert = {
+        picture = nubian_desert
+		potential = {
+			1759 = { empty = yes }
+			1760 = { empty = yes }
+			1745 = { owned_by = THIS }
+			3274 = { owned_by = THIS }
+		}
+		allow = {
+			medicine = 1
+		}
+		effect = {
+			1754 = { secede_province = THIS }
+			1759 = { secede_province = THIS }
+			1758 = { secede_province = THIS }
+			1760 = { secede_province = THIS }
+			1761 = { secede_province = THIS }
+		}
+	}
 }

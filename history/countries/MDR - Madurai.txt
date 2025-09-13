@@ -1,11 +1,10 @@
 capital = 1268
-primary_culture = indo_aryan
-culture = dravidian
+primary_culture = dravidian
 
 religion = animist
 government = absolute_monarchy
 plurality = 0.0
-nationalvalue = nv_equality
+nationalvalue = nv_order
 literacy = 0.05
 civilized = no
 
