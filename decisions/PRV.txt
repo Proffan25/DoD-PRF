@@ -1,0 +1,46 @@
+political_decisions = {
+    france_italy = {
+        picture = charlemagne
+        potential = {
+            tag = PRV
+        }
+        allow = {
+            PRV = {
+                all_core = { owned_by = THIS }
+            }
+			FRA_448 = {
+				owned_by = THIS
+			}
+			FRA_438 = {
+				owned_by = THIS
+			}
+			FRA_458 = {
+				owned_by = THIS
+			}
+			SAR_466 = {
+				owned_by = THIS
+			}
+			SAR_720 = {
+				owned_by = THIS
+			}
+			AUS_726 = {
+				owned_by = THIS
+			}
+			PAP_741 = {
+				owned_by = THIS
+			}
+        }
+        effect = {
+			FRA = { all_core = { add_core = FRT remove_core = FRA } }
+			PRV = { all_core = { add_core = FRT remove_core = PRV } }
+			PAP = { all_core = { add_core = FRT } }
+			SIC = { all_core = { add_core = FRT } }
+			SAR_466 = { add_core = PRV }
+			SAR_720 = { add_core = PRV }
+			AUS_726 = { add_core = PRV }
+			PAP_741 = { add_core = PRV }
+            add_accepted_culture = south_italian
+            change_tag = FRT
+        }
+    }
+}

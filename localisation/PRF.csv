@@ -210,6 +210,8 @@ universityMEX_title;University of Mexico City;;;;;;;;;;;;x;;;,,,,
 universityMEX_desc;In order to be able to compete on the national stage, we must increase the overall skill of our population. Let us start this education reform with celebrating the opening of our University in Mexico City!;;;;;;;;;;;;x;;;,,,,
 claim_egyptian_desert_title;Control the Egyptian Desert;;;;;;;;;;;;x,,,,
 claim_egyptian_desert_desc;Controlling the parts of Egypt that were too far away from either sea or river proved impossible during the time of war. Now with the region at peace and new technological advances we'll be able to firmly establish our administration over the deserts.;;;;;;;;;;;x,,,
+france_italy_title;Creation of the Dual-Monarchy;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+france_italy_desc;The kingdom of France has been reclaimed. However we can't present us as the sole king of Italy or we will face unrest from the population. We can establish a Dual-Monarchy like the Plantagenets, ruling both French and Italians. Long live Transalpina.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 #;;;;;;;;;;;;;;Modifiers;;;;
 continental_army;Continental Army;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;
 continental_army_desc;Irish please apply, we need more soldiers UwU.;;;;;;;;;;;;;x,,,,,,,,,,,,;;;;;;;;;;;
@@ -531,6 +533,15 @@ PSV;Pskov;;;;;;;;;;;;;
 PSV_ADJ;Pskovian;;;;;;;;;;;;;
 PRV;Provence;;;;;;;;;;;;;
 PRV_ADJ;Provencal;;;;;;;;;;;;;
+FRT_absolute_monarchy;Transalpine Empire;;;;;;;;;;;;;
+FRT_prussian_constitutionalism;Transalpine Empire;;;;;;;;;;;;;
+FRT_hms_government;Transalpine Empire;;;;;;;;;;;;;
+FRT_fascist_dictatorship;Transalpine State;;;;;;;;;;;;;
+FRT_proletarian_dictatorship;SFR Transalpina;;;;;;;;;;;;;
+FRT_democracy;Transalpine Republic;;;;;;;;;;;;;
+FRT_presidential_dictatorship;Transalpine Republic;;;;;;;;;;;;;
+FRT;Transalpina;;;;;;;;;;;;x
+FRT_ADJ;Transalpine;;;;;;;;;;;;;
 ASK;Astrakhan;;;;;;;;;;;;;
 ASK_ADJ;Astrakhani;;;;;;;;;;;;;
 AZB;Safavids;;;;;;;;;;;;;
