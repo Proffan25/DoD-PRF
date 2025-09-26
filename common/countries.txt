@@ -218,6 +218,7 @@ SIN		="countries/Sind.txt"
 TRA		="countries/Travancore.txt"
 VIJ		= "countries/Vijayanagar.txt"
 MDR		= "countries/Madurai.txt"
+RAJ		= "countries/Rajputana.txt"
 
 # Eastern Asia
 ATJ		="countries/Atjeh.txt"
