@@ -1,4 +1,4 @@
-color = { 168 107 50 }
+color = { 112 50 169 }
 graphical_culture = IndianGC
 
 party = {
@@ -86,38 +86,34 @@ party = {
 }
 
 unit_names = {
-	dreadnought = {
+    dreadnought = {
         Alia Aurangabad Devki Fatimah Godvari Gulbargah Jalsena "Kala Jahazi" Khan "Lal Jahazi"
         Nausena "Nav ka Yudh" Niknaz "Nila Jahazi" Niloufa Sagar Salima Suhalia Shameena Yasmine
-	}
-	ironclad = {
+    }
+    ironclad = {
         Alia Aurangabad Devki Fatimah Godvari Gulbargah Jalsena "Kala Jahazi" Khan "Lal Jahazi"
         Nausena "Nav ka Yudh" Niknaz "Nila Jahazi" Niloufa Sagar Salima Suhalia Shameena Yasmine
-	}
-	manowar = {
+    }
+    manowar = {
         Alia Aurangabad Devki Fatimah Godvari Gulbargah Jalsena "Kala Jahazi" Khan "Lal Jahazi"
         Nausena "Nav ka Yudh" Niknaz "Nila Jahazi" Niloufa Sagar Salima Suhalia Shameena Yasmine
-	}
-	cruiser = {
+    }
+    cruiser = {
         Alia Aurangabad Devki Fatimah Godvari Gulbargah Jalsena "Kala Jahazi" Khan "Lal Jahazi"
         Nausena "Nav ka Yudh" Niknaz "Nila Jahazi" Niloufa Sagar Salima Suhalia Shameena Yasmine
-	}
-	frigate = {
+    }
+    frigate = {
         Alia Aurangabad Devki Fatimah Godvari Gulbargah Jalsena "Kala Jahazi" Khan "Lal Jahazi"
         Nausena "Nav ka Yudh" Niknaz "Nila Jahazi" Niloufa Sagar Salima Suhalia Shameena Yasmine
-	}
-	monitor = {
+    }
+    monitor = {
         Alia Aurangabad Devki Fatimah Godvari Gulbargah Jalsena "Kala Jahazi" Khan "Lal Jahazi"
         Nausena "Nav ka Yudh" Niknaz "Nila Jahazi" Niloufa Sagar Salima Suhalia Shameena Yasmine
-	}
-	clipper_transport = {
-		
-	}
-	steam_transport = {
-		
-	}
-	commerce_raider = {
+    }
+    clipper_transport = {}
+    steam_transport = {}
+    commerce_raider = {
         Alia Aurangabad Devki Fatimah Godvari Gulbargah Jalsena "Kala Jahazi" Khan "Lal Jahazi"
         Nausena "Nav ka Yudh" Niknaz "Nila Jahazi" Niloufa Sagar Salima Suhalia Shameena Yasmine
-	}
+    }
 }

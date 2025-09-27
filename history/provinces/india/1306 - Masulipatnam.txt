@@ -1,7 +1,6 @@
 owner = BRG
 controller = BRG
-add_core = HYD
+add_core = BHA
 trade_goods = grain
 life_rating = 32
-colonial = 1
-
+colonial = 2

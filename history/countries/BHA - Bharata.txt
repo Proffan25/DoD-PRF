@@ -1,10 +1,10 @@
-capital = 1268
-primary_culture = indo_aryan
+capital = 1278
+primary_culture = dravidian
 religion = animist
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_order
-literacy = 0.01
+literacy = 0.05
 civilized = no
 is_releasable_vassal = no
 
@@ -39,3 +39,4 @@ health_care = no_health_care
 unemployment_subsidies = no_subsidies
 pensions = no_pensions 
 school_reforms = no_schools
+oob = "VIJ_oob.txt"

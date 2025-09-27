@@ -17,29 +17,151 @@ political_decisions = {
             set_country_flag = PNJ_capital
         }
     }
-	form_india_afg = {
-        picture = chakra_bharata
+	form_hindustan_afg = {
+        picture = map_india
 		potential = {
-			tag = AFG
-            has_country_flag = PNJ_capital
+			has_country_flag = PNJ_capital
+            NOT = {
+                exists = BHA
+                exists = HND
+            }
 		}
 		allow = {
-			state_n_government = 1
-			PER = { all_core = { owned_by = THIS } }
-			AFG = { all_core = { owned_by = THIS } }
-			AFS = { all_core = { owned_by = THIS } }
+			PNJ = { all_core = { owned_by = THIS } }
+			SIN = { all_core = { owned_by = THIS } }
+			RAJ = { all_core = { owned_by = THIS } }
+			BER = { all_core = { owned_by = THIS } }
+			MUG = { all_core = { owned_by = THIS } }
+			NAG = { all_core = { owned_by = THIS } }
+			BNG = { all_core = { owned_by = THIS } }
 		}
 		effect = {
-            capital = 1212
-			add_accepted_culture = aryan
-			add_accepted_culture = kurdish
-			add_accepted_culture = azerbaijani
-			PER = { all_core = { add_core = ARY } }
-			AFG = { all_core = { add_core = ARY remove_core = AFG } }
-			AFS = { all_core = { add_core = ARY } }
-			PER_1112 = { add_core = ARY }
-			RUS_1102 = { add_core = ARY }
-			change_tag = ARY
+			add_accepted_culture = indo_aryan
+			add_accepted_culture = dravidian
+			PNJ = { all_core = { add_core = HND } }
+			SIN = { all_core = { add_core = HND } }
+			RAJ = { all_core = { add_core = HND } }
+			BER = { all_core = { add_core = HND } }
+			MUG = { all_core = { add_core = HND } }
+			NAG = { all_core = { add_core = HND } }
+			BNG = { all_core = { add_core = HND } }
+			VIJ = { all_core = { add_core = HND } }
+			HYD = { all_core = { add_core = HND } }
+			change_tag = HND
+		}
+	}
+	form_hindustan = {
+        picture = map_india
+		potential = {
+			primary_culture = indo_aryan
+            NOT = {
+                exists = HND
+            }
+		}
+		allow = {
+			RAJ = { all_core = { owned_by = THIS } }
+			BER = { all_core = { owned_by = THIS } }
+			MUG = { all_core = { owned_by = THIS } }
+			NAG = { all_core = { owned_by = THIS } }
+			BNG = { all_core = { owned_by = THIS } }
+		}
+		effect = {
+			add_accepted_culture = punjabi
+			add_accepted_culture = dravidian
+			PNJ = { all_core = { add_core = HND } }
+			SIN = { all_core = { add_core = HND } }
+			RAJ = { all_core = { add_core = HND remove_core = RAJ } }
+			BER = { all_core = { add_core = HND remove_core = BER } }
+			MUG = { all_core = { add_core = HND remove_core = MUG } }
+			NAG = { all_core = { add_core = HND remove_core = NAG } }
+			BNG = { all_core = { add_core = HND remove_core = BNG } }
+			VIJ = { all_core = { add_core = HND } }
+			HYD = { all_core = { add_core = HND } }
+			change_tag = HND
+		}
+	}
+	form_bharata = {
+        picture = chakra_bharata
+		potential = {
+			primary_culture = dravidian
+            NOT = {
+                exists = BHA
+            }
+		}
+		allow = {
+			VIJ = { all_core = { owned_by = THIS } }
+			HYD = { all_core = { owned_by = THIS } }
+			MDR = { all_core = { owned_by = THIS } }
+			TRA = { all_core = { owned_by = THIS } }
+			NAG = { all_core = { owned_by = THIS } }
+		}
+		effect = {
+			add_accepted_culture = indo_aryan
+			add_accepted_culture = punjabi
+			add_accepted_culture = nepali
+			VIJ = { all_core = { add_core = BHA remove_core = VIJ } }
+			HYD = { all_core = { add_core = BHA remove_core = HYD } }
+			MDR = { all_core = { add_core = BHA remove_core = MDR } }
+			TRA = { all_core = { add_core = BHA remove_core = TRA } }
+			SRI = { all_core = { add_core = BHA remove_core = SRI } }
+			NAG = { all_core = { add_core = BHA } }
+			BER = { all_core = { add_core = BHA } }
+			RAJ = { all_core = { add_core = BHA } }
+			HND_1270 = { add_core = BHA }
+			ENG_1275 = { add_core = BHA }
+			change_tag = BHA
+		}
+	}
+	annex_sikkim = {
+		potential = {
+			or = {
+				NEP_1327 = {
+					owned_by = THIS
+				}
+				ENG_1252 = {
+					owned_by = THIS
+				}
+			}
+			exists = SIK
+		}
+		allow = {
+			NEP_1327 = {
+				owned_by = THIS
+			}
+			ENG_1252 = {
+				owned_by = THIS
+			}
+			civilized = yes
+		}
+		effect = {
+			inherit = SIK
+			badboy = 1
+		}
+	}
+	annex_bhutan = {
+		potential = {
+			or = {
+				ENG_1258 = {
+					owned_by = THIS
+				}
+				ENG_1252 = {
+					owned_by = THIS
+				}
+			}
+			exists = BHU
+		}
+		allow = {
+			ENG_1258 = {
+				owned_by = THIS
+			}
+			ENG_1252 = {
+				owned_by = THIS
+			}
+			civilized = yes
+		}
+		effect = {
+			inherit = BHU
+			badboy = 2
 		}
 	}
 }
