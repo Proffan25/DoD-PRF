@@ -38,6 +38,7 @@ political_decisions = {
 		effect = {
 			add_accepted_culture = indo_aryan
 			add_accepted_culture = dravidian
+			AFG = { all_core = { add_core = HND remove_core = AFG } }
 			PNJ = { all_core = { add_core = HND } }
 			SIN = { all_core = { add_core = HND } }
 			RAJ = { all_core = { add_core = HND } }
