@@ -46,19 +46,19 @@ army = {
 
 	regiment = {
 		name= "1. Barakzai"
-		type = cavalry
+		type = artillery
 		home = 1209
 	}
 
 	regiment = {
 		name= "2. Barakzai"
-		type = cavalry
+		type = hussar
 		home = 1209
 	}
 
 	regiment = {
 		name= "3. Barakzai"
-		type = cavalry
+		type = hussar
 		home = 1216
 	}
 
@@ -94,7 +94,7 @@ army = {
 
 	regiment = {
 		name= "3. Durranni"
-		type = infantry
+		type = artillery
 		home = 1219
 	}
 

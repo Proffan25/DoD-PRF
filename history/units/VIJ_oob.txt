@@ -1,54 +1,78 @@
+leader = {
+	name = "Ramayyan Dalawa"
+	type = land
+	date = 1836.1.1
+	personality = defence_1.1
+	background = attack_1.1
+}
+
+leader = {
+	name = "Shungrasoobyer Rajapopalachari"
+	type = land
+	date = 1836.1.1
+	personality = defence_1.1
+	background = attack_1.1
+}
+
+leader = {
+	name = "Chidambaram Mudaliar"
+	type = land
+	date = 1836.1.1
+	personality = defence_1.1
+	background = attack_1.1
+}
+
 army = {
 	name = "First Army of Vij"
 	location = 1301
 	regiment = {
 		name= "1.1st Division"
-		type = irregular
+		type = infantry
 		home = 1301
 	}
 	regiment = {
 		name= "2.1st Division"
-		type = irregular
+		type = infantry
 		home = 1297
 	}
 	regiment = {
 		name= "3.1st Division"
-		type = irregular
+		type = infantry
 		home = 1297
 	}
 	regiment = {
 		name= "4.1st Division"
-		type = irregular
+		type = infantry
 		home = 1297
 	}
 	regiment = {
 		name= "1.1st Division"
-		type = irregular
+		type = infantry
 		home = 1297
 	}
 	regiment = {
 		name= "2.1st Division"
-		type = irregular
+		type = infantry
 		home = 1297
 	}
 	regiment = {
 		name= "3.1st Division"
-		type = irregular
+		type = infantry
 		home = 1300
 	}
 	regiment = {
 		name= "4.1st Division"
-		type = irregular
+		type = infantry
 		home = 1308
 	}
 	regiment = {
 		name= "5.1st Division"
-		type = irregular
+		type = hussar
 		home = 1308
 	}
 	regiment = {
 		name= "5.1st Division"
-		type = irregular
+		type = hussar
 		home = 1278
 	}
 }
