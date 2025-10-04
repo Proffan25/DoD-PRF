@@ -21,10 +21,39 @@ country_event = {
 				owner = { tag = INC }
 				is_colonial = no
 			}
-            add_province_modifier = {
-                name = ukrainian_breadbasket
-                duration = -1
-            }
-        }
+			add_province_modifier = {
+				name = ukrainian_breadbasket
+				duration = -1
+			}
+		}
+	}
+}
+
+country_event = {	
+	id = 200301
+	title = "Non core? Absolutely Haram"
+	desc = "Skill issue"	
+	trigger = {
+		any_owned_province = {
+			NOT = { is_core = THIS }
+			NOT = {	has_province_modifier = fuck_non_cores }
+		}	
+		civilized = yes
+	}	
+	mean_time_to_happen =  {
+		days = 1
+	}	
+	option = {
+		name = "Fuck PRF"
+		any_owned = {
+			limit = {
+				NOT = { is_core = THIS }
+				NOT = {	has_province_modifier = fuck_non_cores }
+			}
+			add_province_modifier = {
+				name = fuck_non_cores
+				duration = -1
+			}
+		}
 	}
 }
