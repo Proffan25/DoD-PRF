@@ -1347,8 +1347,8 @@ Mexican_Education = {
 }
 
 fuck_non_cores = {
-	local_RGO_throughput = -0.2
-	tax_efficiency = -0.15
+	local_RGO_throughput = -0.02
+	tax_efficiency = -0.015
 	# We also reduce soldier encouragment, capped at 2.5%
 	icon = 19
 }
