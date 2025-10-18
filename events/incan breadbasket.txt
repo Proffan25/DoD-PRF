@@ -35,6 +35,7 @@ country_event = {
 	desc = "Skill issue"	
 	trigger = {
 		any_owned_province = {
+			is_colonial = no
 			NOT = { is_core = THIS }
 			NOT = {	has_province_modifier = fuck_non_cores }
 		}	
@@ -47,6 +48,7 @@ country_event = {
 		name = "Fuck PRF"
 		any_owned = {
 			limit = {
+				is_colonial = no
 				NOT = { is_core = THIS }
 				NOT = {	has_province_modifier = fuck_non_cores }
 			}
@@ -54,6 +56,31 @@ country_event = {
 				name = fuck_non_cores
 				duration = -1
 			}
+		}
+	}
+}
+
+country_event = {	
+	id = 200302
+	title = "New core? Absolutely Halal"
+	desc = "Got Gud"	
+	trigger = {
+		any_owned_province = {
+			is_core = THIS
+			has_province_modifier = fuck_non_cores
+		}
+	}	
+	mean_time_to_happen =  {
+		days = 1
+	}	
+	option = {
+		name = "Based PRF"
+		any_owned = {
+			limit = {
+				is_core = THIS
+				has_province_modifier = fuck_non_cores
+			}
+			remove_province_modifier = fuck_non_cores
 		}
 	}
 }
