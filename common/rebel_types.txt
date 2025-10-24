@@ -151,6 +151,12 @@ reactionary_rebels = {
 			factor = 1.015
 			country = { plurality = 10 }
 		}
+		modifier = {
+			factor = 0.01
+			is_primary_culture = no
+			is_accepted_culture = no
+			location = { has_province_modifier = fuck_non_cores }
+		}
 	}
  
  	#This is checked for EACH province in the Area of Operations
@@ -352,6 +358,12 @@ fascist_rebels = {
 			location = {
 				minorities = yes
 			}
+		}
+		modifier = {
+			factor = 0.01
+			is_primary_culture = no
+			is_accepted_culture = no
+			location = { has_province_modifier = fuck_non_cores }
 		}
 	}
  
@@ -568,6 +580,12 @@ communist_rebels = {
 				average_consciousness = 6
 			}
 		}
+		modifier = {
+			factor = 0.01
+			is_primary_culture = no
+			is_accepted_culture = no
+			location = { has_province_modifier = fuck_non_cores }
+		}
 	}
  
  	#This is checked for EACH province in the Area of Operations
@@ -761,6 +779,13 @@ anarcho_liberal_rebels = {
 		modifier = {
 			factor = 0
 			country = { government = bourgeois_dictatorship }
+		}
+		
+		modifier = {
+			factor = 0.01
+			is_primary_culture = no
+			is_accepted_culture = no
+			location = { has_province_modifier = fuck_non_cores }
 		}
 	}
  
@@ -1020,6 +1045,12 @@ nationalist_rebels = {
 			factor = 50
 			culture = irish
 			location = { has_province_modifier = irish_republicans }
+		}
+		modifier = {
+			factor = 100
+			is_primary_culture = no
+			is_accepted_culture = no
+			location = { has_province_modifier = fuck_non_cores }
 		}
 	
 	}
@@ -2404,6 +2435,13 @@ liberal_rebels = {
 			factor = 1.15
 			political_reform_want = 0.05
 			NOT = { political_reform_want = 0.15 }
+		}
+		
+		modifier = {
+			factor = 0.01
+			is_primary_culture = no
+			is_accepted_culture = no
+			location = { has_province_modifier = fuck_non_cores }
 		}
 	}
  
