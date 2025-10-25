@@ -4,10 +4,17 @@
 #Boer POPs represent post-Great Trek migration
 #Cape Town (173000/43250 POPS)
 2087 = {
+
     clergymen = {
         culture = boer
         religion = animist
-        size = 161
+        size = 300
+    }
+
+    clergymen = {
+        culture = bantu
+        religion = animist
+        size = 477
     }
 
     artisans = {
@@ -28,12 +35,6 @@
         size = 15447
     }
 
-    clergymen = {
-        culture = boer
-        religion = animist
-        size = 148
-    }
-
     artisans = {
         culture = boer
         religion = animist
@@ -52,12 +53,6 @@
         size = 31
     }
 
-    clergymen = {
-        culture = boer
-        religion = animist
-        size = 227
-    }
-
     bureaucrats = {
         culture = boer
         religion = animist
@@ -74,12 +69,6 @@
         culture = boer
         religion = animist
         size = 92053
-    }
-
-    clergymen = {
-        culture = boer
-        religion = animist
-        size = 241
     }
 
     bureaucrats = {
