@@ -1355,3 +1355,33 @@ fuck_non_cores = {
 	# We also reduce soldier encouragment, capped at 2.5%
 	icon = 19
 }
+
+prestige_assimilation_1 = {
+	global_assimilation_rate = 1
+	icon = 19
+}
+
+prestige_assimilation_2 = {
+	global_assimilation_rate = 2
+	icon = 19
+}
+
+prestige_assimilation_3 = {
+	global_assimilation_rate = 3
+	icon = 19
+}
+
+prestige_assimilation_4 = {
+	global_assimilation_rate = 5
+	icon = 19
+}
+
+prestige_assimilation_5 = {
+	global_assimilation_rate = 7
+	icon = 19
+}
+
+prestige_assimilation_6 = {
+	global_assimilation_rate = 9
+	icon = 19
+}
