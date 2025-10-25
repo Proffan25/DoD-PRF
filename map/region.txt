@@ -384,7 +384,7 @@ ENG_2125 = { 2125 2127 2126 2128 } #Indian Ocean Territory
 
 #POR_2053 = { 2053 2059 2054 2055 2056 2057 2058 }
 
-ENG_2096 = { 2096 2097 2098 2099 2100 } #Eastern Cape
+#ENG_2096 = { 2096 2097 2098 2099 2100 } #Eastern Cape
 
 ENG_2087 = { 2087 2090 2089 2091 2088 2092 2093 2558 } #Cape Colony
 
@@ -624,7 +624,7 @@ SPA_1455 = { 1455 1456 1457 1458 1459 1460 1461 2565 1463 1462 1464 }
 
 ENG_2068 = { 2055 2068 2069 2070 2071 2072 2073 2635 } #Zimbabwe-South Rhodesia
 
-ENG_2024 = { 2024 2025 2030 2031 2032 2026 2027 2028 } #Kenya
+ENG_2024 = { 2024 2025 2031 2032 2026 2027 2028 } #Kenya
 
 #ENG_2026 = { 2026 2027 2028 } #Rift Valley
 
@@ -700,11 +700,11 @@ ENG_2019 = { 2019 2020 2021 2022 2023 } #Uganda
 
 #FRA_1884 = { 1884 1885 1886 }
 
-ZUL_2113 = { 2113 2112 2111 2104 } #Natal-Zululand
+ZUL_2113 = { 2113 2112 2111 2098 2099 2100 2096 2097 } #Natal-Zululand
 
-ORA_2103 = { 2103 2101 2102 } #Oranje
+ORA_2103 = { 2103 2101 2102 2104 } #Oranje
 
-TRN_2108 = { 2108 2110 2109 2114 2105 2107 2106} #Transvaal
+TRN_2108 = { 2108 2110 2109 2114 2105 2107 2106 2049 2050 } #Transvaal
 
 #AST_2528 = { 2528 2529 2534 2535 2536}
 
@@ -1247,9 +1247,9 @@ ITA_1872 = { 1872 1871 } #Somaliland
 
 ENG_1873 = { 1873 1874 } #Adal 
 
-GER_2039 = { 2039 2038 } #South Swahili Coast 
+#GER_2039 = { 2039 2038 } #South Swahili Coast 
 
-GER_2029 = { 2029 2033 2037 } #North Swahili Coast
+#GER_2029 = { 2029 2033 2037 } #North Swahili Coast
 
 GER_2034 = { 2034 2035 } #Ruanda-Burundi 
 
@@ -1257,7 +1257,7 @@ GER_2043 = { 2043 2045 2046 2044 2047 } #Tanganyika
 
 #GER_2044 = { 2044 2047 } #Usambara 
 
-ENG_2048 = { 2048 2036 } #Zanzibar 
+ENG_2048 = { 2029 2030 2033 2037 2048 2036 2039 2038 } #Zanzibar 
 
 GER_2041 = { 2041 2040 2042 } #South Tanganyika 
 
@@ -1265,19 +1265,19 @@ GER_2041 = { 2041 2040 2042 } #South Tanganyika
 
 POR_2064 = { 2064 2060 2061 2063 2581 } #Mocambique-Niassa 
 
-POR_2059 = { 2059 2053 2057 2058 2065 2066 } #Zambezia-Sofala 
+POR_2059 = { 2059 2053 2057 2058 2065 2066 2051 2052 } #Zambezia-Sofala 
 
 #POR_2054 = { 2054 2055 2056 2058 } #Tete
 
-POR_2049 = { 2049 2050 2051 2052 } #Louren�o Marques 
+#POR_2049 = { 2049 2050 2051 2052 } #Louren�o Marques 
 
 FRA_2123 = { 2123 2124 } #Comoros-Mayotte 
 
-MAD_2122 = { 2122 2117 2121 } #Sakalava
+MAD_2122 = { 2122 2117 2116 2118 } #Sakalava
 
-MAD_2119 = { 2119 2118 2120 } #Betsimisaraka
+MAD_2119 = { 2119 2115 2120 2121 } #Betsimisaraka
 
-MAD_2115 = { 2115 2116 } #Merina
+#MAD_2115 = { 2115 2116 } #Merina
 
 #South Africa
 
