@@ -7,27 +7,28 @@
         religion = animist
         size = 191
     }
-
     clergymen = {
         culture = boer
         religion = animist
         size = 222
     }
-
     artisans = {
         culture = boer
         religion = animist
         size = 541
     }
-
     soldiers = {
         culture = boer
         religion = animist
         size = 200
     }
-
     farmers = {
         culture = boer
+        religion = animist
+        size = 15723
+    }
+    farmers = {
+        culture = bantu
         religion = animist
         size = 62891
     }
@@ -37,61 +38,32 @@
     aristocrats = {
         culture = boer
         religion = animist
-        size = 20
+        size = 56
     }
-
     clergymen = {
         culture = boer
         religion = animist
-        size = 68
+        size = 216
     }
-
     artisans = {
         culture = boer
         religion = animist
-        size = 76
+        size = 230
     }
-
     soldiers = {
         culture = boer
         religion = animist
-        size = 25
+        size = 87
     }
-
     farmers = {
         culture = boer
         religion = animist
-        size = 1394
+        size = 1047
     }
-
-    aristocrats = {
-        culture = boer
-        religion = animist
-        size = 36
-    }
-
-    clergymen = {
-        culture = boer
-        religion = animist
-        size = 148
-    }
-
-    artisans = {
-        culture = boer
-        religion = animist
-        size = 154
-    }
-
-    soldiers = {
-        culture = boer
-        religion = animist
-        size = 62
-    }
-
     farmers = {
-        culture = boer
+        culture = bantu
         religion = animist
-        size = 2792
+        size = 4188
     }
 }
 #Tshabong (12000/3000 POPS)
@@ -99,67 +71,37 @@
     aristocrats = {
         culture = boer
         religion = animist
-        size = 36
+        size = 56
     }
-
     bureaucrats = {
         culture = boer
         religion = animist
         size = 2746
     }
-
     clergymen = {
         culture = boer
         religion = animist
-        size = 148
+        size = 216
     }
-
     artisans = {
         culture = boer
         religion = animist
-        size = 154
+        size = 230
     }
-
     soldiers = {
         culture = boer
         religion = animist
-        size = 62
+        size = 87
     }
-
     farmers = {
         culture = boer
         religion = animist
-        size = 55792
+        size = 11437
     }
-
-    aristocrats = {
-        culture = boer
-        religion = animist
-        size = 20
-    }
-
-    clergymen = {
-        culture = boer
-        religion = animist
-        size = 68
-    }
-
-    artisans = {
-        culture = boer
-        religion = animist
-        size = 76
-    }
-
-    soldiers = {
-        culture = boer
-        religion = animist
-        size = 25
-    }
-
     farmers = {
-        culture = boer
+        culture = bantu
         religion = animist
-        size = 1394
+        size = 45748
     }
 }
 #Mochidi (16000/4000 POPS)
@@ -169,27 +111,28 @@
         religion = animist
         size = 76
     }
-
     clergymen = {
         culture = boer
         religion = animist
         size = 148
     }
-
     artisans = {
         culture = boer
         religion = animist
         size = 309
     }
-
     soldiers = {
         culture = boer
         religion = animist
         size = 133
     }
-
     farmers = {
         culture = boer
+        religion = animist
+        size = 14666
+    }
+    farmers = {
+        culture = bantu
         religion = animist
         size = 58662
     }
@@ -200,60 +143,31 @@
     aristocrats = {
         culture = boer
         religion = animist
-        size = 20
+        size = 40
     }
-
     clergymen = {
         culture = boer
         religion = animist
-        size = 37
+        size = 105
     }
-
     artisans = {
+        culture = boer
+        religion = animist
+        size = 152
+    }
+    soldiers = {
         culture = boer
         religion = animist
         size = 76
     }
-
-    soldiers = {
-        culture = boer
-        religion = animist
-        size = 51
-    }
-
     farmers = {
         culture = boer
         religion = animist
-        size = 1394
+        size = 557
     }
-
-    aristocrats = {
-        culture = boer
-        religion = animist
-        size = 20
-    }
-
-    clergymen = {
-        culture = boer
-        religion = animist
-        size = 68
-    }
-
-    artisans = {
-        culture = boer
-        religion = animist
-        size = 76
-    }
-
-    soldiers = {
-        culture = boer
-        religion = animist
-        size = 25
-    }
-
     farmers = {
-        culture = boer
+        culture = bantu
         religion = animist
-        size = 1394
+        size = 2228
     }
 }
