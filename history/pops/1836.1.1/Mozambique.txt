@@ -3,149 +3,67 @@
 #Maputo (244000/61000)
 2049 = {
     aristocrats = {
-        culture = bantu
+        culture = boer
         religion = animist
-        size = 400
+        size = 650
     }
-
     clergymen = {
-        culture = bantu
+        culture = boer
         religion = animist
-        size = 945
+        size = 1552
     }
-
     artisans = {
-        culture = bantu
+        culture = boer
         religion = animist
-        size = 1600
+        size = 3350
     }
-
     soldiers = {
-        culture = bantu
+        culture = boer
         religion = animist
-        size = 400
+        size = 650
     }
-
     farmers = {
         culture = bantu
         religion = animist
-        size = 28250
+        size = 37186
     }
-
-    slaves = {
-        culture = bantu
-        religion = animist
-        size = 5000
-    }
-
-    aristocrats = {
-        culture = bantu
-        religion = animist
-        size = 250
-    }
-
-    clergymen = {
-        culture = bantu
-        religion = animist
-        size = 607
-    }
-
-    artisans = {
-        culture = bantu
-        religion = animist
-        size = 1750
-    }
-
-    soldiers = {
-        culture = bantu
-        religion = animist
-        size = 250
-    }
-
     farmers = {
-        culture = bantu
+        culture = boer
         religion = animist
-        size = 9525
-    }
-
-    slaves = {
-        culture = bantu
-        religion = animist
-        size = 13000
+        size = 18589
     }
 }
 #Chaimate (280000/70000 POPS)
 2050 = {
     aristocrats = {
-        culture = bantu
+        culture = boer
         religion = animist
-        size = 400
+        size = 700
     }
-
     clergymen = {
-        culture = bantu
+        culture = boer
         religion = animist
-        size = 945
+        size = 1957
     }
-
     artisans = {
-        culture = bantu
+        culture = boer
         religion = animist
-        size = 1600
+        size = 3450
     }
-
     soldiers = {
-        culture = bantu
+        culture = boer
         religion = animist
-        size = 400
+        size = 800
     }
-
     farmers = {
         culture = bantu
         religion = animist
-        size = 23250
+        size = 54820
     }
-
-    slaves = {
-        culture = bantu
-        religion = animist
-        size = 5000
-    }
-
-    aristocrats = {
-        culture = bantu
-        religion = animist
-        size = 300
-    }
-
-    clergymen = {
-        culture = bantu
-        religion = animist
-        size = 1012
-    }
-
-    artisans = {
-        culture = bantu
-        religion = animist
-        size = 1850
-    }
-
-    soldiers = {
-        culture = bantu
-        religion = animist
-        size = 400
-    }
-
     farmers = {
-        culture = bantu
+        culture = boer
         religion = animist
-        size = 19075
-    }
-
-    slaves = {
-        culture = bantu
-        religion = animist
-        size = 16000
+        size = 8510
     }
 }
 #Inhambane (176000/44000 POPS)
