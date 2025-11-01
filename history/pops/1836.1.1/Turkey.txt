@@ -3836,729 +3836,481 @@
 #under the rule of Ottoman Empire in 1836
 #Van ( 288000 / 72000 POPS )
 890 = {
-	aristocrats = {
-		culture = turkish
-		religion = animist
-		size = 224
-	}
-	bureaucrats = {
-		culture = turkish
-		religion = animist
-		size = 806
-	}
-	officers = {
-		culture = turkish
-		religion = animist
-		size = 160
-	}
-	clergymen = {
-		culture = turkish
-		religion = animist
-		size = 128
-	}
-	artisans = {
-		culture = turkish
-		religion = animist
-		size = 710
-	}
-	farmers = {
-		culture = turkish
-		religion = animist
-		size = 12790
-	}
-	clergymen = {
-		culture = armenian
-		religion = animist
-		size = 104
-	}
-	artisans = {
-		culture = armenian
-		religion = animist
-		size = 565
-	}
-	soldiers = {
-		culture = armenian
-		religion = animist
-		size = 104
-	}
-	farmers = {
-		culture = armenian
-		religion = animist
-		size = 10531
-	}
-	clergymen = {
-		culture = turkish
-		religion = animist
-		size = 68
-	}
-	artisans = {
-		culture = turkish
-		religion = animist
-		size = 204
-	}
-	farmers = {
-		culture = turkish
-		religion = animist
-		size = 3808
-	}
-	aristocrats = {
-		culture = armenian
-		religion = animist
-		size = 327
-	}
-	bureaucrats = {
-		culture = armenian
-		religion = animist
-		size = 223
-	}
-	officers = {
-		culture = armenian
-		religion = animist
-		size = 44
-	}
-	clergymen = {
-		culture = armenian
-		religion = animist
-		size = 208
-	}
-	artisans = {
-		culture = armenian
-		religion = animist
-		size = 1071
-	}
-	soldiers = {
-		culture = armenian
-		religion = animist
-		size = 981
-	}
-	farmers = {
-		culture = armenian
-		religion = animist
-		size = 18742
-	}
-	clergymen = {
-		culture = turkish
-		religion = animist
-		size = 44
-	}
-	artisans = {
-		culture = turkish
-		religion = animist
-		size = 242
-	}
-	soldiers = {
-		culture = turkish
-		religion = animist
-		size = 44
-	}
-	farmers = {
-		culture = turkish
-		religion = animist
-		size = 4514
-	}
-	aristocrats = {
-		culture = turkish
-		religion = animist
-		size = 140
-	}
-	bureaucrats = {
-		culture = turkish
-		religion = animist
-		size = 95
-	}
-	officers = {
-		culture = turkish
-		religion = animist
-		size = 19
-	}
-	clergymen = {
-		culture = turkish
-		religion = animist
-		size = 89
-	}
-	artisans = {
-		culture = turkish
-		religion = animist
-		size = 459
-	}
-	soldiers = {
-		culture = turkish
-		religion = animist
-		size = 421
-	}
-	farmers = {
-		culture = turkish
-		religion = animist
-		size = 8033
-	}
+    aristocrats = {
+        culture = turkish
+        religion = animist
+        size = 175
+    }
+
+    bureaucrats = {
+        culture = turkish
+        religion = animist
+        size = 625
+    }
+
+    officers = {
+        culture = turkish
+        religion = animist
+        size = 125
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = animist
+        size = 100
+    }
+
+    artisans = {
+        culture = turkish
+        religion = animist
+        size = 550
+    }
+
+    farmers = {
+        culture = turkish
+        religion = animist
+        size = 9900
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = animist
+        size = 175
+    }
+
+    artisans = {
+        culture = armenian
+        religion = animist
+        size = 950
+    }
+
+    farmers = {
+        culture = armenian
+        religion = animist
+        size = 17700
+    }
+
+    clergymen = {
+        culture = mashriqi
+        religion = animist
+        size = 100
+    }
+
+    artisans = {
+        culture = mashriqi
+        religion = animist
+        size = 300
+    }
+
+    farmers = {
+        culture = mashriqi
+        religion = animist
+        size = 5600
+    }
+
+    aristocrats = {
+        culture = kurdish
+        religion = animist
+        size = 550
+    }
+
+    bureaucrats = {
+        culture = kurdish
+        religion = animist
+        size = 375
+    }
+
+    officers = {
+        culture = kurdish
+        religion = animist
+        size = 75
+    }
+
+    clergymen = {
+        culture = kurdish
+        religion = animist
+        size = 350
+    }
+
+    artisans = {
+        culture = kurdish
+        religion = animist
+        size = 1800
+    }
+
+    soldiers = {
+        culture = kurdish
+        religion = animist
+        size = 1825
+    }
+
+    farmers = {
+        culture = kurdish
+        religion = animist
+        size = 31500
+    }
 }
 
 #Bitlis ( 76000 / 19000 POPS )
 891 = {
-	aristocrats = {
-		culture = turkish
-		religion = animist
-		size = 128
-	}
-	clergymen = {
-		culture = turkish
-		religion = animist
-		size = 128
-	}
-	artisans = {
-		culture = turkish
-		religion = animist
-		size = 258
-	}
-	farmers = {
-		culture = turkish
-		religion = animist
-		size = 4651
-	}
-	clergymen = {
-		culture = armenian
-		religion = animist
-		size = 29
-	}
-	artisans = {
-		culture = armenian
-		religion = animist
-		size = 208
-	}
-	soldiers = {
-		culture = armenian
-		religion = animist
-		size = 59
-	}
-	farmers = {
-		culture = armenian
-		religion = animist
-		size = 3867
-	}
-	clergymen = {
-		culture = turkish
-		religion = animist
-		size = 16
-	}
-	artisans = {
-		culture = turkish
-		religion = animist
-		size = 68
-	}
-	farmers = {
-		culture = turkish
-		religion = animist
-		size = 1274
-	}
-	aristocrats = {
-		culture = armenian
-		religion = animist
-		size = 59
-	}
-	clergymen = {
-		culture = armenian
-		religion = animist
-		size = 59
-	}
-	artisans = {
-		culture = armenian
-		religion = animist
-		size = 178
-	}
-	soldiers = {
-		culture = armenian
-		religion = animist
-		size = 59
-	}
-	farmers = {
-		culture = armenian
-		religion = animist
-		size = 3213
-	}
-	clergymen = {
-		culture = turkish
-		religion = animist
-		size = 13
-	}
-	artisans = {
-		culture = turkish
-		religion = animist
-		size = 89
-	}
-	soldiers = {
-		culture = turkish
-		religion = animist
-		size = 26
-	}
-	farmers = {
-		culture = turkish
-		religion = animist
-		size = 1658
-	}
-	aristocrats = {
-		culture = turkish
-		religion = animist
-		size = 26
-	}
-	clergymen = {
-		culture = turkish
-		religion = animist
-		size = 26
-	}
-	artisans = {
-		culture = turkish
-		religion = animist
-		size = 77
-	}
-	soldiers = {
-		culture = turkish
-		religion = animist
-		size = 26
-	}
-	farmers = {
-		culture = turkish
-		religion = animist
-		size = 1377
-	}
+    aristocrats = {
+        culture = turkish
+        religion = animist
+        size = 100
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = animist
+        size = 100
+    }
+
+    artisans = {
+        culture = turkish
+        religion = animist
+        size = 200
+    }
+
+    farmers = {
+        culture = turkish
+        religion = animist
+        size = 3600
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = animist
+        size = 50
+    }
+
+    artisans = {
+        culture = armenian
+        religion = animist
+        size = 350
+    }
+
+    soldiers = {
+        culture = armenian
+        religion = animist
+        size = 200
+    }
+
+    farmers = {
+        culture = armenian
+        religion = animist
+        size = 6500
+    }
+
+    clergymen = {
+        culture = mashriqi
+        religion = animist
+        size = 25
+    }
+
+    artisans = {
+        culture = mashriqi
+        religion = animist
+        size = 100
+    }
+
+    farmers = {
+        culture = mashriqi
+        religion = animist
+        size = 1875
+    }
+
+    aristocrats = {
+        culture = kurdish
+        religion = animist
+        size = 100
+    }
+
+    clergymen = {
+        culture = kurdish
+        religion = animist
+        size = 100
+    }
+
+    artisans = {
+        culture = kurdish
+        religion = animist
+        size = 300
+    }
+
+    farmers = {
+        culture = kurdish
+        religion = animist
+        size = 5400
+    }
 }
 
 #Hakkari ( 92000 / 23000 POPS )
 892 = {
-	aristocrats = {
-		culture = turkish
-		religion = animist
-		size = 64
-	}
-	clergymen = {
-		culture = turkish
-		religion = animist
-		size = 95
-	}
-	artisans = {
-		culture = turkish
-		religion = animist
-		size = 193
-	}
-	soldiers = {
-		culture = turkish
-		religion = animist
-		size = 95
-	}
-	farmers = {
-		culture = turkish
-		religion = animist
-		size = 3423
-	}
-	clergymen = {
-		culture = armenian
-		religion = animist
-		size = 59
-	}
-	artisans = {
-		culture = armenian
-		religion = animist
-		size = 178
-	}
-	soldiers = {
-		culture = armenian
-		religion = animist
-		size = 59
-	}
-	farmers = {
-		culture = armenian
-		religion = animist
-		size = 3867
-	}
-	clergymen = {
-		culture = turkish
-		religion = animist
-		size = 16
-	}
-	artisans = {
-		culture = turkish
-		religion = animist
-		size = 68
-	}
-	farmers = {
-		culture = turkish
-		religion = animist
-		size = 1274
-	}
-	aristocrats = {
-		culture = armenian
-		religion = animist
-		size = 89
-	}
-	clergymen = {
-		culture = armenian
-		religion = animist
-		size = 59
-	}
-	artisans = {
-		culture = armenian
-		religion = animist
-		size = 327
-	}
-	soldiers = {
-		culture = armenian
-		religion = animist
-		size = 104
-	}
-	farmers = {
-		culture = armenian
-		religion = animist
-		size = 5965
-	}
-	clergymen = {
-		culture = turkish
-		religion = animist
-		size = 26
-	}
-	artisans = {
-		culture = turkish
-		religion = animist
-		size = 77
-	}
-	soldiers = {
-		culture = turkish
-		religion = animist
-		size = 26
-	}
-	farmers = {
-		culture = turkish
-		religion = animist
-		size = 1658
-	}
-	aristocrats = {
-		culture = turkish
-		religion = animist
-		size = 38
-	}
-	clergymen = {
-		culture = turkish
-		religion = animist
-		size = 26
-	}
-	artisans = {
-		culture = turkish
-		religion = animist
-		size = 140
-	}
-	soldiers = {
-		culture = turkish
-		religion = animist
-		size = 44
-	}
-	farmers = {
-		culture = turkish
-		religion = animist
-		size = 2556
-	}
+    aristocrats = {
+        culture = turkish
+        religion = animist
+        size = 50
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = animist
+        size = 75
+    }
+
+    artisans = {
+        culture = turkish
+        religion = animist
+        size = 150
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = animist
+        size = 350
+    }
+
+    farmers = {
+        culture = turkish
+        religion = animist
+        size = 2650
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = animist
+        size = 100
+    }
+
+    artisans = {
+        culture = armenian
+        religion = animist
+        size = 300
+    }
+
+    farmers = {
+        culture = armenian
+        religion = animist
+        size = 6500
+    }
+
+    clergymen = {
+        culture = mashriqi
+        religion = animist
+        size = 25
+    }
+
+    artisans = {
+        culture = mashriqi
+        religion = animist
+        size = 100
+    }
+
+    farmers = {
+        culture = mashriqi
+        religion = animist
+        size = 1875
+    }
+
+    aristocrats = {
+        culture = kurdish
+        religion = animist
+        size = 150
+    }
+
+    clergymen = {
+        culture = kurdish
+        religion = animist
+        size = 100
+    }
+
+    artisans = {
+        culture = kurdish
+        religion = animist
+        size = 550
+    }
+
+    farmers = {
+        culture = kurdish
+        religion = animist
+        size = 10025
+    }
 }
 
 #Diyarbakir ( 264000 / 66000 POPS )
 893 = {
-	aristocrats = {
-		culture = turkish
-		religion = animist
-		size = 31
-	}
-	clergymen = {
-		culture = turkish
-		religion = animist
-		size = 258
-	}
-	artisans = {
-		culture = turkish
-		religion = animist
-		size = 258
-	}
-	farmers = {
-		culture = turkish
-		religion = animist
-		size = 2906
-	}
-	clergymen = {
-		culture = armenian
-		religion = animist
-		size = 119
-	}
-	artisans = {
-		culture = armenian
-		religion = animist
-		size = 624
-	}
-	soldiers = {
-		culture = armenian
-		religion = animist
-		size = 59
-	}
-	farmers = {
-		culture = armenian
-		religion = animist
-		size = 12286
-	}
-	clergymen = {
-		culture = turkish
-		religion = animist
-		size = 50
-	}
-	artisans = {
-		culture = turkish
-		religion = animist
-		size = 272
-	}
-	farmers = {
-		culture = turkish
-		religion = animist
-		size = 5116
-	}
-	aristocrats = {
-		culture = armenian
-		religion = animist
-		size = 386
-	}
-	clergymen = {
-		culture = armenian
-		religion = animist
-		size = 208
-	}
-	artisans = {
-		culture = armenian
-		religion = animist
-		size = 1041
-	}
-	soldiers = {
-		culture = armenian
-		religion = animist
-		size = 981
-	}
-	farmers = {
-		culture = armenian
-		religion = animist
-		size = 18207
-	}
-	clergymen = {
-		culture = turkish
-		religion = animist
-		size = 51
-	}
-	artisans = {
-		culture = turkish
-		religion = animist
-		size = 268
-	}
-	soldiers = {
-		culture = turkish
-		religion = animist
-		size = 26
-	}
-	farmers = {
-		culture = turkish
-		religion = animist
-		size = 5266
-	}
-	aristocrats = {
-		culture = turkish
-		religion = animist
-		size = 166
-	}
-	clergymen = {
-		culture = turkish
-		religion = animist
-		size = 89
-	}
-	artisans = {
-		culture = turkish
-		religion = animist
-		size = 446
-	}
-	soldiers = {
-		culture = turkish
-		religion = animist
-		size = 421
-	}
-	farmers = {
-		culture = turkish
-		religion = animist
-		size = 7803
-	}
+    aristocrats = {
+        culture = turkish
+        religion = animist
+        size = 25
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = animist
+        size = 200
+    }
+
+    artisans = {
+        culture = turkish
+        religion = animist
+        size = 200
+    }
+
+    farmers = {
+        culture = turkish
+        religion = animist
+        size = 2250
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = animist
+        size = 200
+    }
+
+    artisans = {
+        culture = armenian
+        religion = animist
+        size = 1050
+    }
+
+    farmers = {
+        culture = armenian
+        religion = animist
+        size = 20650
+    }
+
+    clergymen = {
+        culture = mashriqi
+        religion = animist
+        size = 75
+    }
+
+    artisans = {
+        culture = mashriqi
+        religion = animist
+        size = 400
+    }
+
+    farmers = {
+        culture = mashriqi
+        religion = animist
+        size = 7525
+    }
+
+    aristocrats = {
+        culture = kurdish
+        religion = animist
+        size = 650
+    }
+
+    clergymen = {
+        culture = kurdish
+        religion = animist
+        size = 350
+    }
+
+    artisans = {
+        culture = kurdish
+        religion = animist
+        size = 1750
+    }
+
+    soldiers = {
+        culture = kurdish
+        religion = animist
+        size = 1750
+    }
+
+    farmers = {
+        culture = kurdish
+        religion = animist
+        size = 30600
+    }
 }
 
 #Cilicia Region ( 540000 )
 #under the rule of Ottoman Empire in 1836
 #Adana ( 252000 / 63000 POPS )
 894 = {
-	aristocrats = {
-		culture = turkish
-		religion = animist
-		size = 713
-	}
-	aristocrats = {
-		culture = greek
-		religion = animist
-		size = 125
-	}
-	bureaucrats = {
-		culture = turkish
-		religion = animist
-		size = 822
-	}
-	bureaucrats = {
-		culture = greek
-		religion = animist
-		size = 145
-	}
-	officers = {
-		culture = turkish
-		religion = animist
-		size = 164
-	}
-	officers = {
-		culture = greek
-		religion = animist
-		size = 28
-	}
-	clergymen = {
-		culture = turkish
-		religion = animist
-		size = 548
-	}
-	clergymen = {
-		culture = greek
-		religion = animist
-		size = 96
-	}
-	artisans = {
-		culture = turkish
-		religion = animist
-		size = 2799
-	}
-	artisans = {
-		culture = greek
-		religion = animist
-		size = 494
-	}
-	soldiers = {
-		culture = turkish
-		religion = animist
-		size = 2002
-	}
-	soldiers = {
-		culture = greek
-		religion = animist
-		size = 353
-	}
-	farmers = {
-		culture = turkish
-		religion = animist
-		size = 49499
-	}
-	farmers = {
-		culture = greek
-		religion = animist
-		size = 8735
-	}
-	clergymen = {
-		culture = turkish
-		religion = animist
-		size = 54
-	}
-	clergymen = {
-		culture = greek
-		religion = animist
-		size = 9
-	}
-	artisans = {
-		culture = turkish
-		religion = animist
-		size = 164
-	}
-	artisans = {
-		culture = greek
-		religion = animist
-		size = 28
-	}
-	soldiers = {
-		culture = turkish
-		religion = animist
-		size = 108
-	}
-	soldiers = {
-		culture = greek
-		religion = animist
-		size = 19
-	}
-	farmers = {
-		culture = turkish
-		religion = animist
-		size = 3074
-	}
-	farmers = {
-		culture = greek
-		religion = animist
-		size = 542
-	}
-	clergymen = {
-		culture = armenian
-		religion = animist
-		size = 44
-	}
-	artisans = {
-		culture = armenian
-		religion = animist
-		size = 267
-	}
-	soldiers = {
-		culture = armenian
-		religion = animist
-		size = 59
-	}
-	farmers = {
-		culture = armenian
-		religion = animist
-		size = 4983
-	}
-	clergymen = {
-		culture = turkish
-		religion = animist
-		size = 16
-	}
-	clergymen = {
-		culture = greek
-		religion = animist
-		size = 2
-	}
-	artisans = {
-		culture = turkish
-		religion = animist
-		size = 97
-	}
-	artisans = {
-		culture = greek
-		religion = animist
-		size = 17
-	}
-	soldiers = {
-		culture = turkish
-		religion = animist
-		size = 22
-	}
-	soldiers = {
-		culture = greek
-		religion = animist
-		size = 3
-	}
-	farmers = {
-		culture = turkish
-		religion = animist
-		size = 1814
-	}
-	farmers = {
-		culture = greek
-		religion = animist
-		size = 320
-	}
+    aristocrats = {
+        culture = turkish
+        religion = animist
+        size = 650
+    }
+
+    bureaucrats = {
+        culture = turkish
+        religion = animist
+        size = 750
+    }
+
+    officers = {
+        culture = turkish
+        religion = animist
+        size = 150
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = animist
+        size = 500
+    }
+
+    artisans = {
+        culture = turkish
+        religion = animist
+        size = 2550
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = animist
+        size = 2025
+    }
+
+    farmers = {
+        culture = turkish
+        religion = animist
+        size = 45075
+    }
+
+    clergymen = {
+        culture = greek
+        religion = animist
+        size = 50
+    }
+
+    artisans = {
+        culture = greek
+        religion = animist
+        size = 150
+    }
+
+    farmers = {
+        culture = greek
+        religion = animist
+        size = 2800
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = animist
+        size = 75
+    }
+
+    artisans = {
+        culture = armenian
+        religion = animist
+        size = 450
+    }
+
+    farmers = {
+        culture = armenian
+        religion = animist
+        size = 8375
+    }
 }
 
 #Mersin ( 96000 / 24000 POPS )
@@ -4718,255 +4470,182 @@
 #under the rule of Egypt in 1836
 #Antep ( 248000 / 62000 POPS )
 898 = {
-	aristocrats = {
-		culture = turkish
-		religion = animist
-		size = 580
-	}
-	clergymen = {
-		culture = turkish
-		religion = animist
-		size = 452
-	}
-	artisans = {
-		culture = turkish
-		religion = animist
-		size = 2260
-	}
-	soldiers = {
-		culture = turkish
-		religion = animist
-		size = 548
-	}
-	farmers = {
-		culture = turkish
-		religion = animist
-		size = 41375
-	}
-	aristocrats = {
-		culture = armenian
-		religion = animist
-		size = 148
-	}
-	clergymen = {
-		culture = armenian
-		religion = animist
-		size = 104
-	}
-	artisans = {
-		culture = armenian
-		religion = animist
-		size = 505
-	}
-	soldiers = {
-		culture = armenian
-		religion = animist
-		size = 119
-	}
-	farmers = {
-		culture = armenian
-		religion = animist
-		size = 9237
-	}
-	clergymen = {
-		culture = armenian
-		religion = animist
-		size = 44
-	}
-	artisans = {
-		culture = armenian
-		religion = animist
-		size = 297
-	}
-	farmers = {
-		culture = armenian
-		religion = animist
-		size = 5608
-	}
-	aristocrats = {
-		culture = turkish
-		religion = animist
-		size = 64
-	}
-	clergymen = {
-		culture = turkish
-		religion = animist
-		size = 44
-	}
-	artisans = {
-		culture = turkish
-		religion = animist
-		size = 217
-	}
-	soldiers = {
-		culture = turkish
-		religion = animist
-		size = 51
-	}
-	farmers = {
-		culture = turkish
-		religion = animist
-		size = 3959
-	}
-	clergymen = {
-		culture = turkish
-		religion = animist
-		size = 19
-	}
-	artisans = {
-		culture = turkish
-		religion = animist
-		size = 128
-	}
-	farmers = {
-		culture = turkish
-		religion = animist
-		size = 2403
-	}
+    aristocrats = {
+        culture = turkish
+        religion = animist
+        size = 450
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = animist
+        size = 350
+    }
+
+    artisans = {
+        culture = turkish
+        religion = animist
+        size = 1750
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = animist
+        size = 625
+    }
+
+    farmers = {
+        culture = turkish
+        religion = animist
+        size = 32025
+    }
+
+    aristocrats = {
+        culture = kurdish
+        religion = animist
+        size = 250
+    }
+
+    clergymen = {
+        culture = kurdish
+        religion = animist
+        size = 175
+    }
+
+    artisans = {
+        culture = kurdish
+        religion = animist
+        size = 850
+    }
+
+    farmers = {
+        culture = kurdish
+        religion = animist
+        size = 15525
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = animist
+        size = 75
+    }
+
+    artisans = {
+        culture = armenian
+        religion = animist
+        size = 500
+    }
+
+    farmers = {
+        culture = armenian
+        religion = animist
+        size = 9425
+    }
 }
 
 #Urfa ( 348000 / 87000 POPS )
 899 = {
-	aristocrats = {
-		culture = turkish
-		religion = animist
-		size = 322
-	}
-	clergymen = {
-		culture = turkish
-		religion = animist
-		size = 224
-	}
-	artisans = {
-		culture = turkish
-		religion = animist
-		size = 1162
-	}
-	soldiers = {
-		culture = turkish
-		religion = animist
-		size = 95
-	}
-	farmers = {
-		culture = turkish
-		religion = animist
-		size = 21447
-	}
-	aristocrats = {
-		culture = armenian
-		religion = animist
-		size = 208
-	}
-	clergymen = {
-		culture = armenian
-		religion = animist
-		size = 163
-	}
-	artisans = {
-		culture = armenian
-		religion = animist
-		size = 833
-	}
-	soldiers = {
-		culture = armenian
-		religion = animist
-		size = 193
-	}
-	farmers = {
-		culture = armenian
-		religion = animist
-		size = 15261
-	}
-	aristocrats = {
-		culture = turkish
-		religion = animist
-		size = 272
-	}
-	clergymen = {
-		culture = turkish
-		religion = animist
-		size = 186
-	}
-	artisans = {
-		culture = turkish
-		religion = animist
-		size = 1156
-	}
-	soldiers = {
-		culture = turkish
-		religion = animist
-		size = 1070
-	}
-	farmers = {
-		culture = turkish
-		religion = animist
-		size = 21725
-	}
-	clergymen = {
-		culture = armenian
-		religion = animist
-		size = 29
-	}
-	artisans = {
-		culture = armenian
-		religion = animist
-		size = 208
-	}
-	farmers = {
-		culture = armenian
-		religion = animist
-		size = 59
-	}
-	farmers = {
-		culture = armenian
-		religion = animist
-		size = 3867
-	}
-	aristocrats = {
-		culture = turkish
-		religion = animist
-		size = 89
-	}
-	clergymen = {
-		culture = turkish
-		religion = animist
-		size = 70
-	}
-	artisans = {
-		culture = turkish
-		religion = animist
-		size = 357
-	}
-	soldiers = {
-		culture = turkish
-		religion = animist
-		size = 83
-	}
-	farmers = {
-		culture = turkish
-		religion = animist
-		size = 6541
-	}
-	clergymen = {
-		culture = turkish
-		religion = animist
-		size = 13
-	}
-	artisans = {
-		culture = turkish
-		religion = animist
-		size = 89
-	}
-	farmers = {
-		culture = turkish
-		religion = animist
-		size = 26
-	}
-	farmers = {
-		culture = turkish
-		religion = animist
-		size = 1658
-	}
+    aristocrats = {
+        culture = turkish
+        religion = animist
+        size = 250
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = animist
+        size = 175
+    }
+
+    artisans = {
+        culture = turkish
+        religion = animist
+        size = 900
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = animist
+        size = 1975
+    }
+
+    farmers = {
+        culture = turkish
+        religion = animist
+        size = 16600
+    }
+
+    aristocrats = {
+        culture = kurdish
+        religion = animist
+        size = 350
+    }
+
+    clergymen = {
+        culture = kurdish
+        religion = animist
+        size = 275
+    }
+
+    artisans = {
+        culture = kurdish
+        religion = animist
+        size = 1400
+    }
+
+    farmers = {
+        culture = kurdish
+        religion = animist
+        size = 25650
+    }
+
+    aristocrats = {
+        culture = mashriqi
+        religion = animist
+        size = 400
+    }
+
+    clergymen = {
+        culture = mashriqi
+        religion = animist
+        size = 275
+    }
+
+    artisans = {
+        culture = mashriqi
+        religion = animist
+        size = 1700
+    }
+
+    farmers = {
+        culture = mashriqi
+        religion = animist
+        size = 31950
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = animist
+        size = 50
+    }
+
+    artisans = {
+        culture = armenian
+        religion = animist
+        size = 350
+    }
+
+    farmers = {
+        culture = armenian
+        religion = animist
+        size = 100
+    }
+
+    farmers = {
+        culture = armenian
+        religion = animist
+        size = 6500
+    }
 }
 
 #Antioch ( 160000 / 40000 POPS )

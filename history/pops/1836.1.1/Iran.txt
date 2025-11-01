@@ -91,8 +91,8 @@
         religion = animist
         size = 15425
     }
-
-    aristocrats = {
+	
+	aristocrats = {
         culture = azerbaijani
         religion = animist
         size = 2500
@@ -185,25 +185,13 @@
     clergymen = {
         culture = armenian
         religion = animist
-        size = 81
+        size = 25
     }
 
     artisans = {
         culture = armenian
         religion = animist
-        size = 4867
-    }
-
-    clergymen = {
-        culture = azerbaijani
-        religion = animist
-        size = 82
-    }
-
-    artisans = {
-        culture = azerbaijani
-        religion = animist
-        size = 4868
+        size = 1475
     }
 }
 #Khvoy (168000/42000 POPS)
@@ -269,123 +257,63 @@
     }
 
     aristocrats = {
-        culture = armenian
+        culture = kurdish
+        religion = animist
+        size = 150
+    }
+
+    clergymen = {
+        culture = kurdish
         religion = animist
         size = 75
     }
 
-    clergymen = {
-        culture = armenian
-        religion = animist
-        size = 37
-    }
-
     artisans = {
-        culture = armenian
+        culture = kurdish
         religion = animist
-        size = 200
+        size = 400
     }
 
     soldiers = {
-        culture = armenian
-        religion = animist
-        size = 50
-    }
-
-    farmers = {
-        culture = armenian
-        religion = animist
-        size = 3625
-    }
-
-    aristocrats = {
-        culture = armenian
+        culture = kurdish
         religion = animist
         size = 100
     }
 
-    clergymen = {
-        culture = armenian
-        religion = animist
-        size = 50
-    }
-
-    artisans = {
-        culture = armenian
-        religion = animist
-        size = 325
-    }
-
-    soldiers = {
-        culture = armenian
-        religion = animist
-        size = 62
-    }
-
     farmers = {
-        culture = armenian
+        culture = kurdish
         religion = animist
-        size = 5962
+        size = 7250
     }
 
     aristocrats = {
-        culture = azerbaijani
-        religion = animist
-        size = 75
-    }
-
-    clergymen = {
-        culture = azerbaijani
-        religion = animist
-        size = 38
-    }
-
-    artisans = {
-        culture = azerbaijani
+        culture = kurdish
         religion = animist
         size = 200
     }
 
-    soldiers = {
-        culture = azerbaijani
-        religion = animist
-        size = 50
-    }
-
-    farmers = {
-        culture = azerbaijani
-        religion = animist
-        size = 3625
-    }
-
-    aristocrats = {
-        culture = azerbaijani
+    clergymen = {
+        culture = kurdish
         religion = animist
         size = 100
     }
 
-    clergymen = {
-        culture = azerbaijani
-        religion = animist
-        size = 50
-    }
-
     artisans = {
-        culture = azerbaijani
+        culture = kurdish
         religion = animist
-        size = 325
+        size = 650
     }
 
     soldiers = {
-        culture = azerbaijani
+        culture = kurdish
         religion = animist
-        size = 63
+        size = 125
     }
 
     farmers = {
-        culture = azerbaijani
+        culture = kurdish
         religion = animist
-        size = 5963
+        size = 11925
     }
 }
 #Urumia (192000/48000 POPS)
@@ -451,123 +379,63 @@
     }
 
     aristocrats = {
-        culture = armenian
+        culture = kurdish
         religion = animist
-        size = 112
+        size = 225
     }
 
     clergymen = {
-        culture = armenian
+        culture = kurdish
         religion = animist
-        size = 50
+        size = 100
     }
 
     artisans = {
-        culture = armenian
+        culture = kurdish
         religion = animist
-        size = 300
+        size = 600
     }
 
     soldiers = {
-        culture = armenian
+        culture = kurdish
         religion = animist
-        size = 62
+        size = 125
     }
 
     farmers = {
-        culture = armenian
+        culture = kurdish
         religion = animist
-        size = 5475
+        size = 10950
     }
 
     aristocrats = {
-        culture = armenian
+        culture = kurdish
         religion = animist
-        size = 50
+        size = 100
     }
 
     clergymen = {
-        culture = armenian
-        religion = animist
-        size = 25
-    }
-
-    artisans = {
-        culture = armenian
-        religion = animist
-        size = 175
-    }
-
-    soldiers = {
-        culture = armenian
-        religion = animist
-        size = 37
-    }
-
-    farmers = {
-        culture = armenian
-        religion = animist
-        size = 3212
-    }
-
-    aristocrats = {
-        culture = azerbaijani
-        religion = animist
-        size = 113
-    }
-
-    clergymen = {
-        culture = azerbaijani
+        culture = kurdish
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = azerbaijani
+        culture = kurdish
         religion = animist
-        size = 300
+        size = 350
     }
 
     soldiers = {
-        culture = azerbaijani
+        culture = kurdish
         religion = animist
-        size = 63
+        size = 75
     }
 
     farmers = {
-        culture = azerbaijani
+        culture = kurdish
         religion = animist
-        size = 5475
-    }
-
-    aristocrats = {
-        culture = azerbaijani
-        religion = animist
-        size = 50
-    }
-
-    clergymen = {
-        culture = azerbaijani
-        religion = animist
-        size = 25
-    }
-
-    artisans = {
-        culture = azerbaijani
-        religion = animist
-        size = 175
-    }
-
-    soldiers = {
-        culture = azerbaijani
-        religion = animist
-        size = 38
-    }
-
-    farmers = {
-        culture = azerbaijani
-        religion = animist
-        size = 3213
+        size = 6425
     }
 }
 #Mahabad (200000/50000 POPS)
@@ -639,6 +507,7 @@
         religion = animist
         size = 1
     }
+	
 }
 #Gilan-Maznadaran Region (448000)
 #under the rule of Persia in 1836
@@ -649,6 +518,7 @@
         religion = animist
         size = 1
     }
+	
 }
 #Noshehr (88000/22000 POPS)
 1114 = {
@@ -693,8 +563,8 @@
         religion = animist
         size = 37500
     }
-
-    aristocrats = {
+	
+	aristocrats = {
         culture = aryan
         religion = animist
         size = 400
@@ -723,8 +593,8 @@
         religion = animist
         size = 21050
     }
-
-    aristocrats = {
+	
+	aristocrats = {
         culture = aryan
         religion = animist
         size = 250
@@ -761,6 +631,7 @@
         religion = animist
         size = 1
     }
+	
 }
 #Gorgan (debug)
 1116 = {
@@ -769,6 +640,7 @@
         religion = animist
         size = 1
     }
+	
 }
 #Luristan-Ardelan Region (476000)
 #under the rule of Persia in 1836
@@ -803,8 +675,8 @@
         religion = animist
         size = 36270
     }
-
-    aristocrats = {
+	
+	aristocrats = {
         culture = mashriqi
         religion = animist
         size = 25
@@ -863,8 +735,8 @@
         religion = animist
         size = 14235
     }
-
-    aristocrats = {
+	
+	aristocrats = {
         culture = aryan
         religion = animist
         size = 1820
@@ -919,61 +791,61 @@
     }
 
     aristocrats = {
-        culture = mashriqi
+        culture = kurdish
         religion = animist
         size = 225
     }
 
     clergymen = {
-        culture = mashriqi
+        culture = kurdish
         religion = animist
         size = 125
     }
 
     artisans = {
-        culture = mashriqi
+        culture = kurdish
         religion = animist
         size = 650
     }
 
     soldiers = {
-        culture = mashriqi
+        culture = kurdish
         religion = animist
         size = 125
     }
 
     farmers = {
-        culture = mashriqi
+        culture = kurdish
         religion = animist
         size = 11875
     }
 
     aristocrats = {
-        culture = mashriqi
+        culture = kurdish
         religion = animist
         size = 150
     }
 
     clergymen = {
-        culture = mashriqi
+        culture = kurdish
         religion = animist
         size = 150
     }
 
     artisans = {
-        culture = mashriqi
+        culture = kurdish
         religion = animist
         size = 225
     }
 
     soldiers = {
-        culture = mashriqi
+        culture = kurdish
         religion = animist
         size = 75
     }
 
     farmers = {
-        culture = mashriqi
+        culture = kurdish
         religion = animist
         size = 8400
     }
@@ -989,31 +861,31 @@
 #Ilam (84000/21000 POPS)
 1119 = {
     aristocrats = {
-        culture = mashriqi
+        culture = kurdish
         religion = animist
         size = 325
     }
 
     clergymen = {
-        culture = mashriqi
+        culture = kurdish
         religion = animist
         size = 150
     }
 
     artisans = {
-        culture = mashriqi
+        culture = kurdish
         religion = animist
         size = 850
     }
 
     soldiers = {
-        culture = mashriqi
+        culture = kurdish
         religion = animist
         size = 175
     }
 
     farmers = {
-        culture = mashriqi
+        culture = kurdish
         religion = animist
         size = 15500
     }
@@ -1137,8 +1009,8 @@
         religion = animist
         size = 1475
     }
-
-    aristocrats = {
+	
+	aristocrats = {
         culture = aryan
         religion = animist
         size = 700
@@ -1167,8 +1039,8 @@
         religion = animist
         size = 27925
     }
-
-    aristocrats = {
+	
+	aristocrats = {
         culture = aryan
         religion = animist
         size = 1100
@@ -1201,36 +1073,36 @@
 #Hamadan (118000/29500 POPS)
 1122 = {
     aristocrats = {
-        culture = mashriqi
+        culture = kurdish
         religion = animist
         size = 425
     }
 
     clergymen = {
-        culture = mashriqi
+        culture = kurdish
         religion = animist
         size = 225
     }
 
     artisans = {
-        culture = mashriqi
+        culture = kurdish
         religion = animist
         size = 1150
     }
 
     soldiers = {
-        culture = mashriqi
+        culture = kurdish
         religion = animist
         size = 250
     }
 
     farmers = {
-        culture = mashriqi
+        culture = kurdish
         religion = animist
         size = 20950
     }
-
-    aristocrats = {
+	
+	aristocrats = {
         culture = aryan
         religion = animist
         size = 1625
@@ -1323,6 +1195,7 @@
         religion = animist
         size = 1
     }
+	
 }
 #Qom (debug)
 1125 = {
@@ -1331,14 +1204,16 @@
         religion = animist
         size = 1
     }
+	
 }
 #Semnan (debugged)
 1126 = {
-    aristocrats = {
+	aristocrats = {
         culture = polar_bears
         religion = animist
         size = 1
     }
+
 }
 #Isfahan Region (700000)
 #under the rule of Persia in 1836
@@ -1415,8 +1290,8 @@
         religion = animist
         size = 2925
     }
-
-    aristocrats = {
+	
+	aristocrats = {
         culture = aryan
         religion = animist
         size = 250
@@ -1448,15 +1323,14 @@
 }
 #Arak (debugged)
 1128 = {
-    aristocrats = {
+	aristocrats = {
+		culture = polar_bears
+		religion = animist
+		size = 1
+	}
+	farmers = {
         culture = polar_bears
-        religion = animist
-        size = 1
-    }
-
-    farmers = {
-        culture = polar_bears
-        religion = animist
+		religion = animist
         size = 1
     }
 }
@@ -1491,8 +1365,8 @@
         religion = animist
         size = 24775
     }
-
-    aristocrats = {
+	
+	aristocrats = {
         culture = aryan
         religion = animist
         size = 700
@@ -1545,8 +1419,8 @@
         religion = animist
         size = 490
     }
-
-    aristocrats = {
+	
+	aristocrats = {
         culture = aryan
         religion = animist
         size = 250
@@ -1593,6 +1467,7 @@
         religion = animist
         size = 1
     }
+	
 }
 #Abadan (44000/11000 POPS)
 1132 = {
@@ -1679,8 +1554,8 @@
         religion = animist
         size = 245
     }
-
-    aristocrats = {
+	
+	aristocrats = {
         culture = aryan
         religion = animist
         size = 1170
@@ -1709,8 +1584,8 @@
         religion = animist
         size = 59280
     }
-
-    aristocrats = {
+	
+	aristocrats = {
         culture = mashriqi
         religion = animist
         size = 200
@@ -1755,6 +1630,7 @@
         religion = animist
         size = 1
     }
+	
 }
 #Fars Region (468000)
 #under the rule of Persia in 1836
@@ -1789,8 +1665,7 @@
         religion = animist
         size = 21850
     }
-
-    aristocrats = {
+	aristocrats = {
         culture = aryan
         religion = animist
         size = 600
@@ -1849,8 +1724,7 @@
         religion = animist
         size = 2750
     }
-
-    aristocrats = {
+	aristocrats = {
         culture = aryan
         religion = animist
         size = 650
@@ -1909,8 +1783,8 @@
         religion = animist
         size = 6400
     }
-
-    aristocrats = {
+	
+	aristocrats = {
         culture = aryan
         religion = animist
         size = 1550
@@ -1971,6 +1845,7 @@
         religion = animist
         size = 1
     }
+	
 }
 #Yasuj (144000/36000 POPS)
 1137 = {
@@ -2003,8 +1878,8 @@
         religion = animist
         size = 64300
     }
-
-    aristocrats = {
+	
+	aristocrats = {
         culture = aryan
         religion = animist
         size = 300
@@ -2033,8 +1908,8 @@
         religion = animist
         size = 14550
     }
-
-    aristocrats = {
+	
+	aristocrats = {
         culture = aryan
         religion = animist
         size = 100
@@ -2071,6 +1946,7 @@
         religion = animist
         size = 1
     }
+	
 }
 #Sirjan (16000/4000 POPS)
 1139 = {
@@ -2079,6 +1955,7 @@
         religion = animist
         size = 1
     }
+	
 }
 #Kerman Region (332000)
 #under the rule of Persia in 1836
@@ -2133,14 +2010,16 @@
         religion = animist
         size = 1
     }
+	
 }
 #Bandar Abbas (debug)
 1142 = {
-    aristocrats = {
+	aristocrats = {
         culture = polar_bears
         religion = animist
         size = 1
     }
+	
 }
 #Bam (debug)
 1143 = {
@@ -2149,6 +2028,7 @@
         religion = animist
         size = 1
     }
+	
 }
 #Sistan Region (260000)
 #under the rule of Persia in 1836
@@ -2349,8 +2229,8 @@
         religion = animist
         size = 16400
     }
-
-    aristocrats = {
+	
+	aristocrats = {
         culture = aryan
         religion = animist
         size = 550
@@ -2453,7 +2333,7 @@
     soldiers = {
         culture = aryan
         religion = animist
-        size = 2960
+        size = 2860
     }
 
     farmers = {
@@ -2478,6 +2358,12 @@
         culture = turkic
         religion = animist
         size = 550
+    }
+
+    soldiers = {
+        culture = turkic
+        religion = animist
+        size = 100
     }
 
     farmers = {
@@ -2585,7 +2471,7 @@
     soldiers = {
         culture = aryan
         religion = animist
-        size = 3165
+        size = 2860
     }
 
     farmers = {
@@ -2595,31 +2481,37 @@
     }
 
     aristocrats = {
-        culture = aryan
+        culture = turkic
         religion = animist
         size = 175
     }
 
     clergymen = {
-        culture = aryan
+        culture = turkic
         religion = animist
         size = 75
     }
 
     artisans = {
-        culture = aryan
+        culture = turkic
         religion = animist
         size = 450
     }
 
+    soldiers = {
+        culture = turkic
+        religion = animist
+        size = 100
+    }
+
     farmers = {
-        culture = aryan
+        culture = turkic
         religion = animist
         size = 8200
     }
-
-    aristocrats = {
-        culture = turkic
+	
+	aristocrats = {
+        culture = aryan
         religion = animist
         size = 260
     }
@@ -2636,6 +2528,12 @@
         size = 650
     }
 
+    soldiers = {
+        culture = aryan
+        religion = animist
+        size = 130
+    }
+
     farmers = {
         culture = aryan
         religion = animist
@@ -2649,19 +2547,25 @@
     }
 
     clergymen = {
-        culture = aryan
+        culture = turkic
         religion = animist
         size = 75
     }
 
     artisans = {
-        culture = aryan
+        culture = turkic
         religion = animist
         size = 425
     }
 
+    soldiers = {
+        culture = turkic
+        religion = animist
+        size = 75
+    }
+
     farmers = {
-        culture = aryan
+        culture = turkic
         religion = animist
         size = 8225
     }
