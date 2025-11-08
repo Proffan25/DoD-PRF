@@ -1,0 +1,58 @@
+political_decisions = {
+    form_nusantara = {
+        picture = nusantara
+        potential = {
+			tag = JAV
+		}
+
+        allow = {
+            war = no
+			NET_1413 = { owned_by = THIS }
+			NET_1417 = { owned_by = THIS }
+			NET_1414 = { owned_by = THIS }
+			NET_1399 = { owned_by = THIS }
+			ATJ_1405 = { owned_by = THIS }
+			ENG_1384 = { owned_by = THIS }
+			NET_1423 = { owned_by = THIS }
+			NET_1430 = { owned_by = THIS }
+			BAL_1438 = { owned_by = THIS }
+		}
+		effect = {
+            add_accepted_culture = malay
+			add_accepted_culture = moluccan
+			add_accepted_culture = filipino
+			add_accepted_culture = melanesian
+			add_accepted_culture = malagasy
+			change_tag = NUS
+			JAV = { all_core = { add_core = NUS remove_core = JAV } }
+			JOH = { all_core = { add_core = NUS } }
+			ATJ = { all_core = { add_core = NUS } }
+			DJA = { all_core = { add_core = NUS } }
+			BAL = { all_core = { add_core = NUS } }
+			SLW = { all_core = { add_core = NUS } }
+			NET_1454 = { add_core = NUS }
+			AST_2528 = { add_core = NUS }
+		}
+	}
+		
+	nus_taiwan_administration  = {
+		picture = taiwan_china
+		potential = {
+			tag = NUS
+			NOT = { has_country_flag = nus_core_formosa }
+		}
+		allow = {
+			CHI_2562  = { owned_by = THIS }
+        }
+        effect = {
+			CHI_2562 = { add_core = NUS }
+            2562 = {
+                change_province_name = "Soulang"
+            }
+            1485 = {
+                change_province_name = "Pinaseki"
+                state_scope = { change_region_name = "Tayoan" }
+            }
+            set_country_flag = nus_core_formosa
+		}	
+	}
