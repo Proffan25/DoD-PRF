@@ -3,6 +3,9 @@ political_decisions = {
         picture = aryanam_form
 		potential = {
 			tag = PER
+            NOT = {
+                ARY = { exists = yes }
+            }
 		}
 		allow = {
 			state_n_government = 1
@@ -26,7 +29,10 @@ political_decisions = {
         picture = aryanam_form
 		potential = {
 			tag = AFG
-            NOT = { has_country_flag = PNJ_capital }
+            NOT = {
+				has_country_flag = PNJ_capital
+                ARY = { exists = yes }
+			}
 		}
 		allow = {
 			state_n_government = 1
@@ -51,6 +57,9 @@ political_decisions = {
         picture = aryanam_form
 		potential = {
 			tag = AFS
+            NOT = {
+                ARY = { exists = yes }
+            }
 		}
 		allow = {
 			state_n_government = 1
@@ -75,6 +84,9 @@ political_decisions = {
         picture = aryanam_form
 		potential = {
 			tag = IRQ
+            NOT = {
+                ARY = { exists = yes }
+            }
 		}
 		allow = {
 			state_n_government = 1
@@ -102,6 +114,9 @@ political_decisions = {
         picture = aryanam_form
 		potential = {
 			tag = AZB
+            NOT = {
+                ARY = { exists = yes }
+            }
 		}
 		allow = {
 			state_n_government = 1

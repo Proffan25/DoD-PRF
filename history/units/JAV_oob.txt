@@ -1,0 +1,133 @@
+leader = {
+	name = "Ahmad Muttakin"
+	date = 1836.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+}
+leader = {
+	name = "Muhieddin Sepuh"
+	date = 1836.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+}
+leader = {
+	name = "Cirebon Khairuddin"
+	date = 1836.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+}
+leader = {
+	name = "Zainul Djalaluddin"
+	date = 1836.1.1
+	type = sea
+	personality = defence_1.1
+	background = attack_1.1
+}
+
+army = {
+	name = "First Army of Java"
+	location = 1416
+	regiment = {
+		name= "1.1st Division"
+		type = infantry
+		home = 1420
+	}
+	regiment = {
+		name= "1.1st Division"
+		type = artillery
+		home = 1421
+	}
+	regiment = {
+		name= "2.1st Division"
+		type = artillery
+		home = 1418
+	}
+	regiment = {
+		name= "3.1st Division"
+		type = artillery
+		home = 1417
+	}
+	regiment = {
+		name= "4.1st Division"
+		type = artillery
+		home = 1416
+	}
+	regiment = {
+		name= "5.1st Division"
+		type = artillery
+		home = 1415
+	}
+	regiment = {
+		name= "1.1st Division"
+		type = hussar
+		home = 3254
+	}
+}
+
+navy = {
+	name = "Javanese Navy"
+	location = 1416
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}
+}

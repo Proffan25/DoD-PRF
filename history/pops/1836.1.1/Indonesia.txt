@@ -2452,12 +2452,6 @@
         size = 760
     }
 
-    soldiers = {
-        culture = javan
-        religion = animist
-        size = 142
-    }
-
     farmers = {
         culture = javan
         religion = animist
@@ -2485,7 +2479,7 @@
     soldiers = {
         culture = javan
         religion = animist
-        size = 1425
+        size = 1567
     }
 
     farmers = {
@@ -2517,7 +2511,7 @@
     soldiers = {
         culture = malay
         religion = animist
-        size = 95
+        size = 2422
     }
 
     farmers = {
@@ -2544,12 +2538,6 @@
         size = 1045
     }
 
-    soldiers = {
-        culture = javan
-        religion = animist
-        size = 190
-    }
-
     farmers = {
         culture = javan
         religion = animist
@@ -2572,12 +2560,6 @@
         culture = javan
         religion = animist
         size = 7600
-    }
-
-    soldiers = {
-        culture = javan
-        religion = animist
-        size = 2137
     }
 
     farmers = {
@@ -2609,7 +2591,7 @@
     soldiers = {
         culture = javan
         religion = animist
-        size = 1187
+        size = 1306
     }
 
     farmers = {
@@ -2634,12 +2616,6 @@
         culture = javan
         religion = animist
         size = 712
-    }
-
-    soldiers = {
-        culture = javan
-        religion = animist
-        size = 119
     }
 
     farmers = {
@@ -2677,7 +2653,7 @@
     soldiers = {
         culture = javan
         religion = animist
-        size = 2137
+        size = 2650
     }
 
     farmers = {
@@ -2704,12 +2680,6 @@
         size = 1425
     }
 
-    soldiers = {
-        culture = javan
-        religion = animist
-        size = 285
-    }
-
     farmers = {
         culture = javan
         religion = animist
@@ -2732,12 +2702,6 @@
         culture = malay
         religion = animist
         size = 475
-    }
-
-    soldiers = {
-        culture = malay
-        religion = animist
-        size = 95
     }
 
     farmers = {
@@ -2770,12 +2734,6 @@
         size = 100
     }
 
-    soldiers = {
-        culture = malay
-        religion = animist
-        size = 113
-    }
-
     farmers = {
         culture = malay
         religion = animist
@@ -2800,12 +2758,6 @@
         size = 75
     }
 
-    soldiers = {
-        culture = malay
-        religion = animist
-        size = 15
-    }
-
     farmers = {
         culture = malay
         religion = animist
@@ -2828,12 +2780,6 @@
         culture = malay
         religion = animist
         size = 25
-    }
-
-    soldiers = {
-        culture = malay
-        religion = animist
-        size = 5
     }
 
     farmers = {
@@ -2865,7 +2811,7 @@
     soldiers = {
         culture = javan
         religion = animist
-        size = 2375
+        size = 2565
     }
 
     farmers = {
@@ -2890,12 +2836,6 @@
         culture = javan
         religion = animist
         size = 712
-    }
-
-    soldiers = {
-        culture = javan
-        religion = animist
-        size = 190
     }
 
     farmers = {
@@ -2927,7 +2867,7 @@
     soldiers = {
         culture = javan
         religion = animist
-        size = 712
+        size = 850
     }
 
     farmers = {
@@ -2954,12 +2894,6 @@
         size = 475
     }
 
-    soldiers = {
-        culture = javan
-        religion = animist
-        size = 95
-    }
-
     farmers = {
         culture = javan
         religion = animist
@@ -2984,12 +2918,6 @@
         size = 200
     }
 
-    soldiers = {
-        culture = malay
-        religion = animist
-        size = 38
-    }
-
     farmers = {
         culture = malay
         religion = animist
@@ -3012,12 +2940,6 @@
         culture = malay
         religion = animist
         size = 25
-    }
-
-    soldiers = {
-        culture = malay
-        religion = animist
-        size = 5
     }
 
     farmers = {
@@ -3049,7 +2971,7 @@
     soldiers = {
         culture = javan
         religion = animist
-        size = 95
+        size = 1605
     }
 
     farmers = {
@@ -3076,12 +2998,6 @@
         size = 7600
     }
 
-    soldiers = {
-        culture = javan
-        religion = animist
-        size = 1425
-    }
-
     farmers = {
         culture = javan
         religion = animist
@@ -3106,12 +3022,6 @@
         size = 38
     }
 
-    soldiers = {
-        culture = malay
-        religion = animist
-        size = 5
-    }
-
     farmers = {
         culture = malay
         religion = animist
@@ -3134,12 +3044,6 @@
         culture = malay
         religion = animist
         size = 400
-    }
-
-    soldiers = {
-        culture = malay
-        religion = animist
-        size = 75
     }
 
     farmers = {
@@ -3171,7 +3075,7 @@
     soldiers = {
         culture = javan
         religion = animist
-        size = 1045
+        size = 2300
     }
 
     farmers = {
@@ -3198,12 +3102,6 @@
         size = 475
     }
 
-    soldiers = {
-        culture = javan
-        religion = animist
-        size = 1045
-    }
-
     farmers = {
         culture = javan
         religion = animist
@@ -3220,12 +3118,6 @@
         culture = malay
         religion = animist
         size = 1900
-    }
-
-    soldiers = {
-        culture = malay
-        religion = animist
-        size = 95
     }
 
     farmers = {
@@ -3252,12 +3144,6 @@
         size = 200
     }
 
-    soldiers = {
-        culture = malay
-        religion = animist
-        size = 55
-    }
-
     farmers = {
         culture = malay
         religion = animist
@@ -3282,12 +3168,6 @@
         size = 25
     }
 
-    soldiers = {
-        culture = malay
-        religion = animist
-        size = 55
-    }
-
     farmers = {
         culture = malay
         religion = animist
@@ -3304,12 +3184,6 @@
         culture = malay
         religion = animist
         size = 100
-    }
-
-    soldiers = {
-        culture = malay
-        religion = animist
-        size = 5
     }
 
     farmers = {

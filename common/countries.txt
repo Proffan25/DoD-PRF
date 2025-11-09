@@ -246,6 +246,7 @@ YNN		="countries/Yunnan.txt"
 XBI		="countries/Xibei San Ma.txt"
 XIN		="countries/Xinjiang.txt"
 ZHO		="countries/Zhourao.txt"
+NUS		="countries/Nusantara.txt"
 
 # North America
 CAL		="countries/Californian Republic.txt"

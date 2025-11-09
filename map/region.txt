@@ -146,7 +146,7 @@ SPA_498 = { 498 499 464 500 501 502 }
 
 
 
-ENG_2468 = { 2468 2469 2470 2471 2472 2473 2474 2475 2508 } #New South Wales
+ENG_2468 = { 2468 2469 2470 2471 2472 2473 2474 2475 } #New South Wales
 
 ENG_2476 = { 2476 2477 2478 2479 2480 2481 2482 } #Victoria
 
@@ -158,7 +158,7 @@ ENG_2497 = { 2497 2498 2499 2500 2501 2502 2503 2504 2601 2602 2605 } #Western A
 
 ENG_2505 = { 2505 2506 2507 2603 } #Northern Territory
 
-ENG_2509 = { 2509 2510 2511 2512 2571 } #North Island
+ENG_2509 = { 2509 2510 2511 2512 2571 2508 } #North Island
 
 ENG_2513 = { 2513 2514 2515 2516 } #South Island
 
@@ -594,7 +594,7 @@ ATJ_1405 = { 1405 1406 1407 1409 } #Banda Aceh
 
 ENG_1384 = { 1384 1385 1386 1387 1390 1392 2575 1389 1391 1388 1402 } #Malaya
 
-BRU_1394 = { 1393 1394 1395 1396 1397 } #North Borneo
+BRU_1394 = { 1393 1394 1395 1396 1397 2576 } #North Borneo
 
 #SPA_1463 = { 1463 1462 1464 }
 
@@ -1361,15 +1361,15 @@ USA_2543 = { 2543 2544 } #Samoa
 
 ENG_2540 = { 2540 } #Tonga
 
-NET_1454 = { 1454 1452 1453 1560 } #Western New Guinea
+NET_1454 = { 1454 1452 1453 1560 1449 1447 1448 1450 } #Western New Guinea
 
-AST_2528 = { 2528 2529 } #Southern New Guinea
+AST_2528 = { 2529 2528 2530 2531 2537 1531 2534 2536 2539 } #Southern New Guinea
 
-GER_2530 = { 2530 2531 } #Northern New Guinea
+#GER_2530 = { 2530 2531 } #Northern New Guinea
 
-GER_2537 = { 2537 1531 } #Bismarck Archipelago
+#GER_2537 = { 2537 1531 } #Bismarck Archipelago
 
-ENG_2534 = { 2534 2536 2539 } #Solomon Islands
+#ENG_2534 = { 2534 2536 2539 } #Solomon Islands
 
 FRA_1097 = { 1097 2535 } #New Caledonia
 
@@ -1393,7 +1393,7 @@ ENG_2522 = { 2522 2523 2527 } #Marshall and Gilbert Islands
 
 NET_1399 = { 1399 1404 1403 1410 1398 1400 1401 1408 1411 } #Palembang
 
-NET_1426 = { 1426 1422 1427 1428 2576 } #Pontianak
+NET_1426 = { 1426 1422 1427 1428 } #Pontianak
 
 NET_1423 = { 1423 1424 1425 1429 } #Banjarmasin
 
@@ -1409,7 +1409,7 @@ BAL_1438 = { 1438 1442 1439 1440 1441 1444 } #Lesser Sundas
 
 POR_1446 = { 1446 1443 1445 1451 } #Timor
 
-NET_1449 = { 1449 1447 1448 1450 } #Moluccas
+#NET_1449 = { 1449 1447 1448 1450 } #Moluccas
 
 #Europe
 

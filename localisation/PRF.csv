@@ -224,6 +224,10 @@ annex_bhutan_title;Annex Bhutan;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 annex_bhutan_desc;Bro, who the fuck wants to waste time justifying for this?;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 embrace_boers_title;Embrace the Trekboers;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 embrace_boers_desc;Long have the Boers resisted our rule over the Cape. Now that we secured our holdings in the area it's time to reconcile with them ir order to establish a proper administration.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+form_nusantara_title;Form Nusantara;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+form_nusantara_desc;Since the collapse of the great Majapahit empire our lands have fragmented into dozens of feuding nations. It is finally time that we unite our scattered, fragmented people into one great whole. Our great empire will even make the legendary Majapahit emperor Hayam Wuruk tremble in awe!;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+nus_taiwan_administration_title;Nusantaran Formosa;;;;;;;;;;;;;
+nus_taiwan_administration_desc;Nusantara now controls Formosa, and our modern administration will get rid of the Han colonizer names and change the island accordingly.;;;;;;;;;;;;;
 #;;;;;;;;;;;;;;Modifiers;;;;
 continental_army;Continental Army;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;
 continental_army_desc;Irish please apply, we need more soldiers UwU.;;;;;;;;;;;;;x,,,,,,,,,,,,;;;;;;;;;;;
@@ -620,10 +624,19 @@ BTV;Batavia;;;;;;;;;;;;;
 BTV_ADJ;Batavian;;;;;;;;;;;;;
 MDR;Madurai;;;;;;;;;;;;;
 MDR_ADJ;Madurai;;;;;;;;;;;;;
-PHI;Sugbu;;;;;;;;;;;;;
-PHI_ADJ;Sugbu;;;;;;;;;;;;;
+PHI;Sugbu;Sugbu;Sugbu;;Sugbu;;;;;;;;;x
+PHI_ADJ;Sugbu;Sugbu;Sugbu;;Sugbu;;;;;;;;;x
 BEG;Berg;;;;;;;;;;;;;
 BEG_ADJ;Bergian;;;;;;;;;;;;;
+NUS_absolute_monarchy;Nusantaran Sultanate;;;;;;;;;;;;;
+NUS_prussian_constitutionalism;Nusantaran Sultanate;;;;;;;;;;;;;
+NUS_hms_government;Nusantaran Sultanate;;;;;;;;;;;;;
+NUS_fascist_dictatorship;Nusantaran State;;;;;;;;;;;;;
+NUS_proletarian_dictatorship;Nusantaran SFR;;;;;;;;;;;;;
+NUS_democracy;Nusantaran Republic;;;;;;;;;;;;;
+NUS_presidential_dictatorship;Nusantaran Republic;;;;;;;;;;;;;
+NUS;Nusantara;;;;;;;;;;;;x
+NUS_ADJ;Nusantaran;;;;;;;;;;;;;
 #;;;;;;;;;;;;;;Cultures;;;;
 beornian;Beornian;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 english;English;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
