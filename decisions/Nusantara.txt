@@ -14,6 +14,7 @@ political_decisions = {
 			ATJ_1405 = { owned_by = THIS }
 			ENG_1384 = { owned_by = THIS }
 			NET_1423 = { owned_by = THIS }
+			NET_1426 = { owned_by = THIS }
 			NET_1430 = { owned_by = THIS }
 			BAL_1438 = { owned_by = THIS }
 		}
@@ -24,12 +25,13 @@ political_decisions = {
 			add_accepted_culture = melanesian
 			add_accepted_culture = malagasy
 			change_tag = NUS
-			JAV = { all_core = { add_core = NUS remove_core = JAV } }
+			JAV = { all_core = { add_core = NUS remove_core = JAV life_rating = 4 } }
+			ATJ = { all_core = { add_core = NUS life_rating = 4 } }
+			DJA = { all_core = { add_core = NUS life_rating = 4 } }
+			BAL = { all_core = { add_core = NUS life_rating = 4 } }
+			SLW = { all_core = { add_core = NUS life_rating = 4 } }
+			KLM = { all_core = { add_core = NUS life_rating = 4 } }
 			JOH = { all_core = { add_core = NUS } }
-			ATJ = { all_core = { add_core = NUS } }
-			DJA = { all_core = { add_core = NUS } }
-			BAL = { all_core = { add_core = NUS } }
-			SLW = { all_core = { add_core = NUS } }
 			NET_1454 = { add_core = NUS }
 			AST_2528 = { add_core = NUS }
 		}
