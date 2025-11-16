@@ -37,6 +37,7 @@ country_event = {
 		any_owned_province = {
 			is_colonial = no
 			NOT = { is_core = THIS }
+			NOT = { is_core = TIN }
 			NOT = {	has_province_modifier = fuck_non_cores }
 		}	
 		civilized = yes
@@ -50,6 +51,7 @@ country_event = {
 			limit = {
 				is_colonial = no
 				NOT = { is_core = THIS }
+				NOT = { is_core = TIN }
 				NOT = {	has_province_modifier = fuck_non_cores }
 			}
 			add_province_modifier = {
