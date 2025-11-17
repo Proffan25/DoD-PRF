@@ -1,0 +1,33 @@
+political_decisions = {	
+	usurp_the_empire = {
+		picture = constantinople
+		potential = {
+			tag = EGY
+		}
+		allow = {
+			EGY_921 = { owned_by = THIS }
+			TUR_902 = { owned_by = THIS }
+			TUR_889 = { owned_by = THIS }
+			TUR_885 = { owned_by = THIS }
+			TUR_876 = { owned_by = THIS }
+			TUR_884 = { owned_by = THIS }
+			war = no
+		}
+		effect = {
+			add_accepted_culture = turkish
+			add_accepted_culture = kurdish
+			add_accepted_culture = albanian
+			add_accepted_culture = sephardic
+			EGY = { all_core = { add_core = ALA remove_core = EGY } }
+			EGY_921 = { add_core = ALA }
+			TUR_902 = { add_core = ALA }
+			TUR_889 = { add_core = ALA }
+			TUR_885 = { add_core = ALA }
+			TUR_876 = { add_core = ALA }
+			TUR_884 = { add_core = ALA }
+			capital = 902
+            902 = { life_rating = 5 }
+			change_tag = ALA
+		}
+	}
+}

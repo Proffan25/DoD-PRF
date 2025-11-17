@@ -273,6 +273,18 @@ GER_democracy;German Republic;;;;;;;;;;;;;
 GER_presidential_dictatorship;German Reich;;;;;;;;;;;;;
 GER;Germany;;;;;;;;;;;;;
 GER_ADJ;German;;;;;;;;;;;;;
+ALA_absolute_monarchy;Alawiyyan Empire;;;;;;;;;;;;;
+ALA_prussian_constitutionalism;Alawiyyan Empire;;;;;;;;;;;;;
+ALA_hms_government;Alawiyyan Empire;;;;;;;;;;;;;
+ALA_absolute_monarchy_ADJ;Alawiyyan;;;;;;;;;;;;;;;;;;;;;;;;x
+ALA_prussian_constitutionalism_ADJ;Alawiyyan;;;;;;;;;;;;;;;;;;;;;;;;x
+ALA_hms_government_ADJ;Alawiyyan;;;;;;;;;;;;;;;;;;;;;;;;x
+ALA_fascist_dictatorship;Levantine State;;;;;;;;;;;;;
+ALA_proletarian_dictatorship;Levantine SR;;;;;;;;;;;;;
+ALA_democracy;Levantine Republic;;;;;;;;;;;;;
+ALA_presidential_dictatorship;Levantine Republic;;;;;;;;;;;;;
+ALA;Levant;;;;;;;;;;;;;
+ALA_ADJ;Levantine;;;;;;;;;;;;;
 AUS;Austria;;;;;;;;;;;;;
 AUS_ADJ;Austrian;;;;;;;;;;;;;
 RUS_absolute_monarchy;Russian Empire;;;;;;;;;;;;;

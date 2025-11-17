@@ -9,15 +9,15 @@
     }
 
     bureaucrats = {
-        culture = north_caucasian
+        culture = misri
         religion = animist
-        size = 517
+        size = 4628
     }
 
     officers = {
         culture = north_caucasian
         religion = animist
-        size = 517
+        size = 1034
     }
 
     artisans = {
@@ -27,9 +27,9 @@
     }
 
     soldiers = {
-        culture = north_caucasian
+        culture = misri
         religion = animist
-        size = 2443
+        size = 23718
     }
 
     aristocrats = {
@@ -86,28 +86,10 @@
         size = 5175
     }
 
-    artisans = {
-        culture = misri
-        religion = animist
-        size = 4600
-    }
-
-    soldiers = {
-        culture = misri
-        religion = animist
-        size = 19550
-    }
-
     farmers = {
         culture = misri
         religion = animist
         size = 101430
-    }
-
-    bureaucrats = {
-        culture = misri
-        religion = animist
-        size = 28
     }
 
     clergymen = {
@@ -120,12 +102,6 @@
         culture = misri
         religion = animist
         size = 9200
-    }
-
-    soldiers = {
-        culture = misri
-        religion = animist
-        size = 1725
     }
 
     clergymen = {

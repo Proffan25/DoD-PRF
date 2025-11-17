@@ -20,7 +20,7 @@ leader = {
 
 navy = {
 	name = "Taba"
-	location = 1753
+	location = 1751
 	ship = {
 		name= "Toushka"
 		type = manowar
@@ -33,16 +33,6 @@ navy = {
 
 	ship = {
 		name= "Damyat"
-		type = manowar
-	}
-
-	ship = {
-		name= "Rasheed"
-		type = manowar
-	}
-
-	ship = {
-		name= "El Suez"
 		type = manowar
 	}
 
@@ -91,16 +81,6 @@ navy = {
 		type = frigate
 	}
 
-	ship = {
-		name= "Bur Safajah"
-		type = frigate
-	}
-
-	ship = {
-		name= "1st transport flotilla"
-		type = clipper_transport
-	}
-
 }
 
 army = {
@@ -108,7 +88,7 @@ army = {
 	location = 1745
 	regiment = {
 		name= "1.1 Sipahis"
-		type = cavalry
+		type = hussar
 		home = 1745
 	}
 
@@ -171,7 +151,7 @@ army = {
 	location = 1748
 	regiment = {
 		name= "1.2 Sipahis"
-		type = cavalry
+		type = hussar
 		home = 1745
 	}
 
