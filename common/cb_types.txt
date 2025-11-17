@@ -995,11 +995,8 @@ acquire_state_tiny = {
 					civilized = yes
 				}
 			}
-			AND = {
+			THIS = {
 				civilized = no
-				THIS = {
-					civilized = no
-				}
 			}
 		}
 	}
@@ -1091,11 +1088,8 @@ acquire_state_small = {
 					civilized = yes
 				}
 			}
-			AND = {
+			THIS = {
 				civilized = no
-				THIS = {
-					civilized = no
-				}
 			}
 		}
 	}
@@ -1187,11 +1181,8 @@ acquire_state_medium = {
 					civilized = yes
 				}
 			}
-			AND = {
+			THIS = {
 				civilized = no
-				THIS = {
-					civilized = no
-				}
 			}
 		}
 	}
@@ -1283,11 +1274,8 @@ acquire_state_large = {
 					civilized = yes
 				}
 			}
-			AND = {
+			THIS = {
 				civilized = no
-				THIS = {
-					civilized = no
-				}
 			}
 		}
 	}
@@ -1379,11 +1367,8 @@ acquire_state_huge = {
 					civilized = yes
 				}
 			}
-			AND = {
+			THIS = {
 				civilized = no
-				THIS = {
-					civilized = no
-				}
 			}
 		}
 	}
@@ -4020,11 +4005,8 @@ take_capital_tiny = {
 					civilized = yes
 				}
 			}
-			AND = {
+			THIS = {
 				civilized = no
-				THIS = {
-					civilized = no
-				}
 			}
 		}
 	}
@@ -4116,11 +4098,8 @@ take_capital_small = {
 					civilized = yes
 				}
 			}
-			AND = {
+			THIS = {
 				civilized = no
-				THIS = {
-					civilized = no
-				}
 			}
 		}
 	}
@@ -4212,11 +4191,8 @@ take_capital_medium = {
 					civilized = yes
 				}
 			}
-			AND = {
+			THIS = {
 				civilized = no
-				THIS = {
-					civilized = no
-				}
 			}
 		}
 	}
@@ -4308,11 +4284,8 @@ take_capital_large = {
 					civilized = yes
 				}
 			}
-			AND = {
+			THIS = {
 				civilized = no
-				THIS = {
-					civilized = no
-				}
 			}
 		}
 	}
@@ -4404,11 +4377,8 @@ take_capital_huge = {
 					civilized = yes
 				}
 			}
-			AND = {
+			THIS = {
 				civilized = no
-				THIS = {
-					civilized = no
-				}
 			}
 		}
 	}
