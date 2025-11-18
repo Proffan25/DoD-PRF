@@ -1229,7 +1229,7 @@ POR_2006 = { 2006 2002 2007 2009 2010 2011 } #East Angola
 
 ENG_1846 = { 1846 1843 1844 1845 1847 } #Equatoria 
 
-FRA_1875 = { 1875 } #Jibuti 
+#FRA_1875 = { 1875 } #Jibuti 
 
 ITA_1848 = { 1848 1849 1850 1851 } #Eritrea 
 
@@ -1245,7 +1245,7 @@ ITA_1868 = { 1868 1869 1870 } #Jubaland
 
 ITA_1872 = { 1872 1871 } #Somaliland 
 
-ENG_1873 = { 1873 1874 } #Adal 
+ENG_1873 = { 1873 1874 1875 } #Adal 
 
 #GER_2039 = { 2039 2038 } #South Swahili Coast 
 
@@ -1253,13 +1253,13 @@ ENG_1873 = { 1873 1874 } #Adal
 
 GER_2034 = { 2034 2035 } #Ruanda-Burundi 
 
-GER_2043 = { 2043 2045 2046 2044 2047 } #Tanganyika 
+GER_2043 = { 2043 2045 2046 2044 2047 2041 2040 2042 } #Tanganyika 
 
 #GER_2044 = { 2044 2047 } #Usambara 
 
 ENG_2048 = { 2029 2030 2033 2037 2048 2036 2039 2038 } #Zanzibar 
 
-GER_2041 = { 2041 2040 2042 } #South Tanganyika 
+#GER_2041 = { 2041 2040 2042 } #South Tanganyika 
 
 #ENG_2067 = { 2067 2066 } #Nyasaland 
 

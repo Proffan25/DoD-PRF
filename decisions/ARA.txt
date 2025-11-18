@@ -1,4 +1,64 @@
 political_decisions = {
+	conquest_of_sudan = {
+		picture = map_sudan
+		potential = {
+			OR = {
+				tag = ARA
+				tag = EGY
+				tag = ALA
+			}
+			NOT = { has_country_flag = sudan_conquered }
+		}		
+		allow = {
+			war = no
+			civilized = yes
+			EGY_1767 = { owned_by = THIS }
+		}
+		effect = {
+			set_country_flag = sudan_conquered
+			1841 = { 
+				secede_province = THIS
+				life_rating = 15
+			}
+			1842 = { 
+				secede_province = THIS
+				life_rating = 15
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	conquest_of_darfur_ARA = {
+		picture = conquest_of_darfur
+		potential = {
+			OR = {
+				tag = ARA
+				tag = EGY
+				tag = ALA
+			}
+			NOT = { has_country_flag = darfur_conquered }
+		}		
+		allow = {
+			war = no
+			state_n_government = 1
+			EGY_1835 = { owned_by = THIS }
+		}
+		effect = {
+			set_country_flag = darfur_conquered
+			1841 = { 
+				secede_province = THIS
+				life_rating = 15
+			}
+			1842 = { 
+				secede_province = THIS
+				life_rating = 15
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
 	equatoria_expedition_ARA = {
 		picture = equatoria_expedition
 		potential = {
@@ -37,70 +97,6 @@ political_decisions = {
 				life_rating = 15
 			}
 			1847 = { 
-				secede_province = THIS
-				life_rating = 15
-			}
-		}
-		ai_will_do = {
-			factor = 1
-		}
-	}
-	conquest_of_darfur_ARA = {
-		picture = conquest_of_darfur
-		potential = {
-			OR = {
-				tag = ARA
-				tag = EGY
-				tag = ALA
-			}
-			NOT = { has_country_flag = darfur_conquered }
-		}
-		
-		allow = {
-			war = no
-			state_n_government = 1
-			EGY_1835 = { owned_by = THIS }
-		}
-
-		effect = {
-			set_country_flag = darfur_conquered
-			1841 = { 
-				secede_province = THIS
-				life_rating = 15
-			}
-			1842 = { 
-				secede_province = THIS
-				life_rating = 15
-			}
-		}
-		ai_will_do = {
-			factor = 1
-		}
-	}
-	conquest_of_sudan = {
-		picture = map_sudan
-		potential = {
-			OR = {
-				tag = ARA
-				tag = EGY
-				tag = ALA
-			}
-			NOT = { has_country_flag = dongola_conquered }
-		}
-		
-		allow = {
-			war = no
-			civilized = yes
-			EGY_1767 = { owned_by = THIS }
-		}
-
-		effect = {
-			set_country_flag = dongola_conquered
-			1841 = { 
-				secede_province = THIS
-				life_rating = 15
-			}
-			1842 = { 
 				secede_province = THIS
 				life_rating = 15
 			}
