@@ -7,7 +7,8 @@ political_decisions = {
 				tag = EGY
 				tag = ALA
 			}
-			NOT = { has_country_flag = sudan_conquered }
+			1835 = { empty = yes }
+			1827 = { empty = yes }
 		}		
 		allow = {
 			war = no
@@ -15,20 +16,70 @@ political_decisions = {
 			EGY_1767 = { owned_by = THIS }
 		}
 		effect = {
-			set_country_flag = sudan_conquered
-			1841 = { 
+			1835 = { 
+				secede_province = THIS
+				life_rating = 15
+                change_province_name = "Dunqula"
+                state_scope = { change_region_name = "Dunqula" }
+			}
+			1836 = { 
 				secede_province = THIS
 				life_rating = 15
 			}
-			1842 = { 
+			1834 = { 
+				secede_province = THIS
+				life_rating = 15
+                change_province_name = "Hala'ib"
+			}
+			1833 = { 
+				secede_province = THIS
+				life_rating = 15
+                change_province_name = "Sawakin"
+			}
+			1837 = { 
+				secede_province = THIS
+				life_rating = 15
+                change_province_name = "al-'Atbarah"
+			}
+			1829 = { 
 				secede_province = THIS
 				life_rating = 15
 			}
+			1827 = { 
+				secede_province = THIS
+				life_rating = 20
+                change_province_name = "al-Khartum"
+                state_scope = { change_region_name = "al-Sudan" }
+			}
+			1828 = { 
+				secede_province = THIS
+				life_rating = 15
+			}
+			1831 = { 
+				secede_province = THIS
+				life_rating = 15
+			}
+			1830 = { 
+				secede_province = THIS
+				life_rating = 15
+                change_province_name = "Sinnar"
+			}
+			1831 = { 
+				secede_province = THIS
+				life_rating = 15
+			}
+			1832 = { 
+				secede_province = THIS
+				life_rating = 20
+			}
+			EGY_1835 = { add_core = THIS }
+			EGY_1827 = { add_core = THIS }
 		}
 		ai_will_do = {
 			factor = 1
 		}
 	}
+	
 	conquest_of_darfur_ARA = {
 		picture = conquest_of_darfur
 		potential = {
@@ -37,7 +88,7 @@ political_decisions = {
 				tag = EGY
 				tag = ALA
 			}
-			NOT = { has_country_flag = darfur_conquered }
+			1840 = { empty = yes }
 		}		
 		allow = {
 			war = no
@@ -45,20 +96,43 @@ political_decisions = {
 			EGY_1835 = { owned_by = THIS }
 		}
 		effect = {
-			set_country_flag = darfur_conquered
+			2564 = { 
+				secede_province = THIS
+				life_rating = 20
+                change_province_name = "Salimah"
+                state_scope = { change_region_name = "Kurdufan" }
+			}
+			1842 = {
+				secede_province = THIS
+				life_rating = 20
+                state_scope = { change_region_name = "Al-Junaynah" }
+			}
+			1838 = { 
+				secede_province = THIS
+				life_rating = 20
+                state_scope = { change_region_name = "Al-Ubayyid" }
+			}
+			1840 = { 
+				secede_province = THIS
+				life_rating = 20
+			}
+			1839 = { 
+				secede_province = THIS
+				life_rating = 20
+                state_scope = { change_region_name = "Al-Nuhud" }
+			}
 			1841 = { 
 				secede_province = THIS
-				life_rating = 15
+				life_rating = 23
+                state_scope = { change_region_name = "Al-Fashir" }
 			}
-			1842 = { 
-				secede_province = THIS
-				life_rating = 15
-			}
+			EGY_1838 = { add_core = THIS }
 		}
 		ai_will_do = {
 			factor = 1
 		}
 	}
+	
 	equatoria_expedition_ARA = {
 		picture = equatoria_expedition
 		potential = {
@@ -67,39 +141,105 @@ political_decisions = {
 				tag = EGY
 				tag = ALA
 			}
-			NOT = { has_country_flag = equatoria_claimed }
+			1846 = { empty = yes }
 		}
-
 		allow = {
 			war = no
 			nationalism_n_imperialism = 1
-			money = 40000
 			EGY_1838 = { owned_by = THIS }
 		}
-
 		effect = {
-			set_country_flag = equatoria_claimed
-			treasury = -40000
-			1846 = { 
-				secede_province = THIS
-				life_rating = 15
-			}
 			1843 = { 
 				secede_province = THIS
-				life_rating = 15
-			}
-			1844 = { 
-				secede_province = THIS
-				life_rating = 15
+				life_rating = 20
 			}
 			1845 = { 
 				secede_province = THIS
-				life_rating = 15
+				life_rating = 20
+			}
+			1844 = { 
+				secede_province = THIS
+				life_rating = 23
+                change_province_name = "Bawr"
 			}
 			1847 = { 
 				secede_province = THIS
-				life_rating = 15
+				life_rating = 20
+                change_province_name = "Kabuyta"
+                state_scope = { change_region_name = "Janub al-Sudan" }
 			}
+			1846 = { 
+				secede_province = THIS
+				life_rating = 25
+			}
+			ENG_1846 = { add_core = THIS }
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	conquest_of_the_horn = {
+		picture = ethiopia
+		potential = {
+			OR = {
+				tag = ARA
+				tag = ALA
+			}
+		}
+		allow = {
+			nationalism_n_imperialism = 1
+			ETH = {
+				all_core = {
+					owned_by = THIS
+				}
+			}
+			SOM = {
+				all_core = {
+					owned_by = THIS
+				}
+			}
+		}
+		effect = {
+			ETH = { all_core = { add_core = THIS } }
+			SOM = { all_core = { add_core = THIS } }
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	reestablish_control_bulgaria = {
+		picture = bulgaria
+		potential = {
+			tag = ALA
+		}
+		allow = {
+			TUR_810 = { owned_by = THIS }
+		}
+		effect = {
+			TUR_810 = { add_core = ALA }
+			TUR_674 = { add_core = ALA }
+			add_accepted_culture = bulgarian
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	reestablish_control_greece = {
+		picture = greeks
+		potential = {
+			tag = ALA
+		}
+		allow = {
+			TUR_805 = { owned_by = THIS }
+			GRE_837 = { owned_by = THIS }
+		}
+		effect = {
+			TUR_805 = { add_core = ALA }
+			GRE_837 = { add_core = ALA }
+			add_accepted_culture = greek
 		}
 		ai_will_do = {
 			factor = 1
