@@ -19,8 +19,6 @@ political_decisions = {
 			1835 = { 
 				secede_province = THIS
 				life_rating = 15
-                change_province_name = "Dunqula"
-                state_scope = { change_region_name = "Dunqula" }
 			}
 			1836 = { 
 				secede_province = THIS
@@ -29,17 +27,14 @@ political_decisions = {
 			1834 = { 
 				secede_province = THIS
 				life_rating = 15
-                change_province_name = "Hala'ib"
 			}
 			1833 = { 
 				secede_province = THIS
 				life_rating = 15
-                change_province_name = "Sawakin"
 			}
 			1837 = { 
 				secede_province = THIS
 				life_rating = 15
-                change_province_name = "al-'Atbarah"
 			}
 			1829 = { 
 				secede_province = THIS
@@ -48,8 +43,6 @@ political_decisions = {
 			1827 = { 
 				secede_province = THIS
 				life_rating = 20
-                change_province_name = "al-Khartum"
-                state_scope = { change_region_name = "al-Sudan" }
 			}
 			1828 = { 
 				secede_province = THIS
@@ -62,7 +55,6 @@ political_decisions = {
 			1830 = { 
 				secede_province = THIS
 				life_rating = 15
-                change_province_name = "Sinnar"
 			}
 			1831 = { 
 				secede_province = THIS
@@ -99,18 +91,14 @@ political_decisions = {
 			2564 = {
 				secede_province = THIS
 				life_rating = 20
-                change_province_name = "Salimah"
-                state_scope = { change_region_name = "Kurdufan" }
 			}
 			1842 = {
 				secede_province = THIS
 				life_rating = 20
-                change_province_name = "Al-Junaynah"
 			}
 			1838 = {
 				secede_province = THIS
 				life_rating = 20
-                change_province_name = "Al-Ubayyid"
 			}
 			1840 = {
 				secede_province = THIS
@@ -119,12 +107,10 @@ political_decisions = {
 			1839 = {
 				secede_province = THIS
 				life_rating = 20
-                change_province_name = "Al-Nuhud"
 			}
 			1841 = {
 				secede_province = THIS
 				life_rating = 23
-                change_province_name = "Al-Fashir"
 			}
 			EGY_1838 = { add_core = THIS }
 		}
@@ -160,13 +146,10 @@ political_decisions = {
 			1844 = { 
 				secede_province = THIS
 				life_rating = 23
-                change_province_name = "Bawr"
 			}
 			1847 = { 
 				secede_province = THIS
 				life_rating = 20
-                change_province_name = "Kabuyta"
-                state_scope = { change_region_name = "Janub al-Sudan" }
 			}
 			1846 = { 
 				secede_province = THIS
