@@ -96,7 +96,7 @@ political_decisions = {
 			EGY_1835 = { owned_by = THIS }
 		}
 		effect = {
-			2564 = { 
+			2564 = {
 				secede_province = THIS
 				life_rating = 20
                 change_province_name = "Salimah"
@@ -105,26 +105,26 @@ political_decisions = {
 			1842 = {
 				secede_province = THIS
 				life_rating = 20
-                state_scope = { change_region_name = "Al-Junaynah" }
+                change_province_name = "Al-Junaynah"
 			}
-			1838 = { 
+			1838 = {
 				secede_province = THIS
 				life_rating = 20
-                state_scope = { change_region_name = "Al-Ubayyid" }
+                change_province_name = "Al-Ubayyid"
 			}
-			1840 = { 
+			1840 = {
 				secede_province = THIS
 				life_rating = 20
 			}
-			1839 = { 
+			1839 = {
 				secede_province = THIS
 				life_rating = 20
-                state_scope = { change_region_name = "Al-Nuhud" }
+                change_province_name = "Al-Nuhud"
 			}
-			1841 = { 
+			1841 = {
 				secede_province = THIS
 				life_rating = 23
-                state_scope = { change_region_name = "Al-Fashir" }
+                change_province_name = "Al-Fashir"
 			}
 			EGY_1838 = { add_core = THIS }
 		}
