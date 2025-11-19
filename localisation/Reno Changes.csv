@@ -371,9 +371,9 @@ desc_country_distribution_channels;Establishment of complex distribution channel
 country_machine_tools;Mechanized Production;;;;;;;;;;;;;;;;;;x,,,,,
 desc_country_machine_tools;Mechanized production has arrived in this country, which facilitates an increase in raw resource production and industrial throughput.;;;;;;;;;;;;;;;;;;;x,,,,,
 equatoria_expedition_ARA_title;Launch Equatoria Expedition;;;;;;;;;;;;;x;;;;;;;;;;;
-equatoria_expedition_ARA_desc;The Khedive of Egypt, Isma'il I commissioned an expedition to explore the Equatoria region south of the Sudan, and to organize a new Egyptian province there. A British explorer and engineer named Samuel White Baker who had led an expedition down the Nile in 1865 was contracted by the Khedive to lead the Egyptian forces and to be the first Governor-General of the new territory..;;;;;;;;;;;;;x;;;;;;;;;;;
+equatoria_expedition_ARA_desc;Isma'il I commissioned an expedition to explore the Equatoria region south of the Sudan, and to organize a new province there. A Scandinavian explorer and engineer named Erik Ludvig Brahe who had led an expedition down the Nile in 1865 was contracted by the Khedive to lead the Egyptian forces and to be the first Governor-General of the new territory..;;;;;;;;;;;;;x;;;;;;;;;;;
 conquest_of_darfur_ARA_title;Begin Conquest of Darfur;;;;;;;;;;;;;x;;;;;;;;;;;
-conquest_of_darfur_ARA_desc;An expansionist Khedive, Isma'il I moved to incorporate the territory of Darfur into the Egyptian Sudan in 1874.;;;;;;;;;;;;;x;;;;;;;;;;;
+conquest_of_darfur_ARA_desc;After a grueling march across the desert, our expeditionary force has arrived at the outskirts of El Fasher, the capital of the Darfur Sultanate. The Fur armies, though brave, are hopelessly outmatched by our modern rifles and disciplined troops. The Sultan has been forced to the negotiating table, finally becoming our vassal and governor in the region.;;;;;;;;;;;;;x;;;;;;;;;;;
 craftsmen_fix_cooldown;Craftsmen Fix Cooldown;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;
 craftsmen_fix_cooldown_desc;Craftsmen Fix Cooldown is 10 years.;;;;;;;;;;;;;x,,,,,,,,,,,,;;;;;;;;;;;
 bureaucrats_fix_cooldown;Non-Accepted Bureaucrats Decision Cooldown;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;

@@ -274,6 +274,7 @@ political_decisions = {
 		}
 		allow = {
 			medicine = 1
+			war = no
 		}
 		effect = {
 			1754 = { secede_province = THIS }
