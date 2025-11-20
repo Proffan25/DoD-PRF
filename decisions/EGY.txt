@@ -1,4 +1,4 @@
-political_decisions = {	
+political_decisions = {
 	usurp_the_empire = {
 		picture = constantinople
 		potential = {
@@ -26,9 +26,45 @@ political_decisions = {
 			TUR_885 = { add_core = ALA }
 			TUR_876 = { add_core = ALA }
 			TUR_884 = { add_core = ALA }
-			capital = 902
-            902 = { life_rating = 5 }
+            1745 = { life_rating = 5 }
 			change_tag = ALA
 		}
 	}
+	
+	reestablish_control_bulgaria = {
+		picture = bulgaria
+		potential = {
+			tag = ALA
+		}
+		allow = {
+			TUR_810 = { owned_by = THIS }
+		}
+		effect = {
+			TUR_810 = { add_core = ALA }
+			TUR_674 = { add_core = ALA }
+			add_accepted_culture = bulgarian
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	reestablish_control_greece = {
+		picture = greeks
+		potential = {
+			tag = ALA
+		}
+		allow = {
+			TUR_805 = { owned_by = THIS }
+			GRE_837 = { owned_by = THIS }
+		}
+		effect = {
+			TUR_805 = { add_core = ALA }
+			GRE_837 = { add_core = ALA }
+			add_accepted_culture = greek
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}	
 }

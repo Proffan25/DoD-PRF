@@ -1,4 +1,107 @@
 political_decisions = {
+
+	form_arabia_irq = {
+		picture = form_arab_union
+        potential = {
+			tag = IRQ
+            NOT = {
+                ARA = { exists = yes }
+            }
+        }
+        allow = {
+            TUR_923 = {
+                owned_by = THIS
+            }
+            NEJ_1157 = {
+                owned_by = THIS
+            }
+            TUR_902 = {
+                owned_by = THIS
+            }
+            EGY_921 = {
+                owned_by = THIS
+            }
+            EGY_1745 = {
+                owned_by = THIS
+            }
+            EGY_1767 = {
+                owned_by = THIS
+            }
+            war = no
+        }
+        effect = {
+            add_accepted_culture = misri
+            add_accepted_culture = maghrebi
+            IRQ = { all_core = { add_core = ARA remove_core = IRQ } }
+            SYR = { all_core = { add_core = ARA remove_core = SYR } }
+            EGY = { all_core = { add_core = ARA } }
+            NEJ = { all_core = { add_core = ARA } }
+            TUN = { all_core = { add_core = ARA } }
+			902 = {
+				life_rating = 5
+			}
+			1151 = {
+				life_rating = 5
+			}
+			1153 = {
+				life_rating = 5
+			}
+			capital = 902
+            change_tag = ARA
+        }
+    }
+	
+	form_arabia_egy = {
+		picture = form_arab_union
+        potential = {
+			tag = EGY
+            NOT = {
+                ARA = { exists = yes }
+            }
+        }
+        allow = {
+            TUR_923 = {
+                owned_by = THIS
+            }
+            NEJ_1157 = {
+                owned_by = THIS
+            }
+            TUR_902 = {
+                owned_by = THIS
+            }
+            EGY_921 = {
+                owned_by = THIS
+            }
+            EGY_1745 = {
+                owned_by = THIS
+            }
+            EGY_1767 = {
+                owned_by = THIS
+            }
+            war = no
+        }
+        effect = {
+            add_accepted_culture = maghrebi
+            add_accepted_culture = bedouin
+			EGY = { all_core = { add_core = ARA remove_core = EGY } }
+            IRQ = { all_core = { add_core = ARA } }
+            SYR = { all_core = { add_core = ARA } }
+            NEJ = { all_core = { add_core = ARA } }
+            TUN = { all_core = { add_core = ARA } }
+			902 = {
+				life_rating = 5
+			}
+			1151 = {
+				life_rating = 5
+			}
+			1153 = {
+				life_rating = 5
+			}
+			capital = 902
+            change_tag = ARA
+        }
+    }
+	
 	conquest_of_sudan = {
 		picture = map_sudan
 		potential = {
@@ -194,37 +297,46 @@ political_decisions = {
 		}
 	}
 	
-	reestablish_control_bulgaria = {
-		picture = bulgaria
+	re_reconquista = {
+		picture = caliphate
 		potential = {
-			tag = ALA
+			tag = ARA
+			NOT = { has_country_flag = re_reconquista_flag }
 		}
 		allow = {
-			TUR_810 = { owned_by = THIS }
+			nationalism_n_imperialism = 1
+			SPA_512 = { owned_by = THIS }
+			SPA_513 = { owned_by = THIS }
+			SPA_487 = { owned_by = THIS }
 		}
 		effect = {
-			TUR_810 = { add_core = ALA }
-			TUR_674 = { add_core = ALA }
-			add_accepted_culture = bulgarian
+			SPA_512 = { add_core = ARA }
+			SPA_513 = { add_core = ARA }
+			SPA_487 = { add_core = ARA }
+			510 = {	life_rating = 4	}
+			513 = {	life_rating = 4	}
+			set_country_flag = re_reconquista_flag
 		}
 		ai_will_do = {
 			factor = 1
 		}
 	}
 	
-	reestablish_control_greece = {
-		picture = greeks
+	re_reconquista_2 = {
+		picture = iberian
 		potential = {
-			tag = ALA
+			tag = ARA
+			has_country_flag = re_reconquista_flag
+			NOT = { has_country_flag = re_reconquista_flag_2 }
 		}
 		allow = {
-			TUR_805 = { owned_by = THIS }
-			GRE_837 = { owned_by = THIS }
+			POR_521 = { owned_by = THIS }
+			POR_518 = { owned_by = THIS }
 		}
 		effect = {
-			TUR_805 = { add_core = ALA }
-			GRE_837 = { add_core = ALA }
-			add_accepted_culture = greek
+			POR_521 = { add_core = ARA }
+			POR_518 = { add_core = ARA }
+			set_country_flag = re_reconquista_flag_2
 		}
 		ai_will_do = {
 			factor = 1
