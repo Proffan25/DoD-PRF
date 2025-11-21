@@ -35,6 +35,7 @@ political_decisions = {
 		picture = bulgaria
 		potential = {
 			tag = ALA
+            NOT = { accepted_culture = bulgarian }
 		}
 		allow = {
 			TUR_810 = { owned_by = THIS }
@@ -53,6 +54,7 @@ political_decisions = {
 		picture = greeks
 		potential = {
 			tag = ALA
+            NOT = { accepted_culture = greek }
 		}
 		allow = {
 			TUR_805 = { owned_by = THIS }
