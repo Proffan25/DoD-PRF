@@ -277,45 +277,46 @@ political_decisions = {
 			}
 		}
 		allow = {
+            war = no
 			AUS_619 =  {
-					all_core = {
-						OR = {
-							owned_by = THIS
-							owner = {
-								OR = {
-									in_sphere = THIS
-									vassal_of = THIS
-								}
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							OR = {
+								in_sphere = THIS
+								vassal_of = THIS
 							}
 						}
-					} 
+					}
+				} 
 			}
 			BAV =  {
-					all_core = {
-						OR = {
-							owned_by = THIS
-							owner = {
-								OR = {
-									in_sphere = THIS
-									vassal_of = THIS
-								}
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							OR = {
+								in_sphere = THIS
+								vassal_of = THIS
 							}
 						}
-					} 
-				}
+					}
+				} 
+			}
 			TIR =  {
-					all_core = {
-						OR = {
-							owned_by = THIS
-							owner = {
-								OR = {
-									in_sphere = THIS
-									vassal_of = THIS
-								}
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							OR = {
+								in_sphere = THIS
+								vassal_of = THIS
 							}
 						}
-					} 
-				}
+					}
+				} 
+			}
 		}
 		effect = {
 			add_accepted_culture = rheinish
@@ -348,6 +349,7 @@ political_decisions = {
 			tag = SGF
 		}
 		allow = {
+            war = no
 			SGF = {all_core ={owned_by = THIS}}
 			RHI = {all_core ={owned_by = THIS}}
 			BEG = {all_core ={owned_by = THIS}}
