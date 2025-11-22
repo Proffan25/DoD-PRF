@@ -52,8 +52,8 @@ political_decisions = {
 		}
 		effect = {
             capital = 425
-			set_country_flag = french_path
 			add_accepted_culture = french
+			set_country_flag = french_path
 		}	
 	}
 	
@@ -87,7 +87,6 @@ political_decisions = {
 			NOT = { has_country_flag = dua_cored_scotland }
 		}
 		allow = {
-			war = no
 			state_n_government = 1
 			ENG_271 = { owned_by = THIS }
 			ENG_266 = { owned_by = THIS }
@@ -102,16 +101,19 @@ political_decisions = {
 	dua_calais = {
         picture = Pas_de_Calais
 		potential = {
-			tag = DUA 
+			OR = {
+				tag = DUA
+				tag = FRT
+			}
 			OR = {
 				has_country_flag = french_path
 				has_country_flag = dual_path
+				tag = FRT
 			}
 			NOT = { has_country_flag = dua_calais_flag }
 			
 		}
 		allow = {
-			war = no
 			state_n_government = 1
 			FRA_399 = { owned_by = THIS }
 		}
@@ -124,16 +126,19 @@ political_decisions = {
 	dua_franche_comte = {
         picture = apanage
 		potential = {
-			tag = DUA
+			OR = {
+				tag = DUA
+				tag = FRT
+			}
 			OR = {
 				has_country_flag = french_path
 				has_country_flag = dual_path
+				tag = FRT
 			}
 			NOT = { has_country_flag = dua_franche_comte_flag }
 			
 		}
 		allow = {
-			war = no
 			state_n_government = 1
 			FRA_428 = { owned_by = THIS }
 			FRA_411 = { owned_by = THIS }
@@ -156,7 +161,6 @@ political_decisions = {
 			NOT = { has_country_flag = core_provence }
 		}
 		allow = {
-			war = no
 			FRA_467 = { owned_by = THIS }
 		}
 		effect = {

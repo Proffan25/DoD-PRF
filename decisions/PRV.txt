@@ -5,6 +5,7 @@ political_decisions = {
             tag = PRV
         }
         allow = {
+            war = no
             PRV = {
                 all_core = { owned_by = THIS }
             }
