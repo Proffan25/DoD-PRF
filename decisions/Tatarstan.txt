@@ -1,0 +1,122 @@
+political_decisions = {
+	form_tatarstan = {
+		picture = Tatarstan
+		potential = {
+			OR = {
+				tag = CRI
+				tag = NOG
+				tag = ASK
+			}
+		}
+		allow = {
+			CRI = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							OR = {
+								in_sphere = THIS
+								vassal_of = THIS
+							}
+						}
+					}
+				}
+			}
+			NOG = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							OR = {
+								in_sphere = THIS
+								vassal_of = THIS
+							}
+						}
+					}
+				}
+			}
+			ASK = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							OR = {
+								in_sphere = THIS
+								vassal_of = THIS
+							}
+						}
+					}
+				}
+			}
+			RUS_1020 = { owned_by = THIS }
+			RUS_1037 = { owned_by = THIS }
+			war = no
+		}
+		effect = {
+			add_accepted_culture = north_caucasian
+			add_accepted_culture = turkic
+			CRI = { all_core = { add_core = TAR remove_core = CRI } }
+			ASK = { all_core = { add_core = TAR remove_core = ASK } }
+			NOG = { all_core = { add_core = TAR remove_core = NOG } }
+			RUS_1020 = { add_core = TAR }
+			RUS_1037 = { add_core = TAR }
+			RUS_1026 = { add_core = TAR }
+			change_tag = TAR
+            years_of_research = 3.0
+            all_core = {
+                limit = {
+                    owner = { tag = TAR }
+                }
+                add_province_modifier = {
+                    name = baby_boom
+                    duration = 1825
+                }
+            }
+		}
+	}
+	
+	TAR_encourage_sedentarization = {
+        picture = tatar_sedentarization
+        potential = {
+			OR = {
+				tag = CRI
+				tag = TAR
+			}
+            NOT = { has_country_flag = TAR_urbanization }
+        }
+        allow = {
+            civilized = yes
+            medicine = 1
+        }
+        effect = {
+            set_country_flag = TAR_urbanization
+            967 = {
+                life_rating = 5
+            }
+        }
+        ai_will_do = { factor = 1 }
+    }
+
+    TAR_renovate_xacitarxan = {
+        picture = astrakhan_carpet
+        potential = {
+			OR = {
+				tag = NOG
+				tag = TAR
+			}
+            NOT = { has_country_flag = TAR_xacitarxan }
+        }
+        allow = {
+            civilized = yes
+            owns = 1036
+            medicine = 1
+        }
+        effect = {
+            set_country_flag = TAR_xacitarxan
+            1036 = {
+                life_rating = 5
+            }
+        }
+        ai_will_do = { factor = 1 }
+    }
+}

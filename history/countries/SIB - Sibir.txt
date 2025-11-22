@@ -1,9 +1,9 @@
-capital = 967
+capital = 1066
 primary_culture = tatar
 religion = animist
 government = absolute_monarchy
 plurality = 0.0
-nationalvalue = nv_order
+nationalvalue = nv_productivity
 literacy = 0.05
 is_releasable_vassal = yes
 

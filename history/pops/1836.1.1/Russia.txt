@@ -487,7 +487,7 @@
     soldiers = {
         culture = tatar
         religion = animist
-        size = 7218
+        size = 7439
     }
 
     farmers = {
@@ -526,12 +526,6 @@
         size = 450
     }
 
-    soldiers = {
-        culture = tatar
-        religion = animist
-        size = 178
-    }
-
     farmers = {
         culture = tatar
         religion = animist
@@ -554,12 +548,6 @@
         culture = tatar
         religion = animist
         size = 100
-    }
-
-    soldiers = {
-        culture = tatar
-        religion = animist
-        size = 43
     }
 
     farmers = {

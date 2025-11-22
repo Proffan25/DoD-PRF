@@ -15,7 +15,7 @@ ARC		= "countries/Arcadia.txt"
 AZL		= "countries/Ameriga.txt"
 TKS		= "countries/Turkestan.txt"
 LST		= "countries/Lusitania.txt"
-TAR 		= "countries/Tatarstan.txt"
+TAR 	= "countries/Tatarstan.txt"
 IDC		= "countries/Indochinese.txt"
 
 # Common Great Powers
