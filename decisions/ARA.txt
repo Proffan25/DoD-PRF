@@ -342,4 +342,22 @@ political_decisions = {
 			factor = 1
 		}
 	}
+	
+	arab_sicily = {
+		picture = italy
+		potential = {
+			tag = ARA
+			NOT = { has_country_flag = arab_sicily_flag }
+		}
+		allow = {
+			SIC_763 = { owned_by = THIS }
+		}
+		effect = {
+			SIC_763 = { add_core = ARA }
+			set_country_flag = arab_sicily_flag
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
 }

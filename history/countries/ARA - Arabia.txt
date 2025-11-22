@@ -1,4 +1,4 @@
-capital = 354
+capital = 902
 primary_culture = misri
 culture = bedouin
 culture = maghrebi
@@ -29,7 +29,7 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions 
 school_reforms = no_schools
 
-ruling_party = ARA_conservative
+ruling_party = generic_conservative
 upper_house = {
 	fascist = 0
 	liberal = 25
