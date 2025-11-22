@@ -94,25 +94,25 @@ army = {
 	name = "Army of Anatolia"
 	location = 809
 	regiment = {
-		name= "5. Piyade Tümeni"
+		name= "5. Piyade Tameni"
 		type = hussar
 		home = 882
 	}
 
 	regiment = {
-		name= "6. Piyade Tümeni"
+		name= "6. Piyade Tameni"
 		type = infantry
 		home = 873
 	}
 
 	regiment = {
-		name= "7. Piyade Tümeni"
+		name= "7. Piyade Tameni"
 		type = infantry
 		home = 869
 	}
 
 	regiment = {
-		name= "8. Piyade Tümeni"
+		name= "8. Piyade Tameni"
 		type = infantry
 		home = 863
 	}
@@ -157,21 +157,21 @@ army = {
 
 army = {
 	name = "Army of Arabia"
-	location = 919
+	location = 917
 	regiment = {
-		name= "12. Piyade Tümeni"
+		name= "12. Piyade Tameni"
 		type = hussar
 		home = 894
 	}
 
 	regiment = {
-		name= "13. Piyade Tümeni"
+		name= "13. Piyade Tameni"
 		type = infantry
 		home = 878
 	}
 
 	regiment = {
-		name= "14. Piyade Tümeni"
+		name= "14. Piyade Tameni"
 		type = infantry
 		home = 878
 	}
@@ -207,15 +207,15 @@ army = {
 	}
 
 	regiment = {
-		name= "1. Askäris"
+		name= "1. Askaris"
 		type = artillery
 		home = 880
 	}
 
 	regiment = {
-		name= "2. Askäris"
+		name= "2. Askaris"
 		type = artillery
-		home = 809
+		home = 899
 	}
 }
 
