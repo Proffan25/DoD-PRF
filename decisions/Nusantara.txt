@@ -4,7 +4,6 @@ political_decisions = {
         potential = {
 			tag = JAV
 		}
-
         allow = {
             war = no
 			NET_1413 = { owned_by = THIS }
@@ -56,5 +55,6 @@ political_decisions = {
                 state_scope = { change_region_name = "Tayoan" }
             }
             set_country_flag = nus_core_formosa
-		}	
+		}
 	}
+}

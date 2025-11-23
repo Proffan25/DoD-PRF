@@ -1,6 +1,6 @@
 army = {
 	name = "First Cavalry Army"
-	location = 1596
+	location = 1600
 	regiment = {
 		name= "1.1st Division"
 		type = cavalry

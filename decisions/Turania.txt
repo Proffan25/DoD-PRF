@@ -1,0 +1,46 @@
+political_decisions = {
+	form_turania = {
+		picture = turania
+		potential = {
+			tag = CHG
+            NOT = {
+                TKS = { exists = yes }
+            }
+		}
+		allow = {
+			CHG = {
+				all_core = {
+					owned_by = THIS
+				}
+			}
+			war = no
+		}
+		effect = {
+			add_accepted_culture = turkic
+			add_accepted_culture = mongol
+			CHG = { all_core = { add_core = TKS remove_core = CHG } }
+			change_tag = TKS
+		}
+	}
+
+    expanding_manchuria = {
+        picture = manchuria
+        potential = {
+            tag = TKS
+            NOT = { accepted_culture = manchu }
+        }
+        allow = {
+            nationalism_n_imperialism = 1
+			CHI_1553 = { owned_by = THIS }
+			CHI_1082 = { owned_by = THIS }
+        }
+        effect = {
+            CHI_1553 = { add_core = TKS }
+			CHI_1553 = { life_rating = 3 }
+            CHI_1082 = { add_core = TKS }
+			CHI_1082 = { life_rating = 6 }
+            CHI_1481 = { add_core = TKS }
+            add_accepted_culture = manchu
+        }
+    }	
+}

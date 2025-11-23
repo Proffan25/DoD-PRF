@@ -374,9 +374,6 @@ YNN_conservative_2;Local Tusi;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
 XIN_reactionary_2;Confucianist Faction;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
 XIN_conservative_2;Amban Faction;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
 XIN_liberal_2;Reformer Faction;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-KOR;Korea;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-KOR_absolute_monarchy;The Kingdom of Joseon;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-KOR_proletarian_dictatorship;DPRK;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
 KOR_reactionary;Bandong;;;;;;;;;;;;;;;;;;x;;;;
 KOR_liberal;Taewon'gun;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 KOR_liberal_2;Songgyungwan;;;;;;;;;;;;;;;;;;;;;;;x;;;;
@@ -461,10 +458,6 @@ SHK_anarcho_liberal;Shilluk Libertarian Front;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 SHK_socialist;Shilluk Socialist Front;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,
 SHK_communist;Shilluk People's Front;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,
 SHK_fascist;Shilluk National Front;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,
-MUG_absolute_monarchy;The Mughal Empire;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,
-MUG_prussian_constitutionalism;The Mughal Empire;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,
-MUG_fascist_dictatorship;The Gurkani Republic;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,
-MUG_proletarian_dictatorship;People's Republic of Mughalistan;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,
 MUG_conservative;Mir Saman;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 MUG_liberal;Hanafi;;;;;;;;;;;;;;;;;;;;;x;;;;
 MUG_reactionary;Mir Bakshi;;;;;;;;;;;;;;;;;;;;;;;x;;;;
@@ -888,11 +881,6 @@ CHD_reactionary;Patriotic Salvation Movement;;;;;;;;;;;;;x
 CHD_anarcho_liberal;Federation, Action for the Republic;;;;;;;;;;;;;x
 CHD_communist;Progressive Party;;;;;;;;;;;;;x
 CHD_fascist;National Union for Reform;;;;;;;;;;;;;x
-CHI_presidential_dictatorship;Beiyang China;;;;;;;;;;;;;x
-CHI_proletarian_dictatorship;People's Republic of China;;;;;;;;;;;;;x
-CHI_democracy;The Republic of China;;;;;;;;;;;;;x
-CHI_absolute_monarchy;The Empire of China;;;;;;;;;;;;;x
-CHI;China;;;;;;;;;;;;;x
 CHO;Chugoku;;;;;;;;;;;;;x
 CHO_ADJ;Chugokuan;;;;;;;;;;;;;x
 CHO_absolute_monarchy;Choshu;;;;;;;;;;;;;x
@@ -1843,14 +1831,6 @@ PNJ_anarcho_liberal;The Radical Party;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 PNJ_socialist;The Socialist Party;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 PNJ_communist;The Communist Party;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 PNJ_fascist;The Fascist Party;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-PNJ_absolute_monarchy;The Sikh Empire;;;;;;;;;;;;x
-PNJ_prussian_constitutionalism;The Sikh Empire;;;;;;;;;;;;x
-PNJ_absolute_monarchy_ADJ;Sikh;;;;;;;;;;;;x
-PNJ_prussian_constitutionalism_ADJ;Sikh;;;;;;;;;;;;x
-PNJ_hms_government;The Sikh Kingdom;;;;;;;;;;;;x
-PNJ_hms_government_ADJ;Sikh;;;;;;;;;;;;x
-PNJ_democracy;Khalistan;;;;;;;;;;;;x
-PNJ_democracy_ADJ;Khalistani;;;;;;;;;;;;x
 PNJ_fascist_dictatorship;Khalistan;;;;;;;;;;;;x
 PNJ_fascist_dictatorship_ADJ;Khalistani;;;;;;;;;;;;x
 PNT;Pontus;;;;;;;;;;;;x
@@ -2044,11 +2024,6 @@ SHA_anarcho_liberal;Radical Party;;;;;;;;;;;;;x
 SHA_fascist;Fascist Party;;;;;;;;;;;;;x
 SAK;Siak;;;;;;;;;;;;;x
 SAK_ADJ;Siak;;;;;;;;;;;;;x
-SIB;Siberian Republic;;;;;;;;;;;;;x
-SIB_absolute_monarchy;Siberia;;;;;;;;;;;;;x
-SIB_prussian_constitutionalism;Siberia;;;;;;;;;;;;;x
-SIB_hms_government;Siberia;;;;;;;;;;;;;x
-SIB_ADJ;Siberian;;;;;;;;;;;;;x
 SIB_conservative;Slavophile;Slavophile;Slawophile;;;;;;;;;;;;x;;;;;;;;;;;;;;
 SIB_liberal;Westerniser;Westerniser;Westler;;;;;;;;;;;;x;;;;;;;;;;;;;;
 SIB_communist;Social Democratic;Social-démocrate;Social Democratic;;;;;;;;;;;;x;;;;;;;;;;;;;;

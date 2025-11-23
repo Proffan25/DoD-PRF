@@ -1,5 +1,7 @@
 capital = 967
 primary_culture = tatar
+culture = turkic
+culture = north_caucasian
 religion = animist
 government = absolute_monarchy
 plurality = 0.0

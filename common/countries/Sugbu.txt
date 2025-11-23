@@ -1,4 +1,4 @@
-color = { 230 179 0  }
+color = { 92 87 122}
 graphical_culture = Generic
 
 party = {
@@ -87,32 +87,35 @@ party = {
 
 unit_names = {
 	dreadnought = {
-		"Nan'Shin" "Pao'Nim" "Ying'Ching" "Ton'Chi" "Hai'Yung" "Hai'Shew" "Hai'Shen" "Fei'Hung" "Chao'Ho" "Hai'Chi" "Ying'Swei" "Chao'Ho" "Ning'Hai" 
-		
-		
+		Davao "Emilio Aguinaldo" Filipinas Independencia "José Rizal" Lapu-Lapu Libertad Manila "Mariano Álvarez" Tagalo
+	}
+	battleship = {
+		Davao "Emilio Aguinaldo" Filipinas Independencia "José Rizal" Lapu-Lapu Libertad Manila "Mariano Álvarez" Tagalo
 	}
 	ironclad = {
-		"Nan'Shin" "Pao'Nim" "Ying'Ching" "Ton'Chi" "Hai'Yung" "Hai'Shew" "Hai'Shen" "Fei'Hung" "Chao'Ho" "Hai'Chi" "Ying'Swei" "Chao'Ho" "Ning'Hai" 
+		Agusan Akean Cagua Dagohoy Pampanga Pásig Pule Ragang Silang Sumuroy
 	}
 	manowar = {
-		"Nan'Shin" "Pao'Nim" "Ying'Ching" "Ton'Chi" "Hai'Yung" "Hai'Shew" "Hai'Shen" "Fei'Hung" "Chao'Ho" "Hai'Chi" "Ying'Swei" "Chao'Ho" "Ning'Hai" 
+		Indigena Liberación Nacional "Rey Felipe" Salvador "San Lázaro" "San Miguel" "Santa Cruz" "Santa María" "Santísima Trinidad"
 	}
 	cruiser = {
-		"Nan'Shin" "Pao'Nim" "Ying'Ching" "Ton'Chi" "Hai'Yung" "Hai'Shew" "Hai'Shen" "Fei'Hung" "Chao'Ho" "Hai'Chi" "Ying'Swei" "Chao'Ho" "Ning'Hai" 
+		Cebú Iloílo Leyte Luzón Mindanao Mindoro "Negros Occidental" Palawan Pangasinan
 	}
 	frigate = {
-		"Nan'Shin" "Pao'Nim" "Ying'Ching" "Ton'Chi" "Hai'Yung" "Hai'Shew" "Hai'Shen" "Fei'Hung" "Chao'Ho" "Hai'Chi" "Ying'Swei" "Chao'Ho" "Ning'Hai" 
+		"Apolinario Mabini" "Artemio Ricarte" "Datu Bantilan" "Datu Marikudo" "Emilio Jacinto" "Magat Salamat" "Miguel Malvar" "Pedro Paterno" "Rajá Humabon" "Sultán Kudarat"
 	}
 	monitor = {
-		"Nan'Shin" "Pao'Nim" "Ying'Ching" "Ton'Chi" "Hai'Yung" "Hai'Shew" "Hai'Shen" "Fei'Hung" "Chao'Ho" "Hai'Chi" "Ying'Swei" "Chao'Ho" "Ning'Hai" 
+		"Fernando de Magallanes" "Indias Orientales" "Juan Sebastián Elcano" "Miguel López de Legazpi" "Rajá de Butuán" "Rajá de Cebú" "Rajá de Manila" "Rajá de Tondo" "Sultán de Maguindanao" "Sultán de Sulu"
 	}
 	clipper_transport = {
-		
+		Alam Basa Batangas Berde Burghaw "Compañía de Filipinas" Delikadesa Demokrasya Guerra Hilaga
+		Itik Kursonada Pamilya "San Juan" "San Marino" "Stella Maris" Subic Tablas Timog Zamboanga
 	}
 	steam_transport = {
-		
+		Alam Basa Batangas Berde Burghaw "Compañía de Filipinas" Delikadesa Demokrasya Guerra Hilaga
+		Itik Kursonada Pamilya "San Juan" "San Marino" "Stella Maris" Subic Tablas Timog Zamboanga
 	}
 	commerce_raider = {
-		"Nan'Shin" "Pao'Nim" "Ying'Ching" "Ton'Chi" "Hai'Yung" "Hai'Shew" "Hai'Shen" "Fei'Hung" "Chao'Ho" "Hai'Chi" "Ying'Swei" "Chao'Ho" "Ning'Hai" 
+		Apo Balayán Bilirán Bulusán Hibok-Hibok Mayón Pinatubo "Purísima Concepción" Taal Taaleño
 	}
 }

@@ -1,15 +1,13 @@
-capital = 2608
+capital = 1600
 primary_culture = oirat
-culture = turkic
-culture = mongol
 religion = animist
 government = absolute_monarchy
 plurality = 25.0
 nationalvalue = nv_order
-literacy = 0.05
+literacy = 0.08
 non_state_culture_literacy = 0.01
 
-ruling_party = XIN_reactionary
+ruling_party = generic_conservative
 upper_house = {
 	fascist = 0
 	liberal = 10
