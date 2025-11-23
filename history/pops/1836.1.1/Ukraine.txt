@@ -2413,25 +2413,13 @@
     artisans = {
         culture = tatar
         religion = animist
-        size = 7500
-    }
-
-    clerks = {
-        culture = tatar
-        religion = animist
-        size = 50
-    }
-
-    craftsmen = {
-        culture = tatar
-        religion = animist
-        size = 0
+        size = 7750
     }
 
     soldiers = {
         culture = tatar
         religion = animist
-        size = 1983
+        size = 2332
     }
 
     farmers = {
@@ -2464,12 +2452,6 @@
         size = 500
     }
 
-    soldiers = {
-        culture = polish
-        religion = animist
-        size = 43
-    }
-
     farmers = {
         culture = polish
         religion = animist
@@ -2486,24 +2468,6 @@
         culture = ashkenazi
         religion = animist
         size = 1300
-    }
-
-    clerks = {
-        culture = ashkenazi
-        religion = animist
-        size = 100
-    }
-
-    craftsmen = {
-        culture = ashkenazi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = animist
-        size = 132
     }
 
     farmers = {
@@ -2542,12 +2506,6 @@
         size = 200
     }
 
-    soldiers = {
-        culture = tatar
-        religion = animist
-        size = 43
-    }
-
     farmers = {
         culture = tatar
         religion = animist
@@ -2564,12 +2522,6 @@
         culture = ukrainian
         religion = animist
         size = 750
-    }
-
-    soldiers = {
-        culture = ukrainian
-        religion = animist
-        size = 43
     }
 
     farmers = {
@@ -2590,24 +2542,6 @@
         size = 3900
     }
 
-    clerks = {
-        culture = ukrainian
-        religion = animist
-        size = 100
-    }
-
-    craftsmen = {
-        culture = ukrainian
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = ukrainian
-        religion = animist
-        size = 88
-    }
-
     farmers = {
         culture = ukrainian
         religion = animist
@@ -2624,12 +2558,6 @@
         culture = ukrainian
         religion = animist
         size = 750
-    }
-
-    soldiers = {
-        culture = ukrainian
-        religion = animist
-        size = 43
     }
 
     farmers = {
@@ -3497,25 +3425,13 @@
     artisans = {
         culture = tatar
         religion = animist
-        size = 6200
-    }
-
-    clerks = {
-        culture = tatar
-        religion = animist
-        size = 100
-    }
-
-    craftsmen = {
-        culture = tatar
-        religion = animist
-        size = 0
+        size = 6400
     }
 
     soldiers = {
         culture = tatar
         religion = animist
-        size = 2526
+        size = 2704
     }
 
     farmers = {
@@ -3536,18 +3452,6 @@
         size = 540
     }
 
-    clerks = {
-        culture = ashkenazi
-        religion = animist
-        size = 100
-    }
-
-    craftsmen = {
-        culture = ashkenazi
-        religion = animist
-        size = 0
-    }
-
     aristocrats = {
         culture = tatar
         religion = animist
@@ -3564,12 +3468,6 @@
         culture = tatar
         religion = animist
         size = 500
-    }
-
-    soldiers = {
-        culture = tatar
-        religion = animist
-        size = 178
     }
 
     farmers = {
