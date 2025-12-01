@@ -83,6 +83,7 @@ political_decisions = {
 		}
 		effect = {
 			inherit = PAP
+			PAP = { all_core = { add_core = ARN }
 			badboy = 10
 		}
 	}
@@ -111,7 +112,8 @@ political_decisions = {
 		}
 		effect = {
 			inherit = FRR
-			badboy = 10
+			FRR = { all_core = { add_core = ARN } }
+			badboy = 5
 		}
 	}
 	merge_the_crowns_ari = {
