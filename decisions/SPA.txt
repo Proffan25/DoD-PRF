@@ -52,6 +52,7 @@ political_decisions = {
 			add_accepted_culture = granadan
 			SPA = { all_core = { add_core = HIS remove_core = SPA } }
 			CLM = { all_core = { add_core = HIS } }
+			CUB = { all_core = { add_core = HIS } }
 			change_tag = HIS
 		}
 	}
