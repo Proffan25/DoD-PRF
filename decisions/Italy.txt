@@ -83,7 +83,7 @@ political_decisions = {
 		}
 		effect = {
 			inherit = PAP
-			PAP = { all_core = { add_core = ARN }
+			PAP = { all_core = { add_core = ARN } }
 			badboy = 10
 		}
 	}
