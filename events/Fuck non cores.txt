@@ -19,7 +19,347 @@ country_event = {
 					is_core = NAS
 					is_core = BEG
 					is_core = MNR
+					is_core = HEK
 					is_core = FRA
+				}
+			}
+			NOT = {
+				tag = NAN
+				or = {
+					is_core = AZL
+					is_core = LOT
+					is_core = AMA
+					is_core = INC
+					is_core = GRA
+				}
+			}
+			NOT = {
+				tag = AMA
+				or = {
+					is_core = LOT
+					is_core = NAN
+					is_core = GRA
+				}
+			}
+			NOT = {
+				tag = LOT
+				or = {
+					is_core = AMA
+					is_core = NAN
+					is_core = GRA
+				}
+			}
+			NOT = {
+				tag = PLA
+				or = {
+					is_core = NBG
+					is_core = VIN
+					is_core = LST
+				}
+			}
+			NOT = {
+				tag = NBG
+				or = {
+					is_core = PLA
+					is_core = VIN
+					is_core = LST
+				}
+			}
+			NOT = {
+				tag = VIN
+				or = {
+					is_core = NBG
+					is_core = PLA
+					is_core = DNG
+				}
+			}
+			NOT = {
+				tag = CLM
+				is_core = CUB
+			}
+			NOT = {
+				tag = SPA
+				is_core = CLM
+			}
+			NOT = {
+				tag = DUA
+				or = {
+					is_core = SCO
+					is_core = PRV
+					is_core = BRG
+				}
+			}
+			NOT = {
+				tag = ARN
+				or = {
+					is_core = PAP
+					is_core = FRR
+					is_core = TUS
+					is_core = LUC
+					is_core = MOD
+					is_core = PRM
+					is_core = SAR
+					is_core = LOM
+					is_core = VEN
+				}
+			}
+			NOT = {
+				or = {
+					tag = VEN
+					tag = SAR
+				}
+				or = {
+					is_core = PAP
+					is_core = FRR
+					is_core = TUS
+					is_core = LUC
+					is_core = MOD
+					is_core = PRM
+					is_core = SAR
+					is_core = LOM
+					is_core = SIC
+				}
+			}
+			NOT = {
+				or = {
+					tag = SGF
+					tag = BAV
+					tag = AUS
+				}
+				or = {
+					is_core = SWI
+					is_core = BAD
+					is_core = WUR
+					is_core = HES
+					is_core = FRM
+					is_core = NAS
+					is_core = BEG
+					is_core = MNR
+					is_core = RHI
+					is_core = THU
+					is_core = BRA
+					is_core = HAN
+					is_core = LIP
+					is_core = FRI
+					is_core = OLD
+					is_core = BRE
+					is_core = BRN
+					is_core = POM
+					is_core = HOL
+					is_core = PRU
+					is_core = SAX
+					is_core = HEK
+				}
+			}
+			NOT = {
+				tag = BOH
+				or = {
+					is_core = SWI
+					is_core = BAD
+					is_core = WUR
+					is_core = HES
+					is_core = FRM
+					is_core = NAS
+					is_core = BEG
+					is_core = MNR
+					is_core = RHI
+					is_core = THU
+					is_core = BRA
+					is_core = HAN
+					is_core = LIP
+					is_core = FRI
+					is_core = OLD
+					is_core = BRE
+					is_core = BRN
+					is_core = POM
+					is_core = HOL
+					is_core = PRU
+					is_core = HEK
+				}
+			}
+			NOT = {
+				tag = SCA
+				or = {
+					is_core = ENG
+					is_core = IRE
+					is_core = BRN
+					is_core = THU
+					is_core = SAX
+					is_core = BRA
+					is_core = HEK
+					is_core = LIP
+					is_core = HAN
+					is_core = FRI
+					is_core = OLD
+					is_core = BRE
+					is_core = LIT
+					is_core = FRI
+					is_core = PSV
+				}
+			}
+			NOT = {
+				tag = HUN
+				or = {
+					is_core = CRO
+					is_core = SER
+					is_core = MON
+					is_core = WAL
+					is_core = MOL
+					is_core = ROM
+				}
+			}
+			NOT = {
+				tag = MAC
+				or = {
+					is_core = GRE
+					is_core = BUL
+				}
+			}
+			NOT = {
+				tag = TUR
+				or = {
+					is_core = MON
+					is_core = CRO
+					is_core = AZB
+					is_core = EGY
+					is_core = NEJ
+				}
+			}
+			NOT = {
+				or = {
+					tag = EGY
+					tag = IRQ
+					tag = ALA
+					tag = ARA
+				}
+				or = {
+					is_core = TUN
+					is_core = MOR
+					is_core = NEJ
+					is_core = SYR
+					is_core = IRQ
+					is_core = EGY
+				}
+			}
+			NOT = {
+				tag = PLC
+				or = {
+					is_core = MUS
+					is_core = RUS
+					is_core = PSV
+					is_core = LAT
+					is_core = CRI
+					is_core = MOL
+					is_core = NOV
+				}
+			}
+			NOT = {
+				or = {
+					tag = MUS
+					tag = NOV
+					tag = RUS
+				}
+				or = {
+					is_core = PSV
+					is_core = NOV
+					is_core = RUS
+					is_core = UKR
+					is_core = BYE
+					is_core = CRI
+					is_core = ASK
+					is_core = GEO
+					is_core = FIN
+					is_core = LAT
+					is_core = LIT
+					is_core = NOG
+					is_core = SIB
+				}
+			}
+			NOT = {
+				or = {
+					tag = CRI
+					tag = ASK
+					tag = NOG
+					tag = TAR
+				}
+				or = {
+					is_core = CRI
+					is_core = ASK
+					is_core = NOG
+					is_core = KZH
+					is_core = AFS
+					is_core = SIB
+				}
+			}
+			NOT = {
+				or = {
+					tag = IRQ
+					tag = PER
+					tag = AZB
+					tag = AFS
+					tag = AFG
+				}
+				or = {
+					is_core = IRQ
+					is_core = PER
+					is_core = AZB
+					is_core = AFS
+					is_core = AFG
+				}
+			}
+			NOT = {
+				or = {
+					tag = MUG
+					tag = BNG
+					tag = AFG
+					tag = VIJ
+				}
+				or = {
+					is_core = PNJ
+					is_core = SIN
+					is_core = RAJ
+					is_core = BER
+					is_core = VIJ
+					is_core = NAG
+					is_core = HYD
+					is_core = TRA
+					is_core = MDR
+					is_core = NEP
+					is_core = BHU
+					is_core = SIK
+				}
+			}
+			NOT = {
+				or = {
+					tag = JAV
+					tag = NUS
+				}
+				or = {
+					is_core = ATJ
+					is_core = DJA
+					is_core = BAL
+					is_core = MAD
+					is_core = KLM
+					is_core = BRU
+					is_core = JOH
+					is_core = SLW
+					is_core = SUG
+				}
+			}
+			NOT = {
+				tag = DNG
+				is_core = ZHO
+			}
+			NOT = {
+				or = {
+					tag = CHG
+					tag = TKS
+				}
+				or = {
+					is_core = MCK
+					is_core = AFS
+					is_core = NOG
+					is_core = SIB
 				}
 			}
 		}
@@ -47,7 +387,347 @@ country_event = {
 						is_core = NAS
 						is_core = BEG
 						is_core = MNR
+						is_core = HEK
 						is_core = FRA
+					}
+				}
+				NOT = {
+					tag = NAN
+					or = {
+						is_core = AZL
+						is_core = LOT
+						is_core = AMA
+						is_core = INC
+						is_core = GRA
+					}
+				}
+				NOT = {
+					tag = AMA
+					or = {
+						is_core = LOT
+						is_core = NAN
+						is_core = GRA
+					}
+				}
+				NOT = {
+					tag = LOT
+					or = {
+						is_core = AMA
+						is_core = NAN
+						is_core = GRA
+					}
+				}
+				NOT = {
+					tag = PLA
+					or = {
+						is_core = NBG
+						is_core = VIN
+						is_core = LST
+					}
+				}
+				NOT = {
+					tag = NBG
+					or = {
+						is_core = PLA
+						is_core = VIN
+						is_core = LST
+					}
+				}
+				NOT = {
+					tag = VIN
+					or = {
+						is_core = NBG
+						is_core = PLA
+						is_core = DNG
+					}
+				}
+				NOT = {
+					tag = CLM
+					is_core = CUB
+				}
+				NOT = {
+					tag = SPA
+					is_core = CLM
+				}
+				NOT = {
+					tag = DUA
+					or = {
+						is_core = SCO
+						is_core = PRV
+						is_core = BRG
+					}
+				}
+				NOT = {
+					tag = ARN
+					or = {
+						is_core = PAP
+						is_core = FRR
+						is_core = TUS
+						is_core = LUC
+						is_core = MOD
+						is_core = PRM
+						is_core = SAR
+						is_core = LOM
+						is_core = VEN
+					}
+				}
+				NOT = {
+					or = {
+						tag = VEN
+						tag = SAR
+					}
+					or = {
+						is_core = PAP
+						is_core = FRR
+						is_core = TUS
+						is_core = LUC
+						is_core = MOD
+						is_core = PRM
+						is_core = SAR
+						is_core = LOM
+						is_core = SIC
+					}
+				}
+				NOT = {
+					or = {
+						tag = SGF
+						tag = BAV
+						tag = AUS
+					}
+					or = {
+						is_core = SWI
+						is_core = BAD
+						is_core = WUR
+						is_core = HES
+						is_core = FRM
+						is_core = NAS
+						is_core = BEG
+						is_core = MNR
+						is_core = RHI
+						is_core = THU
+						is_core = BRA
+						is_core = HAN
+						is_core = LIP
+						is_core = FRI
+						is_core = OLD
+						is_core = BRE
+						is_core = BRN
+						is_core = POM
+						is_core = HOL
+						is_core = PRU
+						is_core = SAX
+						is_core = HEK
+					}
+				}
+				NOT = {
+					tag = BOH
+					or = {
+						is_core = SWI
+						is_core = BAD
+						is_core = WUR
+						is_core = HES
+						is_core = FRM
+						is_core = NAS
+						is_core = BEG
+						is_core = MNR
+						is_core = RHI
+						is_core = THU
+						is_core = BRA
+						is_core = HAN
+						is_core = LIP
+						is_core = FRI
+						is_core = OLD
+						is_core = BRE
+						is_core = BRN
+						is_core = POM
+						is_core = HOL
+						is_core = PRU
+						is_core = HEK
+					}
+				}
+				NOT = {
+					tag = SCA
+					or = {
+						is_core = ENG
+						is_core = IRE
+						is_core = BRN
+						is_core = THU
+						is_core = SAX
+						is_core = BRA
+						is_core = HEK
+						is_core = LIP
+						is_core = HAN
+						is_core = FRI
+						is_core = OLD
+						is_core = BRE
+						is_core = LIT
+						is_core = FRI
+						is_core = PSV
+					}
+				}
+				NOT = {
+					tag = HUN
+					or = {
+						is_core = CRO
+						is_core = SER
+						is_core = MON
+						is_core = WAL
+						is_core = MOL
+						is_core = ROM
+					}
+				}
+				NOT = {
+					tag = MAC
+					or = {
+						is_core = GRE
+						is_core = BUL
+					}
+				}
+				NOT = {
+					tag = TUR
+					or = {
+						is_core = MON
+						is_core = CRO
+						is_core = AZB
+						is_core = EGY
+						is_core = NEJ
+					}
+				}
+				NOT = {
+					or = {
+						tag = EGY
+						tag = IRQ
+						tag = ALA
+						tag = ARA
+					}
+					or = {
+						is_core = TUN
+						is_core = MOR
+						is_core = NEJ
+						is_core = SYR
+						is_core = IRQ
+						is_core = EGY
+					}
+				}
+				NOT = {
+					tag = PLC
+					or = {
+						is_core = MUS
+						is_core = RUS
+						is_core = PSV
+						is_core = LAT
+						is_core = CRI
+						is_core = MOL
+						is_core = NOV
+					}
+				}
+				NOT = {
+					or = {
+						tag = MUS
+						tag = NOV
+						tag = RUS
+					}
+					or = {
+						is_core = PSV
+						is_core = NOV
+						is_core = RUS
+						is_core = UKR
+						is_core = BYE
+						is_core = CRI
+						is_core = ASK
+						is_core = GEO
+						is_core = FIN
+						is_core = LAT
+						is_core = LIT
+						is_core = NOG
+						is_core = SIB
+					}
+				}
+				NOT = {
+					or = {
+						tag = CRI
+						tag = ASK
+						tag = NOG
+						tag = TAR
+					}
+					or = {
+						is_core = CRI
+						is_core = ASK
+						is_core = NOG
+						is_core = KZH
+						is_core = AFS
+						is_core = SIB
+					}
+				}
+				NOT = {
+					or = {
+						tag = IRQ
+						tag = PER
+						tag = AZB
+						tag = AFS
+						tag = AFG
+					}
+					or = {
+						is_core = IRQ
+						is_core = PER
+						is_core = AZB
+						is_core = AFS
+						is_core = AFG
+					}
+				}
+				NOT = {
+					or = {
+						tag = MUG
+						tag = BNG
+						tag = AFG
+						tag = VIJ
+					}
+					or = {
+						is_core = PNJ
+						is_core = SIN
+						is_core = RAJ
+						is_core = BER
+						is_core = VIJ
+						is_core = NAG
+						is_core = HYD
+						is_core = TRA
+						is_core = MDR
+						is_core = NEP
+						is_core = BHU
+						is_core = SIK
+					}
+				}
+				NOT = {
+					or = {
+						tag = JAV
+						tag = NUS
+					}
+					or = {
+						is_core = ATJ
+						is_core = DJA
+						is_core = BAL
+						is_core = MAD
+						is_core = KLM
+						is_core = BRU
+						is_core = JOH
+						is_core = SLW
+						is_core = SUG
+					}
+				}
+				NOT = {
+					tag = DNG
+					is_core = ZHO
+				}
+				NOT = {
+					or = {
+						tag = CHG
+						tag = TKS
+					}
+					or = {
+						is_core = MCK
+						is_core = AFS
+						is_core = NOG
+						is_core = SIB
 					}
 				}
 			}
