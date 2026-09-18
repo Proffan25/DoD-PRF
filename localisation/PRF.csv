@@ -16,8 +16,10 @@ nan_rename_the_falklands_title;The Falklands Question;;;;;;;;;;;;x,,,,,,,,,,,,,,
 nan_rename_the_falklands_desc;Now that we regained our rightful islands we shall change their name back to their original one.;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 cusco_capital_title;Move the capital to Cusco;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 cusco_capital_desc;Finally, we have taken back from the barbarian Westerners our imperial capital of Cusco! Let us establish their once more the capital of the glorious Inca realm.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-ameriga_form_title;Form Ameriga;;;;;;;;;;;;x,,,,
-ameriga_form_desc;We have control of all of Ameriga, we can form the Federation!;;;;;;;;;;;;x,,,
+ameriga_form_AMA_title;Form Ameriga;;;;;;;;;;;;x,,,,
+ameriga_form_AMA_desc;Despite the wars with Lotharingia, we now stand proud as the dominant power of Ameriga. We can now unify the two former Frankish colonies into a single state that will rivalize with the Great European Powers. Long Live Ameriga!;;;;;;;;;;;;x,,,
+ameriga_form_LOT_title;Form Ameriga;;;;;;;;;;;;x,,,,
+ameriga_form_LOT_desc;Despite the wars with Amazonia, we now stand proud as the dominant power of Ameriga. We can now unify the two former Frankish colonies into a single state that will rivalize with the Great European Powers. Long Live Ameriga!;;;;;;;;;;;;x,,,
 integrate_afro_amerigans_title;Integrate Afro Amerigans;;;;;;;;;;;;x,,,,
 integrate_afro_amerigans_desc;We can now fully guarantee the rights of the Afro Amerigans.;;;;;;;;;;;;x,,,,
 conquest_of_jungle_title;Conquest of the Amazon;;;;;;;;;;;;x,,,,
@@ -258,6 +260,22 @@ form_turania_title;Unification of the Steppe;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 form_turania_desc;The Steppes have seen the fall of many nomad empires: the Saka, the Xiongnu, the Mongols... All have faded and are now only remembered in history. But the Steppes need a leader to unite them into a single state, not a Khanate a relic of the past, and who will protect them from Imperialism, be it from Europe or Asia!;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 expanding_manchuria_title;Rescue the Manchus;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 expanding_manchuria_desc;The Manchus are closely related to our homeland. In fact if it were not for the petty Qing Empire they would have surely joined us. Japan has interests in the area and it is our duty to protect the Manchu from China and Japan alike. And an access to the sea would be interesting for our country...;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+show_prf_custom_content_title;Show PRF custom content decisions;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+show_prf_custom_content_desc;Click to show all decisions that allow you to enable or disable PRF custom content.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+hide_prf_decisions_title;Hide PRF custom content decisions;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+hide_prf_decisions_desc;Click to hide all decisions that allow you to enable or disable PRF custom content.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+increase_infamy_title;Increase Infamy;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+increase_infamy_desc;Gives 1 Infamy to the target country.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+decrease_infamy_title;Decrease Infamy;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+decrease_infamy_desc;Takes 1 Infamy from the target country.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+give_sanctions_title;Give Sanctions;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+give_sanctions_desc;Gives Sanctions to the target country.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+restart_bank_construction_title;Additional World Bank Construction;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+restart_bank_construction_desc;Everytime you press this decision a new World Bank will begin construction.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+disable_fuck_noncores_title;Disable Non-Core debuffs;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+disable_fuck_noncores_desc;This decision will stop the "Fuck non-cores" event from firing.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+enable_fuck_noncores_title;Enable Non-Core debuffs;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+enable_fuck_noncores_desc;This decision will enable the "Fuck non-cores" event from firing.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 #;;;;;;;;;;;;;;Modifiers;;;;
 fuck_non_cores;Fuck Non Cores;;;;;;;;;;;;;
 continental_army;Continental Army;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;
@@ -759,6 +777,8 @@ RUS_965;Yedisan;;;;;;;;;;;;;x;
 absolute_empire;Absolute Monarchy;Absolute Monarchy;Absolute Monarchy;;Absolute Monarchy;;;;;;;;;x;;;;
 semi_constitutional_empire;Semi-Constitutional Monarchy;Semi-Constitutional Monarchy;Semi-Constitutional Monarchy;;Semi-Constitutional Monarchy;;;;;;;;;x;;;;
 constitutional_empire;Constitutional Monarchy;Constitutional Monarchy;Constitutional Monarchy;;Constitutional Monarchy;;;;;;;;;x;;;;
+#;;;;;;;;;;;;;;Pol Parties;;;;
+GHO_exclusive;World Bank Debug Party;;;;;;;;;;;;;
 #;;;;;;;;;;;;;;CBs;;;;
 take_capital_tiny;Take Tiny Capital;;;;;;;;;;;;;
 take_capital_tiny_desc;Take the Tiny Capital region of a �Ycountry�W and force them to move their capital elsewhere;;;;;;;;;;;;;

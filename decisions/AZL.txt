@@ -1,14 +1,11 @@
 political_decisions = {
-	
-	ameriga_form = {
-        picture = map_ameriga
+	ameriga_form_AMA = {
+        picture = federation
 		potential = {
-			OR = {
-				tag = AMA
-				tag = LOT
-			}
+			tag = AMA
 		}
 		allow = {
+			war = no
 			AMA = {
 				all_core = {
 					OR = {
@@ -37,8 +34,74 @@ political_decisions = {
 			}
 		}
 		effect = {
-			change_tag = AZL
+			add_accepted_culture = lotharian
 			AMA = { all_core = { add_core = AZL remove_core = AMA } }
+			LOT = { all_core = { add_core = AZL } }
+			any_country = {
+				limit = {
+					primary_culture = amazonian
+					 OR = {
+					   vassal_of = THIS
+					}
+					NOT = {
+						tag = THIS
+					}
+				}
+				annex_to = THIS
+			}
+			any_country = {
+				limit = {
+					primary_culture = lotharian
+					 OR = {
+					   vassal_of = THIS
+					}
+					NOT = {
+						tag = THIS
+					}
+				}
+				annex_to = THIS
+			}
+			change_tag = AZL
+		}
+	}
+	
+	ameriga_form_LOT = {
+        picture = federation
+		potential = {
+			tag = LOT
+		}
+		allow = {
+			war = no
+			AMA = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							OR = {
+								in_sphere = THIS
+								vassal_of = THIS
+							}
+						}
+					}
+				}
+			}
+			LOT = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+						  OR = {
+							in_sphere = THIS
+							vassal_of = THIS
+							}
+						}
+					}
+				}
+			}
+		}
+		effect = {
+			add_accepted_culture = amazonian
+			AMA = { all_core = { add_core = AZL } }
 			LOT = { all_core = { add_core = AZL remove_core = LOT } }
 			any_country = {
 				limit = {
@@ -64,10 +127,9 @@ political_decisions = {
 				}
 				annex_to = THIS
 			}
-			add_accepted_culture = amazonian
-			add_accepted_culture = lotharian
+			change_tag = AZL
 		}
-	}
+	}	
 	
 	integrate_afro_amerigans = {
         picture = acceptation_afro
