@@ -6,37 +6,37 @@
     aristocrats = {
         culture = qingqiuan
         religion = animist
-        size = 250
+        size = 114
     }
 
     clergymen = {
         culture = qingqiuan
         religion = animist
-        size = 375
+        size = 171
     }
 
     artisans = {
         culture = qingqiuan
         religion = animist
-        size = 1000
+        size = 457
     }
 
     soldiers = {
         culture = qingqiuan
         religion = animist
-        size = 2000
+        size = 914
     }
 
     farmers = {
         culture = qingqiuan
         religion = animist
-        size = 17875
+        size = 8165
     }
 
     farmers = {
         culture = qingqiuan
         religion = animist
-        size = 1250
+        size = 571
     }
 }
 #New Plymouth (8000/2000 POPS)
@@ -44,31 +44,31 @@
     aristocrats = {
         culture = qingqiuan
         religion = animist
-        size = 125
+        size = 57
     }
 
     clergymen = {
         culture = qingqiuan
         religion = animist
-        size = 250
+        size = 114
     }
 
     artisans = {
         culture = qingqiuan
         religion = animist
-        size = 500
+        size = 228
     }
 
     soldiers = {
         culture = qingqiuan
         religion = animist
-        size = 1000
+        size = 457
     }
 
     farmers = {
         culture = qingqiuan
         religion = animist
-        size = 8875
+        size = 4054
     }
 }
 #Napier (12000/3000 POPS)
@@ -76,31 +76,31 @@
     aristocrats = {
         culture = qingqiuan
         religion = animist
-        size = 125
+        size = 57
     }
 
     clergymen = {
         culture = qingqiuan
         religion = animist
-        size = 375
+        size = 171
     }
 
     artisans = {
         culture = qingqiuan
         religion = animist
-        size = 750
+        size = 343
     }
 
     soldiers = {
         culture = qingqiuan
         religion = animist
-        size = 1500
+        size = 685
     }
 
     farmers = {
         culture = qingqiuan
         religion = animist
-        size = 13375
+        size = 6110
     }
 }
 #Wellington (12000/3000 POPS)
@@ -108,31 +108,31 @@
     aristocrats = {
         culture = qingqiuan
         religion = animist
-        size = 125
+        size = 57
     }
 
     clergymen = {
         culture = qingqiuan
         religion = animist
-        size = 375
+        size = 171
     }
 
     artisans = {
         culture = qingqiuan
         religion = animist
-        size = 750
+        size = 343
     }
 
     soldiers = {
         culture = qingqiuan
         religion = animist
-        size = 1500
+        size = 685
     }
 
     farmers = {
         culture = qingqiuan
         religion = animist
-        size = 13375
+        size = 6110
     }
 }
 #Tauranga (12000/3000 POPS)
@@ -140,31 +140,31 @@
     aristocrats = {
         culture = qingqiuan
         religion = animist
-        size = 125
+        size = 57
     }
 
     clergymen = {
         culture = qingqiuan
         religion = animist
-        size = 375
+        size = 171
     }
 
     artisans = {
         culture = qingqiuan
         religion = animist
-        size = 750
+        size = 343
     }
 
     soldiers = {
         culture = qingqiuan
         religion = animist
-        size = 1500
+        size = 685
     }
 
     farmers = {
         culture = qingqiuan
         religion = animist
-        size = 13375
+        size = 6110
     }
 }
 #South Island Region (24000)
@@ -173,31 +173,31 @@
     aristocrats = {
         culture = qingqiuan
         religion = animist
-        size = 50
+        size = 23
     }
 
     clergymen = {
         culture = qingqiuan
         religion = animist
-        size = 125
+        size = 57
     }
 
     artisans = {
         culture = qingqiuan
         religion = animist
-        size = 250
+        size = 114
     }
 
     soldiers = {
         culture = qingqiuan
         religion = animist
-        size = 300
+        size = 137
     }
 
     farmers = {
         culture = qingqiuan
         religion = animist
-        size = 4500
+        size = 2056
     }
 }
 #Hokitikia (4000/1000 POPS)
@@ -205,31 +205,31 @@
     aristocrats = {
         culture = qingqiuan
         religion = animist
-        size = 50
+        size = 23
     }
 
     clergymen = {
         culture = qingqiuan
         religion = animist
-        size = 125
+        size = 57
     }
 
     artisans = {
         culture = qingqiuan
         religion = animist
-        size = 250
+        size = 114
     }
 
     soldiers = {
         culture = qingqiuan
         religion = animist
-        size = 300
+        size = 137
     }
 
     farmers = {
         culture = qingqiuan
         religion = animist
-        size = 4500
+        size = 2056
     }
 }
 #Christchurch (4000/1000 POPS)
@@ -237,31 +237,31 @@
     aristocrats = {
         culture = qingqiuan
         religion = animist
-        size = 125
+        size = 57
     }
 
     clergymen = {
         culture = qingqiuan
         religion = animist
-        size = 250
+        size = 114
     }
 
     artisans = {
         culture = qingqiuan
         religion = animist
-        size = 500
+        size = 228
     }
 
     soldiers = {
         culture = qingqiuan
         religion = animist
-        size = 1000
+        size = 457
     }
 
     farmers = {
         culture = qingqiuan
         religion = animist
-        size = 8875
+        size = 4054
     }
 }
 #Nelson (12000/3000 POPS)
@@ -269,30 +269,30 @@
     aristocrats = {
         culture = qingqiuan
         religion = animist
-        size = 125
+        size = 57
     }
 
     clergymen = {
         culture = qingqiuan
         religion = animist
-        size = 375
+        size = 171
     }
 
     artisans = {
         culture = qingqiuan
         religion = animist
-        size = 750
+        size = 343
     }
 
     soldiers = {
         culture = qingqiuan
         religion = animist
-        size = 1500
+        size = 685
     }
 
     farmers = {
         culture = qingqiuan
         religion = animist
-        size = 13375
+        size = 6110
     }
 }
