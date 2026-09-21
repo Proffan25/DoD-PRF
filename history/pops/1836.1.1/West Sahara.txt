@@ -3,55 +3,55 @@
 #Al Aiyun (12000/3000 POPS)  
 1773 = {
 	aristocrats = {
-		culture = afro_asiatic
+		culture = native_american_minor
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = afro_asiatic
+		culture = native_american_minor
 		religion = animist
 		size = 15
 	}
 
 	artisans = {
-		culture = afro_asiatic
+		culture = native_american_minor
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = afro_asiatic
+		culture = native_american_minor
 		religion = animist
 		size = 50
 	}
 
 	farmers = {
-		culture = afro_asiatic
+		culture = native_american_minor
 		religion = animist
 		size = 900
 	}
 
 	aristocrats = {
-		culture = afro_asiatic
+		culture = native_american_minor
 		religion = animist
 		size = 25
 	}
 
 	clergymen = {
-		culture = afro_asiatic
+		culture = native_american_minor
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = afro_asiatic
+		culture = native_american_minor
 		religion = animist
 		size = 100
 	}
 
 	farmers = {
-		culture = afro_asiatic
+		culture = native_american_minor
 		religion = animist
 		size = 1800
 	}
@@ -59,55 +59,55 @@
 #Dahkla (8000/2000 POPS)  
 1774 = {
 	aristocrats = {
-		culture = afro_asiatic
+		culture = native_american_minor
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = afro_asiatic
+		culture = native_american_minor
 		religion = animist
 		size = 15
 	}
 
 	artisans = {
-		culture = afro_asiatic
+		culture = native_american_minor
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = afro_asiatic
+		culture = native_american_minor
 		religion = animist
 		size = 50
 	}
 
 	farmers = {
-		culture = afro_asiatic
+		culture = native_american_minor
 		religion = animist
 		size = 900
 	}
 
 	aristocrats = {
-		culture = afro_asiatic
+		culture = native_american_minor
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = afro_asiatic
+		culture = native_american_minor
 		religion = animist
 		size = 15
 	}
 
 	artisans = {
-		culture = afro_asiatic
+		culture = native_american_minor
 		religion = animist
 		size = 50
 	}
 
 	farmers = {
-		culture = afro_asiatic
+		culture = native_american_minor
 		religion = animist
 		size = 900
 	}

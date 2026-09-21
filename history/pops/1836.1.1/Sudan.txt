@@ -3,43 +3,43 @@
 #Khartoum (344000/86000 POPS)
 1827 = {
     aristocrats = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 747
     }
 
     bureaucrats = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 46
     }
 
     officers = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 126
     }
 
     clergymen = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 488
     }
 
     artisans = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 2443
     }
 
     soldiers = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 5088
     }
 
     farmers = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 40422
     }
@@ -81,13 +81,13 @@
     }
 
     slaves = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 25300
     }
 
     slaves = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 5750
     }
@@ -95,43 +95,43 @@
 #Wadi Madani (136000/34000 POPS)
 1828 = {
     aristocrats = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 431
     }
 
     clergymen = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 258
     }
 
     artisans = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 1322
     }
 
     soldiers = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 1265
     }
 
     farmers = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 23287
     }
 
     slaves = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 8050
     }
 
     slaves = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 4600
     }
@@ -139,85 +139,85 @@
 #Kassala (252000/63000 POPS)
 1829 = {
     aristocrats = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 460
     }
 
     clergymen = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 258
     }
 
     artisans = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 1322
     }
 
     soldiers = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 2788
     }
 
     farmers = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 22108
     }
 
     aristocrats = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 776
     }
 
     clergymen = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 402
     }
 
     artisans = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 1667
     }
 
     farmers = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 27858
     }
 
     slaves = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 10350
     }
 
     aristocrats = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 86
     }
 
     clergymen = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 57
     }
 
     artisans = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 230
     }
 
     farmers = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 4168
     }
@@ -225,85 +225,85 @@
 #Sennar (160000/40000 POPS)
 1830 = {
     aristocrats = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 546
     }
 
     clergymen = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 287
     }
 
     artisans = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 1552
     }
 
     soldiers = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 1408
     }
 
     farmers = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 25213
     }
 
     aristocrats = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 86
     }
 
     clergymen = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 57
     }
 
     artisans = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 287
     }
 
     farmers = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 5318
     }
 
     slaves = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 2300
     }
 
     aristocrats = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 172
     }
 
     clergymen = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 86
     }
 
     artisans = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 460
     }
 
     farmers = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 8395
     }
@@ -311,61 +311,61 @@
 #Rabak (128000/32000 POPS)
 1831 = {
     aristocrats = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 402
     }
 
     clergymen = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 230
     }
 
     artisans = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 1121
     }
 
     soldiers = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 1351
     }
 
     farmers = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 20096
     }
 
     aristocrats = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 172
     }
 
     clergymen = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 86
     }
 
     artisans = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 460
     }
 
     farmers = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 8366
     }
 
     slaves = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 4600
     }
@@ -373,79 +373,79 @@
 #Fashoda (132000/33000 POPS)
 1832 = {
     aristocrats = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 316
     }
 
     clergymen = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 172
     }
 
     artisans = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 862
     }
 
     soldiers = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 401
     }
 
     farmers = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 15726
     }
 
     aristocrats = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 143
     }
 
     clergymen = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 86
     }
 
     artisans = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 402
     }
 
     farmers = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 7331
     }
 
     aristocrats = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 230
     }
 
     clergymen = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 115
     }
 
     artisans = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 632
     }
 
     farmers = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 10378
     }
@@ -455,31 +455,31 @@
 #Suakin (60000/15000 POPS) #now part of Sudan
 1833 = {
     aristocrats = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 86
     }
 
     bureaucrats = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 28
     }
 
     officers = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 28
     }
 
     clergymen = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 57
     }
 
     artisans = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 230
     }
@@ -491,7 +491,7 @@
     }
 
     farmers = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 4111
     }
@@ -521,31 +521,31 @@
     }
 
     aristocrats = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 28
     }
 
     clergymen = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 57
     }
 
     artisans = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 115
     }
 
     farmers = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 2070
     }
 
     slaves = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 2300
     }
@@ -553,31 +553,31 @@
 #Halaib (48000/12000 POPS) #now part of Sudan
 1834 = {
     aristocrats = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 115
     }
 
     clergymen = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 57
     }
 
     artisans = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 345
     }
 
     soldiers = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 142
     }
 
     farmers = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 6296
     }
@@ -607,25 +607,25 @@
     }
 
     aristocrats = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 57
     }
 
     clergymen = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 86
     }
 
     artisans = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 172
     }
 
     farmers = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 3105
     }
@@ -635,31 +635,31 @@
 #Dunqulah (84000/21000 POPS)
 1835 = {
     aristocrats = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 57
     }
 
     bureaucrats = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 11
     }
 
     officers = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 46
     }
 
     clergymen = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 86
     }
 
     artisans = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 172
     }
@@ -671,7 +671,7 @@
     }
 
     farmers = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 2990
     }
@@ -701,31 +701,31 @@
     }
 
     slaves = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 3450
     }
 
     aristocrats = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 17
     }
 
     clergymen = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 28
     }
 
     artisans = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 57
     }
 
     farmers = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 1035
     }
@@ -733,31 +733,31 @@
 #Hayya (104000/26000 POPS)
 1836 = {
     aristocrats = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 86
     }
 
     clergymen = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 57
     }
 
     artisans = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 230
     }
 
     soldiers = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 344
     }
 
     farmers = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 4168
     }
@@ -787,25 +787,25 @@
     }
 
     aristocrats = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 373
     }
 
     clergymen = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 201
     }
 
     artisans = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 1035
     }
 
     farmers = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 18860
     }
@@ -813,19 +813,19 @@
 #Atbarah (40000/1000 POPS)
 1837 = {
     aristocrats = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 17
     }
 
     clergymen = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 28
     }
 
     artisans = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 57
     }
@@ -837,7 +837,7 @@
     }
 
     farmers = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 1035
     }
@@ -867,25 +867,25 @@
     }
 
     aristocrats = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 57
     }
 
     clergymen = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 86
     }
 
     artisans = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 172
     }
 
     farmers = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 3105
     }
@@ -927,49 +927,49 @@
 #Obeid (180000/45000 POPS)
 1838 = {
     aristocrats = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 575
     }
 
     bureaucrats = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 28
     }
 
     officers = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 115
     }
 
     clergymen = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 287
     }
 
     artisans = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 1265
     }
 
     soldiers = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 517
     }
 
     farmers = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 27226
     }
 
     slaves = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 21850
     }
@@ -977,37 +977,37 @@
 #Nuhud (164000/41000 POPS)
 1839 = {
     aristocrats = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 546
     }
 
     clergymen = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 287
     }
 
     artisans = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 1265
     }
 
     soldiers = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 488
     }
 
     farmers = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 27427
     }
 
     slaves = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 17250
     }
@@ -1015,61 +1015,61 @@
 #Kaduqli (180000/45000 POPS)
 1840 = {
     aristocrats = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 402
     }
 
     clergymen = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 201
     }
 
     artisans = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 833
     }
 
     soldiers = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 517
     }
 
     farmers = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 18917
     }
 
     slaves = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 12650
     }
 
     aristocrats = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 316
     }
 
     clergymen = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 172
     }
 
     artisans = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 920
     }
 
     farmers = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 16818
     }
@@ -1079,49 +1079,49 @@
 #Fasher (136000/34000 POPS)
 1841 = {
     aristocrats = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 600
     }
 
     bureaucrats = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 50
     }
 
     officers = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 100
     }
 
     clergymen = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 325
     }
 
     artisans = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 1300
     }
 
     soldiers = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 350
     }
 
     farmers = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 29275
     }
 
     slaves = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 2000
     }
@@ -1129,37 +1129,37 @@
 #Junayah (100000/25000 POPS)
 1842 = {
     aristocrats = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 325
     }
 
     clergymen = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 175
     }
 
     artisans = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 750
     }
 
     soldiers = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 275
     }
 
     farmers = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 16300
     }
 
     slaves = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 5200
     }
@@ -1191,91 +1191,91 @@
 #Waw (140000/35000 POPS)
 1843 = {
     aristocrats = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 125
     }
 
     clergymen = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 75
     }
 
     artisans = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 350
     }
 
     soldiers = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 375
     }
 
     farmers = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 6350
     }
 
     aristocrats = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 100
     }
 
     clergymen = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 300
     }
 
     farmers = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 5475
     }
 
     slaves = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 4000
     }
 
     aristocrats = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 200
     }
 
     clergymen = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 100
     }
 
     artisans = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 450
     }
 
     farmers = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 10050
     }
 
     slaves = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 7000
     }
@@ -1285,109 +1285,109 @@
 #Bor (344000/86000 POPS)
 1844 = {
     aristocrats = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 50
     }
 
     clergymen = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 75
     }
 
     artisans = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 150
     }
 
     soldiers = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 875
     }
 
     farmers = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 2700
     }
 
     aristocrats = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 325
     }
 
     clergymen = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 175
     }
 
     artisans = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 850
     }
 
     farmers = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 15475
     }
 
     aristocrats = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 750
     }
 
     clergymen = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 400
     }
 
     artisans = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 1950
     }
 
     farmers = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 35500
     }
 
     aristocrats = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 300
     }
 
     clergymen = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 175
     }
 
     artisans = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 675
     }
 
     farmers = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 15575
     }
 
     slaves = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 10000
     }
@@ -1395,61 +1395,61 @@
 #Yambio (140000/35000 POPS)
 1845 = {
     aristocrats = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 75
     }
 
     clergymen = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 200
     }
 
     soldiers = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 350
     }
 
     farmers = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 3650
     }
 
     aristocrats = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 450
     }
 
     clergymen = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 225
     }
 
     artisans = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 900
     }
 
     farmers = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 20800
     }
 
     slaves = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 8000
     }
@@ -1457,85 +1457,85 @@
 #Lado (244000/61000 POPS)
 1846 = {
     aristocrats = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 450
     }
 
     clergymen = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 250
     }
 
     artisans = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 1200
     }
 
     soldiers = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 650
     }
 
     farmers = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 21850
     }
 
     aristocrats = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 325
     }
 
     clergymen = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 175
     }
 
     artisans = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 900
     }
 
     farmers = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 16400
     }
 
     aristocrats = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 325
     }
 
     clergymen = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 175
     }
 
     artisans = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 750
     }
 
     farmers = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 16550
     }
 
     slaves = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 1100
     }
@@ -1543,55 +1543,55 @@
 #Kapoeta (140000/35000 POPS)
 1847 = {
     aristocrats = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 525
     }
 
     clergymen = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 275
     }
 
     artisans = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 1400
     }
 
     soldiers = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 375
     }
 
     farmers = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 25500
     }
 
     aristocrats = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 125
     }
 
     clergymen = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 75
     }
 
     artisans = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 350
     }
 
     farmers = {
-        culture = nilo_saharan
+        culture = native_american_minor
         religion = animist
         size = 6375
     }

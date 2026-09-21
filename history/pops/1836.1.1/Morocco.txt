@@ -1095,31 +1095,31 @@
 #Tarfaya (36000/9000 POPS)
 1696 = {
     aristocrats = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 50
     }
 
     clergymen = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 75
     }
 
     artisans = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 150
     }
 
     soldiers = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 150
     }
 
     farmers = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 2650
     }
@@ -1245,19 +1245,19 @@
 #Rashidia (44000/11000 POPS)
 1698 = {
     aristocrats = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 25
     }
 
     clergymen = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 75
     }
@@ -1269,7 +1269,7 @@
     }
 
     farmers = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 1325
     }
@@ -1331,25 +1331,25 @@
     }
 
     aristocrats = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 25
     }
 
     clergymen = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 75
     }
 
     farmers = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 1325
     }

@@ -27,25 +27,25 @@
     }
 
     soldiers = {
-        culture = niger_congo_a
+        culture = native_american_minor
         religion = animist
         size = 55
     }
 
     artisans = {
-        culture = niger_congo_a
+        culture = native_american_minor
         religion = animist
         size = 120
     }
 
     farmers = {
-        culture = niger_congo_a
+        culture = native_american_minor
         religion = animist
         size = 1530
     }
 
     slaves = {
-        culture = niger_congo_a
+        culture = native_american_minor
         religion = animist
         size = 1100
     }
@@ -54,31 +54,31 @@
 #Bata (132000/33000 POPS)
 1973 = {
     aristocrats = {
-        culture = bantu
+        culture = native_american_minor
         religion = animist
         size = 350
     }
 
     clergymen = {
-        culture = bantu
+        culture = native_american_minor
         religion = animist
         size = 300
     }
 
     artisans = {
-        culture = bantu
+        culture = native_american_minor
         religion = animist
         size = 1500
     }
 
     soldiers = {
-        culture = bantu
+        culture = native_american_minor
         religion = animist
         size = 350
     }
 
     farmers = {
-        culture = bantu
+        culture = native_american_minor
         religion = animist
         size = 31500
     }

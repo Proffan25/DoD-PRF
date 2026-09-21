@@ -1,6 +1,5 @@
-owner = SOM
-controller = SOM
-add_core = SOM
+owner = ADA
+controller = ADA
+add_core = ADA
 trade_goods = cotton
 life_rating = 35
-

@@ -28,7 +28,7 @@
         size = 15723
     }
     farmers = {
-        culture = bantu
+        culture = native_american_minor
         religion = animist
         size = 62891
     }
@@ -61,7 +61,7 @@
         size = 1047
     }
     farmers = {
-        culture = bantu
+        culture = native_american_minor
         religion = animist
         size = 4188
     }
@@ -99,7 +99,7 @@
         size = 11437
     }
     farmers = {
-        culture = bantu
+        culture = native_american_minor
         religion = animist
         size = 45748
     }
@@ -132,7 +132,7 @@
         size = 14666
     }
     farmers = {
-        culture = bantu
+        culture = native_american_minor
         religion = animist
         size = 58662
     }
@@ -166,7 +166,7 @@
         size = 557
     }
     farmers = {
-        culture = bantu
+        culture = native_american_minor
         religion = animist
         size = 2228
     }

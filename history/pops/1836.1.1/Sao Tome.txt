@@ -27,31 +27,31 @@
     }
 
     soldiers = {
-        culture = niger_congo_a
+        culture = native_american_minor
         religion = animist
         size = 105
     }
 
     clergymen = {
-        culture = niger_congo_a
+        culture = native_american_minor
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = niger_congo_a
+        culture = native_american_minor
         religion = animist
         size = 200
     }
 
     farmers = {
-        culture = niger_congo_a
+        culture = native_american_minor
         religion = animist
         size = 550
     }
 
     slaves = {
-        culture = niger_congo_a
+        culture = native_american_minor
         religion = animist
         size = 3450
     }

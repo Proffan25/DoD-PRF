@@ -3,31 +3,31 @@
 #Massawa (28000/7000 POPS)
 1849 = {
     aristocrats = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 57
     }
 
     clergymen = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 86
     }
 
     artisans = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 172
     }
 
     soldiers = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 28
     }
 
     farmers = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 3105
     }
@@ -77,61 +77,61 @@
 #Assab (44000/11000 POPS)
 1851 = {
     aristocrats = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 143
     }
 
     clergymen = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 86
     }
 
     artisans = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 402
     }
 
     soldiers = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 86
     }
 
     farmers = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 7331
     }
 
     aristocrats = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 86
     }
 
     clergymen = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 86
     }
 
     artisans = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 230
     }
 
     soldiers = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 57
     }
 
     farmers = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 4140
     }
@@ -140,73 +140,73 @@
 #Asmara (80000/20000 POPS)
 1848 = {
     aristocrats = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 258
     }
 
     bureaucrats = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 17
     }
 
     officers = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 28
     }
 
     clergymen = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 143
     }
 
     artisans = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 690
     }
 
     soldiers = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 143
     }
 
     farmers = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 12448
     }
 
     aristocrats = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 172
     }
 
     clergymen = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 86
     }
 
     artisans = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 460
     }
 
     soldiers = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 86
     }
 
     farmers = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 8395
     }
@@ -214,31 +214,31 @@
 #Akordat (28000/7000 POPS)
 1850 = {
     aristocrats = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 143
     }
 
     clergymen = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 86
     }
 
     artisans = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 402
     }
 
     soldiers = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 86
     }
 
     farmers = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 7331
     }

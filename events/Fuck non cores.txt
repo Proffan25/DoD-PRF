@@ -79,7 +79,11 @@ country_event = {
 			}
 			NOT = {
 				tag = SPA
-				is_core = CLM
+				or = {
+					is_core = CLM
+					is_core = ARN
+					is_core = ARI
+				}
 			}
 			NOT = {
 				tag = DUA
@@ -90,7 +94,10 @@ country_event = {
 				}
 			}
 			NOT = {
-				tag = ARN
+				or = {
+					tag = ARN
+					tag = ARI
+				}
 				or = {
 					is_core = PAP
 					is_core = FRR
@@ -101,6 +108,9 @@ country_event = {
 					is_core = SAR
 					is_core = LOM
 					is_core = VEN
+					is_core = SPA
+					is_core = IBE
+					is_core = HIS		
 				}
 			}
 			NOT = {
@@ -447,7 +457,11 @@ country_event = {
 				}
 				NOT = {
 					tag = SPA
-					is_core = CLM
+					or = {
+						is_core = CLM
+						is_core = ARN
+						is_core = ARI
+					}
 				}
 				NOT = {
 					tag = DUA
@@ -458,7 +472,10 @@ country_event = {
 					}
 				}
 				NOT = {
-					tag = ARN
+					or = {
+						tag = ARN
+						tag = ARI
+					}
 					or = {
 						is_core = PAP
 						is_core = FRR
@@ -469,6 +486,9 @@ country_event = {
 						is_core = SAR
 						is_core = LOM
 						is_core = VEN
+						is_core = SPA
+						is_core = IBE
+						is_core = HIS
 					}
 				}
 				NOT = {

@@ -129,7 +129,7 @@
     }
 
     slaves = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 10350
     }
@@ -557,7 +557,7 @@
     }
 
     slaves = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 6900
     }

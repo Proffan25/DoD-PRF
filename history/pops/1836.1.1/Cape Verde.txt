@@ -27,7 +27,7 @@
     }
 
     soldiers = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 175
     }
@@ -39,25 +39,25 @@
     }
 
     clergymen = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 405
     }
 
     artisans = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 700
     }
 
     farmers = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 13500
     }
 
     slaves = {
-        culture = afro_asiatic
+        culture = native_american_minor
         religion = animist
         size = 4000
     }

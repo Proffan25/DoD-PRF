@@ -735,6 +735,12 @@ NUS;Nusantara;;;;;;;;;;;;x
 NUS_ADJ;Nusantaran;;;;;;;;;;;;;
 SIB;Sibir;;;;;;;;;;;;;x
 SIB_ADJ;Sibirian;;;;;;;;;;;;;x
+SOM;Ajuuraan;;;;;;;;;;;;;
+SOM_ADJ;Ajuuraani;;;;;;;;;;;;;
+ADA;Adal;;;;;;;;;;;;;
+ADA_ADJ;Adali;;;;;;;;;;;;;
+ERI;Amatsa;;;;;;;;;;;;;
+ERI_ADJ;Amatsi;;;;;;;;;;;;;
 #;;;;;;;;;;;;;;Cultures;;;;
 beornian;Beornian;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 english;English;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -769,6 +775,8 @@ armenian;Caucasian Christians;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;
 punjabi;Western Indo-Aryan;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 pashtun;Pashtun-Baluchi;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 oirat;Oirat;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+native_american_minor;Native;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+afro_asiatic;Horn African;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 #;;;;;;;;;;;;;;RGOs;;;;
 opium;Copium;Copium;Copium;;Copium;;;;;;;;;x;;;;
 #;;;;;;;;;;;;;;States;;;;

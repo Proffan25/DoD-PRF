@@ -1,6 +1,5 @@
-owner = SOM
-controller = SOM
-add_core = SOM
+owner = ERI
+controller = ERI
+add_core = ERI
 trade_goods = cattle
 life_rating = 35
-

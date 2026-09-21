@@ -28,7 +28,7 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions 
 school_reforms = no_schools
 
-ruling_party = ETH_conservative
+ruling_party = generic_conservative
 upper_house = {
 	fascist = 0
 	liberal = 13
@@ -42,5 +42,3 @@ upper_house = {
 # Starting Consciousness
 consciousness = 0
 nonstate_consciousness = 0
-
-oob = "ETH_oob.txt"

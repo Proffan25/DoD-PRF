@@ -761,37 +761,37 @@
 #Bonga (368000/92000 POPS)
 1862 = {
 	aristocrats = {
-		culture = nilo_saharan
+		culture = afro_asiatic
 		religion = animist
 		size = 1800
 	}
 
 	clergymen = {
-		culture = nilo_saharan
+		culture = afro_asiatic
 		religion = animist
 		size = 925
 	}
 
 	artisans = {
-		culture = nilo_saharan
+		culture = afro_asiatic
 		religion = animist
 		size = 3650
 	}
 
 	soldiers = {
-		culture = nilo_saharan
+		culture = afro_asiatic
 		religion = animist
 		size = 925
 	}
 
 	farmers = {
-		culture = nilo_saharan
+		culture = afro_asiatic
 		religion = animist
 		size = 71700
 	}
 
 	slaves = {
-		culture = nilo_saharan
+		culture = afro_asiatic
 		religion = animist
 		size = 13000
 	}
@@ -799,91 +799,91 @@
 #Asosa (540000/135000 POPS)
 1863 = {
 	aristocrats = {
-		culture = nilo_saharan
+		culture = afro_asiatic
 		religion = animist
 		size = 450
 	}
 
 	clergymen = {
-		culture = nilo_saharan
+		culture = afro_asiatic
 		religion = animist
 		size = 250
 	}
 
 	artisans = {
-		culture = nilo_saharan
+		culture = afro_asiatic
 		religion = animist
 		size = 1100
 	}
 
 	soldiers = {
-		culture = nilo_saharan
+		culture = afro_asiatic
 		religion = animist
 		size = 1350
 	}
 
 	farmers = {
-		culture = nilo_saharan
+		culture = afro_asiatic
 		religion = animist
 		size = 18050
 	}
 
 	slaves = {
-		culture = nilo_saharan
+		culture = afro_asiatic
 		religion = animist
 		size = 5000
 	}
 
 	aristocrats = {
-		culture = nilo_saharan
+		culture = afro_asiatic
 		religion = animist
 		size = 1350
 	}
 
 	clergymen = {
-		culture = nilo_saharan
+		culture = afro_asiatic
 		religion = animist
 		size = 725
 	}
 
 	artisans = {
-		culture = nilo_saharan
+		culture = afro_asiatic
 		religion = animist
 		size = 2875
 	}
 
 	farmers = {
-		culture = nilo_saharan
+		culture = afro_asiatic
 		religion = animist
 		size = 49725
 	}
 
 	slaves = {
-		culture = nilo_saharan
+		culture = afro_asiatic
 		religion = animist
 		size = 42600
 	}
 
 	aristocrats = {
-		culture = nilo_saharan
+		culture = afro_asiatic
 		religion = animist
 		size = 750
 	}
 
 	clergymen = {
-		culture = nilo_saharan
+		culture = afro_asiatic
 		religion = animist
 		size = 375
 	}
 
 	artisans = {
-		culture = nilo_saharan
+		culture = afro_asiatic
 		religion = animist
 		size = 1900
 	}
 
 	farmers = {
-		culture = nilo_saharan
+		culture = afro_asiatic
 		religion = animist
 		size = 34600
 	}
@@ -891,67 +891,67 @@
 #Negele (720000/180000 POPS)
 1864 = {
 	aristocrats = {
-		culture = nilo_saharan
+		culture = afro_asiatic
 		religion = animist
 		size = 875
 	}
 
 	clergymen = {
-		culture = nilo_saharan
+		culture = afro_asiatic
 		religion = animist
 		size = 450
 	}
 
 	artisans = {
-		culture = nilo_saharan
+		culture = afro_asiatic
 		religion = animist
 		size = 1850
 	}
 
 	soldiers = {
-		culture = nilo_saharan
+		culture = afro_asiatic
 		religion = animist
 		size = 1800
 	}
 
 	farmers = {
-		culture = nilo_saharan
+		culture = afro_asiatic
 		religion = animist
 		size = 35375
 	}
 
 	slaves = {
-		culture = nilo_saharan
+		culture = afro_asiatic
 		religion = animist
 		size = 7000
 	}
 
 	aristocrats = {
-		culture = nilo_saharan
+		culture = afro_asiatic
 		religion = animist
 		size = 2625
 	}
 
 	clergymen = {
-		culture = nilo_saharan
+		culture = afro_asiatic
 		religion = animist
 		size = 825
 	}
 
 	artisans = {
-		culture = nilo_saharan
+		culture = afro_asiatic
 		religion = animist
 		size = 5350
 	}
 
 	farmers = {
-		culture = nilo_saharan
+		culture = afro_asiatic
 		religion = animist
 		size = 103850
 	}
 
 	slaves = {
-		culture = nilo_saharan
+		culture = afro_asiatic
 		religion = animist
 		size = 19000
 	}

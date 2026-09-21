@@ -10,7 +10,7 @@
         size = 300
     }
     clergymen = {
-        culture = bantu
+        culture = native_american_minor
         religion = animist
         size = 477
     }
@@ -30,7 +30,7 @@
         size = 47949
     }
     farmers = {
-        culture = bantu
+        culture = native_american_minor
         religion = animist
         size = 97272
     }
@@ -69,7 +69,7 @@
         size = 41533
     }
     farmers = {
-        culture = bantu
+        culture = native_american_minor
         religion = animist
         size = 67375
     }
@@ -103,7 +103,7 @@
         size = 49494
     }
     farmers = {
-        culture = bantu
+        culture = native_american_minor
         religion = animist
         size = 77374
     }
@@ -131,7 +131,7 @@
         size = 39178
     }
     farmers = {
-        culture = bantu
+        culture = native_american_minor
         religion = animist
         size = 58767
     }
@@ -166,7 +166,7 @@
         size = 938
     }
     farmers = {
-        culture = bantu
+        culture = native_american_minor
         religion = animist
         size = 3752
     }
@@ -202,7 +202,7 @@
         size = 5182
     }
     farmers = {
-        culture = bantu
+        culture = native_american_minor
         religion = animist
         size = 8445
     }
@@ -235,7 +235,7 @@
         size = 24679
     }
     farmers = {
-        culture = bantu
+        culture = native_american_minor
         religion = animist
         size = 37019
     }
@@ -268,7 +268,7 @@
         size = 26341
     }
     farmers = {
-        culture = bantu
+        culture = native_american_minor
         religion = animist
         size = 39512
     }
@@ -302,7 +302,7 @@
         size = 14045
     }
     farmers = {
-        culture = bantu
+        culture = native_american_minor
         religion = animist
         size = 56180
     }
@@ -336,7 +336,7 @@
         size = 23004
     }
     farmers = {
-        culture = bantu
+        culture = native_american_minor
         religion = animist
         size = 92014
     }
@@ -371,7 +371,7 @@
         size = 27623
     }
     farmers = {
-        culture = bantu
+        culture = native_american_minor
         religion = animist
         size = 41434
     }
@@ -404,7 +404,7 @@
         size = 11254
     }
     farmers = {
-        culture = bantu
+        culture = native_american_minor
         religion = animist
         size = 16881
     }
@@ -443,7 +443,7 @@
         size = 26911
     }
     farmers = {
-        culture = bantu
+        culture = native_american_minor
         religion = animist
         size = 40366
     }
@@ -476,7 +476,7 @@
         size = 5711
     }
     farmers = {
-        culture = bantu
+        culture = native_american_minor
         religion = animist
         size = 8566
     }
@@ -509,7 +509,7 @@
         size = 31442
     }
     farmers = {
-        culture = bantu
+        culture = native_american_minor
         religion = animist
         size = 47164
     }
@@ -555,7 +555,7 @@
         size = 27412
     }
     farmers = {
-        culture = bantu
+        culture = native_american_minor
         religion = animist
         size = 41117
     }
@@ -593,7 +593,7 @@
         size = 14404
     }
     farmers = {
-        culture = bantu
+        culture = native_american_minor
         religion = animist
         size = 21606
     }
@@ -626,7 +626,7 @@
         size = 33200
     }
     farmers = {
-        culture = bantu
+        culture = native_american_minor
         religion = animist
         size = 49801
     }
@@ -669,7 +669,7 @@
         size = 11241
     }
     farmers = {
-        culture = bantu
+        culture = native_american_minor
         religion = animist
         size = 89960
     }
@@ -715,7 +715,7 @@
         size = 19647
     }
     farmers = {
-        culture = bantu
+        culture = native_american_minor
         religion = animist
         size = 29471
     }
@@ -748,7 +748,7 @@
         size = 14478
     }
     farmers = {
-        culture = bantu
+        culture = native_american_minor
         religion = animist
         size = 21717
     }
@@ -782,7 +782,7 @@
         size = 15400
     }
     farmers = {
-        culture = bantu
+        culture = native_american_minor
         religion = animist
         size = 23100
     }
@@ -823,7 +823,7 @@
         size = 9773
     }
     farmers = {
-        culture = bantu
+        culture = native_american_minor
         religion = animist
         size = 39091
     }
@@ -857,7 +857,7 @@
         size = 7436
     }
     farmers = {
-        culture = bantu
+        culture = native_american_minor
         religion = animist
         size = 11154
     }
@@ -891,7 +891,7 @@
         size = 2014
     }
     farmers = {
-        culture = bantu
+        culture = native_american_minor
         religion = animist
         size = 8056
     }
@@ -927,7 +927,7 @@
         size = 11145
     }
     farmers = {
-        culture = bantu
+        culture = native_american_minor
         religion = animist
         size = 44578
     }
@@ -960,7 +960,7 @@
         size = 11212
     }
     farmers = {
-        culture = bantu
+        culture = native_american_minor
         religion = animist
         size = 44849
     }
@@ -1003,7 +1003,7 @@
         size = 22289
     }
     farmers = {
-        culture = bantu
+        culture = native_american_minor
         religion = animist
         size = 89157
     }
@@ -1036,7 +1036,7 @@
         size = 7069
     }
     farmers = {
-        culture = bantu
+        culture = native_american_minor
         religion = animist
         size = 28277
     }

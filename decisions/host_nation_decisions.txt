@@ -506,7 +506,7 @@ political_decisions = {
 		}
 	}
 	restart_bank_construction = {
-		#picture = ally_yes
+		picture = ottoman_bank
 		potential = {
 			has_country_flag = showing_host_decisions
 			has_country_flag = host_nation
@@ -525,4 +525,79 @@ political_decisions = {
 			factor = 0
 		}
 	}
+
+
+#PRF decisions
+	show_prf_custom_content = {
+		picture = pistol
+		potential = {
+			NOT = { has_country_flag = showing_prf_decisions }
+			has_country_flag = host_nation
+		}
+		allow = {
+		}		
+		effect = {
+			set_country_flag = showing_prf_decisions
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	
+	hide_prf_decisions = {
+		picture = pistol
+		potential = {
+			has_country_flag = showing_prf_decisions
+			has_country_flag = host_nation
+		}
+	
+		allow = {	
+		}
+		
+		effect = {
+			clr_country_flag = showing_prf_decisions
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	
+	disable_fuck_noncores = {
+		picture = caliphate
+		alert = yes
+		potential = {
+			has_country_flag = showing_prf_decisions
+			has_country_flag = host_nation
+			tag = LCT
+			ai = no
+			NOT = { has_global_flag = fuck_noncores_disabled }
+		}
+		allow = {
+			ai = no
+			NOT = { year = 1837 }
+		}
+		effect = {
+			set_global_flag = fuck_noncores_disabled
+		}
+	}
+	
+	enable_fuck_noncores = {
+		picture = caliphate
+		alert = yes
+		potential = {
+			has_country_flag = showing_prf_decisions
+			has_country_flag = host_nation
+			tag = LCT
+			ai = no
+			has_global_flag = fuck_noncores_disabled
+		}
+		allow = {
+			ai = no
+			NOT = { year = 1837 }
+		}
+		effect = {
+			clr_global_flag = fuck_noncores_disabled
+		}
+	}
 }
+	
