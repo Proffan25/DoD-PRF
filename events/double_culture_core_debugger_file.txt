@@ -414,3 +414,62 @@ province_event = {
 		add_core = THIS
 	}
 }
+
+province_event = {
+	id = 78700951
+	title = "Arabian Core Debugging"
+	desc = "If there is an awkward overlapping culture core, this event is intended to clean it up"
+	
+	trigger = {
+		owner = {
+			OR = {
+				tag = HDJ
+				tag = NEJ
+				tag = OMA
+				tag = ABU
+			}
+			NOT = {
+				war = yes
+			}
+		}
+		OR = {
+			AND = {
+				is_core = HDJ
+				is_core = NEJ
+			}
+			AND = {
+				is_core = HDJ
+				is_core = OMA
+			}
+			AND = {
+				is_core = HDJ
+				is_core = ABU
+			}
+			AND = {
+				is_core = NEJ
+				is_core = OMA
+			}
+			AND = {
+				is_core = NEJ
+				is_core = ABU
+			}
+			AND = {
+				is_core = OMA
+				is_core = ABU
+			}
+		}
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = "Fix me up!"
+		remove_core = HDJ
+		remove_core = NEJ
+		remove_core = OMA
+		remove_core = ABU
+		add_core = THIS
+	}
+}

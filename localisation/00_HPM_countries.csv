@@ -612,16 +612,6 @@ D49;$REGION$;;Das Hohe Königreich von $REGION$;;;;;;;;x;;;
 D49_ADJ;$REGION$;;hochköniglich;;;;;;;;x;;;
 D50;$REGION$;;Das Kleinere Fürstentum von $REGION$;;;;;;;;x;;;
 D50_ADJ;$REGION$;;fürstlich;;;;;;;;x;;;
-ABU;United Arab Emirates;;;;;;;;;;;;x
-ABU_ADJ;Emirati;;;;;;;;;;;;x
-ABU_absolute_monarchy;The Trucial States;;;;;;;;;;;;x
-ABU_absolute_monarchy_ADJ;Trucial;;;;;;;;;;;;x
-ABU_bourgeois_dictatorship;United Arab Councils;;;;;;;;;;;;x
-ABU_bourgeois_dictatorship_ADJ;Arabic;;;;;;;;;;;;x
-ABU_fascist_dictatorship;The Emirate;;;;;;;;;;;;x
-ABU_fascist_dictatorship_ADJ;Emirati;;;;;;;;;;;;x
-ABU_proletarian_dictatorship;People's Arabic Republic;;;;;;;;;;;;x
-ABU_proletarian_dictatorship_ADJ;Arabic;;;;;;;;;;;;x
 ACR;Acre;;;;;;;;;;;;;x
 ACR_ADJ;Acrean;;;;;;;;;;;;;x
 ACR_liberal;Partido Liberal;Partido Liberal;Partido Liberal;;;;;;;;;;;;x;;;;;;;;;;;;;;
@@ -1634,12 +1624,6 @@ MRU_absolute_monarchy;The Maritime Union;;;;;;;;;;;;x
 MRU_prussian_constitutionalism;The Maritime Union;;;;;;;;;;;;x
 MRU_hms_government;The Maritime Union;;;;;;;;;;;;x
 MRU_ADJ;Maritime;;;;;;;;;;;;x
-NEJ_absolute_monarchy;Nejd Emirate;;;;;;;;;;;;x
-NEJ_prussian_constitutionalism;Nejd Emirate;;;;;;;;;;;;x
-NEJ_hms_government;Nejd Emirate;;;;;;;;;;;;x
-NEJ_absolute_monarchy_ADJ;Saudi;;;;;;;;;;;;x
-NEJ_prussian_constitutionalism_ADJ;Saudi;;;;;;;;;;;;x
-NEJ_hms_government_ADJ;Saudi;;;;;;;;;;;;x
 NEJ_conservative;Al-Sa'ud;;;;;;;;;;;;;;;;;;;x;;;;
 NEJ_liberal;Al-Ahrar;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 NEJ_reactionary;Al-Da'wa al-Wahhabiyyah;;;;;;;;;;;;;;;;;;;;;;x;;;;

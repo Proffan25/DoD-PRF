@@ -1,6 +1,5 @@
-owner = NEJ
-controller = NEJ
-add_core = NEJ
+owner = ABU
+controller = ABU
+add_core = ABU
 trade_goods = cattle
 life_rating = 35
-

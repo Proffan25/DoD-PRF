@@ -1,6 +1,5 @@
-owner = NEJ
-controller = NEJ
-add_core = NEJ
+owner = OMA
+controller = OMA
+add_core = OMA
 trade_goods = opium
 life_rating = 35
-
