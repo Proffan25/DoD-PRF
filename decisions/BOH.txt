@@ -724,6 +724,7 @@ political_decisions = {
 			HES_2560 = {
 				owned_by = THIS
 			}
+			war = no
         }
         effect = {
 			add_accepted_culture = north_german
