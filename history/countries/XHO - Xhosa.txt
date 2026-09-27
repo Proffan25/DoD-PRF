@@ -1,4 +1,4 @@
-capital = 2113
+capital = 2100
 primary_culture = khoisan
 religion = animist
 government = absolute_monarchy
@@ -6,7 +6,7 @@ plurality = 0.0
 nationalvalue = nv_order
 literacy = 0.01
 
-ruling_party = ZUL_conservative
+ruling_party = generic_conservative
 upper_house = {
 	fascist = 0
 	liberal = 0

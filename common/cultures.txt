@@ -2046,11 +2046,12 @@ southern_african = {
 	leader = african
 	unit = ZuluGC
 	khoisan = {
-		color = {22 165 22}
-		first_names = { Naresib Gabeb Gorakhab Oasib Na-khom Tsawub Gaob Hanab O-Naib Khaub Khomab Hab
+		color = { 49 58 156 }
+		first_names = { Mthuthuzeli Nolizwe Nonceba Paki Sipliwo Themba Uuka Thandiwe
 		}
 
-		last_names = { Hamab Khomaa Khaumab O-Naimab Hanamab Gamab Nakhomab Manassee Oasmab
+		last_names = { Behle Dosini Dlamini Gqunu Gxarha Hegebe Khawatu Khumalo Kwayi Maduna
+            Qadi Rhadebe Ncuthu Mpemvu Sikhosana Xesibe Zangwa
 		}
 	}
 	malagasy = {

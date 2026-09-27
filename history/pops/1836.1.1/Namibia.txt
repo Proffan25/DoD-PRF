@@ -205,57 +205,57 @@
 #Linyati (16000/4000 POPS)
 2081 = {
 	aristocrats = {
-		culture = native_american_minor
+		culture = khoisan
 		religion = animist
-		size = 50
+		size = 17
 	}
 
 	clergymen = {
-		culture = native_american_minor
-		religion = animist
-		size = 75
-	}
-
-	artisans = {
-		culture = native_american_minor
-		religion = animist
-		size = 150
-	}
-
-	soldiers = {
-		culture = native_american_minor
-		religion = animist
-		size = 35
-	}
-
-	farmers = {
-		culture = native_american_minor
-		religion = animist
-		size = 2700
-	}
-
-	aristocrats = {
-		culture = native_american_minor
-		religion = animist
-		size = 15
-	}
-
-	clergymen = {
-		culture = native_american_minor
+		culture = khoisan
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = native_american_minor
+		culture = khoisan
 		religion = animist
 		size = 50
 	}
 
-	farmers = {
-		culture = native_american_minor
+	soldiers = {
+		culture = khoisan
 		religion = animist
-		size = 900
+		size = 12
+	}
+
+	farmers = {
+		culture = khoisan
+		religion = animist
+		size = 905
+	}
+
+	aristocrats = {
+		culture = khoisan
+		religion = animist
+		size = 5
+	}
+
+	clergymen = {
+		culture = khoisan
+		religion = animist
+		size = 8
+	}
+
+	artisans = {
+		culture = khoisan
+		religion = animist
+		size = 17
+	}
+
+	farmers = {
+		culture = khoisan
+		religion = animist
+		size = 302
 	}
 }
 #Namaqualand Region (64000) #see South Africa.txt for balance of region

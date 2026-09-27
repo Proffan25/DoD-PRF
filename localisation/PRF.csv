@@ -745,6 +745,18 @@ ABU;Abu Dhabi;;;;;;;;;;;;x
 ABU_ADJ;Dhabyani;;;;;;;;;;;;x
 NEJ;Nejd;;;;;;;;;;;;x
 NEJ_ADJ;Nedji;;;;;;;;;;;;x
+LWE;Leeuwin;;;;;;;;;;;;x
+LWE_ADJ;Leeuwin;;;;;;;;;;;;x
+TRN;Opstalia;;;;;;;;;;;;x
+TRN_ADJ;Opstalian;;;;;;;;;;;;x
+NFL;New Flander;;;;;;;;;;;;x
+NFL_ADJ;New Flandrian;;;;;;;;;;;;x
+GRQ;Vryland;;;;;;;;;;;;x
+GRQ_ADJ;Vrylander;;;;;;;;;;;;x
+XHO;Xhosa;;;;;;;;;;;;x
+XHO_ADJ;Xhosan;;;;;;;;;;;;x
+BSH;Basotho;;;;;;;;;;;;x
+BSH_ADJ;Basothan;;;;;;;;;;;;x
 #;;;;;;;;;;;;;;Cultures;;;;
 beornian;Beornian;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 english;English;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -781,6 +793,7 @@ pashtun;Pashtun-Baluchi;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 oirat;Oirat;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 native_american_minor;Native;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 afro_asiatic;Horn African;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+khoisan;South African;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 #;;;;;;;;;;;;;;RGOs;;;;
 opium;Copium;Copium;Copium;;Copium;;;;;;;;;x;;;;
 #;;;;;;;;;;;;;;States;;;;

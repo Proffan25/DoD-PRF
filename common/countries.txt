@@ -162,11 +162,17 @@ SAF		="countries/South Africa.txt"
 SOK		="countries/Sokoto.txt"
 RHO		="countries/Southern Rhodesia.txt"
 TRI		="countries/Tripoli.txt"
-TRN		="countries/Transvaal.txt"
 TUN		="countries/Tunis.txt"
 ZAN		="countries/Zanzibar.txt"
-ZUL		="countries/Zulu.txt"
 SOM		="countries/Somalia.txt"
+BTV		="countries/Batavia.txt"
+LWE		="countries/Leeuwin.txt"
+ZUL		="countries/Zulu.txt"
+BSH		="countries/Basotho.txt"
+XHO		="countries/Xhosa.txt"
+TRN		="countries/Transvaal.txt"
+NFL		="countries/New Flander.txt"
+GRQ		="countries/Vryland.txt"
 
 # Cental Asia
 ABU		="countries/Abu Dhabi.txt"
@@ -305,7 +311,6 @@ HBE		= "countries/Holy Britannia.txt"
 # Australasia
 AST		="countries/Australia.txt"
 NZL		="countries/New Zealand.txt"
-BTV		= "countries/Batavia.txt"
 
 #new for 1.2
 ISR		="countries/Israel.txt"

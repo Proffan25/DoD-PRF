@@ -1,6 +1,5 @@
-owner = BRG
-controller = BRG
-add_core = BTV
-colonial = 2
+owner = LWE
+controller = LWE
+add_core = LWE
 trade_goods = fruit
 life_rating = 35

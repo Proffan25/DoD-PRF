@@ -5,32 +5,32 @@
     aristocrats = {
         culture = boer
         religion = animist
-        size = 650
+        size = 902
     }
     clergymen = {
         culture = boer
         religion = animist
-        size = 1552
+        size = 2153
     }
     artisans = {
         culture = boer
         religion = animist
-        size = 3350
+        size = 4648
     }
     soldiers = {
         culture = boer
         religion = animist
-        size = 650
+        size = 902
     }
     farmers = {
-        culture = native_american_minor
+        culture = khoisan
         religion = animist
-        size = 37186
+        size = 51594
     }
     farmers = {
         culture = boer
         religion = animist
-        size = 18589
+        size = 25791
     }
 }
 #Chaimate (280000/70000 POPS)
@@ -38,32 +38,32 @@
     aristocrats = {
         culture = boer
         religion = animist
-        size = 700
+        size = 971
     }
     clergymen = {
         culture = boer
         religion = animist
-        size = 1957
+        size = 2715
     }
     artisans = {
         culture = boer
         religion = animist
-        size = 3450
+        size = 4787
     }
     soldiers = {
         culture = boer
         religion = animist
-        size = 800
+        size = 1110
     }
     farmers = {
-        culture = native_american_minor
+        culture = khoisan
         religion = animist
-        size = 54820
+        size = 76060
     }
     farmers = {
         culture = boer
         religion = animist
-        size = 8510
+        size = 11807
     }
 }
 #Inhambane (176000/44000 POPS)

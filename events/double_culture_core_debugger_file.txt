@@ -473,3 +473,107 @@ province_event = {
 		add_core = THIS
 	}
 }
+
+province_event = {
+	id = 78700952
+	title = "Southern Africa Core Debugging"
+	desc = "If there is an awkward overlapping culture core, this event is intended to clean it up"
+	
+	trigger = {
+		owner = {
+			OR = {
+				tag = ZUL
+				tag = BSH
+				tag = XHO
+				tag = GRQ
+			}
+			NOT = {
+				war = yes
+			}
+		}
+		OR = {
+			AND = {
+				is_core = ZUL
+				is_core = BSH
+			}
+			AND = {
+				is_core = ZUL
+				is_core = XHO
+			}
+			AND = {
+				is_core = ZUL
+				is_core = GRQ
+			}
+			AND = {
+				is_core = BSH
+				is_core = XHO
+			}
+			AND = {
+				is_core = BSH
+				is_core = GRQ
+			}
+			AND = {
+				is_core = XHO
+				is_core = GRQ
+			}
+		}
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = "Fix me up!"
+		remove_core = ZUL
+		remove_core = BSH
+		remove_core = XHO
+		remove_core = GRQ
+		add_core = THIS
+	}
+}
+
+province_event = {
+	id = 78700953
+	title = "Boer Core Debugging"
+	desc = "If there is an awkward overlapping culture core, this event is intended to clean it up"
+	
+	trigger = {
+		owner = {
+			OR = {
+				tag = LWE
+				tag = TRN
+				tag = NFL
+			}
+			NOT = {
+				war = yes
+			}
+		}
+		OR = {
+			AND = {
+				is_core = LWE
+				is_core = TRN
+			}
+			AND = {
+				is_core = LWE
+				is_core = NFL
+			}
+			AND = {
+				is_core = TRN
+				is_core = NFL
+			}
+		}
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = "Fix me up!"
+		remove_core = LWE
+		remove_core = TRN
+		remove_core = NFL
+		add_core = THIS
+	}
+}

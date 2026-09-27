@@ -1,6 +1,6 @@
 owner = BRG
 controller = BRG
-add_core = BTV
+add_core = LWE
 trade_goods = wool
 life_rating = 35
 colonial = 2

@@ -5,32 +5,32 @@
     aristocrats = {
         culture = boer
         religion = animist
-        size = 191
+        size = 64
     }
     clergymen = {
         culture = boer
         religion = animist
-        size = 222
+        size = 74
     }
     artisans = {
         culture = boer
         religion = animist
-        size = 541
+        size = 181
     }
     soldiers = {
         culture = boer
         religion = animist
-        size = 200
+        size = 67
     }
     farmers = {
         culture = boer
         religion = animist
-        size = 15723
+        size = 5271
     }
     farmers = {
-        culture = native_american_minor
+        culture = khoisan
         religion = animist
-        size = 62891
+        size = 21085
     }
 }
 #Nokaneng (12000/3000 POPS)
@@ -38,32 +38,32 @@
     aristocrats = {
         culture = boer
         religion = animist
-        size = 56
+        size = 19
     }
     clergymen = {
         culture = boer
         religion = animist
-        size = 216
+        size = 72
     }
     artisans = {
         culture = boer
         religion = animist
-        size = 230
+        size = 77
     }
     soldiers = {
         culture = boer
         religion = animist
-        size = 87
+        size = 29
     }
     farmers = {
         culture = boer
         religion = animist
-        size = 1047
+        size = 351
     }
     farmers = {
-        culture = native_american_minor
+        culture = khoisan
         religion = animist
-        size = 4188
+        size = 1404
     }
 }
 #Tshabong (12000/3000 POPS)
@@ -71,37 +71,37 @@
     aristocrats = {
         culture = boer
         religion = animist
-        size = 56
+        size = 19
     }
     bureaucrats = {
         culture = boer
         religion = animist
-        size = 2746
+        size = 921
     }
     clergymen = {
         culture = boer
         religion = animist
-        size = 216
+        size = 72
     }
     artisans = {
         culture = boer
         religion = animist
-        size = 230
+        size = 77
     }
     soldiers = {
         culture = boer
         religion = animist
-        size = 87
+        size = 29
     }
     farmers = {
         culture = boer
         religion = animist
-        size = 11437
+        size = 3834
     }
     farmers = {
-        culture = native_american_minor
+        culture = khoisan
         religion = animist
-        size = 45748
+        size = 15338
     }
 }
 #Mochidi (16000/4000 POPS)
@@ -109,32 +109,32 @@
     aristocrats = {
         culture = boer
         religion = animist
-        size = 76
+        size = 26
     }
     clergymen = {
         culture = boer
         religion = animist
-        size = 148
+        size = 50
     }
     artisans = {
         culture = boer
         religion = animist
-        size = 309
+        size = 104
     }
     soldiers = {
         culture = boer
         religion = animist
-        size = 133
+        size = 45
     }
     farmers = {
         culture = boer
         religion = animist
-        size = 14666
+        size = 4917
     }
     farmers = {
-        culture = native_american_minor
+        culture = khoisan
         religion = animist
-        size = 58662
+        size = 19667
     }
 }
 #uncolonized in 1836/dominated by the Ndebele in 1836
@@ -143,31 +143,31 @@
     aristocrats = {
         culture = boer
         religion = animist
-        size = 40
+        size = 13
     }
     clergymen = {
         culture = boer
         religion = animist
-        size = 105
+        size = 35
     }
     artisans = {
         culture = boer
         religion = animist
-        size = 152
+        size = 51
     }
     soldiers = {
         culture = boer
         religion = animist
-        size = 76
+        size = 26
     }
     farmers = {
         culture = boer
         religion = animist
-        size = 557
+        size = 187
     }
     farmers = {
-        culture = native_american_minor
+        culture = khoisan
         religion = animist
-        size = 2228
+        size = 747
     }
 }

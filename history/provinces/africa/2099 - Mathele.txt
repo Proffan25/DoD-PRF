@@ -1,6 +1,5 @@
-owner = BRG
-controller = BRG
-add_core = BTV
-colonial = 2
+owner = XHO
+controller = XHO
+add_core = XHO
 trade_goods = grain
 life_rating = 35

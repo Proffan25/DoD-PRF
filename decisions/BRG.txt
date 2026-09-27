@@ -56,28 +56,22 @@ political_decisions = {
 		}
 		allow = {
 			revolution_n_counterrevolution = 1
-			ENG_2087 = {
-				owned_by = THIS
-			}
-			ZUL_2113 = {
-				owned_by = THIS
-			}
-			ORA_2103 = {
-				owned_by = THIS
-			}
+			2087 = { owned_by = THIS }
+			2096 = { owned_by = THIS }
+			2100 = { owned_by = THIS }
+			2104 = { owned_by = THIS }
+			2101 = { owned_by = THIS }
+			2113 = { owned_by = THIS }
+			2049 = { owned_by = THIS }
 			2105 = { owned_by = THIS }
-			ENG_2074 = {
-				owned_by = THIS
-			}
+			2574 = { owned_by = THIS }
 		}
 		effect = {
 			ENG_2087 = { add_core = BRG }
 			ZUL_2113 = { add_core = BRG }
 			ORA_2103 = { add_core = BRG }
 			TRN_2108 = { add_core = BRG }
-			TRN_2108 = { life_rating = 15 }
 			ENG_2074 = { add_core = BRG }
-			ENG_2074 = { life_rating = 15 }
 			add_accepted_culture = boer
 		}
 	}
