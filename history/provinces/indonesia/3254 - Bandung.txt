@@ -1,5 +1,6 @@
-owner = JAV
-controller = JAV
+owner = BRG
+controller = BRG
 add_core = JAV
 trade_goods = tea
 life_rating = 32
+colonial = 2
