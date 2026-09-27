@@ -1,4 +1,4 @@
-capital = 2172
+capital = 137
 primary_culture = lusitanian
 religion = animist
 government = democracy
@@ -7,7 +7,7 @@ nationalvalue = nv_productivity
 literacy = 0.01
 non_state_culture_literacy = 0.01
 civilized = yes
-is_releasable_vassal = no
+is_releasable_vassal = yes
 
 set_country_flag = new_world_nation
 set_country_flag = north_american_immigrant_nation

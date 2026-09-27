@@ -1,4 +1,4 @@
-capital = 2247
+capital = 2254
 primary_culture = granadan
 religion = animist
 government = democracy
@@ -6,7 +6,7 @@ plurality = 0.0
 nationalvalue = nv_productivity
 literacy = 0.01
 civilized = yes
-is_releasable_vassal = no
+is_releasable_vassal = yes
 
 set_country_flag = new_world_nation
 set_country_flag = north_american_immigrant_nation
