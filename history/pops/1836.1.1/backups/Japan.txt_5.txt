@@ -2787,31 +2787,31 @@
     }
 
     bureaucrats = {
-        culture = nanfaren
+        culture = beifaren
         religion = animist
         size = 2
     }
 
     clergymen = {
-        culture = nanfaren
+        culture = beifaren
         religion = animist
         size = 72
     }
 
     artisans = {
-        culture = nanfaren
+        culture = beifaren
         religion = animist
         size = 198
     }
 
     soldiers = {
-        culture = nanfaren
+        culture = beifaren
         religion = animist
         size = 62
     }
 
     farmers = {
-        culture = nanfaren
+        culture = beifaren
         religion = animist
         size = 3670
     }
