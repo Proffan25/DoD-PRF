@@ -6164,31 +6164,31 @@
     }
 
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 25
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 25
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 75
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 25
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 1850
     }
@@ -8030,31 +8030,31 @@
     }
 
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 50
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 75
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 150
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 25
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 2700
     }
@@ -8228,31 +8228,31 @@
     }
 
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 50
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 75
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 150
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 25
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 2700
     }

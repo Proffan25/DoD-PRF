@@ -3,43 +3,43 @@
 #Smolensk (336000/84000 POPS)
 943 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 1700
     }
 
     bureaucrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 4000
     }
 
     officers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 625
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 825
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 3700
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 1100
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 83550
     }
@@ -59,31 +59,31 @@
 #Vyazma (416000/104000 POPS)
 1014 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 2100
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 1050
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 4500
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 1050
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 94600
     }
@@ -103,79 +103,79 @@
 #Peremyshl (624000/156000 POPS)
 1015 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 3250
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 625
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 2500
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 500
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 42150
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 800
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 3500
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 850
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 80850
     }
 
     clergymen = {
-        culture = byelosiberian
+        culture = byelonative_american_minor
         religion = animist
         size = 175
     }
 
     artisans = {
-        culture = byelosiberian
+        culture = byelonative_american_minor
         religion = animist
         size = 800
     }
 
     soldiers = {
-        culture = byelosiberian
+        culture = byelonative_american_minor
         religion = animist
         size = 200
     }
 
     farmers = {
-        culture = byelosiberian
+        culture = byelonative_american_minor
         religion = animist
         size = 18825
     }
@@ -195,31 +195,31 @@
 #Bryansk (656000/164000 POPS)
 1016 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 3200
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 1625
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 7200
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 1650
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 149525
     }
@@ -241,67 +241,67 @@
 #Kursk (772000/193000 POPS)
 977 = {
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 250
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 1350
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 1100
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 24400
     }
 
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 3500
     }
 
     bureaucrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 7500
     }
 
     officers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 1150
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 1675
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 8300
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 1675
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 148250
     }
@@ -309,31 +309,31 @@
 #Orel (656000/164000 POPS)
 1017 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 2750
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 1650
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 8000
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 1650
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 149650
     }
@@ -341,61 +341,61 @@
 #Belgorod (748000/187000 POPS)
 1018 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 2500
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 1575
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 6350
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 1600
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 146975
     }
 
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 500
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 275
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 1400
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 300
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 26925
     }
@@ -403,61 +403,61 @@
 #Voronets (1540000/385000 POPS)
 1019 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 2500
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 1700
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 8550
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 4000
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 154150
     }
 
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 3500
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 2125
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10000
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 2150
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 196975
     }
@@ -843,43 +843,43 @@
 #Archangel (138000/34500 POPS)
 981 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 250
     }
 
     bureaucrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 250
     }
 
     officers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 50
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 325
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 1550
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 325
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 28450
     }
@@ -931,25 +931,25 @@
 #Kandalasksha (7000/1750 POPS)
 983 = {
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 25
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 75
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 15
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 1335
     }
@@ -969,25 +969,25 @@
 #Kostomuksha (20000/5000 POPS)
 984 = {
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 100
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 25
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 1825
     }
@@ -1019,25 +1019,25 @@
 #Povyents (28000/7000 POPS)
 988 = {
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 75
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 150
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 25
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 2750
     }
@@ -1069,13 +1069,13 @@
 #Kola (2200/550 POPS)
 2587 = {
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 295
     }
@@ -1095,31 +1095,31 @@
 #Onega (22000/5500 POPS)
 2588 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 50
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 250
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 50
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 4700
     }
@@ -1141,31 +1141,31 @@
 #Mezen (22600/5650 POPS)
 985 = {
     bureaucrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 50
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 75
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 250
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 50
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 3515
     }
@@ -1197,25 +1197,25 @@
 #Ust Sysolsk (20000/5000 POPS)
 987 = {
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 150
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 25
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 2775
     }
@@ -1247,13 +1247,13 @@
 #Shoyna (1400/350 POPS)
 2589 = {
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 95
     }
@@ -1273,25 +1273,25 @@
 #Usogorsk (10000/2500 POPS)
 2700 = {
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 25
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 75
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 1375
     }
@@ -1325,19 +1325,19 @@
 #Naryan Mar (4000/1000 POPS)
 986 = {
     bureaucrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 25
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 585
     }
@@ -1357,13 +1357,13 @@
 #Mulda (4000/1000 POPS)
 2689 = {
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 490
     }
@@ -1383,13 +1383,13 @@
 #Anderma (2800/700 POPS)
 2687 = {
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 95
     }
@@ -1409,13 +1409,13 @@
 #Inta (3400/850 POPS)
 2688 = {
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 195
     }
@@ -1435,13 +1435,13 @@
 #Izhma (2000/500 POPS)
 2699 = {
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 145
     }
@@ -1463,43 +1463,43 @@
 #Vologda (776000/194000 POPS)
 989 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 2500
     }
 
     bureaucrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 3000
     }
 
     officers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 450
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 1850
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 9000
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 1850
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 167650
     }
@@ -1531,25 +1531,25 @@
 #Kotlas (20000/5000 POPS)
 990 = {
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 25
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 50
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 25
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 900
     }
@@ -1581,31 +1581,31 @@
 #Uglich (440000/110000 POPS)
 991 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 1400
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 1125
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5500
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 1100
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 100875
     }
@@ -1613,31 +1613,31 @@
 #Belozersk (380000/95000 POPS)
 992 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 1150
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 950
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 4500
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 950
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 87450
     }
@@ -1645,31 +1645,31 @@
 #Vyterga (96000/24000 POPS)
 993 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 325
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 175
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 950
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 200
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 17350
     }
@@ -1703,91 +1703,91 @@
 #Saint Petersburg (735000/147000 POPS)
 994 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 650
     }
 
     bureaucrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 8750
     }
 
     officers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 200
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 1200
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10000
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10000
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10000
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10000
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10000
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10000
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5550
     }
 
     clerks = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 400
     }
 
     craftsmen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 23000
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10000
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 16500
     }
@@ -1891,31 +1891,31 @@
 #Petrozavorsk (104000/26000 POPS)
 995 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 375
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 200
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 950
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 200
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 17275
     }
@@ -1947,31 +1947,31 @@
 #Luga (132000/33000 POPS)
 996 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 500
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 325
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 1650
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 350
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 30175
     }
@@ -1979,31 +1979,31 @@
 #Gdov (120000/30000 POPS)
 997 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 475
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 275
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 1400
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 1100
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 25850
     }
@@ -2035,31 +2035,31 @@
 #Stara Ladoga (64000/16000 POPS)
 2580 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 200
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 125
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 650
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 125
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 11900
     }
@@ -2093,43 +2093,43 @@
 #Tver (708000/177000 POPS)
 998 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 3125
     }
 
     bureaucrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 3625
     }
 
     officers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 475
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 1750
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 7050
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 1800
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 162075
     }
@@ -2137,31 +2137,31 @@
 #Rzhev (432000/108000 POPS)
 999 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 1700
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 950
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 4500
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 1100
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 88850
     }
@@ -2193,31 +2193,31 @@
 #Staritsa (244000/61000 POPS)
 1000 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 950
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 500
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 2550
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 525
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 46475
     }
@@ -2249,31 +2249,31 @@
 #Yaroslavl (440000/110000 POPS)
 1001 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 2000
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 1100
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5500
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 1100
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 100300
     }
@@ -2283,43 +2283,43 @@
 #Novgorod (240000/60000 POPS)
 1003 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 1100
     }
 
     bureaucrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 2875
     }
 
     officers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 400
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 600
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 3000
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 1100
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 52925
     }
@@ -2339,31 +2339,31 @@
 #Tikhvin (156000/44000 POPS)
 1004 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 650
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 425
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 2100
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 425
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 38400
     }
@@ -2395,31 +2395,31 @@
 #Borovichi (344000/86000 POPS)
 1005 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 1500
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 850
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 4300
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 875
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 78475
     }
@@ -2427,31 +2427,31 @@
 #Pskov (472000/118000 POPS)
 1006 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 2000
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 1150
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 4550
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 1150
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 104500
     }
@@ -2519,31 +2519,31 @@
 #Velikiye Luki (320000/80000 POPS)
 1007 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 1525
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 800
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 4000
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 800
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 72875
     }
@@ -2553,97 +2553,97 @@
 #Moscow (620000/155000 POPS)
 1008 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 1600
     }
 
     bureaucrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10000
     }
 
     officers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 1350
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 1550
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10000
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10000
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10000
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10000
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10000
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10000
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10000
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10000
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 3000
     }
 
     craftsmen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 2000
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 7000
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 55800
     }
@@ -2663,31 +2663,31 @@
 #Borodino (572000/143000 POPS)
 1009 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 2500
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 1400
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 7150
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 1450
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 130500
     }
@@ -2695,37 +2695,37 @@
 #Kaluga (876000/219000 POPS)
 1010 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 4350
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 2175
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10000
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 950
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 2200
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 199325
     }
@@ -2733,43 +2733,43 @@
 #Tula (1160000/290000 POPS)
 1011 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 4900
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 2875
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10000
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 2500
     }
 
     craftsmen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5000
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 3000
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 261725
     }
@@ -2777,37 +2777,37 @@
 #Riazan (1192000/298000 POPS)
 1012 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 4500
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 3000
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10000
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 4500
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 3000
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 273000
     }
@@ -2815,31 +2815,31 @@
 #Vladimir (544000/136000 POPS)
 1013 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 2300
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 1350
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 6750
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 1350
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 124250
     }
@@ -2849,55 +2849,55 @@
 #Nizhni Novgorod (1068000/267000 POPS)
 1020 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 4800
     }
 
     bureaucrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 6375
     }
 
     officers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 1050
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 2650
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10000
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 600
     }
 
     craftsmen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5000
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 2650
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 236975
     }
@@ -2929,37 +2929,37 @@
 #Penza (952000/238000 POPS)
 1021 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 3900
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 2325
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10000
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 1800
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 2350
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 215625
     }
@@ -2991,31 +2991,31 @@
 #Ivanovo (540000/135000 POPS)
 1022 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 1800
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 1325
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 6750
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 1350
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 123775
     }
@@ -3023,31 +3023,31 @@
 #Kostorma (312000/78000 POPS)
 1023 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 950
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 775
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 3900
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 775
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 71600
     }
@@ -3055,31 +3055,31 @@
 #Galich (304000/76000 POPS)
 1024 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 900
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 750
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 3800
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 750
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 69800
     }
@@ -3087,37 +3087,37 @@
 #Tambov (1244000/311000 POPS)
 1025 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5850
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 3000
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10000
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5000
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 3100
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 282050
     }
@@ -3151,49 +3151,49 @@
 #Perm (960000/240000 POPS)
 1026 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 3800
     }
 
     bureaucrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 3625
     }
 
     officers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 550
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 2350
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10000
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 2000
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 2375
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 216200
     }
@@ -3225,31 +3225,31 @@
 #Vetluga (308000/77000 POPS)
 1027 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 1100
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 750
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 3850
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 775
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 70655
     }
@@ -3257,31 +3257,31 @@
 #Vyatkha (504000/126000 POPS)
 1028 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 1700
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 1200
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 6000
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 1200
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 110900
     }
@@ -3313,31 +3313,31 @@
 #Glasov (452000/113000 POPS)
 1029 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 1575
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 1125
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5600
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 1125
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 103575
     }
@@ -3347,43 +3347,43 @@
 #Kazan (592000/148000 POPS)
 1030 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 400
     }
 
     bureaucrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 3500
     }
 
     officers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 500
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 250
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 1950
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 250
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 21950
     }
@@ -3487,31 +3487,31 @@
 #Sarapol (560000/140000 POPS)
 1031 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 1850
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 1325
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 6650
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 1325
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 121850
     }
@@ -3567,31 +3567,31 @@
 #Chistopol (608000/152000 POPS)
 1032 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 750
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 575
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 2750
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 550
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 51375
     }
@@ -3683,31 +3683,31 @@
 #Simbirsk (340000/85000 POPS)
 1033 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 925
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 700
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 3600
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 725
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 72700
     }
@@ -3837,31 +3837,31 @@
 #Syzran (540000/135000 POPS)
 1035 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 2150
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 1350
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 6750
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 1350
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 123400
     }
@@ -3945,31 +3945,31 @@
 #Saratov (252000/83000 POPS)
 1037 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 600
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 550
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 6500
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 1100
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 45350
     }
@@ -5577,31 +5577,31 @@
     }
 
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 25
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 50
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 900
     }
@@ -5701,19 +5701,19 @@
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 90
     }
@@ -5721,49 +5721,49 @@
 #Vorgovo (4000/1000 POPS)
 2691 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 25
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 50
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 15
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 800
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 90
     }
@@ -5771,31 +5771,31 @@
 #Kostino (2000/500 POPS)
 2692 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 25
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 450
     }
@@ -5899,19 +5899,19 @@
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 2
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 3
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 45
     }
@@ -6013,19 +6013,19 @@
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 2
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 3
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 45
     }
@@ -6332,96 +6332,96 @@
         size = 5475
     }
 }
-#siberiansk Region (117000)
+#native_american_minorsk Region (117000)
 #under the rule of Russia in 1836
-#siberiansk (64000/16000 POPS)
+#native_american_minorsk (64000/16000 POPS)
 2648 = {
     bureaucrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 75
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 135
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 25
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 1775
     }
 
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 125
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 75
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 450
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 100
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 8250
     }
 
     bureaucrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 25
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 250
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 50
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 4695
     }
@@ -6429,79 +6429,79 @@
 #Vilyuysk (10000/2500 POPS)
 1069 = {
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 25
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 50
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 25
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 900
     }
 
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 15
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 50
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 25
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 900
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 475
     }
@@ -6509,79 +6509,79 @@
 #Mukhtuya (10000/2500 POPS)
 2695 = {
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 25
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 50
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 25
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 900
     }
 
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 15
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 50
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 25
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 900
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 475
     }
@@ -6589,79 +6589,79 @@
 #Nyurba (12000/3000 POPS)
 2650 = {
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 25
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 50
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 25
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 900
     }
 
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 25
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 30
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 75
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 20
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 1350
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 475
     }
@@ -6669,31 +6669,31 @@
 #Zhigansk (4000/1000 POPS)
 2649 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 15
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 50
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 25
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 900
     }
@@ -6701,79 +6701,79 @@
 #Pokrovsk (17000/4250 POPS)
 2672 = {
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 25
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 50
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 25
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 900
     }
 
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 45
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 125
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 25
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 2255
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 25
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 710
     }
@@ -6783,31 +6783,31 @@
 #Dudinka (1000/250 POPS)
 2680 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 225
     }
@@ -6815,49 +6815,49 @@
 #Svetlogorsk (2000/500 POPS)
 2657 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 20
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 410
     }
 
     bureaucrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 15
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 2
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 45
     }
@@ -6865,31 +6865,31 @@
 #Kheta (1000/250 POPS)
 2658 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 225
     }
@@ -6897,31 +6897,31 @@
 #Khatanga (1000/250 POPS)
 2654 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 225
     }
@@ -6929,31 +6929,31 @@
 #Essey (1000/250 POPS)
 2674 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 225
     }
@@ -6961,31 +6961,31 @@
 #Saskylah (1000/250 POPS)
 2653 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 225
     }
@@ -6993,55 +6993,55 @@
 #Udachniy (2000/500 POPS)
 2651 = {
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 180
     }
 
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 275
     }
@@ -7049,61 +7049,61 @@
 #Yekonda (2000/500 POPS)
 2675 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 325
     }
 
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 3
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 2
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 135
     }
@@ -7111,31 +7111,31 @@
 #Tura (1000/250 POPS)
 2655 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 225
     }
@@ -7143,31 +7143,31 @@
 #Uchami (2000/500 POPS)
 2693 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 25
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 450
     }
@@ -7177,31 +7177,31 @@
 #Yansk (1000/250 POPS)
 2647 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 3
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 2
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 230
     }
@@ -7209,49 +7209,49 @@
 #Bytantaysk (2000/500 POPS)
 1071 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 25
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 425
     }
 
     bureaucrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 3
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 20
     }
@@ -7259,31 +7259,31 @@
 #Verkhoyansk (2000/500 POPS)
 2668 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 25
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 450
     }
@@ -7291,31 +7291,31 @@
 #Ust Nera (2000/500 POPS)
 2642 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 25
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 450
     }
@@ -7323,31 +7323,31 @@
 #Honuu (1000/250 POPS)
 2643 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 3
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 2
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 230
     }
@@ -7355,31 +7355,31 @@
 #Abiy (2000/500 POPS)
 2619 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 25
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 450
     }
@@ -7387,31 +7387,31 @@
 #Chokurdakh (1000/250 POPS)
 2665 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 3
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 2
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 230
     }
@@ -7421,49 +7421,49 @@
 #Olenyok (1000/250 POPS)
 2673 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 3
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 2
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 220
     }
 
     bureaucrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 2
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 7
     }
@@ -7471,31 +7471,31 @@
 #Bulun (1000/250 POPS)
 2667 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 3
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 2
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 230
     }
@@ -7503,31 +7503,31 @@
 #Tiksi (1000/250 POPS)
 2670 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 3
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 2
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 230
     }
@@ -7535,31 +7535,31 @@
 #Kular (1000/250 POPS)
 2652 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 3
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 2
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 230
     }
@@ -7567,31 +7567,31 @@
 #Zhilinda (1000/250 POPS)
 2671 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 3
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 2
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 230
     }
@@ -7601,49 +7601,49 @@
 #Srednokolymsk (1000/250 POPS)
 2621 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 2
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 3
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 205
     }
 
     bureaucrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 3
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 20
     }
@@ -7651,31 +7651,31 @@
 #Oyotuni (1000/250 POPS)
 2664 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 2
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 3
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 230
     }
@@ -7683,61 +7683,61 @@
 #Ziryanka (1000/250 POPS)
 2640 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 2
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 3
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 4
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 2
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 135
     }
 
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 2
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 2
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 1
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 90
     }
@@ -7745,31 +7745,31 @@
 #Syasir (1000/250 POPS)
 2620 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 2
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 3
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 230
     }
@@ -7777,31 +7777,31 @@
 #Beryezovka (1000/250 POPS)
 2660 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 2
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 3
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 230
     }
@@ -7809,31 +7809,31 @@
 #Cherskiy (1000/250 POPS)
 2662 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 2
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 3
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 230
     }
@@ -7842,31 +7842,31 @@
 #Aldan (1000/250 POPS)
 2696 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 2
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 3
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 230
     }
@@ -7874,31 +7874,31 @@
 #Chernomin (1000/250 POPS)
 1080 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 2
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 3
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 230
     }
@@ -7906,85 +7906,85 @@
 #Amga (6000/1500 POPS)
 2669 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 2
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 3
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 230
     }
 
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 20
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 25
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 65
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 15
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 1025
     }
 
     bureaucrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 15
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 2
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 90
     }
@@ -7992,61 +7992,61 @@
 #Olyekminsk (6000/1500 POPS)
 2644 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 25
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 450
     }
 
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 15
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 25
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 50
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 900
     }
@@ -8054,61 +8054,61 @@
 #Chilchi (4000/1000 POPS)
 2645 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 25
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 450
     }
 
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 25
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 450
     }
@@ -8118,61 +8118,61 @@
 #Okhotsk (4000/1000 POPS)
 1072 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 2
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 3
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 230
     }
 
     bureaucrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 45
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 15
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 8
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 680
     }
@@ -8180,49 +8180,49 @@
 #Ayan (3000/750 POPS)
 2641 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 25
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 450
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 235
     }
@@ -8230,31 +8230,31 @@
 #Susuman (2000/500 POPS)
 2639 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 2
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 3
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 230
     }
@@ -8262,31 +8262,31 @@
 #Ola (2000/500 POPS)
 2618 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 2
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 3
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 230
     }
@@ -8296,55 +8296,55 @@
 #Petropavlovsk (4000/1000 POPS)
 1074 = {
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 3
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 2
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 140
     }
 
     bureaucrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 15
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 4
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 40
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 3
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 800
     }
@@ -8352,31 +8352,31 @@
 #Omsukchan (1000/250 POPS)
 2638 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 2
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 3
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 230
     }
@@ -8384,31 +8384,31 @@
 #Kamenskoye (1000/250 POPS)
 2663 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 2
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 3
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 230
     }
@@ -8416,31 +8416,31 @@
 #Korf/Tilichiki (1000/250 POPS)
 2616 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 2
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 3
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 230
     }
@@ -8448,31 +8448,31 @@
 #Palana/Ossora (1000/250 POPS)
 2633 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 2
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 3
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 230
     }
@@ -8480,31 +8480,31 @@
 #Yevensk (2000/500 POPS)
 1073 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 25
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 450
     }
@@ -8514,31 +8514,31 @@
 #Rassvet (1000/250 POPS)
 2634 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 2
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 3
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 230
     }
@@ -8642,31 +8642,31 @@
 #Nizhnekolymsk (600/150 POPS)
 2661 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 2
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 3
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 4
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 2
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 135
     }
@@ -8674,31 +8674,31 @@
 #Markovo (600/150 POPS)
 2622 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 2
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 3
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 4
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 2
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 135
     }
@@ -8780,31 +8780,31 @@
     }
 
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 25
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 450
     }
@@ -8812,31 +8812,31 @@
 #Bryanka (2000/500 POPS)
 1070 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 25
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 450
     }
@@ -8844,31 +8844,31 @@
 #Surinda (1000/250 POPS)
 2701 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 2
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 3
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 230
     }
@@ -8876,31 +8876,31 @@
 #Tayimba (1000/250 POPS)
 2656 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 2
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 3
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 230
     }
@@ -8908,31 +8908,31 @@
 #Bratsk (2000/500 POPS)
 1076 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 25
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 450
     }
@@ -9014,31 +9014,31 @@
     }
 
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 2
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 3
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 230
     }
@@ -9046,31 +9046,31 @@
 #Vanavara (1000/250 POPS)
 2694 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 2
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 3
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 230
     }
@@ -9078,31 +9078,31 @@
 #Dotkon (1000/250 POPS)
 2677 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 2
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 3
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 230
     }
@@ -9110,31 +9110,31 @@
 #Kirensk (1000/250 POPS)
 2676 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 2
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 3
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 230
     }
@@ -9278,31 +9278,31 @@
     }
 
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 15
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 25
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 50
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 900
     }
@@ -9347,55 +9347,55 @@
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 25
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 460
     }
 
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 7
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 8
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 50
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 925
     }
@@ -9433,31 +9433,31 @@
     }
 
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 7
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 8
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 50
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 925
     }
@@ -9527,31 +9527,31 @@
     }
 
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 7
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 8
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 50
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 925
     }
@@ -9589,31 +9589,31 @@
     }
 
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 25
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 30
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 100
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 20
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 1925
     }
@@ -9651,31 +9651,31 @@
     }
 
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 25
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 100
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 25
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 1800
     }
@@ -9719,31 +9719,31 @@
     }
 
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 25
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 30
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 100
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 20
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 1925
     }
@@ -9781,31 +9781,31 @@
     }
 
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 20
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 20
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 50
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 900
     }
@@ -9815,43 +9815,43 @@
 #Pogobi (4100/1025 POPS)
 1086 = {
     aristocrats = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 15
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 25
     }
 
     artisans = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 50
     }
 
     soldiers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 900
     }
 
     clergymen = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 2
     }
 
     farmers = {
-        culture = siberian
+        culture = native_american_minor
         religion = animist
         size = 23
     }

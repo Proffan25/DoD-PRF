@@ -919,31 +919,31 @@
 #Adelaide (12000/3000 POPS)
 2491 = {
     aristocrats = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 44
     }
 
     clergymen = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 66
     }
 
     artisans = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 132
     }
 
     soldiers = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 88
     }
 
     farmers = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 7668
     }
@@ -951,31 +951,31 @@
 #Port Lincoln (4000/1000 POPS)
 2492 = {
     aristocrats = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 9
     }
 
     clergymen = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 22
     }
 
     artisans = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 44
     }
 
     soldiers = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 53
     }
 
     farmers = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 793
     }
@@ -983,31 +983,31 @@
 #Robe (4000/1000 POPS)
 2493 = {
     aristocrats = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 9
     }
 
     clergymen = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 22
     }
 
     artisans = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 44
     }
 
     soldiers = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 53
     }
 
     farmers = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 6081
     }
@@ -1015,31 +1015,31 @@
 #Port Augusta (4000/1000 POPS)
 2494 = {
     aristocrats = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 9
     }
 
     clergymen = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 22
     }
 
     artisans = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 44
     }
 
     soldiers = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 53
     }
 
     farmers = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 9607
     }
@@ -1047,31 +1047,31 @@
 #Oodnadatta (4000/1000 POPS)
 2495 = {
     aristocrats = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 9
     }
 
     clergymen = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 22
     }
 
     artisans = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 44
     }
 
     soldiers = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 53
     }
 
     farmers = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 793
     }
@@ -1079,31 +1079,31 @@
 #Tarcoola (4000/1000 POPS)
 2496 = {
     aristocrats = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 9
     }
 
     clergymen = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 22
     }
 
     artisans = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 44
     }
 
     soldiers = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 53
     }
 
     farmers = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 793
     }
@@ -1113,49 +1113,49 @@
 #Perth (23000/5750 POPS)
 2497 = {
     clergymen = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 13
     }
 
     artisans = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 35
     }
 
     soldiers = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 212
     }
 
     farmers = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 604
     }
 
     aristocrats = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 66
     }
 
     clergymen = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 110
     }
 
     artisans = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 220
     }
 
     farmers = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 9254
     }
@@ -1163,31 +1163,31 @@
 #Kojonup (12000/3000 POPS)
 2498 = {
     aristocrats = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 44
     }
 
     clergymen = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 66
     }
 
     artisans = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 132
     }
 
     soldiers = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 88
     }
 
     farmers = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 2380
     }
@@ -1195,31 +1195,31 @@
 #Geraldton (8000/2000 POPS)
 2499 = {
     aristocrats = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 22
     }
 
     clergymen = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 44
     }
 
     artisans = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 88
     }
 
     soldiers = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 88
     }
 
     farmers = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 1542
     }
@@ -1227,31 +1227,31 @@
 #Kalgoorlie (4000/1000 POPS)
 2500 = {
     aristocrats = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 9
     }
 
     clergymen = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 22
     }
 
     artisans = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 44
     }
 
     soldiers = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 53
     }
 
     farmers = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 793
     }
@@ -1259,31 +1259,31 @@
 #Broome (8000/2000 POPS)
 2501 = {
     aristocrats = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 22
     }
 
     clergymen = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 44
     }
 
     artisans = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 88
     }
 
     soldiers = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 88
     }
 
     farmers = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 1542
     }
@@ -1291,31 +1291,31 @@
 #Dampier (2000/500 POPS)
 2502 = {
     aristocrats = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     clergymen = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 9
     }
 
     artisans = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 22
     }
 
     soldiers = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 35
     }
 
     farmers = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 397
     }
@@ -1323,31 +1323,31 @@
 #Laverton (2800/700 POPS)
 2503 = {
     aristocrats = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 9
     }
 
     clergymen = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 13
     }
 
     artisans = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 31
     }
 
     soldiers = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 35
     }
 
     farmers = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 555
     }
@@ -1355,31 +1355,31 @@
 #Esperance (4000/1000 POPS)
 2504 = {
     aristocrats = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 9
     }
 
     clergymen = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 22
     }
 
     artisans = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 44
     }
 
     soldiers = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 53
     }
 
     farmers = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 7844
     }
@@ -1387,31 +1387,31 @@
 #Halls Creek (2000/500 POPS)
 2601 = {
     aristocrats = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     clergymen = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 9
     }
 
     artisans = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 22
     }
 
     soldiers = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 18
     }
 
     farmers = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 397
     }
@@ -1419,31 +1419,31 @@
 #Roebourne (2000/500 POPS)
 2602 = {
     aristocrats = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 4
     }
 
     clergymen = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 13
     }
 
     artisans = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 22
     }
 
     soldiers = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 18
     }
 
     farmers = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 397
     }
@@ -1451,31 +1451,31 @@
 #Wiluna (3200/800 POPS)
 2605 = {
     aristocrats = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 9
     }
 
     clergymen = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 13
     }
 
     artisans = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 35
     }
 
     soldiers = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 35
     }
 
     farmers = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 639
     }
@@ -1485,31 +1485,31 @@
 #Palmerston (20000/5000 POPS)
 2505 = {
     aristocrats = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 66
     }
 
     clergymen = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 110
     }
 
     artisans = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 220
     }
 
     soldiers = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 176
     }
 
     farmers = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 3966
     }
@@ -1517,31 +1517,31 @@
 #Tennant Creek (8000/2000 POPS)
 2506 = {
     aristocrats = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 22
     }
 
     clergymen = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 44
     }
 
     artisans = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 88
     }
 
     soldiers = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 88
     }
 
     farmers = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 1542
     }
@@ -1549,31 +1549,31 @@
 #Alice Springs (2800/700 POPS)
 2507 = {
     aristocrats = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 9
     }
 
     clergymen = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 13
     }
 
     artisans = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 31
     }
 
     soldiers = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 35
     }
 
     farmers = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 555
     }
@@ -1581,33 +1581,27 @@
 #Lajamanu (1200/300 POPS)
 2603 = {
     aristocrats = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 2
     }
 
     clergymen = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 3
     }
 
     artisans = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 13
     }
 
-    soldiers = {
-        culture = qingqiuan
-        religion = animist
-        size = 18
-    }
-
     farmers = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
-        size = 242
+        size = 260
     }
 }
 #Norfolk Island Region (1000)
@@ -1615,25 +1609,25 @@
 #Norfolk Island (1000/250 POPS)
 2508 = {
     clergymen = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 15
     }
 
     artisans = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 50
     }
 
     soldiers = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 40
     }
 
     farmers = {
-        culture = qingqiuan
+        culture = native_american_minor
         religion = animist
         size = 1175
     }
