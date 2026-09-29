@@ -114,24 +114,33 @@ political_decisions = {
 			accepted_culture = albanian
 			accepted_culture = greek
 			accepted_culture = serb
-			NOT = {has_country_flag = double_down_balkans}
+			NOT = { has_country_flag = double_down_balkans }
 		}
 		allow = {
 			experimental_psychology = 1
-			BUL = {all_core = {owned_by = THIS}}
-			ALB = {all_core = {owned_by = THIS}}
-			MAC = {all_core = {owned_by = THIS}}
-			GRE = {all_core = {owned_by = THIS}}
-			SER = {all_core = {owned_by = THIS}}
-            TUR_860 = {owned_by = THIS}
+			BUL = { all_core = { owned_by = THIS } }
+			ALB = { all_core = { owned_by = THIS } }
+			MAC = { all_core = { owned_by = THIS } }
+			GRE = { all_core = { owned_by = THIS } }
+			SER = { all_core = { owned_by = THIS } }
+			MON = { all_core = { owned_by = THIS } }
+            TUR_860 = { owned_by = THIS }
 		}
 		effect = {
-			BUL = {all_core = {life_rating = 3}}
-			ALB = {all_core = {life_rating = 3}}
-			MAC = {all_core = {life_rating = 3}}
-			GRE = {all_core = {life_rating = 3}}
-			SER = {all_core = {life_rating = 3}}
-			TUR_860 = {life_rating = 3}
+			BUL = { all_core = { life_rating = 3 } }
+			ALB = { all_core = { life_rating = 3 } }
+			MAC = { all_core = { life_rating = 3 } }
+			GRE = { all_core = { life_rating = 3 } }
+			SER = { all_core = { life_rating = 3 } }
+			MON = { all_core = { life_rating = 3 } }
+			CRO = { all_core = { life_rating = 3 } }
+			TUR_860 = {
+				life_rating = 3
+                add_province_modifier = {
+                    name = baby_boom
+                    duration = 7300
+                }
+			}
 			set_country_flag = double_down_balkans
 		}
 	}
