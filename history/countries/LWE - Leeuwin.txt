@@ -7,8 +7,6 @@ nationalvalue = nv_productivity
 literacy = 0.3
 civilized = yes
 
-set_country_flag = new_world_nation
-
 # Political reforms
 slavery = yes_slavery
 upper_house_composition = appointed
